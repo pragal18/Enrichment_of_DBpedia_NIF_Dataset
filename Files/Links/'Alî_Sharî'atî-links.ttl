@@ -1,0 +1,372 @@
+@prefix dbp: <http://dbpedia.org/resource/> .
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=phrase_offset_2585_2599> a nif:Phrase ;
+    nif:anchorOf "Front National" ;
+    nif:beginIndex "2585" ;
+    nif:endIndex "2599" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Front_National .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=phrase_offset_3297_3308> a nif:Phrase ;
+    nif:anchorOf "la Sorbonne" ;
+    nif:beginIndex "3297" ;
+    nif:endIndex "3308" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:La_Sorbonne .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_1016_1021> a nif:Word ;
+    nif:anchorOf "Paris" ;
+    nif:beginIndex "1016" ;
+    nif:endIndex "1021" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Paris .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_1037_1045> a nif:Word ;
+    nif:anchorOf "histoire" ;
+    nif:beginIndex "1037" ;
+    nif:endIndex "1045" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Histoire .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_1232_1236> a nif:Word ;
+    nif:anchorOf "1948" ;
+    nif:beginIndex "1232" ;
+    nif:endIndex "1236" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1948> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_136_140> a nif:Word ;
+    nif:anchorOf "juin" ;
+    nif:beginIndex "136" ;
+    nif:endIndex "140" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:juin .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_141_145> a nif:Word ;
+    nif:anchorOf "1977" ;
+    nif:beginIndex "141" ;
+    nif:endIndex "145" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1977> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_1449_1453> a nif:Word ;
+    nif:anchorOf "1952" ;
+    nif:beginIndex "1449" ;
+    nif:endIndex "1453" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1952> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_1455_1461> a nif:Word ;
+    nif:anchorOf "marque" ;
+    nif:beginIndex "1455" ;
+    nif:endIndex "1461" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:marque .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_1480_1485> a nif:Word ;
+    nif:anchorOf "cycle" ;
+    nif:beginIndex "1480" ;
+    nif:endIndex "1485" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:cycle .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_1655_1659> a nif:Word ;
+    nif:anchorOf "1953" ;
+    nif:beginIndex "1655" ;
+    nif:endIndex "1659" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1953> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_166_176> a nif:Word ;
+    nif:anchorOf "philosophe" ;
+    nif:beginIndex "166" ;
+    nif:endIndex "176" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:philosophe .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_1723_1727> a nif:Word ;
+    nif:anchorOf "1954" ;
+    nif:beginIndex "1723" ;
+    nif:endIndex "1727" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1954> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_1784_1789> a nif:Word ;
+    nif:anchorOf "arabe" ;
+    nif:beginIndex "1784" ;
+    nif:endIndex "1789" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:arabe .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_1855_1859> a nif:Word ;
+    nif:anchorOf "1955" ;
+    nif:beginIndex "1855" ;
+    nif:endIndex "1859" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1955> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_189_198> a nif:Word ;
+    nif:anchorOf "politique" ;
+    nif:beginIndex "189" ;
+    nif:endIndex "198" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Politique .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_1940_1950> a nif:Word ;
+    nif:anchorOf "socialiste" ;
+    nif:beginIndex "1940" ;
+    nif:endIndex "1950" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:socialiste .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_199_206> a nif:Word ;
+    nif:anchorOf "iranien" ;
+    nif:beginIndex "199" ;
+    nif:endIndex "206" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:iranien .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_2076_2080> a nif:Word ;
+    nif:anchorOf "1957" ;
+    nif:beginIndex "2076" ;
+    nif:endIndex "2080" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1957> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_2104_2110> a nif:Word ;
+    nif:anchorOf "autres" ;
+    nif:beginIndex "2104" ;
+    nif:endIndex "2110" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Autres .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_2182_2188> a nif:Word ;
+    nif:anchorOf "France" ;
+    nif:beginIndex "2182" ;
+    nif:endIndex "2188" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:France .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_2248_2252> a nif:Word ;
+    nif:anchorOf "1958" ;
+    nif:beginIndex "2248" ;
+    nif:endIndex "2252" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1958> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_2306_2310> a nif:Word ;
+    nif:anchorOf "1960" ;
+    nif:beginIndex "2306" ;
+    nif:endIndex "2310" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1960> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_2418_2422> a nif:Word ;
+    nif:anchorOf "1961" ;
+    nif:beginIndex "2418" ;
+    nif:endIndex "2422" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1961> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_2550_2559> a nif:Word ;
+    nif:anchorOf "participe" ;
+    nif:beginIndex "2550" ;
+    nif:endIndex "2559" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:participe .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_271_275> a nif:Word ;
+    nif:anchorOf "nord" ;
+    nif:beginIndex "271" ;
+    nif:endIndex "275" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Nord .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_2868_2870> a nif:Word ;
+    nif:anchorOf "17" ;
+    nif:beginIndex "2868" ;
+    nif:endIndex "2870" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/17> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_2871_2878> a nif:Word ;
+    nif:anchorOf "janvier" ;
+    nif:beginIndex "2871" ;
+    nif:endIndex "2878" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:janvier .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_2952_2956> a nif:Word ;
+    nif:anchorOf "1962" ;
+    nif:beginIndex "2952" ;
+    nif:endIndex "2956" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1962> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_3255_3259> a nif:Word ;
+    nif:anchorOf "1963" ;
+    nif:beginIndex "3255" ;
+    nif:endIndex "3259" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1963> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_3275_3283> a nif:Word ;
+    nif:anchorOf "doctorat" ;
+    nif:beginIndex "3275" ;
+    nif:endIndex "3283" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:doctorat .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_3349_3353> a nif:Word ;
+    nif:anchorOf "1964" ;
+    nif:beginIndex "3349" ;
+    nif:endIndex "3353" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1964> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_3437_3441> a nif:Word ;
+    nif:anchorOf "1965" ;
+    nif:beginIndex "3437" ;
+    nif:endIndex "3441" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1965> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_3445_3449> a nif:Word ;
+    nif:anchorOf "1972" ;
+    nif:beginIndex "3445" ;
+    nif:endIndex "3449" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1972> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_3527_3539> a nif:Word ;
+    nif:anchorOf "enseignement" ;
+    nif:beginIndex "3527" ;
+    nif:endIndex "3539" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:enseignement .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_3689_3693> a nif:Word ;
+    nif:anchorOf "pays" ;
+    nif:beginIndex "3689" ;
+    nif:endIndex "3693" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:pays .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_36_42> a nif:Word ;
+    nif:anchorOf "persan" ;
+    nif:beginIndex "36" ;
+    nif:endIndex "42" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:persan .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_3761_3770> a nif:Word ;
+    nif:anchorOf "religieux" ;
+    nif:beginIndex "3761" ;
+    nif:endIndex "3770" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:religieux .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_3844_3856> a nif:Word ;
+    nif:anchorOf "conservateur" ;
+    nif:beginIndex "3844" ;
+    nif:endIndex "3856" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:conservateur .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_3939_3943> a nif:Word ;
+    nif:anchorOf "1973" ;
+    nif:beginIndex "3939" ;
+    nif:endIndex "3943" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1973> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_3947_3951> a nif:Word ;
+    nif:anchorOf "1975" ;
+    nif:beginIndex "3947" ;
+    nif:endIndex "3951" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1975> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_406_415> a nif:Word ;
+    nif:anchorOf "religions" ;
+    nif:beginIndex "406" ;
+    nif:endIndex "415" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Religions .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_4132_4135> a nif:Word ;
+    nif:anchorOf "mai" ;
+    nif:beginIndex "4132" ;
+    nif:endIndex "4135" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:mai .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_450_457> a nif:Word ;
+    nif:anchorOf "chiisme" ;
+    nif:beginIndex "450" ;
+    nif:endIndex "457" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:chiisme .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_520_527> a nif:Word ;
+    nif:anchorOf "lecture" ;
+    nif:beginIndex "520" ;
+    nif:endIndex "527" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Lecture .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_691_701> a nif:Word ;
+    nif:anchorOf "secondaire" ;
+    nif:beginIndex "691" ;
+    nif:endIndex "701" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:secondaire .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_748_752> a nif:Word ;
+    nif:anchorOf "1951" ;
+    nif:beginIndex "748" ;
+    nif:endIndex "752" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1951> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_768_780> a nif:Word ;
+    nif:anchorOf "publications" ;
+    nif:beginIndex "768" ;
+    nif:endIndex "780" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Publications .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_81_83> a nif:Word ;
+    nif:anchorOf "23" ;
+    nif:beginIndex "81" ;
+    nif:endIndex "83" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/23> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_859_863> a nif:Word ;
+    nif:anchorOf "1956" ;
+    nif:beginIndex "859" ;
+    nif:endIndex "863" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1956> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_938_942> a nif:Word ;
+    nif:anchorOf "1959" ;
+    nif:beginIndex "938" ;
+    nif:endIndex "942" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1959> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=word_offset_93_97> a nif:Word ;
+    nif:anchorOf "1933" ;
+    nif:beginIndex "93" ;
+    nif:endIndex "97" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1933> .
+

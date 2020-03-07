@@ -1,0 +1,274 @@
+@prefix dbp: <http://dbpedia.org/resource/> .
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_0_12> a nif:Phrase ;
+    nif:anchorOf "Alain Connes" ;
+    nif:beginIndex "0" ;
+    nif:endIndex "12" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Alain_Connes .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_1410_1426> a nif:Phrase ;
+    nif:anchorOf "Matilde Marcolli" ;
+    nif:beginIndex "1410" ;
+    nif:endIndex "1426" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Matilde_Marcolli .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_162_183> a nif:Phrase ;
+    nif:anchorOf "Vanderbilt University" ;
+    nif:beginIndex "162" ;
+    nif:endIndex "183" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Vanderbilt_University .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_1994_2002> a nif:Phrase ;
+    nif:anchorOf "See also" ;
+    nif:beginIndex "1994" ;
+    nif:endIndex "2002" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:See_also .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_2007_2022> a nif:Phrase ;
+    nif:anchorOf "Cyclic homology" ;
+    nif:beginIndex "2007" ;
+    nif:endIndex "2022" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Cyclic_homology .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_2060_2071> a nif:Phrase ;
+    nif:anchorOf "Higgs boson" ;
+    nif:beginIndex "2060" ;
+    nif:endIndex "2071" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Higgs_boson .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_2091_2099> a nif:Phrase ;
+    nif:anchorOf "M Theory" ;
+    nif:beginIndex "2091" ;
+    nif:endIndex "2099" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:M_Theory .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_2226_2245> a nif:Phrase ;
+    nif:anchorOf "downloadable papers" ;
+    nif:beginIndex "2226" ;
+    nif:endIndex "2245" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:downloadable_papers .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_2260_2284> a nif:Phrase ;
+    nif:anchorOf "Non-commutative geometry" ;
+    nif:beginIndex "2260" ;
+    nif:endIndex "2284" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Non-commutative_geometry .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_2405_2424> a nif:Phrase ;
+    nif:anchorOf "discussion about it" ;
+    nif:beginIndex "2405" ;
+    nif:endIndex "2424" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:discussion_about_it .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_496_513> a nif:Phrase ;
+    nif:anchorOf "operator K-theory" ;
+    nif:beginIndex "496" ;
+    nif:endIndex "513" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:operator_K-theory .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_518_530> a nif:Phrase ;
+    nif:anchorOf "index theory" ;
+    nif:beginIndex "518" ;
+    nif:endIndex "530" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:index_theory .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_599_616> a nif:Phrase ;
+    nif:anchorOf "cyclic cohomology" ;
+    nif:beginIndex "599" ;
+    nif:endIndex "616" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:cyclic_cohomology .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_668_704> a nif:Phrase ;
+    nif:anchorOf "noncommutative differential geometry" ;
+    nif:beginIndex "668" ;
+    nif:endIndex "704" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:noncommutative_differential_geometry .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_791_810> a nif:Phrase ;
+    nif:anchorOf "theoretical physics" ;
+    nif:beginIndex "791" ;
+    nif:endIndex "810" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:theoretical_physics .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_822_835> a nif:Phrase ;
+    nif:anchorOf "number theory" ;
+    nif:beginIndex "822" ;
+    nif:endIndex "835" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:number_theory .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_863_879> a nif:Phrase ;
+    nif:anchorOf "particle physics" ;
+    nif:beginIndex "863" ;
+    nif:endIndex "879" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:particle_physics .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_882_900> a nif:Phrase ;
+    nif:anchorOf "Awards and honours" ;
+    nif:beginIndex "882" ;
+    nif:endIndex "900" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Awards_and_honours .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=phrase_offset_950_964> a nif:Phrase ;
+    nif:anchorOf "Crafoord Prize" ;
+    nif:beginIndex "950" ;
+    nif:endIndex "964" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Crafoord_Prize .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1086_1094> a nif:Word ;
+    nif:anchorOf "Berkeley" ;
+    nif:beginIndex "1086" ;
+    nif:endIndex "1094" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Berkeley .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_118_124> a nif:Word ;
+    nif:anchorOf "France" ;
+    nif:beginIndex "118" ;
+    nif:endIndex "124" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:France .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1232_1241> a nif:Word ;
+    nif:anchorOf "societies" ;
+    nif:beginIndex "1232" ;
+    nif:endIndex "1241" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Societies .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1257_1263> a nif:Word ;
+    nif:anchorOf "Danish" ;
+    nif:beginIndex "1257" ;
+    nif:endIndex "1263" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Danish .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1285_1294> a nif:Word ;
+    nif:anchorOf "Norwegian" ;
+    nif:beginIndex "1285" ;
+    nif:endIndex "1294" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Norwegian .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1316_1323> a nif:Word ;
+    nif:anchorOf "Russian" ;
+    nif:beginIndex "1316" ;
+    nif:endIndex "1323" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Russian .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_14_20> a nif:Word ;
+    nif:anchorOf "French" ;
+    nif:beginIndex "14" ;
+    nif:endIndex "20" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:French .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1658_1666> a nif:Word ;
+    nif:anchorOf "Triangle" ;
+    nif:beginIndex "1658" ;
+    nif:endIndex "1666" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:triangle .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1951_1959> a nif:Word ;
+    nif:anchorOf "Academic" ;
+    nif:beginIndex "1951" ;
+    nif:endIndex "1959" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Academic .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2046_2054> a nif:Word ;
+    nif:anchorOf "analysis" ;
+    nif:beginIndex "2046" ;
+    nif:endIndex "2054" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Analysis .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_247_251> a nif:Word ;
+    nif:anchorOf "arts" ;
+    nif:beginIndex "247" ;
+    nif:endIndex "251" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:arts .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_272_276> a nif:Word ;
+    nif:anchorOf "Work" ;
+    nif:beginIndex "272" ;
+    nif:endIndex "276" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Work .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_419_433> a nif:Word ;
+    nif:anchorOf "classification" ;
+    nif:beginIndex "419" ;
+    nif:endIndex "433" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:classification .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_447_454> a nif:Word ;
+    nif:anchorOf "factors" ;
+    nif:beginIndex "447" ;
+    nif:endIndex "454" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:factors .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_630_635> a nif:Word ;
+    nif:anchorOf "1980s" ;
+    nif:beginIndex "630" ;
+    nif:endIndex "635" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/1980s> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_659_664> a nif:Word ;
+    nif:anchorOf "study" ;
+    nif:beginIndex "659" ;
+    nif:endIndex "664" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:study .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_65_78> a nif:Word ;
+    nif:anchorOf "mathematician" ;
+    nif:beginIndex "65" ;
+    nif:endIndex "78" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:mathematician .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_775_786> a nif:Word ;
+    nif:anchorOf "mathematics" ;
+    nif:beginIndex "775" ;
+    nif:endIndex "786" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:mathematics .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_981_985> a nif:Word ;
+    nif:anchorOf "gold" ;
+    nif:beginIndex "981" ;
+    nif:endIndex "985" ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:gold .
+

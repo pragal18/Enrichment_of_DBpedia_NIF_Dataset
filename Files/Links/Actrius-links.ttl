@@ -1,0 +1,127 @@
+@prefix dbp: <http://dbpedia.org/resource/> .
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=phrase_offset_100_112> a nif:Phrase ;
+    nif:anchorOf "Ventura Pons" ;
+    nif:beginIndex "100" ;
+    nif:endIndex "112" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Ventura_Pons .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=phrase_offset_1639_1651> a nif:Phrase ;
+    nif:anchorOf "The Guardian" ;
+    nif:beginIndex "1639" ;
+    nif:endIndex "1651" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:The_Guardian .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=phrase_offset_2053_2066> a nif:Phrase ;
+    nif:anchorOf "Butaca Awards" ;
+    nif:beginIndex "2053" ;
+    nif:endIndex "2066" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Butaca_Awards .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=phrase_offset_2260_2271> a nif:Phrase ;
+    nif:anchorOf "Goya Awards" ;
+    nif:beginIndex "2260" ;
+    nif:endIndex "2271" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Goya_Awards .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=phrase_offset_2341_2355> a nif:Phrase ;
+    nif:anchorOf "External links" ;
+    nif:beginIndex "2341" ;
+    nif:endIndex "2355" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:External_links .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=phrase_offset_39_55> a nif:Phrase ;
+    nif:anchorOf "Catalan language" ;
+    nif:beginIndex "39" ;
+    nif:endIndex "55" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Catalan_language .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=phrase_offset_637_649> a nif:Phrase ;
+    nif:anchorOf "Anna Lizaran" ;
+    nif:beginIndex "637" ;
+    nif:endIndex "649" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Anna_Lizaran .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1319_1326> a nif:Word ;
+    nif:anchorOf "origins" ;
+    nif:beginIndex "1319" ;
+    nif:endIndex "1326" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Origins .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2245_2255> a nif:Word ;
+    nif:anchorOf "Screenplay" ;
+    nif:beginIndex "2245" ;
+    nif:endIndex "2255" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:screenplay .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2328_2338> a nif:Word ;
+    nif:anchorOf "References" ;
+    nif:beginIndex "2328" ;
+    nif:endIndex "2338" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:References .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2435_2443> a nif:Word ;
+    nif:anchorOf "February" ;
+    nif:beginIndex "2435" ;
+    nif:endIndex "2443" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:February .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_298_303> a nif:Word ;
+    nif:anchorOf "order" ;
+    nif:beginIndex "298" ;
+    nif:endIndex "303" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:order .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_356_360> a nif:Word ;
+    nif:anchorOf "life" ;
+    nif:beginIndex "356" ;
+    nif:endIndex "360" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Life .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_551_561> a nif:Word ;
+    nif:anchorOf "television" ;
+    nif:beginIndex "551" ;
+    nif:endIndex "561" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Television .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_881_889> a nif:Word ;
+    nif:anchorOf "American" ;
+    nif:beginIndex "881" ;
+    nif:endIndex "889" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:American .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_924_929> a nif:Word ;
+    nif:anchorOf "works" ;
+    nif:beginIndex "924" ;
+    nif:endIndex "929" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Works .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_960_965> a nif:Word ;
+    nif:anchorOf "first" ;
+    nif:beginIndex "960" ;
+    nif:endIndex "965" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:first .
+

@@ -1,0 +1,36 @@
+@prefix dbp: <http://dbpedia.org/resource/> .
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/'Abdullah_ibn_'Abdil-Mouttalib?dbpv=2016-10&nif=word_offset_278_287> a nif:Word ;
+    nif:anchorOf "naissance" ;
+    nif:beginIndex "278" ;
+    nif:endIndex "287" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Abdullah_ibn_'Abdil-Mouttalib?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Naissance .
+
+<http://dbpedia.org/resource/'Abdullah_ibn_'Abdil-Mouttalib?dbpv=2016-10&nif=word_offset_34_39> a nif:Word ;
+    nif:anchorOf "arabe" ;
+    nif:beginIndex "34" ;
+    nif:endIndex "39" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Abdullah_ibn_'Abdil-Mouttalib?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:arabe .
+
+<http://dbpedia.org/resource/'Abdullah_ibn_'Abdil-Mouttalib?dbpv=2016-10&nif=word_offset_707_712> a nif:Word ;
+    nif:anchorOf "femme" ;
+    nif:beginIndex "707" ;
+    nif:endIndex "712" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Abdullah_ibn_'Abdil-Mouttalib?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:femme .
+
+<http://dbpedia.org/resource/'Abdullah_ibn_'Abdil-Mouttalib?dbpv=2016-10&nif=word_offset_923_928> a nif:Word ;
+    nif:anchorOf "islam" ;
+    nif:beginIndex "923" ;
+    nif:endIndex "928" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Abdullah_ibn_'Abdil-Mouttalib?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Islam .
+
