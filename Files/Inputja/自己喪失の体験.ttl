@@ -1,0 +1,6 @@
+<http://ja.dbpedia.org/resource/自己喪失の体験?dbpv=2016-10&nif=context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> .
+<http://ja.dbpedia.org/resource/自己喪失の体験?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/自己喪失の体験?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex> "245"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/自己喪失の体験?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#sourceUrl> <http://ja.wikipedia.org/wiki/自己喪失の体験?oldid=33133191> .
+<http://ja.dbpedia.org/resource/自己喪失の体験?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString> "自己喪失の体験 (じこそうしつのたいけん,The Experience of No-Self)は1982年に出版されたバーナデット・ロバーツによる著作である。 キリスト教徒の普通の主婦におきた精神的な変化をつづっており、著者はヴェーダの宗教の体系を知らずに体験したと思われるが、そのプロセスは光明の過程に近い。また、ヴェーダの系統に見られる難解な単語を使わずに、普通の単語で過程が記述されており、一般にも理解しやすいものとなっている。なお、日本語訳は紀伊國屋書店より1989年に出版された。" .
+<http://ja.dbpedia.org/resource/自己喪失の体験?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#predLang> <http://lexvo.org/id/iso639-3/jpn> .

@@ -1,0 +1,6 @@
+<http://ja.dbpedia.org/resource/空気のビタミン?dbpv=2016-10&nif=context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> .
+<http://ja.dbpedia.org/resource/空気のビタミン?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/空気のビタミン?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex> "222"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/空気のビタミン?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#sourceUrl> <http://ja.wikipedia.org/wiki/空気のビタミン?oldid=59845969> .
+<http://ja.dbpedia.org/resource/空気のビタミン?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString> "空気のビタミン（くうきのビタミン）とは、空気中に酸素以外に必須の物質であるという仮説である。その起源は、18世紀の室内空気質の悪化原因のひとつ。現在では室内空気質の悪化は、熱環境や有害物質によるものと解明され、また空気中に含まれる元素・分子の分析が進み、それぞれの人体への影響の検証などから、必須の物質という仮説は否定されている。 しかし、科学の世界では否定されたこの思想も、現在も生きつづけ、空気のビタミンをうたう商品の氾濫はあとを絶たない。" .
+<http://ja.dbpedia.org/resource/空気のビタミン?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#predLang> <http://lexvo.org/id/iso639-3/jpn> .

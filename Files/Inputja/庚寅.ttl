@@ -1,0 +1,6 @@
+<http://ja.dbpedia.org/resource/庚寅?dbpv=2016-10&nif=context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> .
+<http://ja.dbpedia.org/resource/庚寅?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/庚寅?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex> "272"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/庚寅?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#sourceUrl> <http://ja.wikipedia.org/wiki/庚寅?oldid=46572132> .
+<http://ja.dbpedia.org/resource/庚寅?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString> "庚寅（かのえとら、こういん）は、干支の一つ。 干支の組み合わせの27番目で、前は己丑、次は辛卯である。陰陽五行では、十干の庚は陽の金、十二支の寅は陽の木で、相剋（金剋木）である。\n\n庚寅の年\n西暦年を60で割って30が余る年が庚寅の年となる。 \n* 持統天皇4（690）年-庚寅年籍が完成・施行。\n\n庚寅の月\n西暦年の下1桁が1・6（十干が辛・丙）の年の1月が庚寅の月となる。ただしここでいう月は、旧暦の月や節月（立春から啓蟄の前日まで）を適用する場合もある。\n\n庚寅の日\n庚寅の日の選日は以下の通り。\n\n選日\n庚寅の日は十方暮の7日目である。" .
+<http://ja.dbpedia.org/resource/庚寅?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#predLang> <http://lexvo.org/id/iso639-3/jpn> .

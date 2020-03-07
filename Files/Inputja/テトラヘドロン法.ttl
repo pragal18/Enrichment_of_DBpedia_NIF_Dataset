@@ -1,0 +1,6 @@
+<http://ja.dbpedia.org/resource/テトラヘドロン法?dbpv=2016-10&nif=context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> .
+<http://ja.dbpedia.org/resource/テトラヘドロン法?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/テトラヘドロン法?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex> "232"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/テトラヘドロン法?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#sourceUrl> <http://ja.wikipedia.org/wiki/テトラヘドロン法?oldid=54585793> .
+<http://ja.dbpedia.org/resource/テトラヘドロン法?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString> "テトラヘドロン法（テトラヘドロンほう、Tetrahedron method、四面体法）は、ブリュアンゾーン内のk点を精度良く積分する方法。ブリュアンゾーン内を多数の四面体で区切り、その四面体内でフェルミエネルギーまでの状態（体積）を線形補間等（より高次の補間を用いる場合あり[3]）で解析的に足し上げるようにする。単純にk点に関して足し上げる方法よりずっと精度が良い。またテトラヘドロン法を改良する方法として、Blochl補正が知られており、これもよく利用される。" .
+<http://ja.dbpedia.org/resource/テトラヘドロン法?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#predLang> <http://lexvo.org/id/iso639-3/jpn> .

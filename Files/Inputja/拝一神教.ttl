@@ -1,0 +1,6 @@
+<http://ja.dbpedia.org/resource/拝一神教?dbpv=2016-10&nif=context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> .
+<http://ja.dbpedia.org/resource/拝一神教?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/拝一神教?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex> "261"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/拝一神教?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#sourceUrl> <http://ja.wikipedia.org/wiki/拝一神教?oldid=58579881> .
+<http://ja.dbpedia.org/resource/拝一神教?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString> "拝一神教（はいいつしんきょう、monolatrism/monolatry）は、一神崇拝ともいい、一柱の神を信仰する宗教。同じ一神教でも唯一神教が他の神々の存在を認めないのに対し、拝一神教は他の神々の存在も前提とする。神々の中の一柱を主神として崇拝するものを単一神教という。 とくに族長時代のヘブライ人の信仰が、みずからの部族の神であるヤハウェのみを排他的に信仰し、きびしく他の神々をあがめることを禁じていたことをモデルに概念化された。\n\n拝一神教の例\n\n* ゾロアスター教 \n* ユダヤ教以前の古代イスラエルのヤハヴェ信仰" .
+<http://ja.dbpedia.org/resource/拝一神教?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#predLang> <http://lexvo.org/id/iso639-3/jpn> .

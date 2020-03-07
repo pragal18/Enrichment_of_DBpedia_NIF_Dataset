@@ -1,0 +1,6 @@
+<http://ja.dbpedia.org/resource/エルサレム教会?dbpv=2016-10&nif=context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> .
+<http://ja.dbpedia.org/resource/エルサレム教会?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/エルサレム教会?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex> "221"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://ja.dbpedia.org/resource/エルサレム教会?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#sourceUrl> <http://ja.wikipedia.org/wiki/エルサレム教会?oldid=53330894> .
+<http://ja.dbpedia.org/resource/エルサレム教会?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString> "エルサレム教会（エルサレムきょうかい）は、イエス・キリストの死後、エルサレムで活動した弟子たちの教団。 アンティオキア教会を拠点としてギリシア語を話したパウロらユダヤ人の一派（ヘレニスト）は異邦人への伝道も行う立場から必ずしも律法（割礼や食物の禁忌）を強制しなかったため、割礼を行う習慣が無い地域におけるキリスト教への改宗者に対しても割礼や食餌規定の遵守など律法を厳格に遵守する立場のエルサレム教会と対立した（ナザレ派、原始エルサレム教会）。" .
+<http://ja.dbpedia.org/resource/エルサレム教会?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#predLang> <http://lexvo.org/id/iso639-3/jpn> .
