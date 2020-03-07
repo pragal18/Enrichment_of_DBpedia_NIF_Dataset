@@ -1,0 +1,896 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_0_258> a nif:Sentence ;
+    nif:anchorOf "Un agujero negro u hoyo negro es una región finita del espacio en cuyo interior existe una concentración de masa lo suficientemente elevada como para generar un campo gravitatorio tal que ninguna partícula material, ni siquiera la luz, puede escapar de ella." ;
+    nif:beginIndex "0" ;
+    nif:endIndex "258" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_10019_10171> a nif:Sentence ;
+    nif:anchorOf "Véase también: Acreción En cuanto a la luz que atraviesa la zona del disco, también es afectada, tal como está previsto por la teoría de la Relatividad." ;
+    nif:beginIndex "10019" ;
+    nif:endIndex "10171" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_10172_10356> a nif:Sentence ;
+    nif:anchorOf "El efecto es visible desde la Tierra por la desviación momentánea que produce en posiciones estelares conocidas, cuando los haces de luz procedentes de las mismas transitan dicha zona." ;
+    nif:beginIndex "10172" ;
+    nif:endIndex "10356" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_10357_10597> a nif:Sentence ;
+    nif:anchorOf "Hasta hoy es imposible describir lo que sucede en el interior de un agujero negro; sólo se puede imaginar, suponer y observar sus efectos sobre la materia y la energía en las zonas externas y cercanas al horizonte de sucesos y la ergosfera." ;
+    nif:beginIndex "10357" ;
+    nif:endIndex "10597" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_10598_10928> a nif:Sentence ;
+    nif:anchorOf "Uno de los efectos más controvertidos que implica la existencia de un agujero negro es su aparente capacidad para disminuir la entropía del Universo, lo que violaría los fundamentos de la termodinámica, ya que toda materia y energía electromagnética que atraviese dicho horizonte de sucesos, tienen asociados un nivel de entropía." ;
+    nif:beginIndex "10598" ;
+    nif:endIndex "10928" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_1068_1210> a nif:Sentence ;
+    nif:anchorOf "En la década de 1970, Hawking, Ellis y Penrose demostraron varios teoremas importantes sobre la ocurrencia y geometría de los agujeros negros." ;
+    nif:beginIndex "1068" ;
+    nif:endIndex "1210" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_10929_11129> a nif:Sentence ;
+    nif:anchorOf "Stephen Hawking propone en uno de sus libros que la única forma de que no aumente la entropía sería que la información de todo lo que atraviese el horizonte de sucesos siga existiendo de alguna forma." ;
+    nif:beginIndex "10929" ;
+    nif:endIndex "11129" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_11130_11314> a nif:Sentence ;
+    nif:anchorOf """Otra de las implicaciones de un agujero negro supermasivo sería la probabilidad que fuese capaz de generar su colapso completo, convirtiéndose en una singularidad desnuda de materia.
+
+""" ;
+    nif:beginIndex "11130" ;
+    nif:endIndex "11314" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_11314_11533> a nif:Sentence ;
+    nif:anchorOf """La entropía en los agujeros negros
+Según Stephen Hawking, en los agujeros negros se viola el segundo principio de la termodinámica, lo que dio pie a especulaciones sobre viajes en el espacio-tiempo y agujeros de gusano.""" ;
+    nif:beginIndex "11314" ;
+    nif:endIndex "11533" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_11534_11746> a nif:Sentence ;
+    nif:anchorOf "El tema está siendo motivo de revisión; actualmente Hawking se ha retractado de su teoría inicial y ha admitido que la entropía de la materia se conserva en el interior de un agujero negro (véase enlace externo)." ;
+    nif:beginIndex "11534" ;
+    nif:endIndex "11746" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_11747_11958> a nif:Sentence ;
+    nif:anchorOf "Según Hawking, a pesar de la imposibilidad física de escape de un agujero negro, estos pueden terminar evaporándose por la llamada radiación de Hawking, una fuente de rayos X que escapa del horizonte de sucesos." ;
+    nif:beginIndex "11747" ;
+    nif:endIndex "11958" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_11959_12082> a nif:Sentence ;
+    nif:anchorOf "El legado que entrega Hawking en esta materia es de aquellos que, con poca frecuencia en física, son calificados de bellos." ;
+    nif:beginIndex "11959" ;
+    nif:endIndex "12082" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_12083_12202> a nif:Sentence ;
+    nif:anchorOf "Entrega los elementos matemáticos para comprender que los agujeros negros tienen una entropía gravitacional intrínseca." ;
+    nif:beginIndex "12083" ;
+    nif:endIndex "12202" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_1211_1589> a nif:Sentence ;
+    nif:anchorOf "Previamente, en 1963, Roy Kerr había demostrado que en un espacio-tiempo de cuatro dimensiones todos los agujeros negros debían tener una geometría cuasiesférica determinada por tres parámetros: su masa M, su carga eléctrica total e y su momento angular L. Se conjetura que en el centro de la mayoría de las galaxias, entre ellas la Vía Láctea, hay agujeros negros supermasivos." ;
+    nif:beginIndex "1211" ;
+    nif:endIndex "1589" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_12203_12318> a nif:Sentence ;
+    nif:anchorOf "Ello implica que la gravedad introduce un nivel adicional de impredictibilidad por sobre la incertidumbre cuántica." ;
+    nif:beginIndex "12203" ;
+    nif:endIndex "12318" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_12319_12509> a nif:Sentence ;
+    nif:anchorOf "Parece, en función de la actual capacidad teórica, de observación y experimental, como si la naturaleza asumiera decisiones al azar o, en su efecto, alejadas de leyes precisas más generales." ;
+    nif:beginIndex "12319" ;
+    nif:endIndex "12509" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_12510_12719> a nif:Sentence ;
+    nif:anchorOf "La hipótesis de que los agujeros negros contienen una entropía y que, además, ésta es finita, requiere para ser consecuente que tales agujeros emitan radiaciones térmicas, lo que al principio parece increíble." ;
+    nif:beginIndex "12510" ;
+    nif:endIndex "12719" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_12720_12903> a nif:Sentence ;
+    nif:anchorOf "La explicación es que la radiación emitida escapa del agujero negro, de una región de la que el observador exterior no conoce más que su masa, su momento angular y su carga eléctrica." ;
+    nif:beginIndex "12720" ;
+    nif:endIndex "12903" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_12904_13080> a nif:Sentence ;
+    nif:anchorOf "Eso significa que son igualmente probables todas las combinaciones o configuraciones de radiaciones de partículas que tengan energía, momento angular y carga eléctrica iguales." ;
+    nif:beginIndex "12904" ;
+    nif:endIndex "13080" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_13081_13268> a nif:Sentence ;
+    nif:anchorOf "Son muchas las posibilidades de entes, si se quiere hasta de los más exóticos, que pueden ser emitidos por un agujero negro, pero ello corresponde a un número reducido de configuraciones." ;
+    nif:beginIndex "13081" ;
+    nif:endIndex "13268" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_13269_13376> a nif:Sentence ;
+    nif:anchorOf "El número mayor de configuraciones corresponde con mucho a una emisión con un espectro que es casi térmico." ;
+    nif:beginIndex "13269" ;
+    nif:endIndex "13376" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_13377_13494> a nif:Sentence ;
+    nif:anchorOf "Físicos como Jacob D. Bekenstein han relacionado a los agujeros negros y su entropía con la teoría de la información." ;
+    nif:beginIndex "13377" ;
+    nif:endIndex "13494" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_13495_13831> a nif:Sentence ;
+    nif:anchorOf "Los trabajos de Bekenstein sobre teoría de la información y agujeros negros sugirieron que la segunda ley seguiría siendo válida si se introducía una entropía generalizada (Sgen) que sumara a la entropía convencional (Sconv), la entropía atribuible a los agujeros negros que depende del área total (A) de agujeros negros en el universo." ;
+    nif:beginIndex "13495" ;
+    nif:endIndex "13831" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_13832_14087> a nif:Sentence ;
+    nif:anchorOf """Concretamente esta entropía generalizada debe definirse como: Donde, k es la constante de Boltzmann, c es la velocidad de la luz, G es la constante de gravitación universal y es la constante de Planck racionalizada, y A el área del horizonte de sucesos.
+
+""" ;
+    nif:beginIndex "13832" ;
+    nif:endIndex "14087" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_14087_14400> a nif:Sentence ;
+    nif:anchorOf """Definición de agujero negro
+A pesar de que existen explicaciones intuitivas del comportamiento de un agujero negro, en cosmología teórica no existe una definición simple de qué constituye un agujero negro, y todos los teóricos trabajan con definiciones topológicas sofisticadas de qué constituye un agujero negro.""" ;
+    nif:beginIndex "14087" ;
+    nif:endIndex "14400" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_14401_14566> a nif:Sentence ;
+    nif:anchorOf "De hecho en un espacio-tiempo compacto no hay una manera adecuada y general de definir qué condiciones debe cumplir una región para ser considerada un agujero negro." ;
+    nif:beginIndex "14401" ;
+    nif:endIndex "14566" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_14567_15166> a nif:Sentence ;
+    nif:anchorOf "En espacio-tiempos no compactos se requieren algunas condiciones técnicas para decidir si una región es un agujero negro, así se dice que en un espacio-tiempo asintóticamente plano y predictible (que contiene una hipersuperficie de Cauchy que satisface ciertos requisitos), se dice que hay una región de agujero negro si el pasado causal de la hipersuperficie de tipo luz situada en el infinito futuro no contiene a todo el espacio-tiempo (eso significa que dicha hipersuperficie es inalcanzable desde algunos puntos del espacio tiempo, precisamente aquellos contenidos en el área de agujero negro)." ;
+    nif:beginIndex "14567" ;
+    nif:endIndex "15166" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_15167_15267> a nif:Sentence ;
+    nif:anchorOf """La frontera del pasado causal de la hipersuperficie de tipo luz futura es el horizonte de eventos.
+
+""" ;
+    nif:beginIndex "15167" ;
+    nif:endIndex "15267" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_15267_15314> a nif:Sentence ;
+    nif:anchorOf """¿Imposibilidad teórica de los agujeros negros?
+""" ;
+    nif:beginIndex "15267" ;
+    nif:endIndex "15314" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_15314_15438> a nif:Sentence ;
+    nif:anchorOf "Los agujeros negros contienen toda la masa de la estrella en un punto matemático, que es lo que se conoce como singularidad." ;
+    nif:beginIndex "15314" ;
+    nif:endIndex "15438" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_15439_15687> a nif:Sentence ;
+    nif:anchorOf "Einstein nunca aceptó eso, sino que pensaba que la masa debería ocupar una región finita aunque fuera pequeña y por eso se opuso a la existencia de agujeros negros, que nadie llamaba así entonces, se conocían como \"singularidades de Schwarzschild\"." ;
+    nif:beginIndex "15439" ;
+    nif:endIndex "15687" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_15687_15797> a nif:Sentence ;
+    nif:anchorOf ") El nombre de \"black hole\" lo propuso (10 años después de la muerte de Einstein) el físico americano Wheeler." ;
+    nif:beginIndex "15687" ;
+    nif:endIndex "15797" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_15798_15960> a nif:Sentence ;
+    nif:anchorOf "Existen resultados matemáticos sólidos bajo los cuales una teoría métrica de la gravitación (como la relatividad general) predice la formación de agujeros negros." ;
+    nif:beginIndex "15798" ;
+    nif:endIndex "15960" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_1590_1890> a nif:Sentence ;
+    nif:anchorOf "El 11 de febrero de 2016, las colaboraciones LIGO, Virgo y GEO600 anunciaron la primera detección de ondas gravitacionales, producidas por la fusión de dos agujeros negros a unos 410 millones de pársecs, megapársecs o Mpc, es decir, a unos 1337 millones de años luz, mega-años luz o Mal de la Tierra." ;
+    nif:beginIndex "1590" ;
+    nif:endIndex "1890" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_15961_16178> a nif:Sentence ;
+    nif:anchorOf "Estos resultados se conocen como teoremas de singularidades que predicen la ocurrencia de singularidades espaciotemporales (y si se acepta la hipótesis de censura cósmica, por tanto a la formación de agujeros negros)." ;
+    nif:beginIndex "15961" ;
+    nif:endIndex "16178" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_16179_16459> a nif:Sentence ;
+    nif:anchorOf "Las ecuaciones de campo de Einstein para la relatividad general admiten situaciones para las cuales se cumplen las condiciones de ocurrencia de singularidades y por tanto, los teoremas de singularidad muestran que los agujeros negros son posibles dentro de la relatividad general." ;
+    nif:beginIndex "16179" ;
+    nif:endIndex "16459" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_16460_17215> a nif:Sentence ;
+    nif:anchorOf "Sin embargo, algunas teorías métricas alternativas como la teoría relativista de la gravitación, muy similar a la relatividad general en casi todos los aspectos y que también explica los hechos observados en el sistema solar y la expansión del universo, usa ecuaciones de campo ligeramente diferentes donde siempre se cumple que en ausencia local de materia y en virtud de las condiciones de causalidad de la teoría, para cualquier campo vectorial isótropo (vectores tipo luz) definido sobre el espacio-tiempo se cumple la desigualdad: Esta condición implica que no se cumplirán las condiciones de los teoremas mencionados anteriormente y, por tanto, éstos no pueden ser aplicados para predecir la existencia de singularidades y por tanto agujeros negros." ;
+    nif:beginIndex "16460" ;
+    nif:endIndex "17215" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_17216_17590> a nif:Sentence ;
+    nif:anchorOf """Dado que los datos experimentales no permiten discernir cuál de las dos teorías (la de relatividad general de Einstein o la relativista de la gravitación de Logunov) es la correcta, pues ambas coinciden para la mayoría de los hechos observacionales bien comprobados, no puede darse por garantizado que los agujeros negros sean una consecuencia necesaria de la gravitación.
+
+""" ;
+    nif:beginIndex "17216" ;
+    nif:endIndex "17590" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_17590_18115> a nif:Sentence ;
+    nif:anchorOf """Los agujeros negros en la física actual
+Se explican los fenómenos físicos mediante dos teorías en cierto modo contrapuestas y basadas en principios incompatibles: la mecánica cuántica, que explica la naturaleza de «lo muy pequeño», donde predomina el caos y la estadística y admite casos de evolución temporal no determinista, y la relatividad general, que explica la naturaleza de «lo muy pesado» y que afirma que en todo momento se puede saber con exactitud dónde está un cuerpo, siendo esta teoría totalmente determinista.""" ;
+    nif:beginIndex "17590" ;
+    nif:endIndex "18115" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_18116_18342> a nif:Sentence ;
+    nif:anchorOf "Ambas teorías están experimentalmente confirmadas pero, al intentar explicar la naturaleza de un agujero negro, es necesario discernir si se aplica la cuántica por ser algo muy pequeño o la relatividad por ser algo tan pesado." ;
+    nif:beginIndex "18116" ;
+    nif:endIndex "18342" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_18343_18479> a nif:Sentence ;
+    nif:anchorOf """Está claro que hasta que no se disponga de una física más avanzada no se conseguirá explicar realmente la naturaleza de este fenómeno.
+
+""" ;
+    nif:beginIndex "18343" ;
+    nif:endIndex "18479" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_18479_18715> a nif:Sentence ;
+    nif:anchorOf """Descubrimientos recientes
+En 1995 un equipo de investigadores de la UCLA dirigido por Andrea Ghez demostró mediante simulación por ordenadores la posibilidad de la existencia de agujeros negros supermasivos en el núcleo de las galaxias.""" ;
+    nif:beginIndex "18479" ;
+    nif:endIndex "18715" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_18716_18885> a nif:Sentence ;
+    nif:anchorOf "Tras estos cálculos mediante el sistema de óptica adaptativa se verificó que algo deformaba los rayos de luz emitidos desde el centro de nuestra galaxia (la Vía Láctea)." ;
+    nif:beginIndex "18716" ;
+    nif:endIndex "18885" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_18886_18978> a nif:Sentence ;
+    nif:anchorOf "Tal deformación se debe a un invisible agujero negro supermasivo que ha sido denominado Sgr." ;
+    nif:beginIndex "18886" ;
+    nif:endIndex "18978" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_1891_2059> a nif:Sentence ;
+    nif:anchorOf "Las observaciones demostraron la existencia de un sistema binario de agujeros negros de masa estelar y la primera observación de una fusión de un agujero negro binario." ;
+    nif:beginIndex "1891" ;
+    nif:endIndex "2059" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_18978_18998> a nif:Sentence ;
+    nif:anchorOf "A (o Sagittarius A)." ;
+    nif:beginIndex "18978" ;
+    nif:endIndex "18998" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_18999_19352> a nif:Sentence ;
+    nif:anchorOf "En 2007-2008 se iniciaron una serie de experimentos de interferometría a partir de medidas de radiotelescopios para medir el tamaño del agujero negro supermasivo en el centro de la Vía Láctea, al que se le calcula una masa 4.5 millones de veces mayor que la del Sol y una distancia de 26 000 años luz (unos 255 000 billones de km respecto de la Tierra)." ;
+    nif:beginIndex "18999" ;
+    nif:endIndex "19352" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_19353_19601> a nif:Sentence ;
+    nif:anchorOf "El agujero negro supermasivo del centro de nuestra galaxia actualmente sería poco activo ya que ha consumido gran parte de la materia bariónica, que se encuentra en la zona de su inmediato campo gravitatorio y emite grandes cantidades de radiación." ;
+    nif:beginIndex "19353" ;
+    nif:endIndex "19601" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_19602_19988> a nif:Sentence ;
+    nif:anchorOf "Por su parte, la astrofísica Feryal Özel ha explicado algunas características probables en torno a un agujero negro: cualquier cosa, incluido el espacio vacío, que entre en la fuerza de marea provocada por un agujero negro se aceleraría a extremada velocidad como en un vórtice y todo el tiempo dentro del área de atracción de un agujero negro se dirigiría hacia el mismo agujero negro." ;
+    nif:beginIndex "19602" ;
+    nif:endIndex "19988" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_19989_20221> a nif:Sentence ;
+    nif:anchorOf "En el presente se considera que, pese a la perspectiva destructiva que se tiene de los agujeros negros, éstos al condensar en torno a sí materia sirven en parte a la constitución de las galaxias y a la formación de nuevas estrellas." ;
+    nif:beginIndex "19989" ;
+    nif:endIndex "20221" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_20222_20381> a nif:Sentence ;
+    nif:anchorOf "En junio de 2004 astrónomos descubrieron un agujero negro súper masivo, el Q0906+6930, en el centro de una galaxia distante a unos 12 700 millones de años luz." ;
+    nif:beginIndex "20222" ;
+    nif:endIndex "20381" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_20382_20480> a nif:Sentence ;
+    nif:anchorOf "Esta observación indicó una rápida creación de agujeros negros súper masivos en el Universo joven." ;
+    nif:beginIndex "20382" ;
+    nif:endIndex "20480" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_20481_20591> a nif:Sentence ;
+    nif:anchorOf "La formación de micro agujeros negros en los aceleradores de partículas ha sido informada, pero no confirmada." ;
+    nif:beginIndex "20481" ;
+    nif:endIndex "20591" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_20592_20670> a nif:Sentence ;
+    nif:anchorOf "Por ahora, no hay candidatos observados para ser agujeros negros primordiales." ;
+    nif:beginIndex "20592" ;
+    nif:endIndex "20670" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_2060_2249> a nif:Sentence ;
+    nif:anchorOf "Anteriormente, la existencia de agujeros negros estaba apoyada en observaciones astronómicas de forma indirecta, a través de la emisión de rayos X por estrellas binarias y galaxias activas." ;
+    nif:beginIndex "2060" ;
+    nif:endIndex "2249" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_20671_20847> a nif:Sentence ;
+    nif:anchorOf "El 11 de febrero de 2016, la colaboración LIGO anunció la primera de observación directa de ondas gravitatorias, generadas por la fusión de dos agujeros negros de masa estelar." ;
+    nif:beginIndex "20671" ;
+    nif:endIndex "20847" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_20848_20940> a nif:Sentence ;
+    nif:anchorOf """Lo que supuso, además, la primera observación directa de dos agujeros negros fusionándose.
+
+""" ;
+    nif:beginIndex "20848" ;
+    nif:endIndex "20940" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_20940_21212> a nif:Sentence ;
+    nif:anchorOf """El mayor
+Dejando a un lado los agujeros negros supermasivos que suelen estar en el núcleo de las galaxias y cuya masa son de millones de veces nuestro Sol, el mayor agujero negro de masa estelar conocido hasta la fecha, se descubrió el año 2007 y fue denominado IC 10 X-1.""" ;
+    nif:beginIndex "20940" ;
+    nif:endIndex "21212" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_21213_21425> a nif:Sentence ;
+    nif:anchorOf "Está en la galaxia enana IC 10 situada en la constelación de Casiopea, a una distancia de 1,8 millones de años luz (17 trillones de kilómetros) de la Tierra, con una masa de entre 24 y 33 veces la de nuestro Sol." ;
+    nif:beginIndex "21213" ;
+    nif:endIndex "21425" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_21426_21546> a nif:Sentence ;
+    nif:anchorOf "Posteriormente, en abril de 2008, la revista Nature publicó un estudio realizado en la Universidad de Turku (Finlandia)." ;
+    nif:beginIndex "21426" ;
+    nif:endIndex "21546" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_21547_21707> a nif:Sentence ;
+    nif:anchorOf "Según dicho estudio, un equipo de científicos dirigido por Mauri Valtonen descubrió un sistema binario, un blazar, llamado OJ 287, en la constelación de Cáncer." ;
+    nif:beginIndex "21547" ;
+    nif:endIndex "21707" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_21708_21933> a nif:Sentence ;
+    nif:anchorOf "Tal sistema parece estar constituido por un agujero negro menor que orbita en torno a otro mayor, siendo la masa del mayor de 18 000 millones de veces la de nuestro Sol, lo que lo convierte en el mayor agujero negro conocido." ;
+    nif:beginIndex "21708" ;
+    nif:endIndex "21933" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_21934_22110> a nif:Sentence ;
+    nif:anchorOf "Se supone que en cada intervalo de rotación el agujero negro menor, que tiene una masa de 100 millones de soles, golpea la ergosfera del mayor dos veces, generándose un cuásar." ;
+    nif:beginIndex "21934" ;
+    nif:endIndex "22110" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_22111_22220> a nif:Sentence ;
+    nif:anchorOf """Situado a 3500 millones de años luz de la Tierra, está relativamente cerca de la Tierra para ser un cuásar.
+
+""" ;
+    nif:beginIndex "22111" ;
+    nif:endIndex "22220" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_22220_22655> a nif:Sentence ;
+    nif:anchorOf """El menor
+Sin contar los posibles microagujeros negros que casi siempre son efímeros al producirse a escalas subatómicas; macroscópicamente en abril de 2008 el equipo coordinado por Nikolai Saposhnikov y Lev Titarchuk ha identificado el más pequeño de los agujeros negros conocidos hasta la fecha; ha sido denominado J 1650, se ubica en la constelación Ara (o Altar) de la Vía Láctea (la misma galaxia de la cual forma parte la Tierra).""" ;
+    nif:beginIndex "22220" ;
+    nif:endIndex "22655" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_2250_2485> a nif:Sentence ;
+    nif:anchorOf """La gravedad de un agujero negro puede atraer al gas que se encuentra a su alrededor, que se arremolina y calienta a temperaturas de hasta 12 millones de grados Celsius, esto es, 2000 veces mayor temperatura que la superficie del Sol.
+
+""" ;
+    nif:beginIndex "2250" ;
+    nif:endIndex "2485" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_22656_22848> a nif:Sentence ;
+    nif:anchorOf "J 1650 tiene una masa equivalente a 3,8 soles y tan solo 24 km de diámetro se habría formado por el colapso de una estrella; tales dimensiones estaban previstas por las ecuaciones de Einstein." ;
+    nif:beginIndex "22656" ;
+    nif:endIndex "22848" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_22849_23059> a nif:Sentence ;
+    nif:anchorOf "Se considera que son prácticamente las dimensiones mínimas que puede tener un agujero negro ya que una estrella que colapsara y produjera un fenómeno de menor masa se transformaría en una estrella de neutrones." ;
+    nif:beginIndex "22849" ;
+    nif:endIndex "23059" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_23060_23147> a nif:Sentence ;
+    nif:anchorOf """Se considera que pueden existir muchos más agujeros negros de dimensiones semejantes.
+
+""" ;
+    nif:beginIndex "23060" ;
+    nif:endIndex "23147" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_23147_23406> a nif:Sentence ;
+    nif:anchorOf """Chorros de plasma
+En abril de 2008 la revista Nature publicó un estudio realizado en la Universidad de Boston dirigido por Alan Marscher donde explica que chorros de plasma colimados parten de campos magnéticos ubicados cerca del borde de los agujeros negros.""" ;
+    nif:beginIndex "23147" ;
+    nif:endIndex "23406" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_23407_23665> a nif:Sentence ;
+    nif:anchorOf "En zonas puntuales de tales campos magnéticos los chorros de plasma son orientados y acelerados a velocidades cercanas a c (velocidad de la luz), tal proceso es comparable a la aceleración de partículas para crear una corriente de chorro (jet) en un reactor." ;
+    nif:beginIndex "23407" ;
+    nif:endIndex "23665" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_23666_23817> a nif:Sentence ;
+    nif:anchorOf "Cuando los chorros de plasma originados por un agujero negro son observables desde la Tierra tal tipo de agujero negro entra en la categoría de blazar." ;
+    nif:beginIndex "23666" ;
+    nif:endIndex "23817" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_23818_24595> a nif:Sentence ;
+    nif:anchorOf """Que un agujero negro "emita" radiaciones parece una contradicción, sin embargo esto se explica: todo objeto (supóngase una estrella) que es atrapado por la gravitación de un agujero negro, antes de ser completamente "engullido", antes de pasar tras el horizonte de sucesos, se encuentra tan fuertemente presionado por las fuerzas de marea del agujero negro en la zona de la ergosfera que una pequeña parte de su materia sale disparada a velocidades próximas a la de la luz (como cuando se aprieta fuertemente una naranja: parte del material de la naranja sale eyectado en forma de chorros de jugo, en el caso de los objetos atrapados por un agujero negro, parte de su masa sale disparada centrífugamente en forma de radiación fuera del campo gravitatorio de la singularidad).
+
+""" ;
+    nif:beginIndex "23818" ;
+    nif:endIndex "24595" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_24595_25031> a nif:Sentence ;
+    nif:anchorOf """Formación de estrellas por el influjo de agujeros negros
+Nuevas estrellas podrían formarse a partir de los discos elípticos en torno a agujeros negros; tales discos elípticos se producen por antiguas nubes de gas desintegradas previamente por los mismos agujeros negros; las estrellas producidas por condensación o acreción de tales discos elípticos al parecer tienen órbitas muy elípticas en torno a los agujeros negros supermasivos.
+
+""" ;
+    nif:beginIndex "24595" ;
+    nif:endIndex "25031" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_2485_2732> a nif:Sentence ;
+    nif:anchorOf """Proceso de formación
+Los agujeros negros proceden de un proceso de colapso gravitatorio que fue ampliamente estudiado a mediados de siglo XX por diversos científicos, particularmente Robert Oppenheimer, Roger Penrose y Stephen Hawking entre otros.""" ;
+    nif:beginIndex "2485" ;
+    nif:endIndex "2732" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_25031_25238> a nif:Sentence ;
+    nif:anchorOf """Radiación de Hawking
+Hasta principios de 1970 se pensaba que los agujeros negros no emitían directamente ningún tipo de materia, y su destino último era seguir creciendo por la acreción de más y más materia.""" ;
+    nif:beginIndex "25031" ;
+    nif:endIndex "25238" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_25239_25429> a nif:Sentence ;
+    nif:anchorOf "Sin embargo, una consideración de los efectos cuánticos en el horizonte de sucesos de un agujero llevó a Hawking a descubrir un proceso físico por el cual el agujero podría emitir radiación." ;
+    nif:beginIndex "25239" ;
+    nif:endIndex "25429" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_25430_25918> a nif:Sentence ;
+    nif:anchorOf "De acuerdo con el principio de incertidumbre de la mecánica cuántica existe la posibilidad de que en el horizonte se formen pares de partícula-antipartícula de corta duración, dado que la probabilidad de que uno de los elementos del par caiga dentro del agujero de manera irreversible y el otro miembro del par escape, el principio de conservación requiere que el agujero disminuya su masa para compensar la energía que se lleva el par que escapa de los aledaños del horizonte de sucesos." ;
+    nif:beginIndex "25430" ;
+    nif:endIndex "25918" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_25919_26106> a nif:Sentence ;
+    nif:anchorOf "Nótese que en este proceso el par se forma estrictamente en el exterior del agujero negro, por lo que no contradice el hecho de que ninguna partícula material puede abandonar el interior." ;
+    nif:beginIndex "25919" ;
+    nif:endIndex "26106" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_259_397> a nif:Sentence ;
+    nif:anchorOf "Sin embargo, los agujeros negros pueden ser capaces de emitir radiación, lo cual fue conjeturado por Stephen Hawking en la década de 1970." ;
+    nif:beginIndex "259" ;
+    nif:endIndex "397" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_26107_26287> a nif:Sentence ;
+    nif:anchorOf """Sin embargo, sí existe un efecto neto de transferencia de energía del agujero negro a sus aledaños, que es la radiación Hawking, cuya producción no viola ningún principio físico.
+
+""" ;
+    nif:beginIndex "26107" ;
+    nif:endIndex "26287" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_26287_26449> a nif:Sentence ;
+    nif:anchorOf """Nota lingüística
+En países como España o Argentina, donde se diferencia entre un hoyo (concavidad) y un agujero (abertura) debe usarse el término “agujero negro”.""" ;
+    nif:beginIndex "26287" ;
+    nif:endIndex "26449" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_26450_26575> a nif:Sentence ;
+    nif:anchorOf """En los países como México o Chile donde hoyo y agujero son sinónimos, también son sinónimos “hoyo negro” y “agujero negro”.
+
+""" ;
+    nif:beginIndex "26450" ;
+    nif:endIndex "26575" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_26575_27343> a nif:Sentence ;
+    nif:anchorOf """Véase también
+
+*  Agujero blanco 
+*  Agujero de gusano 
+*  Agujero negro de Kerr 
+*  Agujero negro de Kerr-Newman 
+*  Agujero negro de Reissner-Nordstrøm 
+*  Agujero negro de Schwarzschild 
+*  Diagrama de Penrose 
+*  Estrella de neutrones 
+*  Galaxia activa 
+*  Galaxia elíptica M87 
+*  Historia del tiempo (libro de Hawking) 
+*  Magnetar 
+*  Microagujero negro 
+*  Objeto astronómico 
+*  Principio holográfico 
+*  Púlsar 
+*  Radiación de Hawking 
+*  Singularidad desnuda 
+*  Singularidad gravitacional 
+*  Teoría de los universos fecundos 
+*  Paradoja de la pérdida de información en agujeros negros 
+*  Anillo negro 
+*  Kugelblitz (astrofísica)  
+*  Anexo:Glosario de relatividadPersonas 
+*  Karl Schwarzschild 
+*  Kip Thorne 
+*  Leonard Susskind 
+*  Stephen Hawking""" ;
+    nif:beginIndex "26575" ;
+    nif:endIndex "27343" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_2733_2915> a nif:Sentence ;
+    nif:anchorOf "Hawking, en su libro divulgativo Historia del tiempo: del Big Bang a los agujeros negros (1988), repasa algunos de los hechos bien establecidos sobre la formación de agujeros negros." ;
+    nif:beginIndex "2733" ;
+    nif:endIndex "2915" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_2916_3083> a nif:Sentence ;
+    nif:anchorOf "Este proceso comienza después de la muerte de una gigante roja (estrella de 30 o más veces la masa del Sol), entendiéndose por muerte la extinción total de su energía." ;
+    nif:beginIndex "2916" ;
+    nif:endIndex "3083" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_3084_3303> a nif:Sentence ;
+    nif:anchorOf "Tras varios miles de millones de años de vida, la fuerza gravitatoria de dicha estrella comienza a ejercer fuerza sobre sí misma originando una masa concentrada en un pequeño volumen, convirtiéndose en una enana blanca." ;
+    nif:beginIndex "3084" ;
+    nif:endIndex "3303" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_3304_3481> a nif:Sentence ;
+    nif:anchorOf "En este punto, dicho proceso puede proseguir hasta el colapso de dicho astro por la autoatracción gravitatoria que termina por convertir a esta enana blanca en un agujero negro." ;
+    nif:beginIndex "3304" ;
+    nif:endIndex "3481" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_3482_3579> a nif:Sentence ;
+    nif:anchorOf "Este proceso acaba por reunir una fuerza de atracción tan fuerte que atrapa hasta la luz en éste." ;
+    nif:beginIndex "3482" ;
+    nif:endIndex "3579" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_3580_3712> a nif:Sentence ;
+    nif:anchorOf "En palabras más simples, un agujero negro es el resultado final de la acción de la gravedad extrema llevada hasta el límite posible." ;
+    nif:beginIndex "3580" ;
+    nif:endIndex "3712" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_3713_3843> a nif:Sentence ;
+    nif:anchorOf "La misma gravedad que mantiene a la estrella estable, la empieza a comprimir hasta el punto que los átomos comienzan a aplastarse." ;
+    nif:beginIndex "3713" ;
+    nif:endIndex "3843" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_3844_4076> a nif:Sentence ;
+    nif:anchorOf "Los electrones en órbita se acercan cada vez más al núcleo atómico y acaban fusionándose con los protones, formando más neutrones mediante el proceso: Por lo que este proceso comportaría la emisión de un número elevado de neutrinos." ;
+    nif:beginIndex "3844" ;
+    nif:endIndex "4076" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_398_520> a nif:Sentence ;
+    nif:anchorOf "La radiación emitida por agujeros negros como Cygnus X-1 no procede del propio agujero negro sino de su disco de acreción." ;
+    nif:beginIndex "398" ;
+    nif:endIndex "520" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_4077_4123> a nif:Sentence ;
+    nif:anchorOf "El resultado final, una estrella de neutrones." ;
+    nif:beginIndex "4077" ;
+    nif:endIndex "4123" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_4124_4347> a nif:Sentence ;
+    nif:anchorOf "En este punto, dependiendo de la masa de la estrella, el plasma de neutrones dispara una reacción en cadena irreversible, la gravedad aumenta enormemente al disminuirse la distancia que había originalmente entre los átomos." ;
+    nif:beginIndex "4124" ;
+    nif:endIndex "4347" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_4348_4531> a nif:Sentence ;
+    nif:anchorOf "Las partículas de neutrones implosionan, aplastándose más, logrando como resultado un agujero negro, que es una región del espacio-tiempo limitada por el llamado horizonte de sucesos." ;
+    nif:beginIndex "4348" ;
+    nif:endIndex "4531" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_4532_4829> a nif:Sentence ;
+    nif:anchorOf """Los detalles de qué sucede con la materia que cae más allá de este horizonte dentro de un agujero negro no se conocen porque para escalas pequeñas sólo una teoría cuántica de la gravedad podría explicarlos adecuadamente, pero no existe una formulación completamente consistente con dicha teoría.
+
+""" ;
+    nif:beginIndex "4532" ;
+    nif:endIndex "4829" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_4829_5023> a nif:Sentence ;
+    nif:anchorOf """Historia
+El concepto de un cuerpo tan denso que ni siquiera la luz puede escapar de él, fue descrito en un artículo enviado en 1783 a la Royal Society por un geólogo inglés llamado John Michell.""" ;
+    nif:beginIndex "4829" ;
+    nif:endIndex "5023" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_5024_5137> a nif:Sentence ;
+    nif:anchorOf "Por aquel entonces la teoría de Newton de la gravitación y el concepto de velocidad de escape eran muy conocidas." ;
+    nif:beginIndex "5024" ;
+    nif:endIndex "5137" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_5138_5313> a nif:Sentence ;
+    nif:anchorOf "Michell calculó que un cuerpo con un radio 500 veces el del Sol y la misma densidad, tendría, en su superficie, una velocidad de escape igual a la de la luz y sería invisible." ;
+    nif:beginIndex "5138" ;
+    nif:endIndex "5313" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_521_679> a nif:Sentence ;
+    nif:anchorOf "La gravedad de un agujero negro, o «curvatura del espacio-tiempo», provoca una singularidad envuelta por una superficie cerrada, llamada horizonte de sucesos." ;
+    nif:beginIndex "521" ;
+    nif:endIndex "679" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_5314_5587> a nif:Sentence ;
+    nif:anchorOf "En 1796, el matemático francés Pierre-Simon Laplace explicó en las dos primeras ediciones de su libro Exposition du Systeme du Monde la misma idea aunque, al ganar terreno la idea de que la luz era una onda sin masa, en el siglo XIX fue descartada en ediciones posteriores." ;
+    nif:beginIndex "5314" ;
+    nif:endIndex "5587" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_5588_5707> a nif:Sentence ;
+    nif:anchorOf "En 1915, Einstein desarrolló la relatividad general y demostró que la luz era influida por la interacción gravitatoria." ;
+    nif:beginIndex "5588" ;
+    nif:endIndex "5707" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_5708_5840> a nif:Sentence ;
+    nif:anchorOf "Unos meses después, Karl Schwarzschild encontró una solución a las ecuaciones de Einstein, donde un cuerpo pesado absorbería la luz." ;
+    nif:beginIndex "5708" ;
+    nif:endIndex "5840" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_5841_6005> a nif:Sentence ;
+    nif:anchorOf "Se sabe ahora que el radio de Schwarzschild es el radio del horizonte de sucesos de un agujero negro que no gira, pero esto no era bien entendido en aquel entonces." ;
+    nif:beginIndex "5841" ;
+    nif:endIndex "6005" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_6006_6090> a nif:Sentence ;
+    nif:anchorOf "El propio Schwarzschild pensó que no era más que una solución matemática, no física." ;
+    nif:beginIndex "6006" ;
+    nif:endIndex "6090" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_6091_6466> a nif:Sentence ;
+    nif:anchorOf "En 1930, Subrahmanyan Chandrasekhar demostró que un cuerpo con una masa crítica, (ahora conocida como límite de Chandrasekhar) y que no emitiese radiación, colapsaría por su propia gravedad porque no había nada que se conociera que pudiera frenarla (para dicha masa la fuerza de atracción gravitatoria sería mayor que la proporcionada por el principio de exclusión de Pauli)." ;
+    nif:beginIndex "6091" ;
+    nif:endIndex "6466" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_6467_6730> a nif:Sentence ;
+    nif:anchorOf "Sin embargo, Eddington se opuso a la idea de que la estrella alcanzaría un tamaño nulo, lo que implicaría una singularidad desnuda de materia, y que debería haber algo que inevitablemente pusiera freno al colapso, línea adoptada por la mayoría de los científicos." ;
+    nif:beginIndex "6467" ;
+    nif:endIndex "6730" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_6731_6901> a nif:Sentence ;
+    nif:anchorOf "En 1939, Robert Oppenheimer predijo que una estrella masiva podría sufrir un colapso gravitatorio y, por tanto, los agujeros negros podrían ser formados en la naturaleza." ;
+    nif:beginIndex "6731" ;
+    nif:endIndex "6901" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_680_738> a nif:Sentence ;
+    nif:anchorOf "Esto es previsto por las ecuaciones del campo de Einstein." ;
+    nif:beginIndex "680" ;
+    nif:endIndex "738" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_6902_7066> a nif:Sentence ;
+    nif:anchorOf "Esta teoría no fue objeto de mucha atención hasta los años 60 porque, después de la Segunda Guerra Mundial, se tenía más interés en lo que sucedía a escala atómica." ;
+    nif:beginIndex "6902" ;
+    nif:endIndex "7066" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_7067_7287> a nif:Sentence ;
+    nif:anchorOf "En 1967, Stephen Hawking y Roger Penrose probaron que los agujeros negros son soluciones a las ecuaciones de Einstein y que en determinados casos no se podía impedir que se crease un agujero negro a partir de un colapso." ;
+    nif:beginIndex "7067" ;
+    nif:endIndex "7287" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_7288_7417> a nif:Sentence ;
+    nif:anchorOf "La idea de agujero negro tomó fuerza con los avances científicos y experimentales que llevaron al descubrimiento de los púlsares." ;
+    nif:beginIndex "7288" ;
+    nif:endIndex "7417" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_739_933> a nif:Sentence ;
+    nif:anchorOf "El horizonte de sucesos separa la región del agujero negro del resto del universo y es la superficie límite del espacio a partir de la cual ninguna partícula puede salir, incluyendo los fotones." ;
+    nif:beginIndex "739" ;
+    nif:endIndex "933" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_7418_7626> a nif:Sentence ;
+    nif:anchorOf """Poco después, en 1969, John Wheeler acuñó el término "agujero negro" durante una reunión de cosmólogos en Nueva York, para designar lo que anteriormente se llamó "estrella en colapso gravitatorio completo".
+
+""" ;
+    nif:beginIndex "7418" ;
+    nif:endIndex "7626" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_7626_7829> a nif:Sentence ;
+    nif:anchorOf """Clasificación teórica
+Según su origen, teóricamente pueden existir al menos tres clases de agujeros negros:
+
+Según la masa
+
+*  Agujeros negros supermasivos: con masas de varios millones de masas solares.""" ;
+    nif:beginIndex "7626" ;
+    nif:endIndex "7829" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_7830_7876> a nif:Sentence ;
+    nif:anchorOf "Se hallarían en el corazón de muchas galaxias." ;
+    nif:beginIndex "7830" ;
+    nif:endIndex "7876" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_7877_7967> a nif:Sentence ;
+    nif:anchorOf """Se forman en el mismo proceso que da origen a los componentes esféricos de las galaxias. 
+""" ;
+    nif:beginIndex "7877" ;
+    nif:endIndex "7967" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_7967_8002> a nif:Sentence ;
+    nif:anchorOf "*  Agujeros negros de masa estelar." ;
+    nif:beginIndex "7967" ;
+    nif:endIndex "8002" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_8003_8111> a nif:Sentence ;
+    nif:anchorOf "Se forman cuando una estrella de masa 2,5 veces mayor que la del Sol se convierte en supernova e implosiona." ;
+    nif:beginIndex "8003" ;
+    nif:endIndex "8111" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_8112_8195> a nif:Sentence ;
+    nif:anchorOf "Su núcleo se concentra en un volumen muy pequeño que cada vez se va reduciendo más." ;
+    nif:beginIndex "8112" ;
+    nif:endIndex "8195" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_8196_8306> a nif:Sentence ;
+    nif:anchorOf """Este es el tipo de agujeros negros postulados por primera vez dentro de la teoría de la relatividad general. 
+""" ;
+    nif:beginIndex "8196" ;
+    nif:endIndex "8306" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_8306_8331> a nif:Sentence ;
+    nif:anchorOf "*  Micro agujeros negros." ;
+    nif:beginIndex "8306" ;
+    nif:endIndex "8331" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_8332_8393> a nif:Sentence ;
+    nif:anchorOf "Son objetos hipotéticos, algo más pequeños que los estelares." ;
+    nif:beginIndex "8332" ;
+    nif:endIndex "8393" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_8394_8529> a nif:Sentence ;
+    nif:anchorOf "Si son suficientemente pequeños, pueden llegar a evaporarse en un período relativamente corto mediante emisión de radiación de Hawking." ;
+    nif:beginIndex "8394" ;
+    nif:endIndex "8529" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_8530_8750> a nif:Sentence ;
+    nif:anchorOf """Este tipo de entidades físicas es postulado en algunos enfoques de la gravedad cuántica, pero no pueden ser generados por un proceso convencional de colapso gravitatorio, el cual requiere masas superiores a la del Sol.
+
+""" ;
+    nif:beginIndex "8530" ;
+    nif:endIndex "8750" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_8750_9135> a nif:Sentence ;
+    nif:anchorOf """Según sus propiedades físicas
+Existe un teorema sobre propiedades de los agujeros negros que se suele enunciar diciendo que «un agujero negro no tiene pelo» (en inglés No-hair theorem); el teorema afirma que cualquier objeto que sufra un colapso gravitatorio alcanza un estado estacionario como agujero negro descrito sólo por tres parámetros: su masa , su carga y su momento angular .""" ;
+    nif:beginIndex "8750" ;
+    nif:endIndex "9135" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_9136_9326> a nif:Sentence ;
+    nif:anchorOf """Así tenemos la siguiente clasificación para el estado final de un agujero negro: 
+*  El agujero negro más sencillo posible es el agujero negro de Schwarzschild, que no rota ni tiene carga. 
+""" ;
+    nif:beginIndex "9136" ;
+    nif:endIndex "9326" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_9326_9426> a nif:Sentence ;
+    nif:anchorOf """*  Si no gira pero posee carga eléctrica, se tiene el llamado agujero negro de Reissner-Nordstrøm. 
+""" ;
+    nif:beginIndex "9326" ;
+    nif:endIndex "9426" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_934_1067> a nif:Sentence ;
+    nif:anchorOf "Dicha curvatura es estudiada por la relatividad general, la que predijo la existencia de los agujeros negros y fue su primer indicio." ;
+    nif:beginIndex "934" ;
+    nif:endIndex "1067" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_9426_9500> a nif:Sentence ;
+    nif:anchorOf """*  Un agujero negro en rotación y sin carga es un agujero negro de Kerr. 
+""" ;
+    nif:beginIndex "9426" ;
+    nif:endIndex "9500" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_9500_9570> a nif:Sentence ;
+    nif:anchorOf "*  Si además posee carga, hablamos de un agujero negro de Kerr-Newman." ;
+    nif:beginIndex "9500" ;
+    nif:endIndex "9570" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=sentence_offset_9571_10018> a nif:Sentence ;
+    nif:anchorOf """Las cuatro soluciones anteriores puede sistematizarse de la siguiente manera:
+
+Descripción teórica
+
+
+Zonas observables
+En las cercanías de un agujero negro se suele formar un disco de acrecimiento, compuesto de materia con momento angular, carga eléctrica y masa, la que es afectada por la enorme atracción gravitatoria del mismo, ocasionando que inexorablemente atraviese el horizonte de sucesos y, por lo tanto, incremente el tamaño del agujero.""" ;
+    nif:beginIndex "9571" ;
+    nif:endIndex "10018" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agujero_negro?dbpv=2016-10&nif=context> .
+

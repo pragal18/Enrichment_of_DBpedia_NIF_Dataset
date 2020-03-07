@@ -1,0 +1,144 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_0_67> a nif:Sentence ;
+    nif:anchorOf "Ampelodesmos, es un género de plantas de la familia de las Poáceas." ;
+    nif:beginIndex "0" ;
+    nif:endIndex "67" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_1039_1207> a nif:Sentence ;
+    nif:anchorOf """Citología El número cromosómico básico del género es x = 12, con números cromosómicos somáticos de 2n = 48 y 96, ya que hay especies diploides y una serie poliploide.
+
+""" ;
+    nif:beginIndex "1039" ;
+    nif:endIndex "1207" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_1207_1358> a nif:Sentence ;
+    nif:anchorOf """Especies aceptadas
+A continuación se brinda un listado de las especies del género Ampelodesmos aceptadas hasta mayo de 2014, ordenadas alfabéticamente.""" ;
+    nif:beginIndex "1207" ;
+    nif:endIndex "1358" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_126_173> a nif:Sentence ;
+    nif:anchorOf """Es el único género de la tribu Ampelodesmeae.
+
+""" ;
+    nif:beginIndex "126" ;
+    nif:endIndex "173" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_1359_1463> a nif:Sentence ;
+    nif:anchorOf """Para cada una se indica el nombre binomial seguido del autor, abreviado según las convenciones y usos. 
+""" ;
+    nif:beginIndex "1359" ;
+    nif:endIndex "1463" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_1463_1497> a nif:Sentence ;
+    nif:anchorOf "*  Ampelodesmos ampelodesmon (Cyr." ;
+    nif:beginIndex "1463" ;
+    nif:endIndex "1497" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_1497_1725> a nif:Sentence ;
+    nif:anchorOf """) M.Kerguelen  
+*  Ampelodesmos mauritanica (Poir.) T.Durand et Schinz
+
+Véase también
+
+*  Terminología descriptiva de las plantas 
+*  Anexo:Cronología de la botánica 
+*  Historia de la Botánica 
+*  Características de las poáceas""" ;
+    nif:beginIndex "1497" ;
+    nif:endIndex "1725" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_173_228> a nif:Sentence ;
+    nif:anchorOf """Descripción
+Son robustas plantas perennes; rizomatosas.""" ;
+    nif:beginIndex "173" ;
+    nif:endIndex "228" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_229_293> a nif:Sentence ;
+    nif:anchorOf "Tallos de 60 cm a 3,5 m de altura; herbácea; internudos sólidos." ;
+    nif:beginIndex "229" ;
+    nif:endIndex "293" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_294_315> a nif:Sentence ;
+    nif:anchorOf "Hojas no auriculadas." ;
+    nif:beginIndex "294" ;
+    nif:endIndex "315" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_316_418> a nif:Sentence ;
+    nif:anchorOf "Láminas de las hojas duras; angostas; chatas, o enrolladas; no pseudopecioladas; sin venación cruzada." ;
+    nif:beginIndex "316" ;
+    nif:endIndex "418" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_419_471> a nif:Sentence ;
+    nif:anchorOf "Lígula membranosa; no truncada; de 6–12 mm de largo." ;
+    nif:beginIndex "419" ;
+    nif:endIndex "471" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_472_562> a nif:Sentence ;
+    nif:anchorOf "Son plantas diclino monoicas (bisexuales), con espigas bisexuales; y flores hermafroditas." ;
+    nif:beginIndex "472" ;
+    nif:endIndex "562" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_563_610> a nif:Sentence ;
+    nif:anchorOf "Inflorescencia paniculada; abierta; espatulada." ;
+    nif:beginIndex "563" ;
+    nif:endIndex "610" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_611_656> a nif:Sentence ;
+    nif:anchorOf """Ejes de la espiga persistentes; pedicelada.
+
+""" ;
+    nif:beginIndex "611" ;
+    nif:endIndex "656" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_656_776> a nif:Sentence ;
+    nif:anchorOf """Taxonomía
+El género fue descrito por Heinrich Friedrich Link y publicado en Hortus Regius Botanicus Berolinensis 1: 136.""" ;
+    nif:beginIndex "656" ;
+    nif:endIndex "776" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_68_125> a nif:Sentence ;
+    nif:anchorOf "Es originario de la región del Mediterráneo y de Eurasia." ;
+    nif:beginIndex "68" ;
+    nif:endIndex "125" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_777_782> a nif:Sentence ;
+    nif:anchorOf "1827." ;
+    nif:beginIndex "777" ;
+    nif:endIndex "782" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_783_834> a nif:Sentence ;
+    nif:anchorOf "La especie tipo es: Ampelodesmos mauritanica (Poir." ;
+    nif:beginIndex "783" ;
+    nif:endIndex "834" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=sentence_offset_834_1038> a nif:Sentence ;
+    nif:anchorOf ") T.Durand et Schinz Etimología Ampelodesmos: nombre genérico que deriva de la palabra griega: Ampelodesmos, un nombre antiguo para la especie Lygeum spartum que se utilizó en Sicilia para atar las vides." ;
+    nif:beginIndex "834" ;
+    nif:endIndex "1038" ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+

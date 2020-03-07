@@ -1,0 +1,347 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_0_205> a nif:Sentence ;
+    nif:anchorOf "Agricultural science is a broad multidisciplinary field of biology that encompasses the parts of exact, natural, economic and social sciences that are used in the practice and understanding of agriculture." ;
+    nif:beginIndex "0" ;
+    nif:endIndex "205" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_1233_1690> a nif:Sentence ;
+    nif:anchorOf """*  Transformation of primary products into end-consumer products (e.g., production, preservation, and packaging of dairy products) 
+*  Prevention and correction of adverse environmental effects (e.g., soil degradation, waste management, bioremediation) 
+*  Theoretical production ecology, relating to crop production modeling 
+*  Traditional agricultural systems, sometimes termed subsistence agriculture, which feed most of the poorest people in the world.""" ;
+    nif:beginIndex "1233" ;
+    nif:endIndex "1690" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_1691_1914> a nif:Sentence ;
+    nif:anchorOf "These systems are of interest as they sometimes retain a level of integration with natural ecological systems greater than that of industrial agriculture, which may be more sustainable than some modern agricultural systems." ;
+    nif:beginIndex "1691" ;
+    nif:endIndex "1914" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_1916_2066> a nif:Sentence ;
+    nif:anchorOf "*  Food production and demand on a global basis, with special attention paid to the major producers, such as China, India, Brazil, the USA and the EU." ;
+    nif:beginIndex "1916" ;
+    nif:endIndex "2066" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_2068_2148> a nif:Sentence ;
+    nif:anchorOf "*  Various sciences relating to agricultural resources and the environment (e.g." ;
+    nif:beginIndex "2068" ;
+    nif:endIndex "2148" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_206_290> a nif:Sentence ;
+    nif:anchorOf "(Veterinary science, but not animal science, is often excluded from the definition.)" ;
+    nif:beginIndex "206" ;
+    nif:endIndex "290" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_2149_2228> a nif:Sentence ;
+    nif:anchorOf "soil science, agroclimatology); biology of agricultural crops and animals (e.g." ;
+    nif:beginIndex "2149" ;
+    nif:endIndex "2228" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_2229_2291> a nif:Sentence ;
+    nif:anchorOf "crop science, animal science and their included sciences, e.g." ;
+    nif:beginIndex "2229" ;
+    nif:endIndex "2291" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_2292_2453> a nif:Sentence ;
+    nif:anchorOf "ruminant nutrition, farm animal welfare); such fields as agricultural economics and rural sociology; various disciplines encompassed in agricultural engineering." ;
+    nif:beginIndex "2292" ;
+    nif:endIndex "2453" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_2455_2773> a nif:Sentence ;
+    nif:anchorOf """Agricultural biotechnology
+Agricultural biotechnology is a specific area of agricultural science involving the use of scientific tools and techniques, including genetic engineering, molecular markers, molecular diagnostics, vaccines, and tissue culture, to modify living organisms: plants, animals, and microorganisms.""" ;
+    nif:beginIndex "2455" ;
+    nif:endIndex "2773" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_2775_2995> a nif:Sentence ;
+    nif:anchorOf """Fertilizer
+One of the most common yield reducers is because of fertilizer not being applied in slightly higher quantities during transition period, the time it takes the soil to rebuild its aggregates and organic matter.""" ;
+    nif:beginIndex "2775" ;
+    nif:endIndex "2995" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_292_375> a nif:Sentence ;
+    nif:anchorOf """Agriculture, agricultural science, and agronomy
+The three terms are often confused.""" ;
+    nif:beginIndex "292" ;
+    nif:endIndex "375" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_2996_3358> a nif:Sentence ;
+    nif:anchorOf """Yields will decrease temporarily because of nitrogen being immobilized in the crop residue, which can take a few months to several years to decompose, depending on the crop's C to N ratio and the local environment
+
+A local science
+With the exception of theoretical agronomy, research in agronomy, more than in any other field, is strongly related to local areas.""" ;
+    nif:beginIndex "2996" ;
+    nif:endIndex "3358" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_3359_3525> a nif:Sentence ;
+    nif:anchorOf "It can be considered a science of ecoregions, because it is closely linked to soil properties and climate, which are never exactly the same from one place to another." ;
+    nif:beginIndex "3359" ;
+    nif:endIndex "3525" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_3526_3671> a nif:Sentence ;
+    nif:anchorOf "Many people think an agricultural production system relying on local weather, soil characteristics, and specific crops has to be studied locally." ;
+    nif:beginIndex "3526" ;
+    nif:endIndex "3671" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_3672_3814> a nif:Sentence ;
+    nif:anchorOf "Others feel a need to know and understand production systems in as many areas as possible, and the human dimension of interaction with nature." ;
+    nif:beginIndex "3672" ;
+    nif:endIndex "3814" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_376_542> a nif:Sentence ;
+    nif:anchorOf """However, they cover different concepts: 
+* Agriculture is the set of activities that transform the environment for the production of animals and plants for human use.""" ;
+    nif:beginIndex "376" ;
+    nif:endIndex "542" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_3816_4098> a nif:Sentence ;
+    nif:anchorOf """History of agricultural science
+(Main article: History of agricultural science)
+Agricultural science began with Gregor Mendel's genetic work, but in modern terms might be better dated from the chemical fertilizer outputs of plant physiological understanding in 18th-century Germany.""" ;
+    nif:beginIndex "3816" ;
+    nif:endIndex "4098" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_4099_4237> a nif:Sentence ;
+    nif:anchorOf "In the United States, a scientific revolution in agriculture began with the Hatch Act of 1887, which used the term \"agricultural science\"." ;
+    nif:beginIndex "4099" ;
+    nif:endIndex "4237" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_4238_4343> a nif:Sentence ;
+    nif:anchorOf "The Hatch Act was driven by farmers' interest in knowing the constituents of early artificial fertilizer." ;
+    nif:beginIndex "4238" ;
+    nif:endIndex "4343" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_4344_4479> a nif:Sentence ;
+    nif:anchorOf "The Smith-Hughes Act of 1917 shifted agricultural education back to its vocational roots, but the scientific foundation had been built." ;
+    nif:beginIndex "4344" ;
+    nif:endIndex "4479" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_4480_4599> a nif:Sentence ;
+    nif:anchorOf "After 1906, public expenditures on agricultural research in the US exceeded private expenditures for the next 44 years." ;
+    nif:beginIndex "4480" ;
+    nif:endIndex "4599" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_4600_4932> a nif:Sentence ;
+    nif:anchorOf "Intensification of agriculture since the 1960s in developed and developing countries, often referred to as the Green Revolution, was closely tied to progress made in selecting and improving crops and animals for high productivity, as well as to developing additional inputs such as artificial fertilizers and phytosanitary products." ;
+    nif:beginIndex "4600" ;
+    nif:endIndex "4932" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_4933_5244> a nif:Sentence ;
+    nif:anchorOf "As the oldest and largest human intervention in nature, the environmental impact of agriculture in general and more recently intensive agriculture, industrial development, and population growth have raised many questions among agricultural scientists and have led to the development and emergence of new fields." ;
+    nif:beginIndex "4933" ;
+    nif:endIndex "5244" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_5245_5607> a nif:Sentence ;
+    nif:anchorOf "These include technological fields that assume the solution to technological problems lies in better technology, such as integrated pest management, waste treatment technologies, landscape architecture, genomics, and agricultural philosophy fields that include references to food production as something essentially different from non-essential economic 'goods'." ;
+    nif:beginIndex "5245" ;
+    nif:endIndex "5607" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_543_624> a nif:Sentence ;
+    nif:anchorOf "Agriculture concerns techniques, including the application of agronomic research." ;
+    nif:beginIndex "543" ;
+    nif:endIndex "624" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_5608_5735> a nif:Sentence ;
+    nif:anchorOf "In fact, the interaction between these two approaches provide a fertile field for deeper understanding in agricultural science." ;
+    nif:beginIndex "5608" ;
+    nif:endIndex "5735" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_5736_6010> a nif:Sentence ;
+    nif:anchorOf "New technologies, such as biotechnology and computer science (for data processing and storage), and technological advances have made it possible to develop new research fields, including genetic engineering, agrophysics, improved statistical analysis, and precision farming." ;
+    nif:beginIndex "5736" ;
+    nif:endIndex "6010" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_6011_6297> a nif:Sentence ;
+    nif:anchorOf "Balancing these, as above, are the natural and human sciences of agricultural science that seek to understand the human-nature interactions of traditional agriculture, including interaction of religion and agriculture, and the non-material components of agricultural production systems." ;
+    nif:beginIndex "6011" ;
+    nif:endIndex "6297" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_626_717> a nif:Sentence ;
+    nif:anchorOf "* Agronomy is research and development related to studying and improving plant-based crops." ;
+    nif:beginIndex "626" ;
+    nif:endIndex "717" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_6299_6837> a nif:Sentence ;
+    nif:anchorOf """Prominent agricultural scientists
+
+*  Robert Bakewell 
+*  Norman Borlaug 
+*  Luther Burbank 
+*  George Washington Carver 
+*  René Dumont 
+*  Sir Albert Howard 
+*  Kailas Nath Kaul 
+*  Justus von Liebig 
+*  Jay Lush 
+*  Gregor Mendel 
+*  Louis Pasteur 
+*  M. S. Swaminathan 
+*  Jethro Tull 
+*  Artturi Ilmari Virtanen 
+*  Eli Whitney 
+*  Sewall Wright
+
+Agricultural science and agriculture crisis
+Agriculture sciences seek to feed the world's population while preventing biosafety problems that may affect human health and the environment.""" ;
+    nif:beginIndex "6299" ;
+    nif:endIndex "6837" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_6838_7052> a nif:Sentence ;
+    nif:anchorOf "This requires promoting good management of natural resources and respect for the environment, and increasingly concern for the psychological wellbeing of all concerned in the food production and consumption system." ;
+    nif:beginIndex "6838" ;
+    nif:endIndex "7052" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_7053_7152> a nif:Sentence ;
+    nif:anchorOf "Economic, environmental, and social aspects of agriculture sciences are subjects of ongoing debate." ;
+    nif:beginIndex "7053" ;
+    nif:endIndex "7152" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_7153_7327> a nif:Sentence ;
+    nif:anchorOf "Recent crises (such as avian influenza, mad cow disease and issues such as the use of genetically modified organisms) illustrate the complexity and importance of this debate." ;
+    nif:beginIndex "7153" ;
+    nif:endIndex "7327" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_718_1231> a nif:Sentence ;
+    nif:anchorOf """Agricultural sciences include research and development on: 
+*  Production techniques (e.g., irrigation management, recommended nitrogen inputs) 
+*  Improving agricultural productivity in terms of quantity and quality (e.g., selection of drought-resistant crops and animals, development of new pesticides, yield-sensing technologies, simulation models of crop growth, in-vitro cell culture techniques) 
+*  Minimizing the effects of pests (weeds, insects, pathogens, nematodes) on crop or animal production systems.""" ;
+    nif:beginIndex "718" ;
+    nif:endIndex "1231" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_7329_8635> a nif:Sentence ;
+    nif:anchorOf """Fields or related disciplines
+
+
+See also
+
+*  Agriculture ministry 
+*  Agricultural sciences basic topics 
+*  Agroecology 
+*  American Society of Agronomy 
+*  Genomics of domestication 
+*  List of agriculture topics 
+*  History of agricultural science 
+*  Institute of Food and Agricultural Sciences 
+*  International Assessment of Agricultural Science and Technology for Development 
+*  International Food Policy Research Institute, IFPRI 
+*  Research Institute of Crop Production (RICP) (in the Czech Republic) 
+*  University of Agricultural Sciences 
+*  National FFA Organization 
+*  Agricultural Research Council
+
+Further reading
+
+* Agricultural Research, Livelihoods, and Poverty: Studies of Economic and Social Impacts in Six Countries Edited by Michelle Adato and Ruth Meinzen-Dick (2007), Johns Hopkins University Press Food Policy Report 
+* Claude Bourguignon, Regenerating the Soil: From Agronomy to Agrology, Other India Press, 2005 
+* Pimentel David, Pimentel Marcia, Computer les kilocalories, Cérès, n. 59, sept-oct. 1977 
+* Russell E. Walter, Soil conditions and plant growth, Longman group, London, New York 1973 
+* Salamini Francesco, Oezkan Hakan, Brandolini Andrea, Schaefer-Pregl Ralf, Martin William, Genetics and geography of wild cereal domestication in the Near East, in Nature, vol.""" ;
+    nif:beginIndex "7329" ;
+    nif:endIndex "8635" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_8636_8642> a nif:Sentence ;
+    nif:anchorOf "3, ju." ;
+    nif:beginIndex "8636" ;
+    nif:endIndex "8642" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_8643_8823> a nif:Sentence ;
+    nif:anchorOf """2002 
+* Saltini Antonio, Storia delle scienze agrarie, 4 vols, Bologna 1984-89, ISBN 88-206-2412-5, ISBN 88-206-2413-3, ISBN 88-206-2414-1, ISBN 88-206-2415-X 
+* Vavilov Nicolai I.""" ;
+    nif:beginIndex "8643" ;
+    nif:endIndex "8823" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_8824_8917> a nif:Sentence ;
+    nif:anchorOf "(Starr Chester K. editor), The Origin, Variation, Immunity and Breeding of Cultivated Plants." ;
+    nif:beginIndex "8824" ;
+    nif:endIndex "8917" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_8918_9247> a nif:Sentence ;
+    nif:anchorOf """Selected Writings, in Chronica botanica, 13: 1-6, Waltham, Mass., 1949–50 
+* Vavilov Nicolai I., World Resources of Cereals, Leguminous Seed Crops and Flax, Academy of Sciences of Urss, National Science Foundation, Washington, Israel Program for Scientific Translations, Jerusalem 1960 
+* Winogradsky Serge, Microbiologie du sol.""" ;
+    nif:beginIndex "8918" ;
+    nif:endIndex "9247" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_9248_9270> a nif:Sentence ;
+    nif:anchorOf "Problèmes et methodes." ;
+    nif:beginIndex "9248" ;
+    nif:endIndex "9270" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_9271_9705> a nif:Sentence ;
+    nif:anchorOf """Cinquante ans de recherches, Masson & c.ie, Paris 1949
+
+References
+
+
+External links
+
+*  Consultative Group on International Agricultural Research (CGIAR) 
+*  Agricultural Research Service 
+*  Indian Council of Agricultural Research 
+*  International Institute of Tropical Agriculture 
+*  International Livestock Research Institute 
+*  The National Agricultural Library (NAL) - The most comprehensive agricultural library in the world.""" ;
+    nif:beginIndex "9271" ;
+    nif:endIndex "9705" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=sentence_offset_9707_10212> a nif:Sentence ;
+    nif:anchorOf """*  Crop Science Society of America 
+*  American Society of Agronomy 
+*  Soil Science Society of America 
+*  Agricultural Science Researchers, Jobs and Discussions 
+* Information System for Agriculture and Food Research 
+* South Dakota Agricultural Laboratories 
+* NMSU Department of Entomology Plant Pathology and Weed Science be-x-old:Аграноміяbg:Аграрни наукиda:Agronomies:Agronomíafr:Agronomieit:Agronomiahe:אגרונומיהnl:Landbouwkundeja:農学pl:Agronomiafi:Maataloustiedesv:Lantbruksvetenskapth:เกษตรศาสตร์""" ;
+    nif:beginIndex "9707" ;
+    nif:endIndex "10212" ;
+    nif:referenceContext <http://dbpedia.org/resource/Agricultural_science?dbpv=2016-10&nif=context> .
+

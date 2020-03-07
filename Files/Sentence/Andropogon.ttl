@@ -1,0 +1,111 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_0_64> a nif:Sentence ;
+    nif:anchorOf "Andropogon es un género de plantas de la familia de las poáceas." ;
+    nif:beginIndex "0" ;
+    nif:endIndex "64" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_1043_1048> a nif:Sentence ;
+    nif:anchorOf "1753." ;
+    nif:beginIndex "1043" ;
+    nif:endIndex "1048" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_1049_1267> a nif:Sentence ;
+    nif:anchorOf """La especie tipo es: Andropogon distachyos Etimología El nombre del género proviene del griego aner andr-(hombre) y pogon (barba), aludiendo a las vellosidades de los pedicelos de las espiguillas estériles masculinas.
+
+""" ;
+    nif:beginIndex "1049" ;
+    nif:endIndex "1267" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_125_170> a nif:Sentence ;
+    nif:anchorOf """Descripción
+Son plantas perennes, cespitosas.""" ;
+    nif:beginIndex "125" ;
+    nif:endIndex "170" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_1267_1276> a nif:Sentence ;
+    nif:anchorOf """Especies
+""" ;
+    nif:beginIndex "1267" ;
+    nif:endIndex "1276" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_171_226> a nif:Sentence ;
+    nif:anchorOf "Hojas con lígula membranosa, corta, ciliada en la base." ;
+    nif:beginIndex "171" ;
+    nif:endIndex "226" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_227_291> a nif:Sentence ;
+    nif:anchorOf "Inflorescencia compuesta por 2 racimos digitadamente dispuestos." ;
+    nif:beginIndex "227" ;
+    nif:endIndex "291" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_292_603> a nif:Sentence ;
+    nif:anchorOf "Espiguillas geminadas, articuladas por debajo de las glumas, ligeramente comprimidas dorsiventralmente, desiguales; la inferior de cada pareja sentada, con 1 flor inferior reducida a la lema y otra superior hermafrodita; la superior pedunculada, con 1 flor inferior reducida a la lema y otra superior masculina." ;
+    nif:beginIndex "292" ;
+    nif:endIndex "603" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_604_703> a nif:Sentence ;
+    nif:anchorOf "Glumas más largas que las flores; la inferior con 7-11 nervios y 2 quillas; la superior trinervada." ;
+    nif:beginIndex "604" ;
+    nif:endIndex "703" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_65_125> a nif:Sentence ;
+    nif:anchorOf """Es originario del este de los Estados Unidos y Sudamérica.
+
+""" ;
+    nif:beginIndex "65" ;
+    nif:endIndex "125" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_704_835> a nif:Sentence ;
+    nif:anchorOf "Lema de las flores hermafroditas con 1 arista terminal larga y geniculada; la de las flores masculinas con 1 arista terminal corta." ;
+    nif:beginIndex "704" ;
+    nif:endIndex "835" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_836_855> a nif:Sentence ;
+    nif:anchorOf "Pálea muy reducida." ;
+    nif:beginIndex "836" ;
+    nif:endIndex "855" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_856_874> a nif:Sentence ;
+    nif:anchorOf "Lodículas glabras." ;
+    nif:beginIndex "856" ;
+    nif:endIndex "874" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_875_900> a nif:Sentence ;
+    nif:anchorOf "Androceo con 3 estambres." ;
+    nif:beginIndex "875" ;
+    nif:endIndex "900" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_901_950> a nif:Sentence ;
+    nif:anchorOf """Cariopsis con embrión de c. 2/5 de su longitud.
+
+""" ;
+    nif:beginIndex "901" ;
+    nif:endIndex "950" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=sentence_offset_950_1042> a nif:Sentence ;
+    nif:anchorOf """Taxonomía
+El género fue descrito por Carlos Linneo y publicado en Species Plantarum 2: 1045.""" ;
+    nif:beginIndex "950" ;
+    nif:endIndex "1042" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+

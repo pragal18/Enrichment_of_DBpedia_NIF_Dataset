@@ -1,0 +1,295 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_0_123> a nif:Sentence ;
+    nif:anchorOf "(10) Hygie ou (10) Hygée est le quatrième plus gros astéroïde de la ceinture principale d'astéroïdes en volume et en masse." ;
+    nif:beginIndex "0" ;
+    nif:endIndex "123" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_1168_1227> a nif:Sentence ;
+    nif:anchorOf "Hygie fut la première de ses neuf découvertes d'astéroïdes." ;
+    nif:beginIndex "1168" ;
+    nif:endIndex "1227" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_1228_1374> a nif:Sentence ;
+    nif:anchorOf "Souhaitant le remercier pour ses encouragements, de Gasparis laissa le directeur de l'observatoire de Naples, Ernesto Capocci, nommer l'astéroïde." ;
+    nif:beginIndex "1228" ;
+    nif:endIndex "1374" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_124_374> a nif:Sentence ;
+    nif:anchorOf "Caractérisé par une forme oblongue et des diamètres de 350 à 500 kilomètres (217-310 mi), il possède une masse estimée à 2,9% de la masse totale de la ceinture, il est le plus grand de la classe des astéroïdes de type C, dotés d'une surface carbonée." ;
+    nif:beginIndex "124" ;
+    nif:endIndex "374" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_1375_1534> a nif:Sentence ;
+    nif:anchorOf "Capocci choisit de l'appeler Igea Borbonica (L'Hygie Bourbonne) en l'honneur de la famille régnante du Royaume des Deux-Siciles où se situe la ville de Naples." ;
+    nif:beginIndex "1375" ;
+    nif:endIndex "1534" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_1535_1736> a nif:Sentence ;
+    nif:anchorOf "Trois années plus tard, en 1852, John Russell Hind écrit que l'« astéroïde est universellement appelé Hygie, l'appendice inutile Bourbonne étant tombé » (ainsi que le ia final en faveur d'un simple a)." ;
+    nif:beginIndex "1535" ;
+    nif:endIndex "1736" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_1737_1836> a nif:Sentence ;
+    nif:anchorOf "Le nom vient d'Hygie, la déesse grecque de la santé, fille d'Asclépios (Esculape pour les Romains)." ;
+    nif:beginIndex "1737" ;
+    nif:endIndex "1836" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_1837_1968> a nif:Sentence ;
+    nif:anchorOf "Le nom a été parfois mal orthographié Hygeia au XIXe siècle, par exemple dans les Monthly Notices de la Royal Astronomical Society." ;
+    nif:beginIndex "1837" ;
+    nif:endIndex "1968" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_1969_2078> a nif:Sentence ;
+    nif:anchorOf "Les premiers astéroïdes découverts possèdent un symbole astronomique et celui d'Hygie est 30x20px ou 30x20px." ;
+    nif:beginIndex "1969" ;
+    nif:endIndex "2078" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_2080_2313> a nif:Sentence ;
+    nif:anchorOf """Caractéristiques physiques
+Sur la base de preuves obtenues par analyse spectrale, la surface d'Hygie est considérée comme composée de matériaux primitifs carbonés semblables à ceux trouvés dans les météorites chondritiques carbonées.""" ;
+    nif:beginIndex "2080" ;
+    nif:endIndex "2313" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_2314_2489> a nif:Sentence ;
+    nif:anchorOf "Des composés dérivés aqueux ont été détectés sur sa surface, ce qui pourrait indiquer la présence de glace d'eau par le passé, glace qui fut suffisamment chauffée pour fondre." ;
+    nif:beginIndex "2314" ;
+    nif:endIndex "2489" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_2490_2707> a nif:Sentence ;
+    nif:anchorOf "La composition de la surface actuelle d'Hygie indiquerait que le corps primitif n'a pas fondu au cours de la première période de formation du système solaire, contrairement à d'autres grands planétésimaux comme Vesta." ;
+    nif:beginIndex "2490" ;
+    nif:endIndex "2707" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_2708_2843> a nif:Sentence ;
+    nif:anchorOf "Hygie est le membre principal éponyme de la famille d'Hygie et contient la quasi-totalité de la masse (plus de 90%) dans cette famille." ;
+    nif:beginIndex "2708" ;
+    nif:endIndex "2843" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_2844_3073> a nif:Sentence ;
+    nif:anchorOf "Il est le plus grand de la classe des astéroïdes de type C, connus pour leur aspect sombre, et qui sont dominants dans la partie extérieure de la ceinture d'astéroïdes - qui se trouvent au-delà de la lacune de Kirkwood à 2.82 UA." ;
+    nif:beginIndex "2844" ;
+    nif:endIndex "3073" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_3074_3207> a nif:Sentence ;
+    nif:anchorOf "Hygie semble avoir une forme sensiblement sphéroïdale, avec un diamètre moyen de 444 ± 35 km et un rapport de demi-grand axe de 1,11." ;
+    nif:beginIndex "3074" ;
+    nif:endIndex "3207" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_3208_3340> a nif:Sentence ;
+    nif:anchorOf "Cela est beaucoup plus que pour les autres objets figurant dans les « quatre grands », soit Pallas, Vesta et la planète naine Cérès." ;
+    nif:beginIndex "3208" ;
+    nif:endIndex "3340" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_3341_3595> a nif:Sentence ;
+    nif:anchorOf "En plus d'être le plus petit des « quatre grands », Hygie, comme Cérès, a une densité relativement faible, valeur de densité qui la rapproche davantage des satellites glacés de Jupiter ou de Saturne que des planètes telluriques ou des astéroïdes rocheux." ;
+    nif:beginIndex "3341" ;
+    nif:endIndex "3595" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_3596_3850> a nif:Sentence ;
+    nif:anchorOf "Bien qu'il soit le corps céleste le plus grand de sa région, en raison de sa surface sombre et d'une distance au Soleil plus grande que la moyenne des astéroïdes de la ceinture, Hygie apparaît de très faible luminosité quand on l'observe depuis la Terre." ;
+    nif:beginIndex "3596" ;
+    nif:endIndex "3850" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_376_486> a nif:Sentence ;
+    nif:anchorOf """Observation
+Malgré sa taille, Hygie paraît d'une luminosité très faible lorsqu'il est observé depuis la Terre.""" ;
+    nif:beginIndex "376" ;
+    nif:endIndex "486" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_3851_4055> a nif:Sentence ;
+    nif:anchorOf "En fait, il est le troisième corps céleste le plus sombre parmi les vingt-trois premiers astéroïdes découverts, seulement (13) Égérie et (17) Thétis ont des magnitudes moyennes à l'opposition inférieures." ;
+    nif:beginIndex "3851" ;
+    nif:endIndex "4055" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_4056_4279> a nif:Sentence ;
+    nif:anchorOf "Dans la plupart des oppositions, Hygie se caractérise par une magnitude d'environ +10,2, ce qui équivaut à une luminosité quatre fois plus faible que Vesta, et son observation nécessite un télescope d'au moins 100mm (4 po)." ;
+    nif:beginIndex "4056" ;
+    nif:endIndex "4279" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_4280_4638> a nif:Sentence ;
+    nif:anchorOf "Cependant, lors de son opposition périhélique, la magnitude apparente d'Hygie peut atteindre +9,1 et le corps peut dont être observé avec des jumelles 10x50, à la différence des deux plus gros astéroïdes qui lui succèdent dans la ceinture d'astéroïdes, à savoir (704) Interamnia et (511) Davida, pour lesquels les jumelles ne permettent pas leur observation." ;
+    nif:beginIndex "4280" ;
+    nif:endIndex "4638" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_4639_4844> a nif:Sentence ;
+    nif:anchorOf "Au moins 5 occultations stellaires ont été suivies pour Hygie par les astronomes basés sur Terre, mais toutes effectuées par trop peu d'observateurs indépendants pour qu'on en sache davantage sur sa forme." ;
+    nif:beginIndex "4639" ;
+    nif:endIndex "4844" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_4845_5056> a nif:Sentence ;
+    nif:anchorOf "Le télescope spatial Hubble a pu déterminer les caractéristiques métriques de l'astéroïde, qui est sphéroïdal, et a exclu la présence de compagnon en orbite de plus de 16 kilomètres environ (9,9 mi) de diamètre." ;
+    nif:beginIndex "4845" ;
+    nif:endIndex "5056" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_487_552> a nif:Sentence ;
+    nif:anchorOf "Cela est dû à sa surface sombre corrélée à sa distance au Soleil." ;
+    nif:beginIndex "487" ;
+    nif:endIndex "552" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_5058_5212> a nif:Sentence ;
+    nif:anchorOf """Orbite et rotation
+En général, on considère que les propriétés d'Hygie sont les plus mal connues des « quatre grands » objets de la ceinture d'astéroïdes.""" ;
+    nif:beginIndex "5058" ;
+    nif:endIndex "5212" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_5213_5419> a nif:Sentence ;
+    nif:anchorOf "Son orbite est beaucoup plus proche du plan de l'écliptique que ne le sont ceux de Cérès, Pallas ou Interamnia, mais il est moins circulaire que ceux de Cérès ou Vesta , avec une excentricité d'environ 12%." ;
+    nif:beginIndex "5213" ;
+    nif:endIndex "5419" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_5420_5604> a nif:Sentence ;
+    nif:anchorOf "Son périhélie se caractérise par une longitude assez similaire à celles de Vesta et Cérès, bien que ses nœuds ascendant et descendant soient opposés aux nœuds respectifs de ces objets." ;
+    nif:beginIndex "5420" ;
+    nif:endIndex "5604" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_553_689> a nif:Sentence ;
+    nif:anchorOf "Pour cette raison, de nombreux petits astéroïdes ont été observés bien avant qu'Annibale de Gasparis ne découvre Hygie le 12 avril 1849." ;
+    nif:beginIndex "553" ;
+    nif:endIndex "689" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_5605_5831> a nif:Sentence ;
+    nif:anchorOf "Bien que son périhélie soit extrêmement proche de ceux de Cérès et Pallas, une collision entre Hygie et ses grands compagnons reste impossible, car à cette distance, ils se placent toujours à des bords opposés de l'écliptique." ;
+    nif:beginIndex "5605" ;
+    nif:endIndex "5831" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_5832_5911> a nif:Sentence ;
+    nif:anchorOf "En 2056, Hygie passera à 0.025 UA de Cérès, puis en 2063, à 0.020 UA de Pallas." ;
+    nif:beginIndex "5832" ;
+    nif:endIndex "5911" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_5912_6101> a nif:Sentence ;
+    nif:anchorOf "À l'aphélie Hygie se place à l'extrême bordure de la ceinture d'astéroïdes, soit au périhélie moyen des astéroïdes de la famille de Hilda, qui sont en résonance 3:2 avec la planète Jupiter." ;
+    nif:beginIndex "5912" ;
+    nif:endIndex "6101" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_6102_6192> a nif:Sentence ;
+    nif:anchorOf "Hygie est utilisé par le Minor Planet Center pour calculer les perturbations de ces corps." ;
+    nif:beginIndex "6102" ;
+    nif:endIndex "6192" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_6193_6379> a nif:Sentence ;
+    nif:anchorOf "Hygie est un corps en rotation anormalement lent, il met 27 heures et 37 minutes pour effectuer une révolution complète, alors que 6 à 12 heures sont plus typiques des grands astéroïdes." ;
+    nif:beginIndex "6193" ;
+    nif:endIndex "6379" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_6380_6601> a nif:Sentence ;
+    nif:anchorOf "Son sens de rotation n'est pas connu de façon certaine à l'heure actuelle (2016), en raison d'une double ambiguïté dans les données de ses courbes de lumière, ambiguïté qui est amplifiée par sa longue période de rotation." ;
+    nif:beginIndex "6380" ;
+    nif:endIndex "6601" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_6602_6716> a nif:Sentence ;
+    nif:anchorOf "De ce fait une seule nuit d'observation au télescope ne permet d'observer qu'une fraction de sa rotation complète." ;
+    nif:beginIndex "6602" ;
+    nif:endIndex "6716" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_6717_6767> a nif:Sentence ;
+    nif:anchorOf "On pense cependant que sa rotation est rétrograde." ;
+    nif:beginIndex "6717" ;
+    nif:endIndex "6767" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_6768_6930> a nif:Sentence ;
+    nif:anchorOf "Les courbes de lumière indiquent que les points de pôles d'Hygie ont pour coordonnées écliptiques (β, λ) = (30°, 115°) ou (30°, 300°) avec une incertitude de 10°." ;
+    nif:beginIndex "6768" ;
+    nif:endIndex "6930" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_690_891> a nif:Sentence ;
+    nif:anchorOf "Dans la plupart des oppositions, Hygie a une magnitude apparente qui est quatre fois celle de Vesta, son observation nécessitant généralement un télescope d'au moins 100 millimètres (4 po) d'ouverture." ;
+    nif:beginIndex "690" ;
+    nif:endIndex "891" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_6931_6997> a nif:Sentence ;
+    nif:anchorOf "Cela donne une inclinaison axiale d'environ 60° dans les deux cas." ;
+    nif:beginIndex "6931" ;
+    nif:endIndex "6997" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_6999_7117> a nif:Sentence ;
+    nif:anchorOf """Galerie
+
+* Caractéristiques d'Hygie  
+* Tailles des 10 premiers astéroïdes découverts comparées à la Lune de la Terre.""" ;
+    nif:beginIndex "6999" ;
+    nif:endIndex "7117" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_7118_7145> a nif:Sentence ;
+    nif:anchorOf "Hygie est le plus à droite." ;
+    nif:beginIndex "7118" ;
+    nif:endIndex "7145" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_7147_7264> a nif:Sentence ;
+    nif:anchorOf "* Le projet de proposition de la définition de planète de 2006 de l'UAI répertorie Hygie comme une planète candidate." ;
+    nif:beginIndex "7147" ;
+    nif:endIndex "7264" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_7266_7420> a nif:Sentence ;
+    nif:anchorOf "* Une représentation animée du mouvement orbital d'Hygie par rapport à Jupiter; ce dernier (cercle pourpre en haut à droite) demeure presque stationnaire." ;
+    nif:beginIndex "7266" ;
+    nif:endIndex "7420" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_7422_7508> a nif:Sentence ;
+    nif:anchorOf "* Orbite animée d'Hygie par rapport aux orbites des planètes terrestres et de Jupiter." ;
+    nif:beginIndex "7422" ;
+    nif:endIndex "7508" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_892_987> a nif:Sentence ;
+    nif:anchorOf "Cependant, lors d'une opposition à son périhélie, il peut être observé avec des jumelles 10x50." ;
+    nif:beginIndex "892" ;
+    nif:endIndex "987" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=sentence_offset_989_1167> a nif:Sentence ;
+    nif:anchorOf """Découverte et nom
+Le 12 avril 1849, à l'observatoire astronomique de Capodimonte, situé près de Naples en Italie, l'astronome Annibale de Gasparis, âgé de 29 ans, découvre Hygie.""" ;
+    nif:beginIndex "989" ;
+    nif:endIndex "1167" ;
+    nif:referenceContext <http://dbpedia.org/resource/(10)_Hygie?dbpv=2016-10&nif=context> .
+
