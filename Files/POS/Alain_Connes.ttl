@@ -1,0 +1,3264 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_0_5> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "0" ;
+    nif:endIndex "5" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1004_1006> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1004" ;
+    nif:endIndex "1006" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1007_1011> a nif:Word ;
+    nif:anchorOf "2004" ;
+    nif:beginIndex "1007" ;
+    nif:endIndex "1011" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_100_102> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "100" ;
+    nif:endIndex "102" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1013_1015> a nif:Word ;
+    nif:anchorOf "He" ;
+    nif:beginIndex "1013" ;
+    nif:endIndex "1015" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1016_1019> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "1016" ;
+    nif:endIndex "1019" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1020_1022> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "1020" ;
+    nif:endIndex "1022" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1023_1030> a nif:Word ;
+    nif:anchorOf "invited" ;
+    nif:beginIndex "1023" ;
+    nif:endIndex "1030" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1031_1038> a nif:Word ;
+    nif:anchorOf "speaker" ;
+    nif:beginIndex "1031" ;
+    nif:endIndex "1038" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1039_1041> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "1039" ;
+    nif:endIndex "1041" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_103_106> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "103" ;
+    nif:endIndex "106" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1042_1045> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1042" ;
+    nif:endIndex "1045" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1046_1049> a nif:Word ;
+    nif:anchorOf "ICM" ;
+    nif:beginIndex "1046" ;
+    nif:endIndex "1049" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1050_1052> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1050" ;
+    nif:endIndex "1052" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1053_1057> a nif:Word ;
+    nif:anchorOf "1974" ;
+    nif:beginIndex "1053" ;
+    nif:endIndex "1057" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1058_1060> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "1058" ;
+    nif:endIndex "1060" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1061_1070> a nif:Word ;
+    nif:anchorOf "Vancouver" ;
+    nif:beginIndex "1061" ;
+    nif:endIndex "1070" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1071_1074> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1071" ;
+    nif:endIndex "1074" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1075_1077> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1075" ;
+    nif:endIndex "1077" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1078_1082> a nif:Word ;
+    nif:anchorOf "1986" ;
+    nif:beginIndex "1078" ;
+    nif:endIndex "1082" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_107_114> a nif:Word ;
+    nif:anchorOf "Collège" ;
+    nif:beginIndex "107" ;
+    nif:endIndex "114" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1083_1085> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "1083" ;
+    nif:endIndex "1085" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1086_1094> a nif:Word ;
+    nif:anchorOf "Berkeley" ;
+    nif:beginIndex "1086" ;
+    nif:endIndex "1094" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1095_1098> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1095" ;
+    nif:endIndex "1098" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1099_1100> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1099" ;
+    nif:endIndex "1100" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1101_1108> a nif:Word ;
+    nif:anchorOf "plenary" ;
+    nif:beginIndex "1101" ;
+    nif:endIndex "1108" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1109_1116> a nif:Word ;
+    nif:anchorOf "speaker" ;
+    nif:beginIndex "1109" ;
+    nif:endIndex "1116" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1117_1119> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "1117" ;
+    nif:endIndex "1119" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1120_1123> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1120" ;
+    nif:endIndex "1123" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1124_1127> a nif:Word ;
+    nif:anchorOf "ICM" ;
+    nif:beginIndex "1124" ;
+    nif:endIndex "1127" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1128_1130> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1128" ;
+    nif:endIndex "1130" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1131_1135> a nif:Word ;
+    nif:anchorOf "1978" ;
+    nif:beginIndex "1131" ;
+    nif:endIndex "1135" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1136_1138> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "1136" ;
+    nif:endIndex "1138" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1139_1147> a nif:Word ;
+    nif:anchorOf "Helsinki" ;
+    nif:beginIndex "1139" ;
+    nif:endIndex "1147" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1149_1151> a nif:Word ;
+    nif:anchorOf "He" ;
+    nif:beginIndex "1149" ;
+    nif:endIndex "1151" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1152_1154> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "1152" ;
+    nif:endIndex "1154" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1155_1156> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1155" ;
+    nif:endIndex "1156" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1157_1163> a nif:Word ;
+    nif:anchorOf "member" ;
+    nif:beginIndex "1157" ;
+    nif:endIndex "1163" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_115_117> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "115" ;
+    nif:endIndex "117" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#FW> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1164_1166> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1164" ;
+    nif:endIndex "1166" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1167_1170> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1167" ;
+    nif:endIndex "1170" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1171_1177> a nif:Word ;
+    nif:anchorOf "French" ;
+    nif:beginIndex "1171" ;
+    nif:endIndex "1177" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1178_1185> a nif:Word ;
+    nif:anchorOf "Academy" ;
+    nif:beginIndex "1178" ;
+    nif:endIndex "1185" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1186_1188> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1186" ;
+    nif:endIndex "1188" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1189_1197> a nif:Word ;
+    nif:anchorOf "Sciences" ;
+    nif:beginIndex "1189" ;
+    nif:endIndex "1197" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNPS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_118_124> a nif:Word ;
+    nif:anchorOf "France" ;
+    nif:beginIndex "118" ;
+    nif:endIndex "124" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1198_1201> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1198" ;
+    nif:endIndex "1201" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1202_1209> a nif:Word ;
+    nif:anchorOf "several" ;
+    nif:beginIndex "1202" ;
+    nif:endIndex "1209" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1210_1217> a nif:Word ;
+    nif:anchorOf "foreign" ;
+    nif:beginIndex "1210" ;
+    nif:endIndex "1217" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1218_1227> a nif:Word ;
+    nif:anchorOf "academies" ;
+    nif:beginIndex "1218" ;
+    nif:endIndex "1227" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1228_1231> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1228" ;
+    nif:endIndex "1231" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1232_1241> a nif:Word ;
+    nif:anchorOf "societies" ;
+    nif:beginIndex "1232" ;
+    nif:endIndex "1241" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1243_1252> a nif:Word ;
+    nif:anchorOf "including" ;
+    nif:beginIndex "1243" ;
+    nif:endIndex "1252" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1253_1256> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1253" ;
+    nif:endIndex "1256" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1257_1263> a nif:Word ;
+    nif:anchorOf "Danish" ;
+    nif:beginIndex "1257" ;
+    nif:endIndex "1263" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1264_1271> a nif:Word ;
+    nif:anchorOf "Academy" ;
+    nif:beginIndex "1264" ;
+    nif:endIndex "1271" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_126_130> a nif:Word ;
+    nif:anchorOf "IHÉS" ;
+    nif:beginIndex "126" ;
+    nif:endIndex "130" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1272_1274> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1272" ;
+    nif:endIndex "1274" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1275_1283> a nif:Word ;
+    nif:anchorOf "Sciences" ;
+    nif:beginIndex "1275" ;
+    nif:endIndex "1283" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNPS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1285_1294> a nif:Word ;
+    nif:anchorOf "Norwegian" ;
+    nif:beginIndex "1285" ;
+    nif:endIndex "1294" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1295_1302> a nif:Word ;
+    nif:anchorOf "Academy" ;
+    nif:beginIndex "1295" ;
+    nif:endIndex "1302" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1303_1305> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1303" ;
+    nif:endIndex "1305" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1306_1314> a nif:Word ;
+    nif:anchorOf "Sciences" ;
+    nif:beginIndex "1306" ;
+    nif:endIndex "1314" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNPS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1316_1323> a nif:Word ;
+    nif:anchorOf "Russian" ;
+    nif:beginIndex "1316" ;
+    nif:endIndex "1323" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1324_1331> a nif:Word ;
+    nif:anchorOf "Academy" ;
+    nif:beginIndex "1324" ;
+    nif:endIndex "1331" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_132_135> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "132" ;
+    nif:endIndex "135" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1332_1334> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1332" ;
+    nif:endIndex "1334" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1335_1343> a nif:Word ;
+    nif:anchorOf "Sciences" ;
+    nif:beginIndex "1335" ;
+    nif:endIndex "1343" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNPS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1345_1348> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1345" ;
+    nif:endIndex "1348" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1349_1351> a nif:Word ;
+    nif:anchorOf "US" ;
+    nif:beginIndex "1349" ;
+    nif:endIndex "1351" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1352_1360> a nif:Word ;
+    nif:anchorOf "National" ;
+    nif:beginIndex "1352" ;
+    nif:endIndex "1360" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1361_1368> a nif:Word ;
+    nif:anchorOf "Academy" ;
+    nif:beginIndex "1361" ;
+    nif:endIndex "1368" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1369_1371> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1369" ;
+    nif:endIndex "1371" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_136_140> a nif:Word ;
+    nif:anchorOf "Ohio" ;
+    nif:beginIndex "136" ;
+    nif:endIndex "140" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1372_1380> a nif:Word ;
+    nif:anchorOf "Sciences" ;
+    nif:beginIndex "1372" ;
+    nif:endIndex "1380" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNPS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1383_1388> a nif:Word ;
+    nif:anchorOf "Books" ;
+    nif:beginIndex "1383" ;
+    nif:endIndex "1388" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1393_1398> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "1393" ;
+    nif:endIndex "1398" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1399_1405> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "1399" ;
+    nif:endIndex "1405" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1406_1409> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1406" ;
+    nif:endIndex "1409" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1410_1417> a nif:Word ;
+    nif:anchorOf "Matilde" ;
+    nif:beginIndex "1410" ;
+    nif:endIndex "1417" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1418_1426> a nif:Word ;
+    nif:anchorOf "Marcolli" ;
+    nif:beginIndex "1418" ;
+    nif:endIndex "1426" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_141_146> a nif:Word ;
+    nif:anchorOf "State" ;
+    nif:beginIndex "141" ;
+    nif:endIndex "146" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1428_1442> a nif:Word ;
+    nif:anchorOf "Noncommutative" ;
+    nif:beginIndex "1428" ;
+    nif:endIndex "1442" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1443_1451> a nif:Word ;
+    nif:anchorOf "Geometry" ;
+    nif:beginIndex "1443" ;
+    nif:endIndex "1451" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1453_1460> a nif:Word ;
+    nif:anchorOf "Quantum" ;
+    nif:beginIndex "1453" ;
+    nif:endIndex "1460" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1461_1467> a nif:Word ;
+    nif:anchorOf "Fields" ;
+    nif:beginIndex "1461" ;
+    nif:endIndex "1467" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1468_1471> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1468" ;
+    nif:endIndex "1471" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1472_1479> a nif:Word ;
+    nif:anchorOf "Motives" ;
+    nif:beginIndex "1472" ;
+    nif:endIndex "1479" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_147_157> a nif:Word ;
+    nif:anchorOf "University" ;
+    nif:beginIndex "147" ;
+    nif:endIndex "157" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1481_1491> a nif:Word ;
+    nif:anchorOf "Colloquium" ;
+    nif:beginIndex "1481" ;
+    nif:endIndex "1491" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1492_1504> a nif:Word ;
+    nif:anchorOf "Publications" ;
+    nif:beginIndex "1492" ;
+    nif:endIndex "1504" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_14_20> a nif:Word ;
+    nif:anchorOf "French" ;
+    nif:beginIndex "14" ;
+    nif:endIndex "20" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1506_1514> a nif:Word ;
+    nif:anchorOf "American" ;
+    nif:beginIndex "1506" ;
+    nif:endIndex "1514" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1515_1527> a nif:Word ;
+    nif:anchorOf "Mathematical" ;
+    nif:beginIndex "1515" ;
+    nif:endIndex "1527" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1528_1535> a nif:Word ;
+    nif:anchorOf "Society" ;
+    nif:beginIndex "1528" ;
+    nif:endIndex "1535" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1537_1541> a nif:Word ;
+    nif:anchorOf "2007" ;
+    nif:beginIndex "1537" ;
+    nif:endIndex "1541" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1543_1547> a nif:Word ;
+    nif:anchorOf "ISBN" ;
+    nif:beginIndex "1543" ;
+    nif:endIndex "1547" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1548_1562> a nif:Word ;
+    nif:anchorOf "978-0821842102" ;
+    nif:beginIndex "1548" ;
+    nif:endIndex "1562" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1568_1573> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "1568" ;
+    nif:endIndex "1573" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1574_1580> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "1574" ;
+    nif:endIndex "1580" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1582_1587> a nif:Word ;
+    nif:anchorOf "Andre" ;
+    nif:beginIndex "1582" ;
+    nif:endIndex "1587" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1588_1600> a nif:Word ;
+    nif:anchorOf "Lichnerowicz" ;
+    nif:beginIndex "1588" ;
+    nif:endIndex "1600" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_158_161> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "158" ;
+    nif:endIndex "161" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1602_1608> a nif:Word ;
+    nif:anchorOf "Marcel" ;
+    nif:beginIndex "1602" ;
+    nif:endIndex "1608" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1609_1613> a nif:Word ;
+    nif:anchorOf "Paul" ;
+    nif:beginIndex "1609" ;
+    nif:endIndex "1613" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1614_1628> a nif:Word ;
+    nif:anchorOf "Schutzenberger" ;
+    nif:beginIndex "1614" ;
+    nif:endIndex "1628" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_162_172> a nif:Word ;
+    nif:anchorOf "Vanderbilt" ;
+    nif:beginIndex "162" ;
+    nif:endIndex "172" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1630_1638> a nif:Word ;
+    nif:anchorOf "Jennifer" ;
+    nif:beginIndex "1630" ;
+    nif:endIndex "1638" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1639_1643> a nif:Word ;
+    nif:anchorOf "Gage" ;
+    nif:beginIndex "1639" ;
+    nif:endIndex "1643" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1645_1655> a nif:Word ;
+    nif:anchorOf "translator" ;
+    nif:beginIndex "1645" ;
+    nif:endIndex "1655" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1658_1666> a nif:Word ;
+    nif:anchorOf "Triangle" ;
+    nif:beginIndex "1658" ;
+    nif:endIndex "1666" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1667_1669> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1667" ;
+    nif:endIndex "1669" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1670_1677> a nif:Word ;
+    nif:anchorOf "Thought" ;
+    nif:beginIndex "1670" ;
+    nif:endIndex "1677" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1679_1687> a nif:Word ;
+    nif:anchorOf "American" ;
+    nif:beginIndex "1679" ;
+    nif:endIndex "1687" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1688_1700> a nif:Word ;
+    nif:anchorOf "Mathematical" ;
+    nif:beginIndex "1688" ;
+    nif:endIndex "1700" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1701_1708> a nif:Word ;
+    nif:anchorOf "Society" ;
+    nif:beginIndex "1701" ;
+    nif:endIndex "1708" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1710_1714> a nif:Word ;
+    nif:anchorOf "2001" ;
+    nif:beginIndex "1710" ;
+    nif:endIndex "1714" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1716_1720> a nif:Word ;
+    nif:anchorOf "ISBN" ;
+    nif:beginIndex "1716" ;
+    nif:endIndex "1720" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1721_1735> a nif:Word ;
+    nif:anchorOf "978-0821826140" ;
+    nif:beginIndex "1721" ;
+    nif:endIndex "1735" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_173_183> a nif:Word ;
+    nif:anchorOf "University" ;
+    nif:beginIndex "173" ;
+    nif:endIndex "183" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1740_1751> a nif:Word ;
+    nif:anchorOf "Jean-Pierre" ;
+    nif:beginIndex "1740" ;
+    nif:endIndex "1751" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1752_1760> a nif:Word ;
+    nif:anchorOf "Changeux" ;
+    nif:beginIndex "1752" ;
+    nif:endIndex "1760" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1762_1767> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "1762" ;
+    nif:endIndex "1767" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1768_1774> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "1768" ;
+    nif:endIndex "1774" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1776_1778> a nif:Word ;
+    nif:anchorOf "M." ;
+    nif:beginIndex "1776" ;
+    nif:endIndex "1778" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1779_1781> a nif:Word ;
+    nif:anchorOf "B." ;
+    nif:beginIndex "1779" ;
+    nif:endIndex "1781" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1782_1791> a nif:Word ;
+    nif:anchorOf "DeBevoise" ;
+    nif:beginIndex "1782" ;
+    nif:endIndex "1791" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1793_1803> a nif:Word ;
+    nif:anchorOf "translator" ;
+    nif:beginIndex "1793" ;
+    nif:endIndex "1803" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1806_1819> a nif:Word ;
+    nif:anchorOf "Conversations" ;
+    nif:beginIndex "1806" ;
+    nif:endIndex "1819" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1820_1822> a nif:Word ;
+    nif:anchorOf "on" ;
+    nif:beginIndex "1820" ;
+    nif:endIndex "1822" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1823_1827> a nif:Word ;
+    nif:anchorOf "Mind" ;
+    nif:beginIndex "1823" ;
+    nif:endIndex "1827" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1829_1835> a nif:Word ;
+    nif:anchorOf "Matter" ;
+    nif:beginIndex "1829" ;
+    nif:endIndex "1835" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1837_1840> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1837" ;
+    nif:endIndex "1840" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1841_1852> a nif:Word ;
+    nif:anchorOf "Mathematics" ;
+    nif:beginIndex "1841" ;
+    nif:endIndex "1852" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1854_1863> a nif:Word ;
+    nif:anchorOf "Princeton" ;
+    nif:beginIndex "1854" ;
+    nif:endIndex "1863" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_185_187> a nif:Word ;
+    nif:anchorOf "He" ;
+    nif:beginIndex "185" ;
+    nif:endIndex "187" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1864_1874> a nif:Word ;
+    nif:anchorOf "University" ;
+    nif:beginIndex "1864" ;
+    nif:endIndex "1874" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1875_1880> a nif:Word ;
+    nif:anchorOf "Press" ;
+    nif:beginIndex "1875" ;
+    nif:endIndex "1880" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1882_1886> a nif:Word ;
+    nif:anchorOf "1998" ;
+    nif:beginIndex "1882" ;
+    nif:endIndex "1886" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1888_1892> a nif:Word ;
+    nif:anchorOf "ISBN" ;
+    nif:beginIndex "1888" ;
+    nif:endIndex "1892" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_188_191> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "188" ;
+    nif:endIndex "191" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1893_1907> a nif:Word ;
+    nif:anchorOf "978-0691004051" ;
+    nif:beginIndex "1893" ;
+    nif:endIndex "1907" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1912_1917> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "1912" ;
+    nif:endIndex "1917" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1918_1924> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "1918" ;
+    nif:endIndex "1924" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1926_1940> a nif:Word ;
+    nif:anchorOf "Noncommutative" ;
+    nif:beginIndex "1926" ;
+    nif:endIndex "1940" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_192_194> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "192" ;
+    nif:endIndex "194" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1941_1949> a nif:Word ;
+    nif:anchorOf "Geometry" ;
+    nif:beginIndex "1941" ;
+    nif:endIndex "1949" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1951_1959> a nif:Word ;
+    nif:anchorOf "Academic" ;
+    nif:beginIndex "1951" ;
+    nif:endIndex "1959" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_195_202> a nif:Word ;
+    nif:anchorOf "Invited" ;
+    nif:beginIndex "195" ;
+    nif:endIndex "202" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1960_1965> a nif:Word ;
+    nif:anchorOf "Press" ;
+    nif:beginIndex "1960" ;
+    nif:endIndex "1965" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1967_1971> a nif:Word ;
+    nif:anchorOf "1994" ;
+    nif:beginIndex "1967" ;
+    nif:endIndex "1971" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1973_1977> a nif:Word ;
+    nif:anchorOf "ISBN" ;
+    nif:beginIndex "1973" ;
+    nif:endIndex "1977" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1978_1992> a nif:Word ;
+    nif:anchorOf "978-0121858605" ;
+    nif:beginIndex "1978" ;
+    nif:endIndex "1992" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1994_1997> a nif:Word ;
+    nif:anchorOf "See" ;
+    nif:beginIndex "1994" ;
+    nif:endIndex "1997" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_1998_2002> a nif:Word ;
+    nif:anchorOf "also" ;
+    nif:beginIndex "1998" ;
+    nif:endIndex "2002" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2007_2013> a nif:Word ;
+    nif:anchorOf "Cyclic" ;
+    nif:beginIndex "2007" ;
+    nif:endIndex "2013" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2014_2022> a nif:Word ;
+    nif:anchorOf "homology" ;
+    nif:beginIndex "2014" ;
+    nif:endIndex "2022" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2027_2033> a nif:Word ;
+    nif:anchorOf "Factor" ;
+    nif:beginIndex "2027" ;
+    nif:endIndex "2033" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2035_2045> a nif:Word ;
+    nif:anchorOf "functional" ;
+    nif:beginIndex "2035" ;
+    nif:endIndex "2045" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_203_212> a nif:Word ;
+    nif:anchorOf "Professor" ;
+    nif:beginIndex "203" ;
+    nif:endIndex "212" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2046_2054> a nif:Word ;
+    nif:anchorOf "analysis" ;
+    nif:beginIndex "2046" ;
+    nif:endIndex "2054" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2060_2065> a nif:Word ;
+    nif:anchorOf "Higgs" ;
+    nif:beginIndex "2060" ;
+    nif:endIndex "2065" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2066_2071> a nif:Word ;
+    nif:anchorOf "boson" ;
+    nif:beginIndex "2066" ;
+    nif:endIndex "2071" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2076_2086> a nif:Word ;
+    nif:anchorOf "C*-algebra" ;
+    nif:beginIndex "2076" ;
+    nif:endIndex "2086" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2091_2092> a nif:Word ;
+    nif:anchorOf "M" ;
+    nif:beginIndex "2091" ;
+    nif:endIndex "2092" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2093_2099> a nif:Word ;
+    nif:anchorOf "Theory" ;
+    nif:beginIndex "2093" ;
+    nif:endIndex "2099" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2104_2112> a nif:Word ;
+    nif:anchorOf "Groupoid" ;
+    nif:beginIndex "2104" ;
+    nif:endIndex "2112" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2116_2125> a nif:Word ;
+    nif:anchorOf "Criticism" ;
+    nif:beginIndex "2116" ;
+    nif:endIndex "2125" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2126_2128> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "2126" ;
+    nif:endIndex "2128" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2129_2141> a nif:Word ;
+    nif:anchorOf "non-standard" ;
+    nif:beginIndex "2129" ;
+    nif:endIndex "2141" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_213_215> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "213" ;
+    nif:endIndex "215" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2142_2150> a nif:Word ;
+    nif:anchorOf "analysis" ;
+    nif:beginIndex "2142" ;
+    nif:endIndex "2150" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2152_2162> a nif:Word ;
+    nif:anchorOf "References" ;
+    nif:beginIndex "2152" ;
+    nif:endIndex "2162" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2165_2173> a nif:Word ;
+    nif:anchorOf "External" ;
+    nif:beginIndex "2165" ;
+    nif:endIndex "2173" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_216_219> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "216" ;
+    nif:endIndex "219" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2174_2179> a nif:Word ;
+    nif:anchorOf "links" ;
+    nif:beginIndex "2174" ;
+    nif:endIndex "2179" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2184_2189> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "2184" ;
+    nif:endIndex "2189" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2190_2196> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "2190" ;
+    nif:endIndex "2196" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2197_2205> a nif:Word ;
+    nif:anchorOf "Official" ;
+    nif:beginIndex "2197" ;
+    nif:endIndex "2205" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2206_2209> a nif:Word ;
+    nif:anchorOf "Web" ;
+    nif:beginIndex "2206" ;
+    nif:endIndex "2209" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_220_233> a nif:Word ;
+    nif:anchorOf "Conservatoire" ;
+    nif:beginIndex "220" ;
+    nif:endIndex "233" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2210_2214> a nif:Word ;
+    nif:anchorOf "Site" ;
+    nif:beginIndex "2210" ;
+    nif:endIndex "2214" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2215_2225> a nif:Word ;
+    nif:anchorOf "containing" ;
+    nif:beginIndex "2215" ;
+    nif:endIndex "2225" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2226_2238> a nif:Word ;
+    nif:anchorOf "downloadable" ;
+    nif:beginIndex "2226" ;
+    nif:endIndex "2238" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2239_2245> a nif:Word ;
+    nif:anchorOf "papers" ;
+    nif:beginIndex "2239" ;
+    nif:endIndex "2245" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2247_2250> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "2247" ;
+    nif:endIndex "2250" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2251_2254> a nif:Word ;
+    nif:anchorOf "his" ;
+    nif:beginIndex "2251" ;
+    nif:endIndex "2254" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP$> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2255_2259> a nif:Word ;
+    nif:anchorOf "book" ;
+    nif:beginIndex "2255" ;
+    nif:endIndex "2259" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2260_2275> a nif:Word ;
+    nif:anchorOf "Non-commutative" ;
+    nif:beginIndex "2260" ;
+    nif:endIndex "2275" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2276_2284> a nif:Word ;
+    nif:anchorOf "geometry" ;
+    nif:beginIndex "2276" ;
+    nif:endIndex "2284" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2286_2290> a nif:Word ;
+    nif:anchorOf "ISBN" ;
+    nif:beginIndex "2286" ;
+    nif:endIndex "2290" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2291_2304> a nif:Word ;
+    nif:anchorOf "0-12-185860-X" ;
+    nif:beginIndex "2291" ;
+    nif:endIndex "2304" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2310_2315> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "2310" ;
+    nif:endIndex "2315" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2316_2322> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "2316" ;
+    nif:endIndex "2322" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2323_2325> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "2323" ;
+    nif:endIndex "2325" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2326_2330> a nif:Word ;
+    nif:anchorOf "nLab" ;
+    nif:beginIndex "2326" ;
+    nif:endIndex "2330" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2335_2340> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "2335" ;
+    nif:endIndex "2340" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2341_2347> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "2341" ;
+    nif:endIndex "2347" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2349_2357> a nif:Word ;
+    nif:anchorOf "Standard" ;
+    nif:beginIndex "2349" ;
+    nif:endIndex "2357" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_234_242> a nif:Word ;
+    nif:anchorOf "national" ;
+    nif:beginIndex "234" ;
+    nif:endIndex "242" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2358_2363> a nif:Word ;
+    nif:anchorOf "Model" ;
+    nif:beginIndex "2358" ;
+    nif:endIndex "2363" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2368_2370> a nif:Word ;
+    nif:anchorOf "An" ;
+    nif:beginIndex "2368" ;
+    nif:endIndex "2370" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2371_2380> a nif:Word ;
+    nif:anchorOf "interview" ;
+    nif:beginIndex "2371" ;
+    nif:endIndex "2380" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2381_2385> a nif:Word ;
+    nif:anchorOf "with" ;
+    nif:beginIndex "2381" ;
+    nif:endIndex "2385" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2386_2391> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "2386" ;
+    nif:endIndex "2391" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2392_2398> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "2392" ;
+    nif:endIndex "2398" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2399_2402> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "2399" ;
+    nif:endIndex "2402" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_23_27> a nif:Word ;
+    nif:anchorOf "alɛ̃" ;
+    nif:beginIndex "23" ;
+    nif:endIndex "27" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2403_2404> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "2403" ;
+    nif:endIndex "2404" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2405_2415> a nif:Word ;
+    nif:anchorOf "discussion" ;
+    nif:beginIndex "2405" ;
+    nif:endIndex "2415" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2416_2421> a nif:Word ;
+    nif:anchorOf "about" ;
+    nif:beginIndex "2416" ;
+    nif:endIndex "2421" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2422_2424> a nif:Word ;
+    nif:anchorOf "it" ;
+    nif:beginIndex "2422" ;
+    nif:endIndex "2424" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2429_2437> a nif:Word ;
+    nif:anchorOf "O'Connor" ;
+    nif:beginIndex "2429" ;
+    nif:endIndex "2437" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2439_2443> a nif:Word ;
+    nif:anchorOf "John" ;
+    nif:beginIndex "2439" ;
+    nif:endIndex "2443" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_243_246> a nif:Word ;
+    nif:anchorOf "des" ;
+    nif:beginIndex "243" ;
+    nif:endIndex "246" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2444_2446> a nif:Word ;
+    nif:anchorOf "J." ;
+    nif:beginIndex "2444" ;
+    nif:endIndex "2446" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2448_2457> a nif:Word ;
+    nif:anchorOf "Robertson" ;
+    nif:beginIndex "2448" ;
+    nif:endIndex "2457" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2459_2465> a nif:Word ;
+    nif:anchorOf "Edmund" ;
+    nif:beginIndex "2459" ;
+    nif:endIndex "2465" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2466_2468> a nif:Word ;
+    nif:anchorOf "F." ;
+    nif:beginIndex "2466" ;
+    nif:endIndex "2468" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2471_2476> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "2471" ;
+    nif:endIndex "2476" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2477_2483> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "2477" ;
+    nif:endIndex "2483" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_247_251> a nif:Word ;
+    nif:anchorOf "arts" ;
+    nif:beginIndex "247" ;
+    nif:endIndex "251" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2486_2494> a nif:Word ;
+    nif:anchorOf "MacTutor" ;
+    nif:beginIndex "2486" ;
+    nif:endIndex "2494" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2495_2502> a nif:Word ;
+    nif:anchorOf "History" ;
+    nif:beginIndex "2495" ;
+    nif:endIndex "2502" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2503_2505> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "2503" ;
+    nif:endIndex "2505" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2506_2517> a nif:Word ;
+    nif:anchorOf "Mathematics" ;
+    nif:beginIndex "2506" ;
+    nif:endIndex "2517" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2518_2525> a nif:Word ;
+    nif:anchorOf "archive" ;
+    nif:beginIndex "2518" ;
+    nif:endIndex "2525" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2527_2537> a nif:Word ;
+    nif:anchorOf "University" ;
+    nif:beginIndex "2527" ;
+    nif:endIndex "2537" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_252_254> a nif:Word ;
+    nif:anchorOf "et" ;
+    nif:beginIndex "252" ;
+    nif:endIndex "254" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2538_2540> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "2538" ;
+    nif:endIndex "2540" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2541_2543> a nif:Word ;
+    nif:anchorOf "St" ;
+    nif:beginIndex "2541" ;
+    nif:endIndex "2543" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2544_2551> a nif:Word ;
+    nif:anchorOf "Andrews" ;
+    nif:beginIndex "2544" ;
+    nif:endIndex "2551" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2557_2562> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "2557" ;
+    nif:endIndex "2562" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_255_262> a nif:Word ;
+    nif:anchorOf "métiers" ;
+    nif:beginIndex "255" ;
+    nif:endIndex "262" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2563_2569> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "2563" ;
+    nif:endIndex "2569" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2570_2572> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "2570" ;
+    nif:endIndex "2572" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2573_2576> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "2573" ;
+    nif:endIndex "2576" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2577_2588> a nif:Word ;
+    nif:anchorOf "Mathematics" ;
+    nif:beginIndex "2577" ;
+    nif:endIndex "2588" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2589_2598> a nif:Word ;
+    nif:anchorOf "Genealogy" ;
+    nif:beginIndex "2589" ;
+    nif:endIndex "2598" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_2599_2606> a nif:Word ;
+    nif:anchorOf "Project" ;
+    nif:beginIndex "2599" ;
+    nif:endIndex "2606" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_264_268> a nif:Word ;
+    nif:anchorOf "2000" ;
+    nif:beginIndex "264" ;
+    nif:endIndex "268" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_272_276> a nif:Word ;
+    nif:anchorOf "Work" ;
+    nif:beginIndex "272" ;
+    nif:endIndex "276" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_277_282> a nif:Word ;
+    nif:anchorOf "Alain" ;
+    nif:beginIndex "277" ;
+    nif:endIndex "282" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_283_289> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "283" ;
+    nif:endIndex "289" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_28_31> a nif:Word ;
+    nif:anchorOf "kɔn" ;
+    nif:beginIndex "28" ;
+    nif:endIndex "31" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_290_297> a nif:Word ;
+    nif:anchorOf "studies" ;
+    nif:beginIndex "290" ;
+    nif:endIndex "297" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_298_306> a nif:Word ;
+    nif:anchorOf "operator" ;
+    nif:beginIndex "298" ;
+    nif:endIndex "306" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_307_315> a nif:Word ;
+    nif:anchorOf "algebras" ;
+    nif:beginIndex "307" ;
+    nif:endIndex "315" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_317_319> a nif:Word ;
+    nif:anchorOf "In" ;
+    nif:beginIndex "317" ;
+    nif:endIndex "319" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_320_323> a nif:Word ;
+    nif:anchorOf "his" ;
+    nif:beginIndex "320" ;
+    nif:endIndex "323" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP$> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_324_329> a nif:Word ;
+    nif:anchorOf "early" ;
+    nif:beginIndex "324" ;
+    nif:endIndex "329" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_330_334> a nif:Word ;
+    nif:anchorOf "work" ;
+    nif:beginIndex "330" ;
+    nif:endIndex "334" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_335_337> a nif:Word ;
+    nif:anchorOf "on" ;
+    nif:beginIndex "335" ;
+    nif:endIndex "337" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_338_341> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "338" ;
+    nif:endIndex "341" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_342_349> a nif:Word ;
+    nif:anchorOf "Neumann" ;
+    nif:beginIndex "342" ;
+    nif:endIndex "349" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_34_38> a nif:Word ;
+    nif:anchorOf "born" ;
+    nif:beginIndex "34" ;
+    nif:endIndex "38" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_350_358> a nif:Word ;
+    nif:anchorOf "algebras" ;
+    nif:beginIndex "350" ;
+    nif:endIndex "358" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_359_361> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "359" ;
+    nif:endIndex "361" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_362_365> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "362" ;
+    nif:endIndex "365" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_366_371> a nif:Word ;
+    nif:anchorOf "1970s" ;
+    nif:beginIndex "366" ;
+    nif:endIndex "371" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_373_375> a nif:Word ;
+    nif:anchorOf "he" ;
+    nif:beginIndex "373" ;
+    nif:endIndex "375" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_376_385> a nif:Word ;
+    nif:anchorOf "succeeded" ;
+    nif:beginIndex "376" ;
+    nif:endIndex "385" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_386_388> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "386" ;
+    nif:endIndex "388" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_389_398> a nif:Word ;
+    nif:anchorOf "obtaining" ;
+    nif:beginIndex "389" ;
+    nif:endIndex "398" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_399_402> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "399" ;
+    nif:endIndex "402" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_39_40> a nif:Word ;
+    nif:anchorOf "1" ;
+    nif:beginIndex "39" ;
+    nif:endIndex "40" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_403_409> a nif:Word ;
+    nif:anchorOf "almost" ;
+    nif:beginIndex "403" ;
+    nif:endIndex "409" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_410_418> a nif:Word ;
+    nif:anchorOf "complete" ;
+    nif:beginIndex "410" ;
+    nif:endIndex "418" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_419_433> a nif:Word ;
+    nif:anchorOf "classification" ;
+    nif:beginIndex "419" ;
+    nif:endIndex "433" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_41_46> a nif:Word ;
+    nif:anchorOf "April" ;
+    nif:beginIndex "41" ;
+    nif:endIndex "46" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_434_436> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "434" ;
+    nif:endIndex "436" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_437_446> a nif:Word ;
+    nif:anchorOf "injective" ;
+    nif:beginIndex "437" ;
+    nif:endIndex "446" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_447_454> a nif:Word ;
+    nif:anchorOf "factors" ;
+    nif:beginIndex "447" ;
+    nif:endIndex "454" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_456_465> a nif:Word ;
+    nif:anchorOf "Following" ;
+    nif:beginIndex "456" ;
+    nif:endIndex "465" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_466_470> a nif:Word ;
+    nif:anchorOf "this" ;
+    nif:beginIndex "466" ;
+    nif:endIndex "470" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_471_473> a nif:Word ;
+    nif:anchorOf "he" ;
+    nif:beginIndex "471" ;
+    nif:endIndex "473" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_474_478> a nif:Word ;
+    nif:anchorOf "made" ;
+    nif:beginIndex "474" ;
+    nif:endIndex "478" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_479_492> a nif:Word ;
+    nif:anchorOf "contributions" ;
+    nif:beginIndex "479" ;
+    nif:endIndex "492" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_47_51> a nif:Word ;
+    nif:anchorOf "1947" ;
+    nif:beginIndex "47" ;
+    nif:endIndex "51" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_493_495> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "493" ;
+    nif:endIndex "495" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_496_504> a nif:Word ;
+    nif:anchorOf "operator" ;
+    nif:beginIndex "496" ;
+    nif:endIndex "504" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_505_513> a nif:Word ;
+    nif:anchorOf "K-theory" ;
+    nif:beginIndex "505" ;
+    nif:endIndex "513" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_514_517> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "514" ;
+    nif:endIndex "517" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_518_523> a nif:Word ;
+    nif:anchorOf "index" ;
+    nif:beginIndex "518" ;
+    nif:endIndex "523" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_524_530> a nif:Word ;
+    nif:anchorOf "theory" ;
+    nif:beginIndex "524" ;
+    nif:endIndex "530" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_532_537> a nif:Word ;
+    nif:anchorOf "which" ;
+    nif:beginIndex "532" ;
+    nif:endIndex "537" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Wh-Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WDT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_538_548> a nif:Word ;
+    nif:anchorOf "culminated" ;
+    nif:beginIndex "538" ;
+    nif:endIndex "548" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_53_55> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "53" ;
+    nif:endIndex "55" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_549_551> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "549" ;
+    nif:endIndex "551" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_552_555> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "552" ;
+    nif:endIndex "555" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_556_567> a nif:Word ;
+    nif:anchorOf "Baum–Connes" ;
+    nif:beginIndex "556" ;
+    nif:endIndex "567" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_568_578> a nif:Word ;
+    nif:anchorOf "conjecture" ;
+    nif:beginIndex "568" ;
+    nif:endIndex "578" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_56_57> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "56" ;
+    nif:endIndex "57" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_580_582> a nif:Word ;
+    nif:anchorOf "He" ;
+    nif:beginIndex "580" ;
+    nif:endIndex "582" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_583_587> a nif:Word ;
+    nif:anchorOf "also" ;
+    nif:beginIndex "583" ;
+    nif:endIndex "587" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_588_598> a nif:Word ;
+    nif:anchorOf "introduced" ;
+    nif:beginIndex "588" ;
+    nif:endIndex "598" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_58_64> a nif:Word ;
+    nif:anchorOf "French" ;
+    nif:beginIndex "58" ;
+    nif:endIndex "64" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_599_605> a nif:Word ;
+    nif:anchorOf "cyclic" ;
+    nif:beginIndex "599" ;
+    nif:endIndex "605" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_606_616> a nif:Word ;
+    nif:anchorOf "cohomology" ;
+    nif:beginIndex "606" ;
+    nif:endIndex "616" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_617_619> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "617" ;
+    nif:endIndex "619" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_620_623> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "620" ;
+    nif:endIndex "623" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_624_629> a nif:Word ;
+    nif:anchorOf "early" ;
+    nif:beginIndex "624" ;
+    nif:endIndex "629" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_630_635> a nif:Word ;
+    nif:anchorOf "1980s" ;
+    nif:beginIndex "630" ;
+    nif:endIndex "635" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_636_638> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "636" ;
+    nif:endIndex "638" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_639_640> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "639" ;
+    nif:endIndex "640" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_641_646> a nif:Word ;
+    nif:anchorOf "first" ;
+    nif:beginIndex "641" ;
+    nif:endIndex "646" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_647_651> a nif:Word ;
+    nif:anchorOf "step" ;
+    nif:beginIndex "647" ;
+    nif:endIndex "651" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_652_654> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "652" ;
+    nif:endIndex "654" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_655_658> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "655" ;
+    nif:endIndex "658" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_659_664> a nif:Word ;
+    nif:anchorOf "study" ;
+    nif:beginIndex "659" ;
+    nif:endIndex "664" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_65_78> a nif:Word ;
+    nif:anchorOf "mathematician" ;
+    nif:beginIndex "65" ;
+    nif:endIndex "78" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_665_667> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "665" ;
+    nif:endIndex "667" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_668_682> a nif:Word ;
+    nif:anchorOf "noncommutative" ;
+    nif:beginIndex "668" ;
+    nif:endIndex "682" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_683_695> a nif:Word ;
+    nif:anchorOf "differential" ;
+    nif:beginIndex "683" ;
+    nif:endIndex "695" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_696_704> a nif:Word ;
+    nif:anchorOf "geometry" ;
+    nif:beginIndex "696" ;
+    nif:endIndex "704" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_6_12> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "6" ;
+    nif:endIndex "12" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_706_708> a nif:Word ;
+    nif:anchorOf "He" ;
+    nif:beginIndex "706" ;
+    nif:endIndex "708" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_709_712> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "709" ;
+    nif:endIndex "712" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_713_714> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "713" ;
+    nif:endIndex "714" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_715_721> a nif:Word ;
+    nif:anchorOf "member" ;
+    nif:beginIndex "715" ;
+    nif:endIndex "721" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_722_724> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "722" ;
+    nif:endIndex "724" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_725_733> a nif:Word ;
+    nif:anchorOf "Bourbaki" ;
+    nif:beginIndex "725" ;
+    nif:endIndex "733" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_735_741> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "735" ;
+    nif:endIndex "741" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_742_745> a nif:Word ;
+    nif:anchorOf "has" ;
+    nif:beginIndex "742" ;
+    nif:endIndex "745" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_746_753> a nif:Word ;
+    nif:anchorOf "applied" ;
+    nif:beginIndex "746" ;
+    nif:endIndex "753" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_754_757> a nif:Word ;
+    nif:anchorOf "his" ;
+    nif:beginIndex "754" ;
+    nif:endIndex "757" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP$> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_758_762> a nif:Word ;
+    nif:anchorOf "work" ;
+    nif:beginIndex "758" ;
+    nif:endIndex "762" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_763_765> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "763" ;
+    nif:endIndex "765" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_766_771> a nif:Word ;
+    nif:anchorOf "areas" ;
+    nif:beginIndex "766" ;
+    nif:endIndex "771" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_772_774> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "772" ;
+    nif:endIndex "774" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_775_786> a nif:Word ;
+    nif:anchorOf "mathematics" ;
+    nif:beginIndex "775" ;
+    nif:endIndex "786" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_787_790> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "787" ;
+    nif:endIndex "790" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_791_802> a nif:Word ;
+    nif:anchorOf "theoretical" ;
+    nif:beginIndex "791" ;
+    nif:endIndex "802" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_803_810> a nif:Word ;
+    nif:anchorOf "physics" ;
+    nif:beginIndex "803" ;
+    nif:endIndex "810" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_80_89> a nif:Word ;
+    nif:anchorOf "currently" ;
+    nif:beginIndex "80" ;
+    nif:endIndex "89" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_812_821> a nif:Word ;
+    nif:anchorOf "including" ;
+    nif:beginIndex "812" ;
+    nif:endIndex "821" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_822_828> a nif:Word ;
+    nif:anchorOf "number" ;
+    nif:beginIndex "822" ;
+    nif:endIndex "828" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_829_835> a nif:Word ;
+    nif:anchorOf "theory" ;
+    nif:beginIndex "829" ;
+    nif:endIndex "835" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_837_849> a nif:Word ;
+    nif:anchorOf "differential" ;
+    nif:beginIndex "837" ;
+    nif:endIndex "849" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_850_858> a nif:Word ;
+    nif:anchorOf "geometry" ;
+    nif:beginIndex "850" ;
+    nif:endIndex "858" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_859_862> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "859" ;
+    nif:endIndex "862" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_863_871> a nif:Word ;
+    nif:anchorOf "particle" ;
+    nif:beginIndex "863" ;
+    nif:endIndex "871" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_872_879> a nif:Word ;
+    nif:anchorOf "physics" ;
+    nif:beginIndex "872" ;
+    nif:endIndex "879" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_882_888> a nif:Word ;
+    nif:anchorOf "Awards" ;
+    nif:beginIndex "882" ;
+    nif:endIndex "888" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_889_892> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "889" ;
+    nif:endIndex "892" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_893_900> a nif:Word ;
+    nif:anchorOf "honours" ;
+    nif:beginIndex "893" ;
+    nif:endIndex "900" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_901_907> a nif:Word ;
+    nif:anchorOf "Connes" ;
+    nif:beginIndex "901" ;
+    nif:endIndex "907" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_908_911> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "908" ;
+    nif:endIndex "911" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_90_99> a nif:Word ;
+    nif:anchorOf "Professor" ;
+    nif:beginIndex "90" ;
+    nif:endIndex "99" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_912_919> a nif:Word ;
+    nif:anchorOf "awarded" ;
+    nif:beginIndex "912" ;
+    nif:endIndex "919" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_920_923> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "920" ;
+    nif:endIndex "923" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_924_930> a nif:Word ;
+    nif:anchorOf "Fields" ;
+    nif:beginIndex "924" ;
+    nif:endIndex "930" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_931_936> a nif:Word ;
+    nif:anchorOf "Medal" ;
+    nif:beginIndex "931" ;
+    nif:endIndex "936" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_937_939> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "937" ;
+    nif:endIndex "939" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_940_944> a nif:Word ;
+    nif:anchorOf "1982" ;
+    nif:beginIndex "940" ;
+    nif:endIndex "944" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_946_949> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "946" ;
+    nif:endIndex "949" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_950_958> a nif:Word ;
+    nif:anchorOf "Crafoord" ;
+    nif:beginIndex "950" ;
+    nif:endIndex "958" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_959_964> a nif:Word ;
+    nif:anchorOf "Prize" ;
+    nif:beginIndex "959" ;
+    nif:endIndex "964" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_965_967> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "965" ;
+    nif:endIndex "967" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_968_972> a nif:Word ;
+    nif:anchorOf "2001" ;
+    nif:beginIndex "968" ;
+    nif:endIndex "972" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_973_976> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "973" ;
+    nif:endIndex "976" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_977_980> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "977" ;
+    nif:endIndex "980" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_981_985> a nif:Word ;
+    nif:anchorOf "gold" ;
+    nif:beginIndex "981" ;
+    nif:endIndex "985" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_986_991> a nif:Word ;
+    nif:anchorOf "medal" ;
+    nif:beginIndex "986" ;
+    nif:endIndex "991" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_992_994> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "992" ;
+    nif:endIndex "994" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_995_998> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "995" ;
+    nif:endIndex "998" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=word_offset_999_1003> a nif:Word ;
+    nif:anchorOf "CNRS" ;
+    nif:beginIndex "999" ;
+    nif:endIndex "1003" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Alain_Connes?dbpv=2016-10&nif=context> .
+

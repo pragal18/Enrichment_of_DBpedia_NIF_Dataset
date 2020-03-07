@@ -1,0 +1,2157 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_0_13> a nif:Word ;
+    nif:anchorOf "Ampelodesmos," ;
+    nif:beginIndex "0" ;
+    nif:endIndex "13" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1007_1009> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "1007" ;
+    nif:endIndex "1009" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1010_1017> a nif:Word ;
+    nif:anchorOf "Sicilia" ;
+    nif:beginIndex "1010" ;
+    nif:endIndex "1017" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1018_1022> a nif:Word ;
+    nif:anchorOf "para" ;
+    nif:beginIndex "1018" ;
+    nif:endIndex "1022" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1023_1027> a nif:Word ;
+    nif:anchorOf "atar" ;
+    nif:beginIndex "1023" ;
+    nif:endIndex "1027" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1028_1031> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "1028" ;
+    nif:endIndex "1031" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1032_1038> a nif:Word ;
+    nif:anchorOf "vides." ;
+    nif:beginIndex "1032" ;
+    nif:endIndex "1038" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1039_1048> a nif:Word ;
+    nif:anchorOf "Citología" ;
+    nif:beginIndex "1039" ;
+    nif:endIndex "1048" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1049_1051> a nif:Word ;
+    nif:anchorOf "El" ;
+    nif:beginIndex "1049" ;
+    nif:endIndex "1051" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1052_1058> a nif:Word ;
+    nif:anchorOf "número" ;
+    nif:beginIndex "1052" ;
+    nif:endIndex "1058" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1059_1070> a nif:Word ;
+    nif:anchorOf "cromosómico" ;
+    nif:beginIndex "1059" ;
+    nif:endIndex "1070" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1071_1077> a nif:Word ;
+    nif:anchorOf "básico" ;
+    nif:beginIndex "1071" ;
+    nif:endIndex "1077" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1078_1081> a nif:Word ;
+    nif:anchorOf "del" ;
+    nif:beginIndex "1078" ;
+    nif:endIndex "1081" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1082_1088> a nif:Word ;
+    nif:anchorOf "género" ;
+    nif:beginIndex "1082" ;
+    nif:endIndex "1088" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1089_1091> a nif:Word ;
+    nif:anchorOf "es" ;
+    nif:beginIndex "1089" ;
+    nif:endIndex "1091" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1092_1093> a nif:Word ;
+    nif:anchorOf "x" ;
+    nif:beginIndex "1092" ;
+    nif:endIndex "1093" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1096_1099> a nif:Word ;
+    nif:anchorOf "12," ;
+    nif:beginIndex "1096" ;
+    nif:endIndex "1099" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1100_1103> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "1100" ;
+    nif:endIndex "1103" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1104_1111> a nif:Word ;
+    nif:anchorOf "números" ;
+    nif:beginIndex "1104" ;
+    nif:endIndex "1111" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1112_1124> a nif:Word ;
+    nif:anchorOf "cromosómicos" ;
+    nif:beginIndex "1112" ;
+    nif:endIndex "1124" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1125_1134> a nif:Word ;
+    nif:anchorOf "somáticos" ;
+    nif:beginIndex "1125" ;
+    nif:endIndex "1134" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_112_113> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "112" ;
+    nif:endIndex "113" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1135_1137> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1135" ;
+    nif:endIndex "1137" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1138_1140> a nif:Word ;
+    nif:anchorOf "2n" ;
+    nif:beginIndex "1138" ;
+    nif:endIndex "1140" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1143_1145> a nif:Word ;
+    nif:anchorOf "48" ;
+    nif:beginIndex "1143" ;
+    nif:endIndex "1145" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1146_1147> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "1146" ;
+    nif:endIndex "1147" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1148_1151> a nif:Word ;
+    nif:anchorOf "96," ;
+    nif:beginIndex "1148" ;
+    nif:endIndex "1151" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_114_116> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "114" ;
+    nif:endIndex "116" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1152_1154> a nif:Word ;
+    nif:anchorOf "ya" ;
+    nif:beginIndex "1152" ;
+    nif:endIndex "1154" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1155_1158> a nif:Word ;
+    nif:anchorOf "que" ;
+    nif:beginIndex "1155" ;
+    nif:endIndex "1158" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#SCONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1159_1162> a nif:Word ;
+    nif:anchorOf "hay" ;
+    nif:beginIndex "1159" ;
+    nif:endIndex "1162" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#AUX> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1163_1171> a nif:Word ;
+    nif:anchorOf "especies" ;
+    nif:beginIndex "1163" ;
+    nif:endIndex "1171" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1172_1181> a nif:Word ;
+    nif:anchorOf "diploides" ;
+    nif:beginIndex "1172" ;
+    nif:endIndex "1181" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_117_125> a nif:Word ;
+    nif:anchorOf "Eurasia." ;
+    nif:beginIndex "117" ;
+    nif:endIndex "125" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1182_1183> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "1182" ;
+    nif:endIndex "1183" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1184_1187> a nif:Word ;
+    nif:anchorOf "una" ;
+    nif:beginIndex "1184" ;
+    nif:endIndex "1187" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1188_1193> a nif:Word ;
+    nif:anchorOf "serie" ;
+    nif:beginIndex "1188" ;
+    nif:endIndex "1193" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1194_1205> a nif:Word ;
+    nif:anchorOf "poliploide." ;
+    nif:beginIndex "1194" ;
+    nif:endIndex "1205" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1207_1215> a nif:Word ;
+    nif:anchorOf "Especies" ;
+    nif:beginIndex "1207" ;
+    nif:endIndex "1215" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1216_1225> a nif:Word ;
+    nif:anchorOf "aceptadas" ;
+    nif:beginIndex "1216" ;
+    nif:endIndex "1225" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1226_1227> a nif:Word ;
+    nif:anchorOf "A" ;
+    nif:beginIndex "1226" ;
+    nif:endIndex "1227" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1228_1240> a nif:Word ;
+    nif:anchorOf "continuación" ;
+    nif:beginIndex "1228" ;
+    nif:endIndex "1240" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1241_1243> a nif:Word ;
+    nif:anchorOf "se" ;
+    nif:beginIndex "1241" ;
+    nif:endIndex "1243" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRON> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1244_1250> a nif:Word ;
+    nif:anchorOf "brinda" ;
+    nif:beginIndex "1244" ;
+    nif:endIndex "1250" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1251_1253> a nif:Word ;
+    nif:anchorOf "un" ;
+    nif:beginIndex "1251" ;
+    nif:endIndex "1253" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1254_1261> a nif:Word ;
+    nif:anchorOf "listado" ;
+    nif:beginIndex "1254" ;
+    nif:endIndex "1261" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1262_1264> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1262" ;
+    nif:endIndex "1264" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1265_1268> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "1265" ;
+    nif:endIndex "1268" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1269_1277> a nif:Word ;
+    nif:anchorOf "especies" ;
+    nif:beginIndex "1269" ;
+    nif:endIndex "1277" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_126_128> a nif:Word ;
+    nif:anchorOf "Es" ;
+    nif:beginIndex "126" ;
+    nif:endIndex "128" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1278_1281> a nif:Word ;
+    nif:anchorOf "del" ;
+    nif:beginIndex "1278" ;
+    nif:endIndex "1281" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1282_1288> a nif:Word ;
+    nif:anchorOf "género" ;
+    nif:beginIndex "1282" ;
+    nif:endIndex "1288" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1289_1301> a nif:Word ;
+    nif:anchorOf "Ampelodesmos" ;
+    nif:beginIndex "1289" ;
+    nif:endIndex "1301" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_129_131> a nif:Word ;
+    nif:anchorOf "el" ;
+    nif:beginIndex "129" ;
+    nif:endIndex "131" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1302_1311> a nif:Word ;
+    nif:anchorOf "aceptadas" ;
+    nif:beginIndex "1302" ;
+    nif:endIndex "1311" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1312_1317> a nif:Word ;
+    nif:anchorOf "hasta" ;
+    nif:beginIndex "1312" ;
+    nif:endIndex "1317" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1318_1322> a nif:Word ;
+    nif:anchorOf "mayo" ;
+    nif:beginIndex "1318" ;
+    nif:endIndex "1322" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1323_1325> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1323" ;
+    nif:endIndex "1325" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1326_1331> a nif:Word ;
+    nif:anchorOf "2014," ;
+    nif:beginIndex "1326" ;
+    nif:endIndex "1331" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_132_137> a nif:Word ;
+    nif:anchorOf "único" ;
+    nif:beginIndex "132" ;
+    nif:endIndex "137" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1332_1341> a nif:Word ;
+    nif:anchorOf "ordenadas" ;
+    nif:beginIndex "1332" ;
+    nif:endIndex "1341" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1342_1358> a nif:Word ;
+    nif:anchorOf "alfabéticamente." ;
+    nif:beginIndex "1342" ;
+    nif:endIndex "1358" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1359_1363> a nif:Word ;
+    nif:anchorOf "Para" ;
+    nif:beginIndex "1359" ;
+    nif:endIndex "1363" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1364_1368> a nif:Word ;
+    nif:anchorOf "cada" ;
+    nif:beginIndex "1364" ;
+    nif:endIndex "1368" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1369_1372> a nif:Word ;
+    nif:anchorOf "una" ;
+    nif:beginIndex "1369" ;
+    nif:endIndex "1372" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRON> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1373_1375> a nif:Word ;
+    nif:anchorOf "se" ;
+    nif:beginIndex "1373" ;
+    nif:endIndex "1375" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRON> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1376_1382> a nif:Word ;
+    nif:anchorOf "indica" ;
+    nif:beginIndex "1376" ;
+    nif:endIndex "1382" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1383_1385> a nif:Word ;
+    nif:anchorOf "el" ;
+    nif:beginIndex "1383" ;
+    nif:endIndex "1385" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1386_1392> a nif:Word ;
+    nif:anchorOf "nombre" ;
+    nif:beginIndex "1386" ;
+    nif:endIndex "1392" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_138_144> a nif:Word ;
+    nif:anchorOf "género" ;
+    nif:beginIndex "138" ;
+    nif:endIndex "144" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1393_1401> a nif:Word ;
+    nif:anchorOf "binomial" ;
+    nif:beginIndex "1393" ;
+    nif:endIndex "1401" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1402_1409> a nif:Word ;
+    nif:anchorOf "seguido" ;
+    nif:beginIndex "1402" ;
+    nif:endIndex "1409" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1410_1413> a nif:Word ;
+    nif:anchorOf "del" ;
+    nif:beginIndex "1410" ;
+    nif:endIndex "1413" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1414_1420> a nif:Word ;
+    nif:anchorOf "autor," ;
+    nif:beginIndex "1414" ;
+    nif:endIndex "1420" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1421_1430> a nif:Word ;
+    nif:anchorOf "abreviado" ;
+    nif:beginIndex "1421" ;
+    nif:endIndex "1430" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1431_1436> a nif:Word ;
+    nif:anchorOf "según" ;
+    nif:beginIndex "1431" ;
+    nif:endIndex "1436" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1437_1440> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "1437" ;
+    nif:endIndex "1440" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1441_1453> a nif:Word ;
+    nif:anchorOf "convenciones" ;
+    nif:beginIndex "1441" ;
+    nif:endIndex "1453" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1454_1455> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "1454" ;
+    nif:endIndex "1455" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1456_1461> a nif:Word ;
+    nif:anchorOf "usos." ;
+    nif:beginIndex "1456" ;
+    nif:endIndex "1461" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_145_147> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "145" ;
+    nif:endIndex "147" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1466_1478> a nif:Word ;
+    nif:anchorOf "Ampelodesmos" ;
+    nif:beginIndex "1466" ;
+    nif:endIndex "1478" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1479_1491> a nif:Word ;
+    nif:anchorOf "ampelodesmon" ;
+    nif:beginIndex "1479" ;
+    nif:endIndex "1491" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_148_150> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "148" ;
+    nif:endIndex "150" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1492_1498> a nif:Word ;
+    nif:anchorOf "(Cyr.)" ;
+    nif:beginIndex "1492" ;
+    nif:endIndex "1498" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1499_1510> a nif:Word ;
+    nif:anchorOf "M.Kerguelen" ;
+    nif:beginIndex "1499" ;
+    nif:endIndex "1510" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_14_16> a nif:Word ;
+    nif:anchorOf "es" ;
+    nif:beginIndex "14" ;
+    nif:endIndex "16" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1516_1528> a nif:Word ;
+    nif:anchorOf "Ampelodesmos" ;
+    nif:beginIndex "1516" ;
+    nif:endIndex "1528" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_151_156> a nif:Word ;
+    nif:anchorOf "tribu" ;
+    nif:beginIndex "151" ;
+    nif:endIndex "156" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1529_1540> a nif:Word ;
+    nif:anchorOf "mauritanica" ;
+    nif:beginIndex "1529" ;
+    nif:endIndex "1540" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1541_1548> a nif:Word ;
+    nif:anchorOf "(Poir.)" ;
+    nif:beginIndex "1541" ;
+    nif:endIndex "1548" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1549_1557> a nif:Word ;
+    nif:anchorOf "T.Durand" ;
+    nif:beginIndex "1549" ;
+    nif:endIndex "1557" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1558_1560> a nif:Word ;
+    nif:anchorOf "et" ;
+    nif:beginIndex "1558" ;
+    nif:endIndex "1560" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1561_1567> a nif:Word ;
+    nif:anchorOf "Schinz" ;
+    nif:beginIndex "1561" ;
+    nif:endIndex "1567" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1569_1574> a nif:Word ;
+    nif:anchorOf "Véase" ;
+    nif:beginIndex "1569" ;
+    nif:endIndex "1574" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1575_1582> a nif:Word ;
+    nif:anchorOf "también" ;
+    nif:beginIndex "1575" ;
+    nif:endIndex "1582" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_157_171> a nif:Word ;
+    nif:anchorOf "Ampelodesmeae." ;
+    nif:beginIndex "157" ;
+    nif:endIndex "171" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1587_1599> a nif:Word ;
+    nif:anchorOf "Terminología" ;
+    nif:beginIndex "1587" ;
+    nif:endIndex "1599" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1600_1611> a nif:Word ;
+    nif:anchorOf "descriptiva" ;
+    nif:beginIndex "1600" ;
+    nif:endIndex "1611" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1612_1614> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1612" ;
+    nif:endIndex "1614" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1615_1618> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "1615" ;
+    nif:endIndex "1618" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1619_1626> a nif:Word ;
+    nif:anchorOf "plantas" ;
+    nif:beginIndex "1619" ;
+    nif:endIndex "1626" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1631_1647> a nif:Word ;
+    nif:anchorOf "Anexo:Cronología" ;
+    nif:beginIndex "1631" ;
+    nif:endIndex "1647" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1648_1650> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1648" ;
+    nif:endIndex "1650" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1651_1653> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "1651" ;
+    nif:endIndex "1653" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1654_1662> a nif:Word ;
+    nif:anchorOf "botánica" ;
+    nif:beginIndex "1654" ;
+    nif:endIndex "1662" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1667_1675> a nif:Word ;
+    nif:anchorOf "Historia" ;
+    nif:beginIndex "1667" ;
+    nif:endIndex "1675" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1676_1678> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1676" ;
+    nif:endIndex "1678" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1679_1681> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "1679" ;
+    nif:endIndex "1681" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1682_1690> a nif:Word ;
+    nif:anchorOf "Botánica" ;
+    nif:beginIndex "1682" ;
+    nif:endIndex "1690" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1695_1710> a nif:Word ;
+    nif:anchorOf "Características" ;
+    nif:beginIndex "1695" ;
+    nif:endIndex "1710" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1711_1713> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1711" ;
+    nif:endIndex "1713" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1714_1717> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "1714" ;
+    nif:endIndex "1717" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_1718_1725> a nif:Word ;
+    nif:anchorOf "poáceas" ;
+    nif:beginIndex "1718" ;
+    nif:endIndex "1725" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_173_184> a nif:Word ;
+    nif:anchorOf "Descripción" ;
+    nif:beginIndex "173" ;
+    nif:endIndex "184" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_17_19> a nif:Word ;
+    nif:anchorOf "un" ;
+    nif:beginIndex "17" ;
+    nif:endIndex "19" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_185_188> a nif:Word ;
+    nif:anchorOf "Son" ;
+    nif:beginIndex "185" ;
+    nif:endIndex "188" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#AUX> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_189_197> a nif:Word ;
+    nif:anchorOf "robustas" ;
+    nif:beginIndex "189" ;
+    nif:endIndex "197" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_198_205> a nif:Word ;
+    nif:anchorOf "plantas" ;
+    nif:beginIndex "198" ;
+    nif:endIndex "205" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_206_215> a nif:Word ;
+    nif:anchorOf "perennes;" ;
+    nif:beginIndex "206" ;
+    nif:endIndex "215" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_20_26> a nif:Word ;
+    nif:anchorOf "género" ;
+    nif:beginIndex "20" ;
+    nif:endIndex "26" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_216_228> a nif:Word ;
+    nif:anchorOf "rizomatosas." ;
+    nif:beginIndex "216" ;
+    nif:endIndex "228" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_229_235> a nif:Word ;
+    nif:anchorOf "Tallos" ;
+    nif:beginIndex "229" ;
+    nif:endIndex "235" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_236_238> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "236" ;
+    nif:endIndex "238" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_239_241> a nif:Word ;
+    nif:anchorOf "60" ;
+    nif:beginIndex "239" ;
+    nif:endIndex "241" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_242_244> a nif:Word ;
+    nif:anchorOf "cm" ;
+    nif:beginIndex "242" ;
+    nif:endIndex "244" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#SYM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_245_246> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "245" ;
+    nif:endIndex "246" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_247_250> a nif:Word ;
+    nif:anchorOf "3,5" ;
+    nif:beginIndex "247" ;
+    nif:endIndex "250" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_251_252> a nif:Word ;
+    nif:anchorOf "m" ;
+    nif:beginIndex "251" ;
+    nif:endIndex "252" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#SYM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_253_255> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "253" ;
+    nif:endIndex "255" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_256_263> a nif:Word ;
+    nif:anchorOf "altura;" ;
+    nif:beginIndex "256" ;
+    nif:endIndex "263" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_264_273> a nif:Word ;
+    nif:anchorOf "herbácea;" ;
+    nif:beginIndex "264" ;
+    nif:endIndex "273" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_274_284> a nif:Word ;
+    nif:anchorOf "internudos" ;
+    nif:beginIndex "274" ;
+    nif:endIndex "284" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_27_29> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "27" ;
+    nif:endIndex "29" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_285_293> a nif:Word ;
+    nif:anchorOf "sólidos." ;
+    nif:beginIndex "285" ;
+    nif:endIndex "293" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_294_299> a nif:Word ;
+    nif:anchorOf "Hojas" ;
+    nif:beginIndex "294" ;
+    nif:endIndex "299" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_300_302> a nif:Word ;
+    nif:anchorOf "no" ;
+    nif:beginIndex "300" ;
+    nif:endIndex "302" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_303_315> a nif:Word ;
+    nif:anchorOf "auriculadas." ;
+    nif:beginIndex "303" ;
+    nif:endIndex "315" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_30_37> a nif:Word ;
+    nif:anchorOf "plantas" ;
+    nif:beginIndex "30" ;
+    nif:endIndex "37" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_316_323> a nif:Word ;
+    nif:anchorOf "Láminas" ;
+    nif:beginIndex "316" ;
+    nif:endIndex "323" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_324_326> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "324" ;
+    nif:endIndex "326" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_327_330> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "327" ;
+    nif:endIndex "330" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_331_336> a nif:Word ;
+    nif:anchorOf "hojas" ;
+    nif:beginIndex "331" ;
+    nif:endIndex "336" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_337_343> a nif:Word ;
+    nif:anchorOf "duras;" ;
+    nif:beginIndex "337" ;
+    nif:endIndex "343" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_344_353> a nif:Word ;
+    nif:anchorOf "angostas;" ;
+    nif:beginIndex "344" ;
+    nif:endIndex "353" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_354_361> a nif:Word ;
+    nif:anchorOf "chatas," ;
+    nif:beginIndex "354" ;
+    nif:endIndex "361" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_362_363> a nif:Word ;
+    nif:anchorOf "o" ;
+    nif:beginIndex "362" ;
+    nif:endIndex "363" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_364_375> a nif:Word ;
+    nif:anchorOf "enrolladas;" ;
+    nif:beginIndex "364" ;
+    nif:endIndex "375" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PUNCT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_376_378> a nif:Word ;
+    nif:anchorOf "no" ;
+    nif:beginIndex "376" ;
+    nif:endIndex "378" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_379_396> a nif:Word ;
+    nif:anchorOf "pseudopecioladas;" ;
+    nif:beginIndex "379" ;
+    nif:endIndex "396" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_38_40> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "38" ;
+    nif:endIndex "40" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_397_400> a nif:Word ;
+    nif:anchorOf "sin" ;
+    nif:beginIndex "397" ;
+    nif:endIndex "400" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_401_409> a nif:Word ;
+    nif:anchorOf "venación" ;
+    nif:beginIndex "401" ;
+    nif:endIndex "409" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_410_418> a nif:Word ;
+    nif:anchorOf "cruzada." ;
+    nif:beginIndex "410" ;
+    nif:endIndex "418" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_419_425> a nif:Word ;
+    nif:anchorOf "Lígula" ;
+    nif:beginIndex "419" ;
+    nif:endIndex "425" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_41_43> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "41" ;
+    nif:endIndex "43" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_426_437> a nif:Word ;
+    nif:anchorOf "membranosa;" ;
+    nif:beginIndex "426" ;
+    nif:endIndex "437" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_438_440> a nif:Word ;
+    nif:anchorOf "no" ;
+    nif:beginIndex "438" ;
+    nif:endIndex "440" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_441_450> a nif:Word ;
+    nif:anchorOf "truncada;" ;
+    nif:beginIndex "441" ;
+    nif:endIndex "450" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_44_51> a nif:Word ;
+    nif:anchorOf "familia" ;
+    nif:beginIndex "44" ;
+    nif:endIndex "51" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_451_453> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "451" ;
+    nif:endIndex "453" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_454_458> a nif:Word ;
+    nif:anchorOf "6–12" ;
+    nif:beginIndex "454" ;
+    nif:endIndex "458" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_459_461> a nif:Word ;
+    nif:anchorOf "mm" ;
+    nif:beginIndex "459" ;
+    nif:endIndex "461" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_462_464> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "462" ;
+    nif:endIndex "464" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_465_471> a nif:Word ;
+    nif:anchorOf "largo." ;
+    nif:beginIndex "465" ;
+    nif:endIndex "471" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_472_475> a nif:Word ;
+    nif:anchorOf "Son" ;
+    nif:beginIndex "472" ;
+    nif:endIndex "475" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_476_483> a nif:Word ;
+    nif:anchorOf "plantas" ;
+    nif:beginIndex "476" ;
+    nif:endIndex "483" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_484_491> a nif:Word ;
+    nif:anchorOf "diclino" ;
+    nif:beginIndex "484" ;
+    nif:endIndex "491" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_492_500> a nif:Word ;
+    nif:anchorOf "monoicas" ;
+    nif:beginIndex "492" ;
+    nif:endIndex "500" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_501_514> a nif:Word ;
+    nif:anchorOf "(bisexuales)," ;
+    nif:beginIndex "501" ;
+    nif:endIndex "514" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_515_518> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "515" ;
+    nif:endIndex "518" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_519_526> a nif:Word ;
+    nif:anchorOf "espigas" ;
+    nif:beginIndex "519" ;
+    nif:endIndex "526" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_527_538> a nif:Word ;
+    nif:anchorOf "bisexuales;" ;
+    nif:beginIndex "527" ;
+    nif:endIndex "538" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_52_54> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "52" ;
+    nif:endIndex "54" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_539_540> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "539" ;
+    nif:endIndex "540" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_541_547> a nif:Word ;
+    nif:anchorOf "flores" ;
+    nif:beginIndex "541" ;
+    nif:endIndex "547" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_548_562> a nif:Word ;
+    nif:anchorOf "hermafroditas." ;
+    nif:beginIndex "548" ;
+    nif:endIndex "562" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#SYM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_55_58> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "55" ;
+    nif:endIndex "58" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_563_577> a nif:Word ;
+    nif:anchorOf "Inflorescencia" ;
+    nif:beginIndex "563" ;
+    nif:endIndex "577" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_578_589> a nif:Word ;
+    nif:anchorOf "paniculada;" ;
+    nif:beginIndex "578" ;
+    nif:endIndex "589" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_590_598> a nif:Word ;
+    nif:anchorOf "abierta;" ;
+    nif:beginIndex "590" ;
+    nif:endIndex "598" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_599_610> a nif:Word ;
+    nif:anchorOf "espatulada." ;
+    nif:beginIndex "599" ;
+    nif:endIndex "610" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_59_67> a nif:Word ;
+    nif:anchorOf "Poáceas." ;
+    nif:beginIndex "59" ;
+    nif:endIndex "67" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_611_615> a nif:Word ;
+    nif:anchorOf "Ejes" ;
+    nif:beginIndex "611" ;
+    nif:endIndex "615" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_616_618> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "616" ;
+    nif:endIndex "618" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_619_621> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "619" ;
+    nif:endIndex "621" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_622_628> a nif:Word ;
+    nif:anchorOf "espiga" ;
+    nif:beginIndex "622" ;
+    nif:endIndex "628" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_629_642> a nif:Word ;
+    nif:anchorOf "persistentes;" ;
+    nif:beginIndex "629" ;
+    nif:endIndex "642" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_643_654> a nif:Word ;
+    nif:anchorOf "pedicelada." ;
+    nif:beginIndex "643" ;
+    nif:endIndex "654" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_656_665> a nif:Word ;
+    nif:anchorOf "Taxonomía" ;
+    nif:beginIndex "656" ;
+    nif:endIndex "665" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_666_668> a nif:Word ;
+    nif:anchorOf "El" ;
+    nif:beginIndex "666" ;
+    nif:endIndex "668" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_669_675> a nif:Word ;
+    nif:anchorOf "género" ;
+    nif:beginIndex "669" ;
+    nif:endIndex "675" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_676_679> a nif:Word ;
+    nif:anchorOf "fue" ;
+    nif:beginIndex "676" ;
+    nif:endIndex "679" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#AUX> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_680_688> a nif:Word ;
+    nif:anchorOf "descrito" ;
+    nif:beginIndex "680" ;
+    nif:endIndex "688" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_689_692> a nif:Word ;
+    nif:anchorOf "por" ;
+    nif:beginIndex "689" ;
+    nif:endIndex "692" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_68_70> a nif:Word ;
+    nif:anchorOf "Es" ;
+    nif:beginIndex "68" ;
+    nif:endIndex "70" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_693_701> a nif:Word ;
+    nif:anchorOf "Heinrich" ;
+    nif:beginIndex "693" ;
+    nif:endIndex "701" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_702_711> a nif:Word ;
+    nif:anchorOf "Friedrich" ;
+    nif:beginIndex "702" ;
+    nif:endIndex "711" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_712_716> a nif:Word ;
+    nif:anchorOf "Link" ;
+    nif:beginIndex "712" ;
+    nif:endIndex "716" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_717_718> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "717" ;
+    nif:endIndex "718" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_719_728> a nif:Word ;
+    nif:anchorOf "publicado" ;
+    nif:beginIndex "719" ;
+    nif:endIndex "728" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_71_81> a nif:Word ;
+    nif:anchorOf "originario" ;
+    nif:beginIndex "71" ;
+    nif:endIndex "81" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_729_731> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "729" ;
+    nif:endIndex "731" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_732_738> a nif:Word ;
+    nif:anchorOf "Hortus" ;
+    nif:beginIndex "732" ;
+    nif:endIndex "738" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_739_745> a nif:Word ;
+    nif:anchorOf "Regius" ;
+    nif:beginIndex "739" ;
+    nif:endIndex "745" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_746_755> a nif:Word ;
+    nif:anchorOf "Botanicus" ;
+    nif:beginIndex "746" ;
+    nif:endIndex "755" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_756_768> a nif:Word ;
+    nif:anchorOf "Berolinensis" ;
+    nif:beginIndex "756" ;
+    nif:endIndex "768" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_769_771> a nif:Word ;
+    nif:anchorOf "1:" ;
+    nif:beginIndex "769" ;
+    nif:endIndex "771" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_772_776> a nif:Word ;
+    nif:anchorOf "136." ;
+    nif:beginIndex "772" ;
+    nif:endIndex "776" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_777_782> a nif:Word ;
+    nif:anchorOf "1827." ;
+    nif:beginIndex "777" ;
+    nif:endIndex "782" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_783_785> a nif:Word ;
+    nif:anchorOf "La" ;
+    nif:beginIndex "783" ;
+    nif:endIndex "785" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_786_793> a nif:Word ;
+    nif:anchorOf "especie" ;
+    nif:beginIndex "786" ;
+    nif:endIndex "793" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_794_798> a nif:Word ;
+    nif:anchorOf "tipo" ;
+    nif:beginIndex "794" ;
+    nif:endIndex "798" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_799_802> a nif:Word ;
+    nif:anchorOf "es:" ;
+    nif:beginIndex "799" ;
+    nif:endIndex "802" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_803_815> a nif:Word ;
+    nif:anchorOf "Ampelodesmos" ;
+    nif:beginIndex "803" ;
+    nif:endIndex "815" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_816_827> a nif:Word ;
+    nif:anchorOf "mauritanica" ;
+    nif:beginIndex "816" ;
+    nif:endIndex "827" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_828_835> a nif:Word ;
+    nif:anchorOf "(Poir.)" ;
+    nif:beginIndex "828" ;
+    nif:endIndex "835" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_82_84> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "82" ;
+    nif:endIndex "84" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_836_844> a nif:Word ;
+    nif:anchorOf "T.Durand" ;
+    nif:beginIndex "836" ;
+    nif:endIndex "844" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_845_847> a nif:Word ;
+    nif:anchorOf "et" ;
+    nif:beginIndex "845" ;
+    nif:endIndex "847" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_848_854> a nif:Word ;
+    nif:anchorOf "Schinz" ;
+    nif:beginIndex "848" ;
+    nif:endIndex "854" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_855_865> a nif:Word ;
+    nif:anchorOf "Etimología" ;
+    nif:beginIndex "855" ;
+    nif:endIndex "865" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_85_87> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "85" ;
+    nif:endIndex "87" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_866_879> a nif:Word ;
+    nif:anchorOf "Ampelodesmos:" ;
+    nif:beginIndex "866" ;
+    nif:endIndex "879" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_880_886> a nif:Word ;
+    nif:anchorOf "nombre" ;
+    nif:beginIndex "880" ;
+    nif:endIndex "886" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_887_895> a nif:Word ;
+    nif:anchorOf "genérico" ;
+    nif:beginIndex "887" ;
+    nif:endIndex "895" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_88_94> a nif:Word ;
+    nif:anchorOf "región" ;
+    nif:beginIndex "88" ;
+    nif:endIndex "94" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_896_899> a nif:Word ;
+    nif:anchorOf "que" ;
+    nif:beginIndex "896" ;
+    nif:endIndex "899" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#SCONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_900_906> a nif:Word ;
+    nif:anchorOf "deriva" ;
+    nif:beginIndex "900" ;
+    nif:endIndex "906" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_907_909> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "907" ;
+    nif:endIndex "909" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_910_912> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "910" ;
+    nif:endIndex "912" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_913_920> a nif:Word ;
+    nif:anchorOf "palabra" ;
+    nif:beginIndex "913" ;
+    nif:endIndex "920" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_921_928> a nif:Word ;
+    nif:anchorOf "griega:" ;
+    nif:beginIndex "921" ;
+    nif:endIndex "928" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_929_942> a nif:Word ;
+    nif:anchorOf "Ampelodesmos," ;
+    nif:beginIndex "929" ;
+    nif:endIndex "942" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_943_945> a nif:Word ;
+    nif:anchorOf "un" ;
+    nif:beginIndex "943" ;
+    nif:endIndex "945" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_946_952> a nif:Word ;
+    nif:anchorOf "nombre" ;
+    nif:beginIndex "946" ;
+    nif:endIndex "952" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_953_960> a nif:Word ;
+    nif:anchorOf "antiguo" ;
+    nif:beginIndex "953" ;
+    nif:endIndex "960" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_95_98> a nif:Word ;
+    nif:anchorOf "del" ;
+    nif:beginIndex "95" ;
+    nif:endIndex "98" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_961_965> a nif:Word ;
+    nif:anchorOf "para" ;
+    nif:beginIndex "961" ;
+    nif:endIndex "965" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_966_968> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "966" ;
+    nif:endIndex "968" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_969_976> a nif:Word ;
+    nif:anchorOf "especie" ;
+    nif:beginIndex "969" ;
+    nif:endIndex "976" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_977_983> a nif:Word ;
+    nif:anchorOf "Lygeum" ;
+    nif:beginIndex "977" ;
+    nif:endIndex "983" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_984_991> a nif:Word ;
+    nif:anchorOf "spartum" ;
+    nif:beginIndex "984" ;
+    nif:endIndex "991" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_992_995> a nif:Word ;
+    nif:anchorOf "que" ;
+    nif:beginIndex "992" ;
+    nif:endIndex "995" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#SCONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_996_998> a nif:Word ;
+    nif:anchorOf "se" ;
+    nif:beginIndex "996" ;
+    nif:endIndex "998" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRON> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_999_1006> a nif:Word ;
+    nif:anchorOf "utilizó" ;
+    nif:beginIndex "999" ;
+    nif:endIndex "1006" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=word_offset_99_111> a nif:Word ;
+    nif:anchorOf "Mediterráneo" ;
+    nif:beginIndex "99" ;
+    nif:endIndex "111" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Ampelodesmos?dbpv=2016-10&nif=context> .
+

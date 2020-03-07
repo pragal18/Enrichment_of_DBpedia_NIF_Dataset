@@ -1,0 +1,589 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_0_1> a nif:Word ;
+    nif:anchorOf "1" ;
+    nif:beginIndex "0" ;
+    nif:endIndex "1" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_101_103> a nif:Word ;
+    nif:anchorOf "景徳" ;
+    nif:beginIndex "101" ;
+    nif:endIndex "103" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_110_111> a nif:Word ;
+    nif:anchorOf "遼" ;
+    nif:beginIndex "110" ;
+    nif:endIndex "111" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_114_116> a nif:Word ;
+    nif:anchorOf "統和" ;
+    nif:beginIndex "114" ;
+    nif:endIndex "116" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_116_117> a nif:Word ;
+    nif:anchorOf "2" ;
+    nif:beginIndex "116" ;
+    nif:endIndex "117" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_11_13> a nif:Word ;
+    nif:anchorOf "ねん" ;
+    nif:beginIndex "11" ;
+    nif:endIndex "13" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#助詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_124_126> a nif:Word ;
+    nif:anchorOf "朝鮮" ;
+    nif:beginIndex "124" ;
+    nif:endIndex "126" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_133_137> a nif:Word ;
+    nif:anchorOf "ベトナム" ;
+    nif:beginIndex "133" ;
+    nif:endIndex "137" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_142_143> a nif:Word ;
+    nif:anchorOf "前" ;
+    nif:beginIndex "142" ;
+    nif:endIndex "143" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_143_145> a nif:Word ;
+    nif:anchorOf "黎朝" ;
+    nif:beginIndex "143" ;
+    nif:endIndex "145" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_148_150> a nif:Word ;
+    nif:anchorOf "応天" ;
+    nif:beginIndex "148" ;
+    nif:endIndex "150" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_14_15> a nif:Word ;
+    nif:anchorOf "は" ;
+    nif:beginIndex "14" ;
+    nif:endIndex "15" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#助詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_158_160> a nif:Word ;
+    nif:anchorOf "仏滅" ;
+    nif:beginIndex "158" ;
+    nif:endIndex "160" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_15_16> a nif:Word ;
+    nif:anchorOf "、" ;
+    nif:beginIndex "15" ;
+    nif:endIndex "16" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#補助記号> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_160_162> a nif:Word ;
+    nif:anchorOf "紀元" ;
+    nif:beginIndex "160" ;
+    nif:endIndex "162" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_169_172> a nif:Word ;
+    nif:anchorOf "ユダヤ" ;
+    nif:beginIndex "169" ;
+    nif:endIndex "172" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_16_18> a nif:Word ;
+    nif:anchorOf "西暦" ;
+    nif:beginIndex "16" ;
+    nif:endIndex "18" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_177_181> a nif:Word ;
+    nif:anchorOf "できごと" ;
+    nif:beginIndex "177" ;
+    nif:endIndex "181" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#補助記号> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_17_18> a nif:Word ;
+    nif:anchorOf "暦" ;
+    nif:beginIndex "17" ;
+    nif:endIndex "18" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#接尾辞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_186_188> a nif:Word ;
+    nif:anchorOf "澶淵" ;
+    nif:beginIndex "186" ;
+    nif:endIndex "188" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_189_190> a nif:Word ;
+    nif:anchorOf "盟" ;
+    nif:beginIndex "189" ;
+    nif:endIndex "190" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_197_199> a nif:Word ;
+    nif:anchorOf "傳燈" ;
+    nif:beginIndex "197" ;
+    nif:endIndex "199" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_199_200> a nif:Word ;
+    nif:anchorOf "録" ;
+    nif:beginIndex "199" ;
+    nif:endIndex "200" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#接尾辞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_19_23> a nif:Word ;
+    nif:anchorOf "ユリウス" ;
+    nif:beginIndex "19" ;
+    nif:endIndex "23" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_1_2> a nif:Word ;
+    nif:anchorOf "0" ;
+    nif:beginIndex "1" ;
+    nif:endIndex "2" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_201_203> a nif:Word ;
+    nif:anchorOf "成立" ;
+    nif:beginIndex "201" ;
+    nif:endIndex "203" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_205_207> a nif:Word ;
+    nif:anchorOf "誕生" ;
+    nif:beginIndex "205" ;
+    nif:endIndex "207" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_212_214> a nif:Word ;
+    nif:anchorOf "源隆" ;
+    nif:beginIndex "212" ;
+    nif:endIndex "214" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_216_218> a nif:Word ;
+    nif:anchorOf "平安" ;
+    nif:beginIndex "216" ;
+    nif:endIndex "218" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_218_220> a nif:Word ;
+    nif:anchorOf "時代" ;
+    nif:beginIndex "218" ;
+    nif:endIndex "220" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_220_222> a nif:Word ;
+    nif:anchorOf "後期" ;
+    nif:beginIndex "220" ;
+    nif:endIndex "222" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_223_225> a nif:Word ;
+    nif:anchorOf "公卿" ;
+    nif:beginIndex "223" ;
+    nif:endIndex "225" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_230_231> a nif:Word ;
+    nif:anchorOf "7" ;
+    nif:beginIndex "230" ;
+    nif:endIndex "231" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_236_238> a nif:Word ;
+    nif:anchorOf "死去" ;
+    nif:beginIndex "236" ;
+    nif:endIndex "238" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_245_246> a nif:Word ;
+    nif:anchorOf "月" ;
+    nif:beginIndex "245" ;
+    nif:endIndex "246" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_257_258> a nif:Word ;
+    nif:anchorOf "3" ;
+    nif:beginIndex "257" ;
+    nif:endIndex "258" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_25_26> a nif:Word ;
+    nif:anchorOf "に" ;
+    nif:beginIndex "25" ;
+    nif:endIndex "26" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#助詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_261_262> a nif:Word ;
+    nif:anchorOf "-" ;
+    nif:beginIndex "261" ;
+    nif:endIndex "262" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#補助記号> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_263_265> a nif:Word ;
+    nif:anchorOf "真興" ;
+    nif:beginIndex "263" ;
+    nif:endIndex "265" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_26_28> a nif:Word ;
+    nif:anchorOf "よる" ;
+    nif:beginIndex "26" ;
+    nif:endIndex "28" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#動詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_271_273> a nif:Word ;
+    nif:anchorOf "真言" ;
+    nif:beginIndex "271" ;
+    nif:endIndex "273" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_273_274> a nif:Word ;
+    nif:anchorOf "宗" ;
+    nif:beginIndex "273" ;
+    nif:endIndex "274" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#接尾辞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_275_276> a nif:Word ;
+    nif:anchorOf "僧" ;
+    nif:beginIndex "275" ;
+    nif:endIndex "276" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_279_280> a nif:Word ;
+    nif:anchorOf "9" ;
+    nif:beginIndex "279" ;
+    nif:endIndex "280" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_281_282> a nif:Word ;
+    nif:anchorOf "5" ;
+    nif:beginIndex "281" ;
+    nif:endIndex "282" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_289_295> a nif:Word ;
+    nif:anchorOf "アデライード" ;
+    nif:beginIndex "289" ;
+    nif:endIndex "295" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_295_296> a nif:Word ;
+    nif:anchorOf "・" ;
+    nif:beginIndex "295" ;
+    nif:endIndex "296" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#補助記号> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_296_301> a nif:Word ;
+    nif:anchorOf "ダキテーヌ" ;
+    nif:beginIndex "296" ;
+    nif:endIndex "301" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_29_31> a nif:Word ;
+    nif:anchorOf "閏年" ;
+    nif:beginIndex "29" ;
+    nif:endIndex "31" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_302_306> a nif:Word ;
+    nif:anchorOf "フランス" ;
+    nif:beginIndex "302" ;
+    nif:endIndex "306" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_306_307> a nif:Word ;
+    nif:anchorOf "王" ;
+    nif:beginIndex "306" ;
+    nif:endIndex "307" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_307_310> a nif:Word ;
+    nif:anchorOf "ユーグ" ;
+    nif:beginIndex "307" ;
+    nif:endIndex "310" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_311_314> a nif:Word ;
+    nif:anchorOf "カペー" ;
+    nif:beginIndex "311" ;
+    nif:endIndex "314" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_315_317> a nif:Word ;
+    nif:anchorOf "王妃" ;
+    nif:beginIndex "315" ;
+    nif:endIndex "317" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_31_32> a nif:Word ;
+    nif:anchorOf "。" ;
+    nif:beginIndex "31" ;
+    nif:endIndex "32" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#補助記号> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_324_326> a nif:Word ;
+    nif:anchorOf "から" ;
+    nif:beginIndex "324" ;
+    nif:endIndex "326" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#助詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_32_33> a nif:Word ;
+    nif:anchorOf """
+""" ;
+    nif:beginIndex "32" ;
+    nif:endIndex "33" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#補助記号>,
+        <http://purl.org/olia/penn.owl#記号> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_330_331> a nif:Word ;
+    nif:anchorOf "頃" ;
+    nif:beginIndex "330" ;
+    nif:endIndex "331" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_337_339> a nif:Word ;
+    nif:anchorOf "李継" ;
+    nif:beginIndex "337" ;
+    nif:endIndex "339" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_339_340> a nif:Word ;
+    nif:anchorOf "遷" ;
+    nif:beginIndex "339" ;
+    nif:endIndex "340" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_341_343> a nif:Word ;
+    nif:anchorOf "西夏" ;
+    nif:beginIndex "341" ;
+    nif:endIndex "343" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_344_346> a nif:Word ;
+    nif:anchorOf "建国" ;
+    nif:beginIndex "344" ;
+    nif:endIndex "346" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_346_347> a nif:Word ;
+    nif:anchorOf "者" ;
+    nif:beginIndex "346" ;
+    nif:endIndex "347" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#接尾辞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_34_35> a nif:Word ;
+    nif:anchorOf "他" ;
+    nif:beginIndex "34" ;
+    nif:endIndex "35" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_35_36> a nif:Word ;
+    nif:anchorOf "の" ;
+    nif:beginIndex "35" ;
+    nif:endIndex "36" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#助詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_36_37> a nif:Word ;
+    nif:anchorOf "紀" ;
+    nif:beginIndex "36" ;
+    nif:endIndex "37" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_37_39> a nif:Word ;
+    nif:anchorOf "年法" ;
+    nif:beginIndex "37" ;
+    nif:endIndex "39" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_3_4> a nif:Word ;
+    nif:anchorOf "4" ;
+    nif:beginIndex "3" ;
+    nif:endIndex "4" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_41_42> a nif:Word ;
+    nif:anchorOf "*" ;
+    nif:beginIndex "41" ;
+    nif:endIndex "42" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#補助記号> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_44_46> a nif:Word ;
+    nif:anchorOf "干支" ;
+    nif:beginIndex "44" ;
+    nif:endIndex "46" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_47_48> a nif:Word ;
+    nif:anchorOf ":" ;
+    nif:beginIndex "47" ;
+    nif:endIndex "48" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#補助記号> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_49_51> a nif:Word ;
+    nif:anchorOf "甲辰" ;
+    nif:beginIndex "49" ;
+    nif:endIndex "51" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_4_5> a nif:Word ;
+    nif:anchorOf "年" ;
+    nif:beginIndex "4" ;
+    nif:endIndex "5" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_56_57> a nif:Word ;
+    nif:anchorOf "日" ;
+    nif:beginIndex "56" ;
+    nif:endIndex "57" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#接尾辞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_56_58> a nif:Word ;
+    nif:anchorOf "日本" ;
+    nif:beginIndex "56" ;
+    nif:endIndex "58" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_63_65> a nif:Word ;
+    nif:anchorOf "長保" ;
+    nif:beginIndex "63" ;
+    nif:endIndex "65" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_65_66> a nif:Word ;
+    nif:anchorOf "6" ;
+    nif:beginIndex "65" ;
+    nif:endIndex "66" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_68_70> a nif:Word ;
+    nif:anchorOf "寛弘" ;
+    nif:beginIndex "68" ;
+    nif:endIndex "70" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_70_72> a nif:Word ;
+    nif:anchorOf "元年" ;
+    nif:beginIndex "70" ;
+    nif:endIndex "72" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_77_79> a nif:Word ;
+    nif:anchorOf "皇紀" ;
+    nif:beginIndex "77" ;
+    nif:endIndex "79" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_89_91> a nif:Word ;
+    nif:anchorOf "中国" ;
+    nif:beginIndex "89" ;
+    nif:endIndex "91" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_90_91> a nif:Word ;
+    nif:anchorOf "国" ;
+    nif:beginIndex "90" ;
+    nif:endIndex "91" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#接尾辞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=word_offset_96_98> a nif:Word ;
+    nif:anchorOf "北宋" ;
+    nif:beginIndex "96" ;
+    nif:endIndex "98" ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#名詞> ;
+    nif:referenceContext <http://dbpedia.org/resource/1004年?dbpv=2016-10&nif=context> .
+

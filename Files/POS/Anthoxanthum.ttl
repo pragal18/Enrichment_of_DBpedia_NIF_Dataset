@@ -1,0 +1,2368 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_0_13> a nif:Word ;
+    nif:anchorOf "Anthoxanthum," ;
+    nif:beginIndex "0" ;
+    nif:endIndex "13" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1002_1004> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1002" ;
+    nif:endIndex "1004" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1005_1010> a nif:Word ;
+    nif:anchorOf "dorso" ;
+    nif:beginIndex "1005" ;
+    nif:endIndex "1010" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1011_1022> a nif:Word ;
+    nif:anchorOf "redondeado," ;
+    nif:beginIndex "1011" ;
+    nif:endIndex "1022" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1023_1034> a nif:Word ;
+    nif:anchorOf "trinervada," ;
+    nif:beginIndex "1023" ;
+    nif:endIndex "1034" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1035_1042> a nif:Word ;
+    nif:anchorOf "mútica," ;
+    nif:beginIndex "1035" ;
+    nif:endIndex "1042" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1043_1047> a nif:Word ;
+    nif:anchorOf "rara" ;
+    nif:beginIndex "1043" ;
+    nif:endIndex "1047" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1048_1051> a nif:Word ;
+    nif:anchorOf "vez" ;
+    nif:beginIndex "1048" ;
+    nif:endIndex "1051" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1052_1062> a nif:Word ;
+    nif:anchorOf "cortamente" ;
+    nif:beginIndex "1052" ;
+    nif:endIndex "1062" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_105_107> a nif:Word ;
+    nif:anchorOf "A." ;
+    nif:beginIndex "105" ;
+    nif:endIndex "107" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1063_1072> a nif:Word ;
+    nif:anchorOf "aristada." ;
+    nif:beginIndex "1063" ;
+    nif:endIndex "1072" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1073_1078> a nif:Word ;
+    nif:anchorOf "Pálea" ;
+    nif:beginIndex "1073" ;
+    nif:endIndex "1078" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1079_1081> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1079" ;
+    nif:endIndex "1081" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1082_1084> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "1082" ;
+    nif:endIndex "1084" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1085_1089> a nif:Word ;
+    nif:anchorOf "flor" ;
+    nif:beginIndex "1085" ;
+    nif:endIndex "1089" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_108_116> a nif:Word ;
+    nif:anchorOf "odoratum" ;
+    nif:beginIndex "108" ;
+    nif:endIndex "116" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1090_1096> a nif:Word ;
+    nif:anchorOf "fértil" ;
+    nif:beginIndex "1090" ;
+    nif:endIndex "1096" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1097_1108> a nif:Word ;
+    nif:anchorOf "membranosa," ;
+    nif:beginIndex "1097" ;
+    nif:endIndex "1108" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1109_1120> a nif:Word ;
+    nif:anchorOf "uninervada." ;
+    nif:beginIndex "1109" ;
+    nif:endIndex "1120" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1121_1129> a nif:Word ;
+    nif:anchorOf "Androceo" ;
+    nif:beginIndex "1121" ;
+    nif:endIndex "1129" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1130_1133> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "1130" ;
+    nif:endIndex "1133" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1134_1135> a nif:Word ;
+    nif:anchorOf "2" ;
+    nif:beginIndex "1134" ;
+    nif:endIndex "1135" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1136_1146> a nif:Word ;
+    nif:anchorOf "estambres." ;
+    nif:beginIndex "1136" ;
+    nif:endIndex "1146" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1148_1157> a nif:Word ;
+    nif:anchorOf "Taxonomía" ;
+    nif:beginIndex "1148" ;
+    nif:endIndex "1157" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1158_1160> a nif:Word ;
+    nif:anchorOf "El" ;
+    nif:beginIndex "1158" ;
+    nif:endIndex "1160" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1161_1167> a nif:Word ;
+    nif:anchorOf "género" ;
+    nif:beginIndex "1161" ;
+    nif:endIndex "1167" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1168_1171> a nif:Word ;
+    nif:anchorOf "fue" ;
+    nif:beginIndex "1168" ;
+    nif:endIndex "1171" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#AUX> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1172_1180> a nif:Word ;
+    nif:anchorOf "descrito" ;
+    nif:beginIndex "1172" ;
+    nif:endIndex "1180" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_117_122> a nif:Word ;
+    nif:anchorOf "puede" ;
+    nif:beginIndex "117" ;
+    nif:endIndex "122" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#AUX> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1181_1184> a nif:Word ;
+    nif:anchorOf "por" ;
+    nif:beginIndex "1181" ;
+    nif:endIndex "1184" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1185_1191> a nif:Word ;
+    nif:anchorOf "Carlos" ;
+    nif:beginIndex "1185" ;
+    nif:endIndex "1191" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1192_1198> a nif:Word ;
+    nif:anchorOf "Linneo" ;
+    nif:beginIndex "1192" ;
+    nif:endIndex "1198" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1199_1200> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "1199" ;
+    nif:endIndex "1200" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1201_1210> a nif:Word ;
+    nif:anchorOf "publicado" ;
+    nif:beginIndex "1201" ;
+    nif:endIndex "1210" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1211_1213> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "1211" ;
+    nif:endIndex "1213" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1214_1221> a nif:Word ;
+    nif:anchorOf "Species" ;
+    nif:beginIndex "1214" ;
+    nif:endIndex "1221" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1222_1231> a nif:Word ;
+    nif:anchorOf "Plantarum" ;
+    nif:beginIndex "1222" ;
+    nif:endIndex "1231" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1232_1234> a nif:Word ;
+    nif:anchorOf "1:" ;
+    nif:beginIndex "1232" ;
+    nif:endIndex "1234" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1235_1238> a nif:Word ;
+    nif:anchorOf "28." ;
+    nif:beginIndex "1235" ;
+    nif:endIndex "1238" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1239_1244> a nif:Word ;
+    nif:anchorOf "1753." ;
+    nif:beginIndex "1239" ;
+    nif:endIndex "1244" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_123_134> a nif:Word ;
+    nif:anchorOf "encontrarse" ;
+    nif:beginIndex "123" ;
+    nif:endIndex "134" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1245_1247> a nif:Word ;
+    nif:anchorOf "La" ;
+    nif:beginIndex "1245" ;
+    nif:endIndex "1247" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1248_1255> a nif:Word ;
+    nif:anchorOf "especie" ;
+    nif:beginIndex "1248" ;
+    nif:endIndex "1255" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1256_1260> a nif:Word ;
+    nif:anchorOf "tipo" ;
+    nif:beginIndex "1256" ;
+    nif:endIndex "1260" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1261_1264> a nif:Word ;
+    nif:anchorOf "es:" ;
+    nif:beginIndex "1261" ;
+    nif:endIndex "1264" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1265_1277> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1265" ;
+    nif:endIndex "1277" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1278_1286> a nif:Word ;
+    nif:anchorOf "odoratum" ;
+    nif:beginIndex "1278" ;
+    nif:endIndex "1286" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1287_1297> a nif:Word ;
+    nif:anchorOf "Etimología" ;
+    nif:beginIndex "1287" ;
+    nif:endIndex "1297" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1298_1311> a nif:Word ;
+    nif:anchorOf "Anthoxanthum:" ;
+    nif:beginIndex "1298" ;
+    nif:endIndex "1311" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1312_1318> a nif:Word ;
+    nif:anchorOf "nombre" ;
+    nif:beginIndex "1312" ;
+    nif:endIndex "1318" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1319_1327> a nif:Word ;
+    nif:anchorOf "genérico" ;
+    nif:beginIndex "1319" ;
+    nif:endIndex "1327" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1328_1331> a nif:Word ;
+    nif:anchorOf "que" ;
+    nif:beginIndex "1328" ;
+    nif:endIndex "1331" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#SCONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1332_1338> a nif:Word ;
+    nif:anchorOf "deriva" ;
+    nif:beginIndex "1332" ;
+    nif:endIndex "1338" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1339_1342> a nif:Word ;
+    nif:anchorOf "del" ;
+    nif:beginIndex "1339" ;
+    nif:endIndex "1342" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1343_1350> a nif:Word ;
+    nif:anchorOf "griego:" ;
+    nif:beginIndex "1343" ;
+    nif:endIndex "1350" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1351_1357> a nif:Word ;
+    nif:anchorOf "anthos" ;
+    nif:beginIndex "1351" ;
+    nif:endIndex "1357" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_135_137> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "135" ;
+    nif:endIndex "137" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1360_1366> a nif:Word ;
+    nif:anchorOf "(flor)" ;
+    nif:beginIndex "1360" ;
+    nif:endIndex "1366" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1367_1368> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "1367" ;
+    nif:endIndex "1368" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1369_1376> a nif:Word ;
+    nif:anchorOf "xanthos" ;
+    nif:beginIndex "1369" ;
+    nif:endIndex "1376" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1379_1390> a nif:Word ;
+    nif:anchorOf "(amarillo)," ;
+    nif:beginIndex "1379" ;
+    nif:endIndex "1390" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_138_140> a nif:Word ;
+    nif:anchorOf "el" ;
+    nif:beginIndex "138" ;
+    nif:endIndex "140" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1391_1403> a nif:Word ;
+    nif:anchorOf "refiriéndose" ;
+    nif:beginIndex "1391" ;
+    nif:endIndex "1403" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1404_1406> a nif:Word ;
+    nif:anchorOf "al" ;
+    nif:beginIndex "1404" ;
+    nif:endIndex "1406" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1407_1412> a nif:Word ;
+    nif:anchorOf "color" ;
+    nif:beginIndex "1407" ;
+    nif:endIndex "1412" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1413_1415> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1413" ;
+    nif:endIndex "1415" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1416_1418> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "1416" ;
+    nif:endIndex "1418" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1419_1427> a nif:Word ;
+    nif:anchorOf "panícula" ;
+    nif:beginIndex "1419" ;
+    nif:endIndex "1427" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_141_146> a nif:Word ;
+    nif:anchorOf "norte" ;
+    nif:beginIndex "141" ;
+    nif:endIndex "146" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1428_1435> a nif:Word ;
+    nif:anchorOf "después" ;
+    nif:beginIndex "1428" ;
+    nif:endIndex "1435" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1436_1438> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1436" ;
+    nif:endIndex "1438" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1439_1441> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "1439" ;
+    nif:endIndex "1441" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1442_1452> a nif:Word ;
+    nif:anchorOf "floración." ;
+    nif:beginIndex "1442" ;
+    nif:endIndex "1452" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1454_1462> a nif:Word ;
+    nif:anchorOf "Especies" ;
+    nif:beginIndex "1454" ;
+    nif:endIndex "1462" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1467_1479> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1467" ;
+    nif:endIndex "1479" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_147_149> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "147" ;
+    nif:endIndex "149" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1480_1491> a nif:Word ;
+    nif:anchorOf "aethiopicum" ;
+    nif:beginIndex "1480" ;
+    nif:endIndex "1491" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1496_1508> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1496" ;
+    nif:endIndex "1508" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_14_16> a nif:Word ;
+    nif:anchorOf "es" ;
+    nif:beginIndex "14" ;
+    nif:endIndex "16" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1509_1515> a nif:Word ;
+    nif:anchorOf "amarum" ;
+    nif:beginIndex "1509" ;
+    nif:endIndex "1515" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_150_157> a nif:Word ;
+    nif:anchorOf "Europa;" ;
+    nif:beginIndex "150" ;
+    nif:endIndex "157" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1520_1532> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1520" ;
+    nif:endIndex "1532" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1533_1540> a nif:Word ;
+    nif:anchorOf "alpinum" ;
+    nif:beginIndex "1533" ;
+    nif:endIndex "1540" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1545_1557> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1545" ;
+    nif:endIndex "1557" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1558_1567> a nif:Word ;
+    nif:anchorOf "aristatum" ;
+    nif:beginIndex "1558" ;
+    nif:endIndex "1567" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1572_1584> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1572" ;
+    nif:endIndex "1584" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1585_1590> a nif:Word ;
+    nif:anchorOf "borii" ;
+    nif:beginIndex "1585" ;
+    nif:endIndex "1590" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_158_160> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "158" ;
+    nif:endIndex "160" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1595_1607> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1595" ;
+    nif:endIndex "1607" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1608_1617> a nif:Word ;
+    nif:anchorOf "dregeanum" ;
+    nif:beginIndex "1608" ;
+    nif:endIndex "1617" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_161_171> a nif:Word ;
+    nif:anchorOf "particular" ;
+    nif:beginIndex "161" ;
+    nif:endIndex "171" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1622_1634> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1622" ;
+    nif:endIndex "1634" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1635_1643> a nif:Word ;
+    nif:anchorOf "ecklonii" ;
+    nif:beginIndex "1635" ;
+    nif:endIndex "1643" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1648_1660> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1648" ;
+    nif:endIndex "1660" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1661_1668> a nif:Word ;
+    nif:anchorOf "gracila" ;
+    nif:beginIndex "1661" ;
+    nif:endIndex "1668" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1673_1685> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1673" ;
+    nif:endIndex "1685" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1686_1693> a nif:Word ;
+    nif:anchorOf "hookeri" ;
+    nif:beginIndex "1686" ;
+    nif:endIndex "1693" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1698_1710> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1698" ;
+    nif:endIndex "1710" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1711_1722> a nif:Word ;
+    nif:anchorOf "horsfieldii" ;
+    nif:beginIndex "1711" ;
+    nif:endIndex "1722" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1727_1739> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1727" ;
+    nif:endIndex "1739" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_172_174> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "172" ;
+    nif:endIndex "174" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1740_1749> a nif:Word ;
+    nif:anchorOf "japonicum" ;
+    nif:beginIndex "1740" ;
+    nif:endIndex "1749" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1754_1766> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1754" ;
+    nif:endIndex "1766" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_175_183> a nif:Word ;
+    nif:anchorOf "terrenos" ;
+    nif:beginIndex "175" ;
+    nif:endIndex "183" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1767_1782> a nif:Word ;
+    nif:anchorOf "madagascariense" ;
+    nif:beginIndex "1767" ;
+    nif:endIndex "1782" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1787_1799> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1787" ;
+    nif:endIndex "1799" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_17_19> a nif:Word ;
+    nif:anchorOf "un" ;
+    nif:beginIndex "17" ;
+    nif:endIndex "19" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1800_1806> a nif:Word ;
+    nif:anchorOf "nivale" ;
+    nif:beginIndex "1800" ;
+    nif:endIndex "1806" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1811_1823> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1811" ;
+    nif:endIndex "1823" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1824_1832> a nif:Word ;
+    nif:anchorOf "odoratum" ;
+    nif:beginIndex "1824" ;
+    nif:endIndex "1832" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1837_1849> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1837" ;
+    nif:endIndex "1849" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_184_190> a nif:Word ;
+    nif:anchorOf "ácidos" ;
+    nif:beginIndex "184" ;
+    nif:endIndex "190" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1850_1856> a nif:Word ;
+    nif:anchorOf "ovatum" ;
+    nif:beginIndex "1850" ;
+    nif:endIndex "1856" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1861_1873> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1861" ;
+    nif:endIndex "1873" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1874_1882> a nif:Word ;
+    nif:anchorOf "pallidum" ;
+    nif:beginIndex "1874" ;
+    nif:endIndex "1882" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1887_1899> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1887" ;
+    nif:endIndex "1899" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1900_1910> a nif:Word ;
+    nif:anchorOf "sikkimense" ;
+    nif:beginIndex "1900" ;
+    nif:endIndex "1910" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1915_1927> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "1915" ;
+    nif:endIndex "1927" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_191_195> a nif:Word ;
+    nif:anchorOf "como" ;
+    nif:beginIndex "191" ;
+    nif:endIndex "195" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1928_1933> a nif:Word ;
+    nif:anchorOf "tongo" ;
+    nif:beginIndex "1928" ;
+    nif:endIndex "1933" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1935_1940> a nif:Word ;
+    nif:anchorOf "Véase" ;
+    nif:beginIndex "1935" ;
+    nif:endIndex "1940" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1941_1948> a nif:Word ;
+    nif:anchorOf "también" ;
+    nif:beginIndex "1941" ;
+    nif:endIndex "1948" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1953_1965> a nif:Word ;
+    nif:anchorOf "Terminología" ;
+    nif:beginIndex "1953" ;
+    nif:endIndex "1965" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1966_1977> a nif:Word ;
+    nif:anchorOf "descriptiva" ;
+    nif:beginIndex "1966" ;
+    nif:endIndex "1977" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_196_202> a nif:Word ;
+    nif:anchorOf "ocurre" ;
+    nif:beginIndex "196" ;
+    nif:endIndex "202" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1978_1980> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1978" ;
+    nif:endIndex "1980" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1981_1984> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "1981" ;
+    nif:endIndex "1984" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1985_1992> a nif:Word ;
+    nif:anchorOf "plantas" ;
+    nif:beginIndex "1985" ;
+    nif:endIndex "1992" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_1997_2013> a nif:Word ;
+    nif:anchorOf "Anexo:Cronología" ;
+    nif:beginIndex "1997" ;
+    nif:endIndex "2013" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_2014_2016> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "2014" ;
+    nif:endIndex "2016" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_2017_2019> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "2017" ;
+    nif:endIndex "2019" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_2020_2028> a nif:Word ;
+    nif:anchorOf "botánica" ;
+    nif:beginIndex "2020" ;
+    nif:endIndex "2028" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_2033_2041> a nif:Word ;
+    nif:anchorOf "Historia" ;
+    nif:beginIndex "2033" ;
+    nif:endIndex "2041" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_203_205> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "203" ;
+    nif:endIndex "205" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_2042_2044> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "2042" ;
+    nif:endIndex "2044" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_2045_2047> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "2045" ;
+    nif:endIndex "2047" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_2048_2056> a nif:Word ;
+    nif:anchorOf "Botánica" ;
+    nif:beginIndex "2048" ;
+    nif:endIndex "2056" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_2061_2076> a nif:Word ;
+    nif:anchorOf "Características" ;
+    nif:beginIndex "2061" ;
+    nif:endIndex "2076" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_206_216> a nif:Word ;
+    nif:anchorOf "Portlethen" ;
+    nif:beginIndex "206" ;
+    nif:endIndex "216" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_2077_2079> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "2077" ;
+    nif:endIndex "2079" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_2080_2083> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "2080" ;
+    nif:endIndex "2083" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_2084_2091> a nif:Word ;
+    nif:anchorOf "poáceas" ;
+    nif:beginIndex "2084" ;
+    nif:endIndex "2091" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_20_26> a nif:Word ;
+    nif:anchorOf "género" ;
+    nif:beginIndex "20" ;
+    nif:endIndex "26" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_217_221> a nif:Word ;
+    nif:anchorOf "Moss" ;
+    nif:beginIndex "217" ;
+    nif:endIndex "221" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_222_229> a nif:Word ;
+    nif:anchorOf "Reserva" ;
+    nif:beginIndex "222" ;
+    nif:endIndex "229" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_230_237> a nif:Word ;
+    nif:anchorOf "natural" ;
+    nif:beginIndex "230" ;
+    nif:endIndex "237" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_238_240> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "238" ;
+    nif:endIndex "240" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_241_249> a nif:Word ;
+    nif:anchorOf "Escocia." ;
+    nif:beginIndex "241" ;
+    nif:endIndex "249" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_250_252> a nif:Word ;
+    nif:anchorOf "El" ;
+    nif:beginIndex "250" ;
+    nif:endIndex "252" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_253_259> a nif:Word ;
+    nif:anchorOf "género" ;
+    nif:beginIndex "253" ;
+    nif:endIndex "259" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_260_270> a nif:Word ;
+    nif:anchorOf "Hierochloe" ;
+    nif:beginIndex "260" ;
+    nif:endIndex "270" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_271_273> a nif:Word ;
+    nif:anchorOf "ha" ;
+    nif:beginIndex "271" ;
+    nif:endIndex "273" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#AUX> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_274_278> a nif:Word ;
+    nif:anchorOf "sido" ;
+    nif:beginIndex "274" ;
+    nif:endIndex "278" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#AUX> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_279_287> a nif:Word ;
+    nif:anchorOf "incluido" ;
+    nif:beginIndex "279" ;
+    nif:endIndex "287" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_27_29> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "27" ;
+    nif:endIndex "29" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_288_290> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "288" ;
+    nif:endIndex "290" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_291_303> a nif:Word ;
+    nif:anchorOf "Anthoxanthum" ;
+    nif:beginIndex "291" ;
+    nif:endIndex "303" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_304_317> a nif:Word ;
+    nif:anchorOf "recientemente" ;
+    nif:beginIndex "304" ;
+    nif:endIndex "317" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_30_37> a nif:Word ;
+    nif:anchorOf "plantas" ;
+    nif:beginIndex "30" ;
+    nif:endIndex "37" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_318_321> a nif:Word ;
+    nif:anchorOf "por" ;
+    nif:beginIndex "318" ;
+    nif:endIndex "321" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_322_329> a nif:Word ;
+    nif:anchorOf "algunos" ;
+    nif:beginIndex "322" ;
+    nif:endIndex "329" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_330_338> a nif:Word ;
+    nif:anchorOf "autores." ;
+    nif:beginIndex "330" ;
+    nif:endIndex "338" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_340_351> a nif:Word ;
+    nif:anchorOf "Descripción" ;
+    nif:beginIndex "340" ;
+    nif:endIndex "351" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_352_355> a nif:Word ;
+    nif:anchorOf "Son" ;
+    nif:beginIndex "352" ;
+    nif:endIndex "355" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_356_363> a nif:Word ;
+    nif:anchorOf "plantas" ;
+    nif:beginIndex "356" ;
+    nif:endIndex "363" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_364_372> a nif:Word ;
+    nif:anchorOf "anuales," ;
+    nif:beginIndex "364" ;
+    nif:endIndex "372" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_373_377> a nif:Word ;
+    nif:anchorOf "rara" ;
+    nif:beginIndex "373" ;
+    nif:endIndex "377" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_378_381> a nif:Word ;
+    nif:anchorOf "vez" ;
+    nif:beginIndex "378" ;
+    nif:endIndex "381" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_382_391> a nif:Word ;
+    nif:anchorOf "bienales." ;
+    nif:beginIndex "382" ;
+    nif:endIndex "391" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_38_40> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "38" ;
+    nif:endIndex "40" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_392_397> a nif:Word ;
+    nif:anchorOf "Hojas" ;
+    nif:beginIndex "392" ;
+    nif:endIndex "397" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_398_401> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "398" ;
+    nif:endIndex "401" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_402_407> a nif:Word ;
+    nif:anchorOf "limbo" ;
+    nif:beginIndex "402" ;
+    nif:endIndex "407" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_408_414> a nif:Word ;
+    nif:anchorOf "plano." ;
+    nif:beginIndex "408" ;
+    nif:endIndex "414" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_415_429> a nif:Word ;
+    nif:anchorOf "Inflorescencia" ;
+    nif:beginIndex "415" ;
+    nif:endIndex "429" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_41_43> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "41" ;
+    nif:endIndex "43" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_430_432> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "430" ;
+    nif:endIndex "432" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_433_441> a nif:Word ;
+    nif:anchorOf "panícula" ;
+    nif:beginIndex "433" ;
+    nif:endIndex "441" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_442_448> a nif:Word ;
+    nif:anchorOf "densa." ;
+    nif:beginIndex "442" ;
+    nif:endIndex "448" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_449_459> a nif:Word ;
+    nif:anchorOf "Pedúnculos" ;
+    nif:beginIndex "449" ;
+    nif:endIndex "459" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_44_51> a nif:Word ;
+    nif:anchorOf "familia" ;
+    nif:beginIndex "44" ;
+    nif:endIndex "51" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_460_462> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "460" ;
+    nif:endIndex "462" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_463_466> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "463" ;
+    nif:endIndex "466" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_467_478> a nif:Word ;
+    nif:anchorOf "espiguillas" ;
+    nif:beginIndex "467" ;
+    nif:endIndex "478" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_479_488> a nif:Word ;
+    nif:anchorOf "delgados," ;
+    nif:beginIndex "479" ;
+    nif:endIndex "488" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#X> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_489_500> a nif:Word ;
+    nif:anchorOf "ligeramente" ;
+    nif:beginIndex "489" ;
+    nif:endIndex "500" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_501_508> a nif:Word ;
+    nif:anchorOf "pelosos" ;
+    nif:beginIndex "501" ;
+    nif:endIndex "508" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_509_510> a nif:Word ;
+    nif:anchorOf "o" ;
+    nif:beginIndex "509" ;
+    nif:endIndex "510" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_511_522> a nif:Word ;
+    nif:anchorOf "escábridos." ;
+    nif:beginIndex "511" ;
+    nif:endIndex "522" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_523_534> a nif:Word ;
+    nif:anchorOf "Espiguillas" ;
+    nif:beginIndex "523" ;
+    nif:endIndex "534" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_52_54> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "52" ;
+    nif:endIndex "54" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_535_546> a nif:Word ;
+    nif:anchorOf "comprimidas" ;
+    nif:beginIndex "535" ;
+    nif:endIndex "546" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_547_560> a nif:Word ;
+    nif:anchorOf "lateralmente," ;
+    nif:beginIndex "547" ;
+    nif:endIndex "560" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_55_58> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "55" ;
+    nif:endIndex "58" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_561_571> a nif:Word ;
+    nif:anchorOf "trifloras," ;
+    nif:beginIndex "561" ;
+    nif:endIndex "571" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_572_575> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "572" ;
+    nif:endIndex "575" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_576_577> a nif:Word ;
+    nif:anchorOf "1" ;
+    nif:beginIndex "576" ;
+    nif:endIndex "577" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_578_582> a nif:Word ;
+    nif:anchorOf "flor" ;
+    nif:beginIndex "578" ;
+    nif:endIndex "582" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_583_591> a nif:Word ;
+    nif:anchorOf "superior" ;
+    nif:beginIndex "583" ;
+    nif:endIndex "591" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_592_598> a nif:Word ;
+    nif:anchorOf "fértil" ;
+    nif:beginIndex "592" ;
+    nif:endIndex "598" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_599_602> a nif:Word ;
+    nif:anchorOf "sin" ;
+    nif:beginIndex "599" ;
+    nif:endIndex "602" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_59_67> a nif:Word ;
+    nif:anchorOf "poáceas." ;
+    nif:beginIndex "59" ;
+    nif:endIndex "67" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_603_612> a nif:Word ;
+    nif:anchorOf "periantio" ;
+    nif:beginIndex "603" ;
+    nif:endIndex "612" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_613_614> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "613" ;
+    nif:endIndex "614" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_615_616> a nif:Word ;
+    nif:anchorOf "2" ;
+    nif:beginIndex "615" ;
+    nif:endIndex "616" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_617_623> a nif:Word ;
+    nif:anchorOf "flores" ;
+    nif:beginIndex "617" ;
+    nif:endIndex "623" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_624_634> a nif:Word ;
+    nif:anchorOf "inferiores" ;
+    nif:beginIndex "624" ;
+    nif:endIndex "634" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_635_644> a nif:Word ;
+    nif:anchorOf "reducidas" ;
+    nif:beginIndex "635" ;
+    nif:endIndex "644" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_645_646> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "645" ;
+    nif:endIndex "646" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_647_650> a nif:Word ;
+    nif:anchorOf "una" ;
+    nif:beginIndex "647" ;
+    nif:endIndex "650" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_651_655> a nif:Word ;
+    nif:anchorOf "lema" ;
+    nif:beginIndex "651" ;
+    nif:endIndex "655" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_656_663> a nif:Word ;
+    nif:anchorOf "estéril" ;
+    nif:beginIndex "656" ;
+    nif:endIndex "663" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_664_673> a nif:Word ;
+    nif:anchorOf "aristada." ;
+    nif:beginIndex "664" ;
+    nif:endIndex "673" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_674_680> a nif:Word ;
+    nif:anchorOf "Glumas" ;
+    nif:beginIndex "674" ;
+    nif:endIndex "680" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_681_683> a nif:Word ;
+    nif:anchorOf "2," ;
+    nif:beginIndex "681" ;
+    nif:endIndex "683" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_684_696> a nif:Word ;
+    nif:anchorOf "marcadamente" ;
+    nif:beginIndex "684" ;
+    nif:endIndex "696" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_68_74> a nif:Word ;
+    nif:anchorOf "Tienen" ;
+    nif:beginIndex "68" ;
+    nif:endIndex "74" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_697_708> a nif:Word ;
+    nif:anchorOf "desiguales." ;
+    nif:beginIndex "697" ;
+    nif:endIndex "708" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_709_714> a nif:Word ;
+    nif:anchorOf "Lemas" ;
+    nif:beginIndex "709" ;
+    nif:endIndex "714" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_715_724> a nif:Word ;
+    nif:anchorOf "estériles" ;
+    nif:beginIndex "715" ;
+    nif:endIndex "724" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_725_728> a nif:Word ;
+    nif:anchorOf "más" ;
+    nif:beginIndex "725" ;
+    nif:endIndex "728" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_729_735> a nif:Word ;
+    nif:anchorOf "largas" ;
+    nif:beginIndex "729" ;
+    nif:endIndex "735" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_736_739> a nif:Word ;
+    nif:anchorOf "que" ;
+    nif:beginIndex "736" ;
+    nif:endIndex "739" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#SCONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_740_742> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "740" ;
+    nif:endIndex "742" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_743_747> a nif:Word ;
+    nif:anchorOf "flor" ;
+    nif:beginIndex "743" ;
+    nif:endIndex "747" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_748_755> a nif:Word ;
+    nif:anchorOf "fértil," ;
+    nif:beginIndex "748" ;
+    nif:endIndex "755" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_756_759> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "756" ;
+    nif:endIndex "759" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_75_78> a nif:Word ;
+    nif:anchorOf "una" ;
+    nif:beginIndex "75" ;
+    nif:endIndex "78" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_760_765> a nif:Word ;
+    nif:anchorOf "parte" ;
+    nif:beginIndex "760" ;
+    nif:endIndex "765" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_766_774> a nif:Word ;
+    nif:anchorOf "inferior" ;
+    nif:beginIndex "766" ;
+    nif:endIndex "774" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_775_784> a nif:Word ;
+    nif:anchorOf "escariosa" ;
+    nif:beginIndex "775" ;
+    nif:endIndex "784" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_785_786> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "785" ;
+    nif:endIndex "786" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_787_792> a nif:Word ;
+    nif:anchorOf "parte" ;
+    nif:beginIndex "787" ;
+    nif:endIndex "792" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_793_801> a nif:Word ;
+    nif:anchorOf "superior" ;
+    nif:beginIndex "793" ;
+    nif:endIndex "801" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_79_91> a nif:Word ;
+    nif:anchorOf "distribución" ;
+    nif:beginIndex "79" ;
+    nif:endIndex "91" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_802_813> a nif:Word ;
+    nif:anchorOf "membranosa;" ;
+    nif:beginIndex "802" ;
+    nif:endIndex "813" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_814_816> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "814" ;
+    nif:endIndex "816" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_817_825> a nif:Word ;
+    nif:anchorOf "inferior" ;
+    nif:beginIndex "817" ;
+    nif:endIndex "825" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_826_829> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "826" ;
+    nif:endIndex "829" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_830_836> a nif:Word ;
+    nif:anchorOf "arista" ;
+    nif:beginIndex "830" ;
+    nif:endIndex "836" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_837_842> a nif:Word ;
+    nif:anchorOf "recta" ;
+    nif:beginIndex "837" ;
+    nif:endIndex "842" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_843_850> a nif:Word ;
+    nif:anchorOf "inserta" ;
+    nif:beginIndex "843" ;
+    nif:endIndex "850" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_851_854> a nif:Word ;
+    nif:anchorOf "por" ;
+    nif:beginIndex "851" ;
+    nif:endIndex "854" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_855_861> a nif:Word ;
+    nif:anchorOf "encima" ;
+    nif:beginIndex "855" ;
+    nif:endIndex "861" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_862_864> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "862" ;
+    nif:endIndex "864" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_865_867> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "865" ;
+    nif:endIndex "867" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_868_873> a nif:Word ;
+    nif:anchorOf "parte" ;
+    nif:beginIndex "868" ;
+    nif:endIndex "873" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_874_880> a nif:Word ;
+    nif:anchorOf "media;" ;
+    nif:beginIndex "874" ;
+    nif:endIndex "880" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_881_883> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "881" ;
+    nif:endIndex "883" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_884_892> a nif:Word ;
+    nif:anchorOf "superior" ;
+    nif:beginIndex "884" ;
+    nif:endIndex "892" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_893_896> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "893" ;
+    nif:endIndex "896" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_897_903> a nif:Word ;
+    nif:anchorOf "arista" ;
+    nif:beginIndex "897" ;
+    nif:endIndex "903" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_904_907> a nif:Word ;
+    nif:anchorOf "más" ;
+    nif:beginIndex "904" ;
+    nif:endIndex "907" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_908_909> a nif:Word ;
+    nif:anchorOf "o" ;
+    nif:beginIndex "908" ;
+    nif:endIndex "909" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#CON>,
+        <http://purl.org/olia/olia.owl#Conjunction> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CONJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_910_915> a nif:Word ;
+    nif:anchorOf "menos" ;
+    nif:beginIndex "910" ;
+    nif:endIndex "915" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_916_928> a nif:Word ;
+    nif:anchorOf "marcadamente" ;
+    nif:beginIndex "916" ;
+    nif:endIndex "928" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_929_940> a nif:Word ;
+    nif:anchorOf "geniculada," ;
+    nif:beginIndex "929" ;
+    nif:endIndex "940" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PROPN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_92_104> a nif:Word ;
+    nif:anchorOf "cosmopolita." ;
+    nif:beginIndex "92" ;
+    nif:endIndex "104" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_941_948> a nif:Word ;
+    nif:anchorOf "inserta" ;
+    nif:beginIndex "941" ;
+    nif:endIndex "948" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VERB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_949_952> a nif:Word ;
+    nif:anchorOf "por" ;
+    nif:beginIndex "949" ;
+    nif:endIndex "952" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_953_959> a nif:Word ;
+    nif:anchorOf "debajo" ;
+    nif:beginIndex "953" ;
+    nif:endIndex "959" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADV> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_960_962> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "960" ;
+    nif:endIndex "962" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_963_965> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "963" ;
+    nif:endIndex "965" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_966_971> a nif:Word ;
+    nif:anchorOf "parte" ;
+    nif:beginIndex "966" ;
+    nif:endIndex "971" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_972_978> a nif:Word ;
+    nif:anchorOf "media." ;
+    nif:beginIndex "972" ;
+    nif:endIndex "978" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#NUM>,
+        <http://purl.org/olia/olia.owl#Number> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NUM> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_979_983> a nif:Word ;
+    nif:anchorOf "Lema" ;
+    nif:beginIndex "979" ;
+    nif:endIndex "983" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_984_986> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "984" ;
+    nif:endIndex "986" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_987_989> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "987" ;
+    nif:endIndex "989" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DET> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_990_994> a nif:Word ;
+    nif:anchorOf "flor" ;
+    nif:beginIndex "990" ;
+    nif:endIndex "994" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NOUN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=word_offset_995_1001> a nif:Word ;
+    nif:anchorOf "fértil" ;
+    nif:beginIndex "995" ;
+    nif:endIndex "1001" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#ADJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Anthoxanthum?dbpv=2016-10&nif=context> .
+
