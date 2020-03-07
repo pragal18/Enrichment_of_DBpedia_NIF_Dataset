@@ -1,0 +1,6 @@
+<http://es.dbpedia.org/resource/Aromadendron?dbpv=2016-10&nif=context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> .
+<http://es.dbpedia.org/resource/Aromadendron?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://es.dbpedia.org/resource/Aromadendron?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex> "227"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://es.dbpedia.org/resource/Aromadendron?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#sourceUrl> <http://es.wikipedia.org/wiki/Aromadendron?oldid=70876621> .
+<http://es.dbpedia.org/resource/Aromadendron?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString> "Aromadendron es un género de plantas de la familia de las Magnoliáceas, orden Magnoliales, subclase Magnoliidae, clase Magnoliopsida, división Magnoliophyta. Flora de Tailandia. Este género se considera un sinónimo de Magnolia." .
+<http://es.dbpedia.org/resource/Aromadendron?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#predLang> <http://lexvo.org/id/iso639-3/spa> .

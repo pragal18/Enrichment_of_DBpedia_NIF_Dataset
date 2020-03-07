@@ -1,0 +1,6 @@
+<http://es.dbpedia.org/resource/Arthoniaceae?dbpv=2016-10&nif=context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> .
+<http://es.dbpedia.org/resource/Arthoniaceae?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://es.dbpedia.org/resource/Arthoniaceae?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex> "210"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://es.dbpedia.org/resource/Arthoniaceae?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#sourceUrl> <http://es.wikipedia.org/wiki/Arthoniaceae?oldid=91299127> .
+<http://es.dbpedia.org/resource/Arthoniaceae?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString> "Arthoniaceae son Líquenes formados por la asociación de un ascomiceto con un fitobionte. Presentan apotecios lirelinos, sin borde talino o anfitecio y sin borde propio o partatecio, talo sin córtex. \n* Arthonia" .
+<http://es.dbpedia.org/resource/Arthoniaceae?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#predLang> <http://lexvo.org/id/iso639-3/spa> .

@@ -1,0 +1,6 @@
+<http://es.dbpedia.org/resource/Caso_adlativo?dbpv=2016-10&nif=context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context> .
+<http://es.dbpedia.org/resource/Caso_adlativo?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> "0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://es.dbpedia.org/resource/Caso_adlativo?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex> "201"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://es.dbpedia.org/resource/Caso_adlativo?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#sourceUrl> <http://es.wikipedia.org/wiki/Caso_adlativo?oldid=79206217> .
+<http://es.dbpedia.org/resource/Caso_adlativo?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#isString> "El caso adlativo es un caso gramatical que se da en ciertas lenguas, como el vasco, el estonio, el húngaro, el turco o el quenya, llamado también aditivo, que tiene como finalidad indicar la dirección." .
+<http://es.dbpedia.org/resource/Caso_adlativo?dbpv=2016-10&nif=context> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#predLang> <http://lexvo.org/id/iso639-3/spa> .
