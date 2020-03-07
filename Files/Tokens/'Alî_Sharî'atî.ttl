@@ -1,0 +1,199 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_0_207> a nif:Sentence ;
+    nif:anchorOf "'Alî Sharî'atî, ou Ali Shariati (en persan : علی شريعتی), né près de Sabzevar le 23 novembre 1933 et mort assassiné à Southampton le 19 juin 1977, est un sociologue, philosophe et militant politique iranien." ;
+    nif:beginIndex "0" ;
+    nif:endIndex "207" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_1115_1228> a nif:Sentence ;
+    nif:anchorOf """Biographie
+Il naît en 1933 à Mazînân (Khurâsân, nord-est de l'Iran), fils du prédicateur Muhammad Takî Sharî'atî.""" ;
+    nif:beginIndex "1115" ;
+    nif:endIndex "1228" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_1229_1400> a nif:Sentence ;
+    nif:anchorOf "En 1948, il entre au Centre de la Propagation des Vérités islamiques fondé par son père Mohammad-Taghi, le grand exégète du Coran, un clerc éclairé devenu enseignant laïc." ;
+    nif:beginIndex "1229" ;
+    nif:endIndex "1400" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_1401_1445> a nif:Sentence ;
+    nif:anchorOf "Il reçoit sa formation secondaire à Mashhad." ;
+    nif:beginIndex "1401" ;
+    nif:endIndex "1445" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_1446_1651> a nif:Sentence ;
+    nif:anchorOf "En 1952, marque la fin de son 1er cycle des études secondaires, il devient enseignant au lycée, et fonde l’association islamique des élèves et est arrêté à la suite d'une manifestation antigouvernementale." ;
+    nif:beginIndex "1446" ;
+    nif:endIndex "1651" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_1652_1719> a nif:Sentence ;
+    nif:anchorOf "En 1953, il devient membre du Mouvement de la Résistance Nationale." ;
+    nif:beginIndex "1652" ;
+    nif:endIndex "1719" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_1720_1851> a nif:Sentence ;
+    nif:anchorOf "En 1954, il obtient le baccalauréat en lettres, il traduit de l’arabe un livre de Kashif al-qetâ’ : les archétypes moraux en islam." ;
+    nif:beginIndex "1720" ;
+    nif:endIndex "1851" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_1852_2072> a nif:Sentence ;
+    nif:anchorOf "En 1955, il entre en faculté de Lettres de Mashhad, il traduit « Abû-Zar al-Qaffârî, Un socialiste théiste », d’un auteur égyptien Jodat al-Sahhâr, il rédige un traité sur l’« Histoire de l’évolution de la philosophie »." ;
+    nif:beginIndex "1852" ;
+    nif:endIndex "2072" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_2073_2138> a nif:Sentence ;
+    nif:anchorOf "En 1957, il est arrêté avec 16 autres membres du M.R.N à Machhad." ;
+    nif:beginIndex "2073" ;
+    nif:endIndex "2138" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_208_347> a nif:Sentence ;
+    nif:anchorOf "Ses discours enflammés à l'Hosseinye Ershad, mosquée située au nord de Téhéran, attirèrent des foules immenses, notamment parmi les jeunes." ;
+    nif:beginIndex "208" ;
+    nif:endIndex "347" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_2139_2302> a nif:Sentence ;
+    nif:anchorOf "En 1959, il obtient une bourse d'études en France, il est élu comme meilleur étudiant de Licence en lettres (1958), il débute de collaboration à Paris avec le FLN." ;
+    nif:beginIndex "2139" ;
+    nif:endIndex "2302" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_2303_2414> a nif:Sentence ;
+    nif:anchorOf "En 1960, il fait la connaissance de Frantz Fanon et fait la traduction d’une anthologie de l'œuvre de celui-ci." ;
+    nif:beginIndex "2303" ;
+    nif:endIndex "2414" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_2415_2730> a nif:Sentence ;
+    nif:anchorOf "En 1961, il mène des activités politiques au sein de l’opposition national-démocratique et la confédération des étudiants iraniens, il participe au journal Iran Libre du Front National et son organe théorique La Pensée du Front où il présente Fanon pour la première fois dans la littérature révolutionnaire persane." ;
+    nif:beginIndex "2415" ;
+    nif:endIndex "2730" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_2731_2948> a nif:Sentence ;
+    nif:anchorOf "Il est arrêté à Paris à la suite de la manifestation des étudiants devant l’ambassade de Belgique lors du martyre de Patrice Lumumba, le 17 janvier, dialogue avec Guioze (intellectuel togolais) à la prison de la Cité." ;
+    nif:beginIndex "2731" ;
+    nif:endIndex "2948" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_2949_3251> a nif:Sentence ;
+    nif:anchorOf "En 1962, il fait des études et des recherches en sociologie et histoire des religions, il suit les cours de Louis Massignon, Jacques Berque et Georges Gurvitch, il fait la connaissance de Jean-Paul Sartre et du milieu intellectuel français, publication en Iran de l’« Occidentalité » de Jalal Al-Ahmad." ;
+    nif:beginIndex "2949" ;
+    nif:endIndex "3251" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_3252_3345> a nif:Sentence ;
+    nif:anchorOf "En 1963, il obtient un doctorat en lettres à la Sorbonne sous la direction de Gilbert Lazard." ;
+    nif:beginIndex "3252" ;
+    nif:endIndex "3345" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_3346_3430> a nif:Sentence ;
+    nif:anchorOf "En 1964, il retourne en Iran, il y est arrêté à la frontière et incarcéré à Téhéran." ;
+    nif:beginIndex "3346" ;
+    nif:endIndex "3430" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_3431_3858> a nif:Sentence ;
+    nif:anchorOf "Entre 1965 et 1972, il est professeur d’histoire à l’Université de Machhad, après une période d’enseignement dans les écoles, il publie ses cahiers intimes « Désert » et de son « Islamologie », il effectue une série de discours et de conférence à travers le pays et les universités et surtout à Téhéran dans le centre culturel et religieux de Hosseiniyeh Ershâd, fermé par l’ancien régime (à la demande du clergé conservateur)." ;
+    nif:beginIndex "3431" ;
+    nif:endIndex "3858" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_348_564> a nif:Sentence ;
+    nif:anchorOf "Même s'il est connu pour ses études sociologiques sur les religions, en particulier sur l'islam et le chiisme, c'était surtout un grand orateur qui présentait une nouvelle lecture modernisée de l'islam et du chiisme." ;
+    nif:beginIndex "348" ;
+    nif:endIndex "564" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_3859_3932> a nif:Sentence ;
+    nif:anchorOf "Il est ensuite interdit de publication et de toute intervention publique." ;
+    nif:beginIndex "3859" ;
+    nif:endIndex "3932" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_3933_4125> a nif:Sentence ;
+    nif:anchorOf "Entre 1973 et 1975, il est détenue pendant dix-huit mois par la SAVAK, police politique du Shah, dans les cellules d’isolement, libération après les accords d’Alger et assignation à résidence." ;
+    nif:beginIndex "3933" ;
+    nif:endIndex "4125" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_4126_4279> a nif:Sentence ;
+    nif:anchorOf "Le 17 mai 1977, après avoir réussi à quitter l’Iran sous son second nom de famille, son épouse, prise en otage, se voit interdite de sortie à l’aéroport." ;
+    nif:beginIndex "4126" ;
+    nif:endIndex "4279" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_4280_4482> a nif:Sentence ;
+    nif:anchorOf "Le 19 juin, Shariati meurt dans des circonstances obscures (officiellement d'une attaque cardiaque, il s'agirait d'un assassinat par la Savak selon de nombreux observateurs) à Southampton en Angleterre." ;
+    nif:beginIndex "4280" ;
+    nif:endIndex "4482" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_4483_4646> a nif:Sentence ;
+    nif:anchorOf "Généralement considéré comme l'idéologue de la révolution iranienne, il n'en fut pas moins critiqué par les mollahs qui l'accusent de laïcisme et d'occidentalisme." ;
+    nif:beginIndex "4483" ;
+    nif:endIndex "4646" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_4647_4725> a nif:Sentence ;
+    nif:anchorOf "Ali Shariati était un ami personnel de Jean-Paul Sartre et Simone de Beauvoir." ;
+    nif:beginIndex "4647" ;
+    nif:endIndex "4725" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_4726_4841> a nif:Sentence ;
+    nif:anchorOf "Il a entretenu une longue correspondance avec Frantz Fanon et a traduit en persan les œuvres d'Ernesto Che Guevara." ;
+    nif:beginIndex "4726" ;
+    nif:endIndex "4841" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_565_667> a nif:Sentence ;
+    nif:anchorOf "Il naît en 1933 à Mazînân (Khurâsân, nord-est de l'Iran), fils du prédicateur Muhammad Takî Sharî'atî." ;
+    nif:beginIndex "565" ;
+    nif:endIndex "667" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_668_753> a nif:Sentence ;
+    nif:anchorOf "Il reçoit sa formation secondaire à Mashhad, et se qualifie comme enseignant en 1951." ;
+    nif:beginIndex "668" ;
+    nif:endIndex "753" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_754_855> a nif:Sentence ;
+    nif:anchorOf "Ses premières publications et traductions, ainsi que son entrée en politique, datent de cette époque." ;
+    nif:beginIndex "754" ;
+    nif:endIndex "855" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_856_925> a nif:Sentence ;
+    nif:anchorOf "En 1956, il entre comme étudiant à la Faculté des Lettres de Mashhad." ;
+    nif:beginIndex "856" ;
+    nif:endIndex "925" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_926_986> a nif:Sentence ;
+    nif:anchorOf "Licencié en 1959, il est récompensé par une bourse d’études." ;
+    nif:beginIndex "926" ;
+    nif:endIndex "986" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=sentence_offset_987_1113> a nif:Sentence ;
+    nif:anchorOf "L’année suivante, il vient à Paris où il étudie l’histoire religieuse et la sociologie et parallèlement collabore avec le FLN." ;
+    nif:beginIndex "987" ;
+    nif:endIndex "1113" ;
+    nif:referenceContext <http://dbpedia.org/resource/'Alî_Sharî'atî?dbpv=2016-10&nif=context> .
+
