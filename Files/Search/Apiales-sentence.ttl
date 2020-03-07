@@ -1,0 +1,108 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_0_45> a nif:Sentence ;
+    nif:anchorOf "The Apiales are an order of flowering plants." ;
+    nif:beginIndex "0" ;
+    nif:endIndex "45" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_1022_1062> a nif:Sentence ;
+    nif:anchorOf "Pennantia was in the family Icacinaceae." ;
+    nif:beginIndex "1022" ;
+    nif:endIndex "1062" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_103_240> a nif:Sentence ;
+    nif:anchorOf "This is typical of the newer classifications, though there is some slight variation, and in particular the Torriceliaceae may be divided." ;
+    nif:beginIndex "103" ;
+    nif:endIndex "240" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_1063_1230> a nif:Sentence ;
+    nif:anchorOf "In the classification system of Dahlgren the Apiaceae and Araliaceae families were placed in the order Ariales, in the superorder Araliiflorae (also called Aralianae)." ;
+    nif:beginIndex "1063" ;
+    nif:endIndex "1230" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_1231_1359> a nif:Sentence ;
+    nif:anchorOf "The present understanding of the Apiales is fairly recent and is based upon comparison of DNA sequences by phylogenetic methods." ;
+    nif:beginIndex "1231" ;
+    nif:endIndex "1359" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_1360_1418> a nif:Sentence ;
+    nif:anchorOf "The circumscriptions of some of the families have changed." ;
+    nif:beginIndex "1360" ;
+    nif:endIndex "1418" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_1419_1496> a nif:Sentence ;
+    nif:anchorOf """In 2009, one of the subfamilies of Araliaceae was shown to be polyphyletic.
+
+""" ;
+    nif:beginIndex "1419" ;
+    nif:endIndex "1496" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_1496_1507> a nif:Sentence ;
+    nif:anchorOf """References
+""" ;
+    nif:beginIndex "1496" ;
+    nif:endIndex "1507" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_241_325> a nif:Sentence ;
+    nif:anchorOf "Under this definition, well-known members include carrots, celery, parsley, and ivy." ;
+    nif:beginIndex "241" ;
+    nif:endIndex "325" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_326_430> a nif:Sentence ;
+    nif:anchorOf "The order Apiales is placed within the asterid group of eudicots as circumscribed by the APG III system." ;
+    nif:beginIndex "326" ;
+    nif:endIndex "430" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_431_609> a nif:Sentence ;
+    nif:anchorOf "Within the asterids, Apiales belongs to an unranked group called the campanulids, and within the campanulids, it belongs to a clade known in phylogenetic nomenclature as Apiidae." ;
+    nif:beginIndex "431" ;
+    nif:endIndex "609" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_46_102> a nif:Sentence ;
+    nif:anchorOf "The families are those recognized in the APG III system." ;
+    nif:beginIndex "46" ;
+    nif:endIndex "102" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_610_745> a nif:Sentence ;
+    nif:anchorOf """In 2010, a subclade of Apiidae named Dipsapiidae was defined to consist of the three orders: Apiales, Paracryphiales, and Dipsacales.
+
+""" ;
+    nif:beginIndex "610" ;
+    nif:endIndex "745" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_745_754> a nif:Sentence ;
+    nif:anchorOf """Taxonomy
+""" ;
+    nif:beginIndex "745" ;
+    nif:endIndex "754" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_754_913> a nif:Sentence ;
+    nif:anchorOf "Under the Cronquist system, only the Apiaceae and Araliaceae were included here, and the restricted order was placed among the rosids rather than the asterids." ;
+    nif:beginIndex "754" ;
+    nif:endIndex "913" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=sentence_offset_914_1021> a nif:Sentence ;
+    nif:anchorOf "The Pittosporaceae were placed within the Rosales, and many of the other forms within the family Cornaceae." ;
+    nif:beginIndex "914" ;
+    nif:endIndex "1021" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> .
+

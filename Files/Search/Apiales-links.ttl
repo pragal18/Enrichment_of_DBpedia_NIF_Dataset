@@ -1,0 +1,169 @@
+@prefix dbp: <http://dbpedia.org/resource/> .
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=phrase_offset_572_597> a nif:Phrase ;
+    nif:anchorOf "phylogenetic nomenclature" ;
+    nif:beginIndex "572" ;
+    nif:endIndex "597" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:phylogenetic_nomenclature .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=phrase_offset_87_101> a nif:Phrase ;
+    nif:anchorOf "APG III system" ;
+    nif:beginIndex "87" ;
+    nif:endIndex "101" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:APG_III_system .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_1004_1010> a nif:Word ;
+    nif:anchorOf "family" ;
+    nif:beginIndex "1004" ;
+    nif:endIndex "1010" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:family .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_1182_1192> a nif:Word ;
+    nif:anchorOf "superorder" ;
+    nif:beginIndex "1182" ;
+    nif:endIndex "1192" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:superorder .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_132_147> a nif:Word ;
+    nif:anchorOf "classifications" ;
+    nif:beginIndex "132" ;
+    nif:endIndex "147" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:classifications .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_1364_1380> a nif:Word ;
+    nif:anchorOf "circumscriptions" ;
+    nif:beginIndex "1364" ;
+    nif:endIndex "1380" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:circumscriptions .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_195_205> a nif:Word ;
+    nif:anchorOf "particular" ;
+    nif:beginIndex "195" ;
+    nif:endIndex "205" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:particular .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_19_24> a nif:Word ;
+    nif:anchorOf "order" ;
+    nif:beginIndex "19" ;
+    nif:endIndex "24" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:order .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_252_262> a nif:Word ;
+    nif:anchorOf "definition" ;
+    nif:beginIndex "252" ;
+    nif:endIndex "262" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Definition .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_275_282> a nif:Word ;
+    nif:anchorOf "members" ;
+    nif:beginIndex "275" ;
+    nif:endIndex "282" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Members .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_291_298> a nif:Word ;
+    nif:anchorOf "carrots" ;
+    nif:beginIndex "291" ;
+    nif:endIndex "298" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:carrots .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_300_306> a nif:Word ;
+    nif:anchorOf "celery" ;
+    nif:beginIndex "300" ;
+    nif:endIndex "306" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:celery .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_308_315> a nif:Word ;
+    nif:anchorOf "parsley" ;
+    nif:beginIndex "308" ;
+    nif:endIndex "315" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:parsley .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_321_324> a nif:Word ;
+    nif:anchorOf "ivy" ;
+    nif:beginIndex "321" ;
+    nif:endIndex "324" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:ivy .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_382_390> a nif:Word ;
+    nif:anchorOf "eudicots" ;
+    nif:beginIndex "382" ;
+    nif:endIndex "390" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:eudicots .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_38_44> a nif:Word ;
+    nif:anchorOf "plants" ;
+    nif:beginIndex "38" ;
+    nif:endIndex "44" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:plants .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_474_482> a nif:Word ;
+    nif:anchorOf "unranked" ;
+    nif:beginIndex "474" ;
+    nif:endIndex "482" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:unranked .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_500_511> a nif:Word ;
+    nif:anchorOf "campanulids" ;
+    nif:beginIndex "500" ;
+    nif:endIndex "511" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:campanulids .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_50_58> a nif:Word ;
+    nif:anchorOf "families" ;
+    nif:beginIndex "50" ;
+    nif:endIndex "58" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:families .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_557_562> a nif:Word ;
+    nif:anchorOf "clade" ;
+    nif:beginIndex "557" ;
+    nif:endIndex "562" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:clade .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_621_629> a nif:Word ;
+    nif:anchorOf "subclade" ;
+    nif:beginIndex "621" ;
+    nif:endIndex "629" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:subclade .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_695_701> a nif:Word ;
+    nif:anchorOf "orders" ;
+    nif:beginIndex "695" ;
+    nif:endIndex "701" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:orders .
+
+<http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=word_offset_987_992> a nif:Word ;
+    nif:anchorOf "forms" ;
+    nif:beginIndex "987" ;
+    nif:endIndex "992" ;
+    nif:referenceContext <http://dbpedia.org/resource/Apiales?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Forms .
+
