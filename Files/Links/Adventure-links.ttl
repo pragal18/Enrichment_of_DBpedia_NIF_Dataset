@@ -1,0 +1,316 @@
+@prefix dbp: <http://dbpedia.org/resource/> .
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_1295_1306> a nif:Phrase ;
+    nif:anchorOf "Jason Lewis" ;
+    nif:beginIndex "1295" ;
+    nif:endIndex "1306" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Jason_Lewis .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_1686_1697> a nif:Phrase ;
+    nif:anchorOf "The Odyssey" ;
+    nif:beginIndex "1686" ;
+    nif:endIndex "1697" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:The_Odyssey .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_1711_1726> a nif:Phrase ;
+    nif:anchorOf "Joseph Campbell" ;
+    nif:beginIndex "1711" ;
+    nif:endIndex "1726" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Joseph_Campbell .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_2025_2038> a nif:Phrase ;
+    nif:anchorOf "knight errant" ;
+    nif:beginIndex "2025" ;
+    nif:endIndex "2038" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:knight_errant .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_2102_2113> a nif:Phrase ;
+    nif:anchorOf "Middle Ages" ;
+    nif:beginIndex "2102" ;
+    nif:endIndex "2113" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Middle_Ages .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_2119_2134> a nif:Phrase ;
+    nif:anchorOf "adventure novel" ;
+    nif:beginIndex "2119" ;
+    nif:endIndex "2134" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:adventure_novel .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_2285_2293> a nif:Phrase ;
+    nif:anchorOf "See also" ;
+    nif:beginIndex "2285" ;
+    nif:endIndex "2293" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:See_also .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_2361_2377> a nif:Phrase ;
+    nif:anchorOf "Adventure travel" ;
+    nif:beginIndex "2361" ;
+    nif:endIndex "2377" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Adventure_travel .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_238_255> a nif:Phrase ;
+    nif:anchorOf "mountain climbing" ;
+    nif:beginIndex "238" ;
+    nif:endIndex "255" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:mountain_climbing .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_257_269> a nif:Phrase ;
+    nif:anchorOf "scuba diving" ;
+    nif:beginIndex "257" ;
+    nif:endIndex "269" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:scuba_diving .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_271_284> a nif:Phrase ;
+    nif:anchorOf "river rafting" ;
+    nif:beginIndex "271" ;
+    nif:endIndex "284" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:river_rafting .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_305_319> a nif:Phrase ;
+    nif:anchorOf "extreme sports" ;
+    nif:beginIndex "305" ;
+    nif:endIndex "319" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:extreme_sports .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=phrase_offset_931_943> a nif:Phrase ;
+    nif:anchorOf "Helen Keller" ;
+    nif:beginIndex "931" ;
+    nif:endIndex "943" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Helen_Keller .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1080_1090> a nif:Word ;
+    nif:anchorOf "recreation" ;
+    nif:beginIndex "1080" ;
+    nif:endIndex "1090" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:recreation .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1106_1114> a nif:Word ;
+    nif:anchorOf "examples" ;
+    nif:beginIndex "1106" ;
+    nif:endIndex "1114" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Examples .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1150_1157> a nif:Word ;
+    nif:anchorOf "tourism" ;
+    nif:beginIndex "1150" ;
+    nif:endIndex "1157" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Tourism .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1208_1217> a nif:Word ;
+    nif:anchorOf "knowledge" ;
+    nif:beginIndex "1208" ;
+    nif:endIndex "1217" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:knowledge .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1276_1283> a nif:Word ;
+    nif:anchorOf "British" ;
+    nif:beginIndex "1276" ;
+    nif:endIndex "1283" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:British .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1345_1351> a nif:Word ;
+    nif:anchorOf "global" ;
+    nif:beginIndex "1345" ;
+    nif:endIndex "1351" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:global .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1352_1366> a nif:Word ;
+    nif:anchorOf "sustainability" ;
+    nif:beginIndex "1352" ;
+    nif:endIndex "1366" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:sustainability .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1401_1414> a nif:Word ;
+    nif:anchorOf "environmental" ;
+    nif:beginIndex "1401" ;
+    nif:endIndex "1414" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Environmental .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1482_1491> a nif:Word ;
+    nif:anchorOf "education" ;
+    nif:beginIndex "1482" ;
+    nif:endIndex "1491" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Education .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1539_1547> a nif:Word ;
+    nif:anchorOf "learning" ;
+    nif:beginIndex "1539" ;
+    nif:endIndex "1547" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:learning .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1563_1572> a nif:Word ;
+    nif:anchorOf "mythology" ;
+    nif:beginIndex "1563" ;
+    nif:endIndex "1572" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:mythology .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1755_1763> a nif:Word ;
+    nif:anchorOf "monomyth" ;
+    nif:beginIndex "1755" ;
+    nif:endIndex "1763" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:monomyth .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_1869_1876> a nif:Word ;
+    nif:anchorOf "culture" ;
+    nif:beginIndex "1869" ;
+    nif:endIndex "1876" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Culture .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_2047_2051> a nif:Word ;
+    nif:anchorOf "form" ;
+    nif:beginIndex "2047" ;
+    nif:endIndex "2051" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:form .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_205_214> a nif:Word ;
+    nif:anchorOf "traveling" ;
+    nif:beginIndex "205" ;
+    nif:endIndex "214" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:traveling .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_2075_2084> a nif:Word ;
+    nif:anchorOf "character" ;
+    nif:beginIndex "2075" ;
+    nif:endIndex "2084" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:character .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_2151_2162> a nif:Word ;
+    nif:anchorOf "protagonist" ;
+    nif:beginIndex "2151" ;
+    nif:endIndex "2162" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:protagonist .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_216_225> a nif:Word ;
+    nif:anchorOf "exploring" ;
+    nif:beginIndex "216" ;
+    nif:endIndex "225" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:exploring .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_2187_2202> a nif:Word ;
+    nif:anchorOf "characteristics" ;
+    nif:beginIndex "2187" ;
+    nif:endIndex "2202" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Characteristics .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_2230_2235> a nif:Word ;
+    nif:anchorOf "films" ;
+    nif:beginIndex "2230" ;
+    nif:endIndex "2235" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:films .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_227_236> a nif:Word ;
+    nif:anchorOf "skydiving" ;
+    nif:beginIndex "227" ;
+    nif:endIndex "236" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:skydiving .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_2435_2445> a nif:Word ;
+    nif:anchorOf "definition" ;
+    nif:beginIndex "2435" ;
+    nif:endIndex "2445" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Definition .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_39_49> a nif:Word ;
+    nif:anchorOf "experience" ;
+    nif:beginIndex "39" ;
+    nif:endIndex "49" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:experience .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_424_437> a nif:Word ;
+    nif:anchorOf "psychological" ;
+    nif:beginIndex "424" ;
+    nif:endIndex "437" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Psychological .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_481_486> a nif:Word ;
+    nif:anchorOf "major" ;
+    nif:beginIndex "481" ;
+    nif:endIndex "486" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:major .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_487_491> a nif:Word ;
+    nif:anchorOf "life" ;
+    nif:beginIndex "487" ;
+    nif:endIndex "491" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:Life .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_563_570> a nif:Word ;
+    nif:anchorOf "arousal" ;
+    nif:beginIndex "563" ;
+    nif:endIndex "570" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:arousal .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_615_619> a nif:Word ;
+    nif:anchorOf "fear" ;
+    nif:beginIndex "615" ;
+    nif:endIndex "619" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:fear .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_639_643> a nif:Word ;
+    nif:anchorOf "flow" ;
+    nif:beginIndex "639" ;
+    nif:endIndex "643" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:flow .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_706_709> a nif:Word ;
+    nif:anchorOf "law" ;
+    nif:beginIndex "706" ;
+    nif:endIndex "709" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:law .
+
+<http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=word_offset_82_87> a nif:Word ;
+    nif:anchorOf "risky" ;
+    nif:beginIndex "82" ;
+    nif:endIndex "87" ;
+    nif:referenceContext <http://dbpedia.org/resource/Adventure?dbpv=2016-10&nif=context> ;
+    itsrdf:taIdentRef dbp:risky .
+
