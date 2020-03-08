@@ -99,9 +99,9 @@ Specify en, de, fr, es or ja. (Default: en)
 (Enhances Links for 10 French Articles through NLTK)
 	
 # OUTPUT
-	Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
-	Results of Tokenization task gets stored in Files/Tokens in RDF triples.
-	Results of Part of speech tasks gets stored in the Files/POS in RDF triples on the same name as the article.
-	Results of Link Enrichment task gets stored in Files/Links in RDF format.
-	Results of Search tasks gets stored on Files/Search with name of the article followed by task in RDF format.	
+Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
+Results of Tokenization task gets stored in Files/Tokens in RDF triples.
+Results of Part of speech tasks gets stored in the Files/POS in RDF triples on the same name as the article.
+Results of Link Enrichment task gets stored in Files/Links in RDF format.
+Results of Search tasks gets stored on Files/Search with name of the article followed by task in RDF format.	
 
