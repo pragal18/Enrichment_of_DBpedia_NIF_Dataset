@@ -6,16 +6,19 @@ Enrichment of DBpedia NIF Dataset is a compilation of Python3 and Shell scripts 
 storage). 
 
 # REQUIREMENTS
-- python>=3.4
-- rdflib>=4.0
-- NLTK >= 3.0
-- Spacy>=2.0
-- numpy>=1.16.3 
-- TextBlob>=0.15.2
+- Python3
+- Rdflib >= 4.0
+- Numpy >=1.16.3 
+- Pandas >= 1.0
+- NLTK >= 3.0 
+- Spacy >=2.0 
+- TextBlob >=0.15.2 
 - Pattern >=3.6
+- StanfordPOSTagger >= 3.9.0
+- Konoha,Nagisa (for Processing Japanese language)
 
 # Processing steps
-  ### STEP 1: 
+  ## STEP 1: 
 Download the NIF Context file from https://wiki.dbpedia.org/downloads-2016-10 in the ttl format. Languages supported in this project are :
  - English (nif_context_en.ttl), 
  - French (nif_context_fr.ttl), 
@@ -28,7 +31,7 @@ Similarly download nif_text_links_<language>.ttl from the https://wiki.dbpedia.o
 at NIF_Dataset_Minimal_Version directory.
 
 
- ### STEP 2:
+ ## STEP 2:
 Run the separate_script.sh with an argument -p specifying the path where **NIF context** file is stored in the system. The result will be saved in Files/Input<language> directory. 
  - Positional argument:  
 &nbsp; &nbsp; -p PATH,  
@@ -54,8 +57,7 @@ This might contain duplicate records. So just to speed up the NLP task, you shou
 (Duplicates are removed and result is stored at Files/LinkDataset<lang>.csv)
 
 
-
-### STEP 3:
+## STEP 3:
 Perform Sentence-splitting, Tokenisation, Part-of-speech tagging and Enhance Links by running the script run.sh with the following argument(s) :
 - Language - **en** for english, **fr** for French, **de** for German, **ja** for Japanese, **es** for spanish. Default language is English.
 
@@ -67,7 +69,7 @@ Perform Sentence-splitting, Tokenisation, Part-of-speech tagging and Enhance Lin
 
 - Tool name - **NLTK** for Natural Language Tool Kit package, **TTB** for using TextBlob , **SIO** for using SpacyIO and **PAT** for Pattern. Default is NLTK.	
 
-**USAGE**
+### USAGE:
  ./runme.sh [-l LANGUAGE] [-n NUMBER OF FILES TO BE PROCESSED] [-t NLP TASK] [-e NAME OF TOOL] [-s SEARCH]
 
 Perform various NLP Tasks on Wikipedia.
@@ -91,10 +93,17 @@ Optional arguments:
   >  -l LANGUAGE, 
                           English(en), German(de), Spanish(es), French(fr) and Japanese(ja) (default: en)
 
-Examples
-./runme.sh -t SEN -n 100 (Performs Sentence splitting on 100 english articles via NLTK)  
-./runme.sh -t ALL -s Apollos (Performs all 4 NLP tasks for the article Apollos)
-./runme.sh -t TOK -n 100 -l de -e SIO (Perform Tokenisation on 100 German articles via Spacy IO)
+**Examples**
+- ./run.sh -t SEN -n 100 
+(Performs Sentence splitting on 100 English articles through NLTK)  
+- ./run.sh -t ALL -s Apollos 
+(Performs all 4 NLP tasks for the article Apollos)
+- ./run.sh -t TOK -n 100 -l de -e TTB 
+(Performs Tokenisation on 100 German articles through TextBlob)
+- ./run.sh -t POS -n 10 -l es -e SIO
+(Performs Part-of-Speech tagging for 10 Spanish articles through SpacyIO)
+- ./run.sh -t LINK -n 10 -l fr -e NLTK
+(Enhances Links for 10 French Articles through NLTK)
 
 # PROCESSING 
 	Download nif_context_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh with path as an argument to the 	 
