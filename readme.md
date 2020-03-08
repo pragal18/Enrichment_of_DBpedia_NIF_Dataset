@@ -41,19 +41,19 @@ Run the separate_script.sh with an argument -p specifying the path where **NIF c
 &nbsp; &nbsp; Specify the article(s) that needs to be extracted from nif-context file
 
 __Examples__
- - ./separate_scripts.sh &nbsp; -p F:/Master_thesis/nif_context_de.ttl 
+ - ./separate_scripts.sh &nbsp; -p F:/Master_thesis/nif_context_de.ttl \
  (Extracts all the articles in German language and stores in Files/Inputde directory)
- - ./separate_scripts.sh &nbsp; -p F:/Master_thesis/nif_context_en.ttl -s St
+ - ./separate_scripts.sh &nbsp; -p F:/Master_thesis/nif_context_en.ttl -s St \
  (Extracts all articles that starts with "St" in English Language and stores in Files/Inputen folder)
-- ./separate_scripts.sh &nbsp; -p F:/Master_thesis/nif_context_es.ttl -s Apocopis
+- ./separate_scripts.sh &nbsp; -p F:/Master_thesis/nif_context_es.ttl -s Apocopis \
 (Extracts the article Apocopis in Spanish Language and stores in Files/Inputes folder)
 
 Similarly for performing Links NLP task, Run the separate_script.sh again with an argument -p specifying the path where **NIF Text Links** file is stored in the system. The result will be saved in CSV format at 'Files/LinkDataset<language>_with_duplicates.csv'. 
-- ./separate_scripts.sh -p F:/Master_thesis/nif_text_links_fr.ttl 
+- ./separate_scripts.sh -p F:/Master_thesis/nif_text_links_fr.ttl \
 (Creates a CSV file with all the surfaceforms-Links-POS for French Language and stores it in  Files/LinkDatasetfr_with_duplicates.csv)
 
 This might contain duplicate records. So just to speed up the NLP task, you should run the python script LinkDataset_remove_duplicates.py located at scripts/preprocessing_scripts.
-- python scripts/preprocessing_scripts/LinkDataset_remove_duplicates.py
+- python scripts/preprocessing_scripts/LinkDataset_remove_duplicates.py \
 (Duplicates are removed and result is stored at Files/LinkDataset<lang>.csv)
 
 
@@ -72,6 +72,7 @@ Perform Sentence-splitting, Tokenisation, Part-of-speech tagging and Enhance Lin
 ### USAGE:
 
  ./run.sh [ **-l** LANGUAGE] [ **-n** INSTANCE SIZE] [ **-t** NLP TASK] [**-e** TOOL NAME] [**-s** SEARCH] \
+ \
 **Positional arguments**:
 - **-t** &nbsp; &nbsp; NLP TASK,            
 Specify SEN, TOK, POS or LINK
@@ -87,21 +88,21 @@ Specify NLTK, SIO, TTB or PAT. (Default: NLTK)
 Specify en, de, fr, es or ja. (Default: en)
 
 **Examples**
-- ./run.sh -t SEN -n 100 
+- ./run.sh -t SEN -n 100 \
 (Performs Sentence splitting on 100 English articles through NLTK)  
-- ./run.sh -t ALL -s Apollos 
+- ./run.sh -t ALL -s Apollos \
 (Performs all 4 NLP tasks for the article Apollos)
-- ./run.sh -t TOK -n 100 -l de -e TTB 
+- ./run.sh -t TOK -n 100 -l de -e TTB \
 (Performs Tokenisation on 100 German articles through TextBlob)
-- ./run.sh -t POS -n 10 -l es -e SIO
+- ./run.sh -t POS -n 10 -l es -e SIO \
 (Performs Part-of-Speech tagging for 10 Spanish articles through SpacyIO)
-- ./run.sh -t LINK -n 10 -l fr -e NLTK
+- ./run.sh -t LINK -n 10 -l fr -e NLTK \
 (Enhances Links for 10 French Articles through NLTK)
 	
 # OUTPUT
-Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
-Results of Tokenization task gets stored in Files/Tokens in RDF triples.
-Results of Part of speech tasks gets stored in the Files/POS in RDF triples on the same name as the article.
-Results of Link Enrichment task gets stored in Files/Links in RDF format.
+Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples. \
+Results of Tokenization task gets stored in Files/Tokens in RDF triples. \
+Results of Part of speech tasks gets stored in the Files/POS in RDF triples on the same name as the article. \
+Results of Link Enrichment task gets stored in Files/Links in RDF format. \
 Results of Search tasks gets stored on Files/Search with name of the article followed by task in RDF format.	
 
