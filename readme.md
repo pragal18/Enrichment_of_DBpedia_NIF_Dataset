@@ -70,28 +70,21 @@ Perform Sentence-splitting, Tokenisation, Part-of-speech tagging and Enhance Lin
 - Tool name - **NLTK** for Natural Language Tool Kit package, **TTB** for using TextBlob , **SIO** for using SpacyIO and **PAT** for Pattern. Default is NLTK.	
 
 ### USAGE:
- ./runme.sh [-l LANGUAGE] [-n NUMBER OF FILES TO BE PROCESSED] [-t NLP TASK] [-e NAME OF TOOL] [-s SEARCH]
 
-Perform various NLP Tasks on Wikipedia.
->Positional arguments:
-     -t  Task,            
-We are able to perform 4 NLP tasks here over selected set of wikipedia articles or all the articles in 5 different languages namely Sentence splitting (SEN), 
-Tokenization(TOK), Part of speeching(POS) and  Link Enrichment(ADL).
-     -n  Number,          
-     			  Specify a number of articles to perform the tasks on. 
+ ./run.sh [ **-l** LANGUAGE] [ **-n** INSTANCE SIZE] [ **-t** NLP TASK] [**-e** TOOL NAME] [**-s** SEARCH]
+**Positional arguments**:
+- **-t** &nbsp; &nbsp; NLP TASK,            
+Specify SEN, TOK, POS or LINK
+- **-n** &nbsp; &nbsp; INSTANCE SIZE ,          
+Specify an integer. (Default: 1)
   
-Optional arguments:
->     -s SEARCH,            
-                          Enter the name of an article that you would like to perform the NLP task on. You have the option to specify -t 
-			  ALL to have all NLP tasks performed for that article. There is no need to mention -n in this case.
- >    -e TOOL,              
-    			  Natural Language ToolKit (NLTK)
-			  SPACYIO (SIO)
-			  TextBlob (TTB)
-			  Pattern(PAT)
-                          (default: NLTK)
-  >  -l LANGUAGE, 
-                          English(en), German(de), Spanish(es), French(fr) and Japanese(ja) (default: en)
+**Optional arguments**:
+- **-s** &nbsp; &nbsp; SEARCH,            
+Specify the name of an article. You have an option to specify -t ALL to have all NLP tasks performed for this article.
+- **-e** &nbsp; &nbsp; TOOL,              
+Specify NLTK, SIO, TTB or PAT. (Default: NLTK)
+- **-l** &nbsp; &nbsp; LANGUAGE, 
+Specify en, de, fr, es or ja. (Default: en)
 
 **Examples**
 - ./run.sh -t SEN -n 100 
@@ -104,18 +97,6 @@ Optional arguments:
 (Performs Part-of-Speech tagging for 10 Spanish articles through SpacyIO)
 - ./run.sh -t LINK -n 10 -l fr -e NLTK
 (Enhances Links for 10 French Articles through NLTK)
-
-# PROCESSING 
-	Download nif_context_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh with path as an argument to the 	 
-	downloaded location of nif_context. This separates the nif_context_en to RDF triples of individual articles and stores them in 	
-	Files/Inputen. If you download nif_context_fr.ttl then output gets stored in Files/Inputfr. Similarly Spanish nif_context_es.ttl 
-	gets stored in Files/Inputes and Files/Inputde for German. 
-	
-	Download nif_text_links_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path to  	
-	downloaded location of nif_text_links. It creates a CSV file with all links,surface forms and their Part of Speech This is a     
-	mandatory step for performing link enrichment task. You can terminate the execution of this script at anytime, more the records 
-	better the resultset you are expected to get. This CSV file will contain duplicate records. So after this kindly run 
-	python final_scripts/LinkDataset_remove_duplicates.py in order to get rid of the duplicate records in CSV file.
 	
 # OUTPUT
 	Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
@@ -124,14 +105,3 @@ Optional arguments:
 	Results of Link Enrichment task gets stored in Files/Links in RDF format.
 	Results of Search tasks gets stored on Files/Search with name of the article followed by task in RDF format.	
 
-# MORE EXAMPLES
-
-
-New@DESKTOP-1UH44PA ~
-$ ./run.sh -n 5 -t "TOK" -p "GEN"
-Please check the Tokens folder for output files
-
-New@DESKTOP-1UH44PA ~
-$ ./run.sh -n 5 -t "TOK" -p "GEN" -l "JA"
-Please check the Tokens folder for output files
-Dillinger uses a number of open source projects to work properly:
