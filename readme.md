@@ -7,15 +7,15 @@ storage).
 
 # REQUIREMENTS
 - Python3
-- Rdflib >= 4.0
-- Numpy >=1.16.3 
-- Pandas >= 1.0
-- NLTK >= 3.0 
-- Spacy >=2.0 
-- TextBlob >=0.15.2 
-- Pattern >=3.6
-- StanfordPOSTagger >= 3.9.0
-- Konoha,Nagisa (for Processing Japanese language)
+- Rdflib >= 4.0 &nbsp; &nbsp; https://pypi.org/project/rdflib/
+- Numpy >=1.16.3 &nbsp; &nbsp;  https://pypi.org/project/numpy/ 
+- Pandas >= 1.0 &nbsp;  &nbsp; https://pypi.org/project/pandas/
+- NLTK >= 3.0 &nbsp;  &nbsp; https://pypi.org/project/nltk/
+- Spacy >=2.0 &nbsp; &nbsp; https://pypi.org/project/spacy/
+- TextBlob >=0.15.2  &nbsp;  &nbsp;  https://pypi.org/project/textblob/
+- Pattern >=3.6  &nbsp;  &nbsp; https://pypi.org/project/Pattern/
+- StanfordPOSTagger >= 3.9.0  &nbsp; &nbsp; https://nlp.stanford.edu/software/tagger.shtml
+- Konoha,Nagisa (for Processing Japanese language) &nbsp; &nbsp; https://pypi.org/project/konoha/  &nbsp; &nbsp; https://pypi.org/project/nagisa/
 
 # Processing steps
   ## STEP 1: 
