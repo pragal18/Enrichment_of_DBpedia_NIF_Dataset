@@ -36,8 +36,8 @@ Run the separate_script.sh with an argument -p specifying the path where **NIF c
  - Positional argument:  
 &nbsp; &nbsp; -p PATH,  
 &nbsp; &nbsp;  Specify the location to downloaded nif-context file. 
- - Optional argument:
-&nbsp; &nbsp; -s SEARCH,
+ - Optional argument: \
+&nbsp; &nbsp; -s SEARCH, \
 &nbsp; &nbsp; Specify the article(s) that needs to be extracted from nif-context file
 
 __Examples__
