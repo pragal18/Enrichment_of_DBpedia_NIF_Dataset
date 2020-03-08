@@ -63,7 +63,7 @@ Perform Sentence-splitting, Tokenisation, Part-of-speech tagging and Enhance Lin
 
 - NLP task - **SEN** for sentence splitting, **TOK** for Tokenisation, **POS** for Part of speech tagging, **LINK** for enrichment of additional links
 
-- Instance size - Number of articles for which the NLP task(s) should be performed
+- Instance size - Number of articles for which the NLP task(s) should be performed. Default integer is 1.
 
 - Search - Specify a particular article name for which the NLP Task(s) has to be performed.
 
@@ -71,7 +71,7 @@ Perform Sentence-splitting, Tokenisation, Part-of-speech tagging and Enhance Lin
 
 ### USAGE:
 
- ./run.sh [ **-l** LANGUAGE] [ **-n** INSTANCE SIZE] [ **-t** NLP TASK] [**-e** TOOL NAME] [**-s** SEARCH]
+ ./run.sh [ **-l** LANGUAGE] [ **-n** INSTANCE SIZE] [ **-t** NLP TASK] [**-e** TOOL NAME] [**-s** SEARCH] \
 **Positional arguments**:
 - **-t** &nbsp; &nbsp; NLP TASK,            
 Specify SEN, TOK, POS or LINK
