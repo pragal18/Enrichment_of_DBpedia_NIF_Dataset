@@ -7,7 +7,135 @@ storage).
 
 # Processing steps
   ### STEP 1: 
+Download the NIF Context file from https://wi# Enrichment of DBpedia NIF Dataset
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+Enrichment of DBpedia NIF Dataset is a compilation of Python3 and Shell scripts that enables to perform various Natural Language Processing tasks on wikipedia on normal off-the-shelf hardware (e.g., a quad-core CPU, 8 GB of main memory, and 250 GB hard disk 
+storage). 
+
+# REQUIREMENTS
+- python>=3.4
+- rdflib>=4.0
+- NLTK >= 3.0
+- Spacy>=2.0
+- numpy>=1.16.3 
+- TextBlob>=0.15.2
+- Pattern >=3.6
+
+# Processing steps
+  ### STEP 1: 
 Download the NIF Context file from https://wiki.dbpedia.org/downloads-2016-10 in the ttl format. Languages supported in this project are :
+ - English (nif_context_en.ttl), 
+ - French (nif_context_fr.ttl), 
+ - German (nif_context_de.ttl), 
+ - Spanish (nif_context_es.ttl) and 
+ - Japanese (nif_context_ja.ttl). 
+Download these files or only the languages that is required. Extract them after downloading. A minimal version of these files are created and are stored on NIF_Dataset_Minimal_Version at home directory of this project.
+ 
+Similarly download nif_text_links_<language>.ttl from the https://wiki.dbpedia.org/downloads-2016-10 and extract it, if you would like to perform the enhancement of links NLP task. The minimal version is stored
+at NIF_Dataset_Minimal_Version directory.
+
+
+ ### STEP 2:
+Run the separate_script.sh with an argument -p specifying the path where **NIF context** file is stored in the system. The result will be saved in Files/Input<language> directory. 
+ - Positional argument:  
+&nbsp; &nbsp; -p PATH,  
+&nbsp; &nbsp;  Specify the location to downloaded nif-context file. 
+ - Optional argument:
+&nbsp; &nbsp; -s SEARCH,
+&nbsp; &nbsp; Specify the article(s) that needs to be extracted from nif-context file
+
+__Examples__
+ - ./separate_scripts.sh &nbsp; -p F:/Master_thesis/nif_context_de.ttl 
+ (Extracts all the articles in German language and stores in Files/Inputde directory)
+ - ./separate_scripts.sh &nbsp; -p F:/Master_thesis/nif_context_en.ttl -s St
+ (Extracts all articles that starts with "St" in English Language and stores in Files/Inputen folder)
+- ./separate_scripts.sh &nbsp; -p F:/Master_thesis/nif_context_es.ttl -s Apocopis
+(Extracts the article Apocopis in Spanish Language and stores in Files/Inputes folder)
+
+Similarly for performing Links NLP task, Run the separate_script.sh again with an argument -p specifying the path where **NIF Text Links** file is stored in the system. The result will be saved in CSV format at 'Files/LinkDataset<language>_with_duplicates.csv'. 
+- ./separate_scripts.sh -p F:/Master_thesis/nif_text_links_fr.ttl 
+(Creates a CSV file with all the surfaceforms-Links-POS for French Language and stores it in  Files/LinkDatasetfr_with_duplicates.csv)
+
+This might contain duplicate records. So just to speed up the NLP task, you should run the python script LinkDataset_remove_duplicates.py located at scripts/preprocessing_scripts.
+- python scripts/preprocessing_scripts/LinkDataset_remove_duplicates.py
+(Duplicates are removed and result is stored at Files/LinkDataset<lang>.csv)
+
+
+
+### STEP 3:
+Perform Sentence-splitting, Tokenisation, Part-of-speech tagging and Enhance Links by running the script run.sh with the following argument(s) :
+- Language - **en** for english, **fr** for French, **de** for German, **ja** for Japanese, **es** for spanish. Default language is English.
+
+- NLP task - **SEN** for sentence splitting, **TOK** for Tokenisation, **POS** for Part of speech tagging, **LINK** for enrichment of additional links
+
+- Instance size - Number of articles for which the NLP task(s) should be performed
+
+- Search - Specify a particular article name for which the NLP Task(s) has to be performed.
+
+- Tool name - **NLTK** for Natural Language Tool Kit package, **TTB** for using TextBlob , **SIO** for using SpacyIO and **PAT** for Pattern. Default is NLTK.	
+
+**USAGE**
+ ./runme.sh [-l LANGUAGE] [-n NUMBER OF FILES TO BE PROCESSED] [-t NLP TASK] [-e NAME OF TOOL] [-s SEARCH]
+
+Perform various NLP Tasks on Wikipedia.
+>Positional arguments:
+     -t  Task,            
+We are able to perform 4 NLP tasks here over selected set of wikipedia articles or all the articles in 5 different languages namely Sentence splitting (SEN), 
+Tokenization(TOK), Part of speeching(POS) and  Link Enrichment(ADL).
+     -n  Number,          
+     			  Specify a number of articles to perform the tasks on. 
+  
+Optional arguments:
+>     -s SEARCH,            
+                          Enter the name of an article that you would like to perform the NLP task on. You have the option to specify -t 
+			  ALL to have all NLP tasks performed for that article. There is no need to mention -n in this case.
+ >    -e TOOL,              
+    			  Natural Language ToolKit (NLTK)
+			  SPACYIO (SIO)
+			  TextBlob (TTB)
+			  Pattern(PAT)
+                          (default: NLTK)
+  >  -l LANGUAGE, 
+                          English(en), German(de), Spanish(es), French(fr) and Japanese(ja) (default: en)
+
+Examples
+./runme.sh -t SEN -n 100 (Performs Sentence splitting on 100 english articles via NLTK)  
+./runme.sh -t ALL -s Apollos (Performs all 4 NLP tasks for the article Apollos)
+./runme.sh -t TOK -n 100 -l de -e SIO (Perform Tokenisation on 100 German articles via Spacy IO)
+
+# PROCESSING 
+	Download nif_context_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh with path as an argument to the 	 
+	downloaded location of nif_context. This separates the nif_context_en to RDF triples of individual articles and stores them in 	
+	Files/Inputen. If you download nif_context_fr.ttl then output gets stored in Files/Inputfr. Similarly Spanish nif_context_es.ttl 
+	gets stored in Files/Inputes and Files/Inputde for German. 
+	
+	Download nif_text_links_en.ttl from the https://wiki.dbpedia.org/ and run the separate_scripts.sh pointing the path to  	
+	downloaded location of nif_text_links. It creates a CSV file with all links,surface forms and their Part of Speech This is a     
+	mandatory step for performing link enrichment task. You can terminate the execution of this script at anytime, more the records 
+	better the resultset you are expected to get. This CSV file will contain duplicate records. So after this kindly run 
+	python final_scripts/LinkDataset_remove_duplicates.py in order to get rid of the duplicate records in CSV file.
+	
+# OUTPUT
+	Results of sentence-splitting task gets stored in Files/Sentence folder in RDF triples.
+	Results of Tokenization task gets stored in Files/Tokens in RDF triples.
+	Results of Part of speech tasks gets stored in the Files/POS in RDF triples on the same name as the article.
+	Results of Link Enrichment task gets stored in Files/Links in RDF format.
+	Results of Search tasks gets stored on Files/Search with name of the article followed by task in RDF format.	
+
+# MORE EXAMPLES
+
+
+New@DESKTOP-1UH44PA ~
+$ ./run.sh -n 5 -t "TOK" -p "GEN"
+Please check the Tokens folder for output files
+
+New@DESKTOP-1UH44PA ~
+$ ./run.sh -n 5 -t "TOK" -p "GEN" -l "JA"
+Please check the Tokens folder for output files
+Dillinger uses a number of open source projects to work properly:
+ki.dbpedia.org/downloads-2016-10 in the ttl format. Languages supported in this project are :
  - English (nif_context_en.ttl), 
  - French (nif_context_fr.ttl), 
  - German (nif_context_de.ttl), 
