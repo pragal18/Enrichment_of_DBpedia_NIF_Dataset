@@ -32,8 +32,8 @@ at NIF_Dataset_Minimal_Version directory.
 
 
  ## STEP 2:
- Clone this git repository on your local system.
-In order to execute the shell scripts, run the following 4 commands:
+ Clone this git repository on your local system. \
+In order to execute the shell scripts, run the following 4 commands from the home directory:
 - sed -i 's/\r//' run.sh
 - sed -i 's/\r//' separate_scripts.sh 
 - chmod +x run.sh
