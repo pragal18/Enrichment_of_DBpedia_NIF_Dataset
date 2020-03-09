@@ -32,6 +32,14 @@ at NIF_Dataset_Minimal_Version directory.
 
 
  ## STEP 2:
+ Clone this git repository on your local system.
+In order to execute the shell scripts, run the following 4 commands:
+- sed -i 's/\r//' run.sh
+- sed -i 's/\r//' separate_scripts.sh 
+- chmod +x run.sh
+- chmod +x separate_scripts.sh
+
+ ## STEP 3:
 Run the separate_script.sh with an argument -p specifying the path where **NIF context** file is stored in the system. The result will be saved in Files/Input<language> directory. 
  - Positional argument:  
 &nbsp; &nbsp; -p PATH,  
@@ -57,7 +65,7 @@ This might contain duplicate records. So just to speed up the NLP task, you shou
 (Duplicates are removed and result is stored at Files/LinkDataset<lang>.csv)
 
 
-## STEP 3:
+## STEP 4:
 Perform Sentence-splitting, Tokenisation, Part-of-speech tagging and Enhance Links by running the script run.sh with the following argument(s) :
 - Language - **en** for english, **fr** for French, **de** for German, **ja** for Japanese, **es** for spanish. Default language is English.
 
