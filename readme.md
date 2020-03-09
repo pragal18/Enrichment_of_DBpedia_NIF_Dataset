@@ -24,11 +24,10 @@ Download the NIF Context file from https://wiki.dbpedia.org/downloads-2016-10 in
  - French (nif_context_fr.ttl), 
  - German (nif_context_de.ttl), 
  - Spanish (nif_context_es.ttl) and 
- - Japanese (nif_context_ja.ttl). 
-Download these files or only the languages that is required. Extract them after downloading. A minimal version of these files are created and are stored on NIF_Dataset_Minimal_Version at home directory of this project.
+ - Japanese (nif_context_ja.ttl). \
+Download the language(s) that is required for you. Extract them after downloading. A minimal version of these files are created and are stored on NIF_Dataset_Minimal_Version at home directory of this project.
  
-Similarly download NIF Text Links file from the https://wiki.dbpedia.org/downloads-2016-10 in TTL format and extract it, if you would like to perform the enhancement of links NLP task. The minimal version is stored
-at NIF_Dataset_Minimal_Version directory. 
+Similarly download NIF Text Links file from the https://wiki.dbpedia.org/downloads-2016-10 in TTL format for any of the above mentioned languages. Extract it after downloading. NIF Text Links file is required only if you would like to perform the 'enhancement of links' NLP task. The minimal version is stored at NIF_Dataset_Minimal_Version directory. 
 
 
  ## STEP 2:
