@@ -1,0 +1,2274 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_0_9> a nif:Word ;
+    nif:anchorOf "Actresses" ;
+    nif:beginIndex "0" ;
+    nif:endIndex "9" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1005_1007> a nif:Word ;
+    nif:anchorOf "It" ;
+    nif:beginIndex "1005" ;
+    nif:endIndex "1007" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1008_1011> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "1008" ;
+    nif:endIndex "1011" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_100_107> a nif:Word ;
+    nif:anchorOf "Ventura" ;
+    nif:beginIndex "100" ;
+    nif:endIndex "107" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1012_1016> a nif:Word ;
+    nif:anchorOf "also" ;
+    nif:beginIndex "1012" ;
+    nif:endIndex "1016" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1017_1022> a nif:Word ;
+    nif:anchorOf "shown" ;
+    nif:beginIndex "1017" ;
+    nif:endIndex "1022" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1023_1025> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "1023" ;
+    nif:endIndex "1025" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1026_1029> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1026" ;
+    nif:endIndex "1029" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1030_1034> a nif:Word ;
+    nif:anchorOf "1997" ;
+    nif:beginIndex "1030" ;
+    nif:endIndex "1034" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1035_1044> a nif:Word ;
+    nif:anchorOf "Stockholm" ;
+    nif:beginIndex "1035" ;
+    nif:endIndex "1044" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1045_1058> a nif:Word ;
+    nif:anchorOf "International" ;
+    nif:beginIndex "1045" ;
+    nif:endIndex "1058" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1059_1063> a nif:Word ;
+    nif:anchorOf "Film" ;
+    nif:beginIndex "1059" ;
+    nif:endIndex "1063" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1064_1072> a nif:Word ;
+    nif:anchorOf "Festival" ;
+    nif:beginIndex "1064" ;
+    nif:endIndex "1072" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1075_1084> a nif:Word ;
+    nif:anchorOf "Reception" ;
+    nif:beginIndex "1075" ;
+    nif:endIndex "1084" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1085_1087> a nif:Word ;
+    nif:anchorOf "In" ;
+    nif:beginIndex "1085" ;
+    nif:endIndex "1087" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1088_1093> a nif:Word ;
+    nif:anchorOf "Movie" ;
+    nif:beginIndex "1088" ;
+    nif:endIndex "1093" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_108_112> a nif:Word ;
+    nif:anchorOf "Pons" ;
+    nif:beginIndex "108" ;
+    nif:endIndex "112" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1096_1100> a nif:Word ;
+    nif:anchorOf "Film" ;
+    nif:beginIndex "1096" ;
+    nif:endIndex "1100" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1103_1109> a nif:Word ;
+    nif:anchorOf "Review" ;
+    nif:beginIndex "1103" ;
+    nif:endIndex "1109" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1111_1116> a nif:Word ;
+    nif:anchorOf "Daily" ;
+    nif:beginIndex "1111" ;
+    nif:endIndex "1116" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1117_1121> a nif:Word ;
+    nif:anchorOf "Mail" ;
+    nif:beginIndex "1117" ;
+    nif:endIndex "1121" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1122_1129> a nif:Word ;
+    nif:anchorOf "staffer" ;
+    nif:beginIndex "1122" ;
+    nif:endIndex "1129" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1130_1141> a nif:Word ;
+    nif:anchorOf "Christopher" ;
+    nif:beginIndex "1130" ;
+    nif:endIndex "1141" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_113_116> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "113" ;
+    nif:endIndex "116" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1142_1148> a nif:Word ;
+    nif:anchorOf "Tookey" ;
+    nif:beginIndex "1142" ;
+    nif:endIndex "1148" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1149_1154> a nif:Word ;
+    nif:anchorOf "wrote" ;
+    nif:beginIndex "1149" ;
+    nif:endIndex "1154" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1155_1159> a nif:Word ;
+    nif:anchorOf "that" ;
+    nif:beginIndex "1155" ;
+    nif:endIndex "1159" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1160_1166> a nif:Word ;
+    nif:anchorOf "though" ;
+    nif:beginIndex "1160" ;
+    nif:endIndex "1166" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1167_1170> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1167" ;
+    nif:endIndex "1170" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1171_1180> a nif:Word ;
+    nif:anchorOf "actresses" ;
+    nif:beginIndex "1171" ;
+    nif:endIndex "1180" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_117_122> a nif:Word ;
+    nif:anchorOf "based" ;
+    nif:beginIndex "117" ;
+    nif:endIndex "122" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1181_1185> a nif:Word ;
+    nif:anchorOf "were" ;
+    nif:beginIndex "1181" ;
+    nif:endIndex "1185" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1187_1196> a nif:Word ;
+    nif:anchorOf "competent" ;
+    nif:beginIndex "1187" ;
+    nif:endIndex "1196" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1197_1199> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1197" ;
+    nif:endIndex "1199" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_11_18> a nif:Word ;
+    nif:anchorOf "Catalan" ;
+    nif:beginIndex "11" ;
+    nif:endIndex "18" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1200_1205> a nif:Word ;
+    nif:anchorOf "roles" ;
+    nif:beginIndex "1200" ;
+    nif:endIndex "1205" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1206_1210> a nif:Word ;
+    nif:anchorOf "that" ;
+    nif:beginIndex "1206" ;
+    nif:endIndex "1210" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1211_1214> a nif:Word ;
+    nif:anchorOf "may" ;
+    nif:beginIndex "1211" ;
+    nif:endIndex "1214" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1215_1219> a nif:Word ;
+    nif:anchorOf "have" ;
+    nif:beginIndex "1215" ;
+    nif:endIndex "1219" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1220_1224> a nif:Word ;
+    nif:anchorOf "some" ;
+    nif:beginIndex "1220" ;
+    nif:endIndex "1224" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1225_1234> a nif:Word ;
+    nif:anchorOf "reference" ;
+    nif:beginIndex "1225" ;
+    nif:endIndex "1234" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1235_1237> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "1235" ;
+    nif:endIndex "1237" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1238_1243> a nif:Word ;
+    nif:anchorOf "their" ;
+    nif:beginIndex "1238" ;
+    nif:endIndex "1243" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_123_125> a nif:Word ;
+    nif:anchorOf "on" ;
+    nif:beginIndex "123" ;
+    nif:endIndex "125" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1244_1247> a nif:Word ;
+    nif:anchorOf "own" ;
+    nif:beginIndex "1244" ;
+    nif:endIndex "1247" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1248_1255> a nif:Word ;
+    nif:anchorOf "careers" ;
+    nif:beginIndex "1248" ;
+    nif:endIndex "1255" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1258_1261> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1258" ;
+    nif:endIndex "1261" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1262_1266> a nif:Word ;
+    nif:anchorOf "film" ;
+    nif:beginIndex "1262" ;
+    nif:endIndex "1266" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1268_1270> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "1268" ;
+    nif:endIndex "1270" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_126_129> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "126" ;
+    nif:endIndex "129" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1271_1279> a nif:Word ;
+    nif:anchorOf "visually" ;
+    nif:beginIndex "1271" ;
+    nif:endIndex "1279" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1280_1293> a nif:Word ;
+    nif:anchorOf "unimaginative" ;
+    nif:beginIndex "1280" ;
+    nif:endIndex "1293" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1295_1300> a nif:Word ;
+    nif:anchorOf "never" ;
+    nif:beginIndex "1295" ;
+    nif:endIndex "1300" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1301_1308> a nif:Word ;
+    nif:anchorOf "escapes" ;
+    nif:beginIndex "1301" ;
+    nif:endIndex "1308" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1309_1312> a nif:Word ;
+    nif:anchorOf "its" ;
+    nif:beginIndex "1309" ;
+    nif:endIndex "1312" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_130_143> a nif:Word ;
+    nif:anchorOf "award-winning" ;
+    nif:beginIndex "130" ;
+    nif:endIndex "143" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1313_1318> a nif:Word ;
+    nif:anchorOf "stage" ;
+    nif:beginIndex "1313" ;
+    nif:endIndex "1318" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1319_1326> a nif:Word ;
+    nif:anchorOf "origins" ;
+    nif:beginIndex "1319" ;
+    nif:endIndex "1326" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1328_1331> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1328" ;
+    nif:endIndex "1331" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1332_1334> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "1332" ;
+    nif:endIndex "1334" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1335_1341> a nif:Word ;
+    nif:anchorOf "almost" ;
+    nif:beginIndex "1335" ;
+    nif:endIndex "1341" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1342_1349> a nif:Word ;
+    nif:anchorOf "totally" ;
+    nif:beginIndex "1342" ;
+    nif:endIndex "1349" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1350_1357> a nif:Word ;
+    nif:anchorOf "lacking" ;
+    nif:beginIndex "1350" ;
+    nif:endIndex "1357" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1358_1360> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1358" ;
+    nif:endIndex "1360" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1361_1371> a nif:Word ;
+    nif:anchorOf "revelation" ;
+    nif:beginIndex "1361" ;
+    nif:endIndex "1371" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1372_1374> a nif:Word ;
+    nif:anchorOf "or" ;
+    nif:beginIndex "1372" ;
+    nif:endIndex "1374" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1375_1385> a nif:Word ;
+    nif:anchorOf "surprising" ;
+    nif:beginIndex "1375" ;
+    nif:endIndex "1385" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1386_1394> a nif:Word ;
+    nif:anchorOf "incident" ;
+    nif:beginIndex "1386" ;
+    nif:endIndex "1394" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1397_1403> a nif:Word ;
+    nif:anchorOf "Noting" ;
+    nif:beginIndex "1397" ;
+    nif:endIndex "1403" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1404_1408> a nif:Word ;
+    nif:anchorOf "that" ;
+    nif:beginIndex "1404" ;
+    nif:endIndex "1408" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1409_1414> a nif:Word ;
+    nif:anchorOf "there" ;
+    nif:beginIndex "1409" ;
+    nif:endIndex "1414" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1415_1419> a nif:Word ;
+    nif:anchorOf "were" ;
+    nif:beginIndex "1415" ;
+    nif:endIndex "1419" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1421_1431> a nif:Word ;
+    nif:anchorOf "occasional" ;
+    nif:beginIndex "1421" ;
+    nif:endIndex "1431" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1433_1443> a nif:Word ;
+    nif:anchorOf "refreshing" ;
+    nif:beginIndex "1433" ;
+    nif:endIndex "1443" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1444_1451> a nif:Word ;
+    nif:anchorOf "moments" ;
+    nif:beginIndex "1444" ;
+    nif:endIndex "1451" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_144_149> a nif:Word ;
+    nif:anchorOf "stage" ;
+    nif:beginIndex "144" ;
+    nif:endIndex "149" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1452_1454> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1452" ;
+    nif:endIndex "1454" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1455_1472> a nif:Word ;
+    nif:anchorOf "intergenerational" ;
+    nif:beginIndex "1455" ;
+    nif:endIndex "1472" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1473_1483> a nif:Word ;
+    nif:anchorOf "bitchiness" ;
+    nif:beginIndex "1473" ;
+    nif:endIndex "1483" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1486_1490> a nif:Word ;
+    nif:anchorOf "they" ;
+    nif:beginIndex "1486" ;
+    nif:endIndex "1490" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1491_1494> a nif:Word ;
+    nif:anchorOf "did" ;
+    nif:beginIndex "1491" ;
+    nif:endIndex "1494" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1495_1498> a nif:Word ;
+    nif:anchorOf "not" ;
+    nif:beginIndex "1495" ;
+    nif:endIndex "1498" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1500_1507> a nif:Word ;
+    nif:anchorOf "justify" ;
+    nif:beginIndex "1500" ;
+    nif:endIndex "1507" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1508_1519> a nif:Word ;
+    nif:anchorOf "comparisons" ;
+    nif:beginIndex "1508" ;
+    nif:endIndex "1519" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_150_154> a nif:Word ;
+    nif:anchorOf "play" ;
+    nif:beginIndex "150" ;
+    nif:endIndex "154" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1520_1522> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "1520" ;
+    nif:endIndex "1522" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1523_1526> a nif:Word ;
+    nif:anchorOf "All" ;
+    nif:beginIndex "1523" ;
+    nif:endIndex "1526" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1527_1532> a nif:Word ;
+    nif:anchorOf "About" ;
+    nif:beginIndex "1527" ;
+    nif:endIndex "1532" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1533_1536> a nif:Word ;
+    nif:anchorOf "Eve" ;
+    nif:beginIndex "1533" ;
+    nif:endIndex "1536" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1539_1542> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1539" ;
+    nif:endIndex "1542" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1543_1547> a nif:Word ;
+    nif:anchorOf "were" ;
+    nif:beginIndex "1543" ;
+    nif:endIndex "1547" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1549_1563> a nif:Word ;
+    nif:anchorOf "insufficiently" ;
+    nif:beginIndex "1549" ;
+    nif:endIndex "1563" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_155_158> a nif:Word ;
+    nif:anchorOf "E.R" ;
+    nif:beginIndex "155" ;
+    nif:endIndex "158" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1564_1573> a nif:Word ;
+    nif:anchorOf "different" ;
+    nif:beginIndex "1564" ;
+    nif:endIndex "1573" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1574_1576> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "1574" ;
+    nif:endIndex "1576" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1577_1584> a nif:Word ;
+    nif:anchorOf "deserve" ;
+    nif:beginIndex "1577" ;
+    nif:endIndex "1584" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1585_1593> a nif:Word ;
+    nif:anchorOf "critical" ;
+    nif:beginIndex "1585" ;
+    nif:endIndex "1593" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1594_1603> a nif:Word ;
+    nif:anchorOf "parallels" ;
+    nif:beginIndex "1594" ;
+    nif:endIndex "1603" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1604_1608> a nif:Word ;
+    nif:anchorOf "with" ;
+    nif:beginIndex "1604" ;
+    nif:endIndex "1608" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1609_1617> a nif:Word ;
+    nif:anchorOf "Rashomon" ;
+    nif:beginIndex "1609" ;
+    nif:endIndex "1617" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_160_162> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "160" ;
+    nif:endIndex "162" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1620_1622> a nif:Word ;
+    nif:anchorOf "He" ;
+    nif:beginIndex "1620" ;
+    nif:endIndex "1622" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1623_1627> a nif:Word ;
+    nif:anchorOf "also" ;
+    nif:beginIndex "1623" ;
+    nif:endIndex "1627" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1628_1633> a nif:Word ;
+    nif:anchorOf "wrote" ;
+    nif:beginIndex "1628" ;
+    nif:endIndex "1633" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1634_1638> a nif:Word ;
+    nif:anchorOf "that" ;
+    nif:beginIndex "1634" ;
+    nif:endIndex "1638" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1639_1642> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "1639" ;
+    nif:endIndex "1642" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_163_168> a nif:Word ;
+    nif:anchorOf "Josep" ;
+    nif:beginIndex "163" ;
+    nif:endIndex "168" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1643_1651> a nif:Word ;
+    nif:anchorOf "Guardian" ;
+    nif:beginIndex "1643" ;
+    nif:endIndex "1651" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1652_1658> a nif:Word ;
+    nif:anchorOf "called" ;
+    nif:beginIndex "1652" ;
+    nif:endIndex "1658" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1659_1662> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1659" ;
+    nif:endIndex "1662" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1663_1667> a nif:Word ;
+    nif:anchorOf "film" ;
+    nif:beginIndex "1663" ;
+    nif:endIndex "1667" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1668_1669> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1668" ;
+    nif:endIndex "1669" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1671_1675> a nif:Word ;
+    nif:anchorOf "slow" ;
+    nif:beginIndex "1671" ;
+    nif:endIndex "1675" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1677_1683> a nif:Word ;
+    nif:anchorOf "stuffy" ;
+    nif:beginIndex "1677" ;
+    nif:endIndex "1683" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1684_1697> a nif:Word ;
+    nif:anchorOf "chamber-piece" ;
+    nif:beginIndex "1684" ;
+    nif:endIndex "1697" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_169_174> a nif:Word ;
+    nif:anchorOf "Maria" ;
+    nif:beginIndex "169" ;
+    nif:endIndex "174" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1700_1703> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1700" ;
+    nif:endIndex "1703" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1704_1708> a nif:Word ;
+    nif:anchorOf "that" ;
+    nif:beginIndex "1704" ;
+    nif:endIndex "1708" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1709_1712> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "1709" ;
+    nif:endIndex "1712" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1713_1720> a nif:Word ;
+    nif:anchorOf "Evening" ;
+    nif:beginIndex "1713" ;
+    nif:endIndex "1720" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1721_1729> a nif:Word ;
+    nif:anchorOf "Standard" ;
+    nif:beginIndex "1721" ;
+    nif:endIndex "1729" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1730_1736> a nif:Word ;
+    nif:anchorOf "stated" ;
+    nif:beginIndex "1730" ;
+    nif:endIndex "1736" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1737_1740> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1737" ;
+    nif:endIndex "1740" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1741_1745> a nif:Word ;
+    nif:anchorOf "film" ;
+    nif:beginIndex "1741" ;
+    nif:endIndex "1745" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1745_1747> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "1745" ;
+    nif:endIndex "1747" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1749_1753> a nif:Word ;
+    nif:anchorOf "best" ;
+    nif:beginIndex "1749" ;
+    nif:endIndex "1753" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1754_1761> a nif:Word ;
+    nif:anchorOf "moments" ;
+    nif:beginIndex "1754" ;
+    nif:endIndex "1761" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_175_180> a nif:Word ;
+    nif:anchorOf "Benet" ;
+    nif:beginIndex "175" ;
+    nif:endIndex "180" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1762_1769> a nif:Word ;
+    nif:anchorOf "exhibit" ;
+    nif:beginIndex "1762" ;
+    nif:endIndex "1769" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1770_1773> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1770" ;
+    nif:endIndex "1773" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1774_1780> a nif:Word ;
+    nif:anchorOf "bitchy" ;
+    nif:beginIndex "1774" ;
+    nif:endIndex "1780" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1781_1789> a nif:Word ;
+    nif:anchorOf "tantrums" ;
+    nif:beginIndex "1781" ;
+    nif:endIndex "1789" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1790_1798> a nif:Word ;
+    nif:anchorOf "seething" ;
+    nif:beginIndex "1790" ;
+    nif:endIndex "1798" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1799_1806> a nif:Word ;
+    nif:anchorOf "beneath" ;
+    nif:beginIndex "1799" ;
+    nif:endIndex "1806" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1807_1810> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1807" ;
+    nif:endIndex "1810" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1811_1820> a nif:Word ;
+    nif:anchorOf "threesome" ;
+    nif:beginIndex "1811" ;
+    nif:endIndex "1820" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_181_182> a nif:Word ;
+    nif:anchorOf "i" ;
+    nif:beginIndex "181" ;
+    nif:endIndex "182" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1820_1822> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "1820" ;
+    nif:endIndex "1822" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1823_1831> a nif:Word ;
+    nif:anchorOf "composed" ;
+    nif:beginIndex "1823" ;
+    nif:endIndex "1831" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1832_1839> a nif:Word ;
+    nif:anchorOf "veneers" ;
+    nif:beginIndex "1832" ;
+    nif:endIndex "1839" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_183_189> a nif:Word ;
+    nif:anchorOf "Jornet" ;
+    nif:beginIndex "183" ;
+    nif:endIndex "189" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1842_1846> a nif:Word ;
+    nif:anchorOf "MRQE" ;
+    nif:beginIndex "1842" ;
+    nif:endIndex "1846" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1847_1852> a nif:Word ;
+    nif:anchorOf "wrote" ;
+    nif:beginIndex "1847" ;
+    nif:endIndex "1852" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1854_1858> a nif:Word ;
+    nif:anchorOf "This" ;
+    nif:beginIndex "1854" ;
+    nif:endIndex "1858" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1859_1868> a nif:Word ;
+    nif:anchorOf "cinematic" ;
+    nif:beginIndex "1859" ;
+    nif:endIndex "1868" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1869_1879> a nif:Word ;
+    nif:anchorOf "adaptation" ;
+    nif:beginIndex "1869" ;
+    nif:endIndex "1879" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1880_1882> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1880" ;
+    nif:endIndex "1882" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1883_1884> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1883" ;
+    nif:endIndex "1884" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1885_1895> a nif:Word ;
+    nif:anchorOf "theatrical" ;
+    nif:beginIndex "1885" ;
+    nif:endIndex "1895" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1896_1900> a nif:Word ;
+    nif:anchorOf "work" ;
+    nif:beginIndex "1896" ;
+    nif:endIndex "1900" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1901_1903> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "1901" ;
+    nif:endIndex "1903" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1904_1908> a nif:Word ;
+    nif:anchorOf "true" ;
+    nif:beginIndex "1904" ;
+    nif:endIndex "1908" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1909_1911> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "1909" ;
+    nif:endIndex "1911" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1912_1915> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1912" ;
+    nif:endIndex "1915" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1916_1924> a nif:Word ;
+    nif:anchorOf "original" ;
+    nif:beginIndex "1916" ;
+    nif:endIndex "1924" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_191_194> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "191" ;
+    nif:endIndex "194" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1926_1929> a nif:Word ;
+    nif:anchorOf "but" ;
+    nif:beginIndex "1926" ;
+    nif:endIndex "1929" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1930_1934> a nif:Word ;
+    nif:anchorOf "does" ;
+    nif:beginIndex "1930" ;
+    nif:endIndex "1934" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1935_1938> a nif:Word ;
+    nif:anchorOf "not" ;
+    nif:beginIndex "1935" ;
+    nif:endIndex "1938" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1939_1944> a nif:Word ;
+    nif:anchorOf "stray" ;
+    nif:beginIndex "1939" ;
+    nif:endIndex "1944" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1945_1948> a nif:Word ;
+    nif:anchorOf "far" ;
+    nif:beginIndex "1945" ;
+    nif:endIndex "1948" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1949_1953> a nif:Word ;
+    nif:anchorOf "from" ;
+    nif:beginIndex "1949" ;
+    nif:endIndex "1953" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1954_1955> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1954" ;
+    nif:endIndex "1955" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1956_1966> a nif:Word ;
+    nif:anchorOf "theatrical" ;
+    nif:beginIndex "1956" ;
+    nif:endIndex "1966" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_195_199> a nif:Word ;
+    nif:anchorOf "film" ;
+    nif:beginIndex "195" ;
+    nif:endIndex "199" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1967_1976> a nif:Word ;
+    nif:anchorOf "rendering" ;
+    nif:beginIndex "1967" ;
+    nif:endIndex "1976" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1977_1979> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1977" ;
+    nif:endIndex "1979" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1980_1983> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1980" ;
+    nif:endIndex "1983" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1984_1989> a nif:Word ;
+    nif:anchorOf "story" ;
+    nif:beginIndex "1984" ;
+    nif:endIndex "1989" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_1993_1999> a nif:Word ;
+    nif:anchorOf "Awards" ;
+    nif:beginIndex "1993" ;
+    nif:endIndex "1999" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2000_2003> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "2000" ;
+    nif:endIndex "2003" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2004_2015> a nif:Word ;
+    nif:anchorOf "nominations" ;
+    nif:beginIndex "2004" ;
+    nif:endIndex "2015" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_200_203> a nif:Word ;
+    nif:anchorOf "has" ;
+    nif:beginIndex "200" ;
+    nif:endIndex "203" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2020_2024> a nif:Word ;
+    nif:anchorOf "1997" ;
+    nif:beginIndex "2020" ;
+    nif:endIndex "2024" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2026_2029> a nif:Word ;
+    nif:anchorOf "won" ;
+    nif:beginIndex "2026" ;
+    nif:endIndex "2029" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2030_2035> a nif:Word ;
+    nif:anchorOf "'Best" ;
+    nif:beginIndex "2030" ;
+    nif:endIndex "2035" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2036_2043> a nif:Word ;
+    nif:anchorOf "Catalan" ;
+    nif:beginIndex "2036" ;
+    nif:endIndex "2043" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2044_2048> a nif:Word ;
+    nif:anchorOf "Film" ;
+    nif:beginIndex "2044" ;
+    nif:endIndex "2048" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_204_206> a nif:Word ;
+    nif:anchorOf "no" ;
+    nif:beginIndex "204" ;
+    nif:endIndex "206" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2050_2052> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "2050" ;
+    nif:endIndex "2052" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2053_2059> a nif:Word ;
+    nif:anchorOf "Butaca" ;
+    nif:beginIndex "2053" ;
+    nif:endIndex "2059" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2060_2066> a nif:Word ;
+    nif:anchorOf "Awards" ;
+    nif:beginIndex "2060" ;
+    nif:endIndex "2066" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2067_2070> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "2067" ;
+    nif:endIndex "2070" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2071_2078> a nif:Word ;
+    nif:anchorOf "Ventura" ;
+    nif:beginIndex "2071" ;
+    nif:endIndex "2078" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2079_2083> a nif:Word ;
+    nif:anchorOf "Pons" ;
+    nif:beginIndex "2079" ;
+    nif:endIndex "2083" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_207_211> a nif:Word ;
+    nif:anchorOf "male" ;
+    nif:beginIndex "207" ;
+    nif:endIndex "211" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2088_2092> a nif:Word ;
+    nif:anchorOf "1997" ;
+    nif:beginIndex "2088" ;
+    nif:endIndex "2092" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2094_2097> a nif:Word ;
+    nif:anchorOf "won" ;
+    nif:beginIndex "2094" ;
+    nif:endIndex "2097" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2098_2103> a nif:Word ;
+    nif:anchorOf "'Best" ;
+    nif:beginIndex "2098" ;
+    nif:endIndex "2103" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_20_27> a nif:Word ;
+    nif:anchorOf "Actrius" ;
+    nif:beginIndex "20" ;
+    nif:endIndex "27" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2104_2111> a nif:Word ;
+    nif:anchorOf "Catalan" ;
+    nif:beginIndex "2104" ;
+    nif:endIndex "2111" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2112_2116> a nif:Word ;
+    nif:anchorOf "Film" ;
+    nif:beginIndex "2112" ;
+    nif:endIndex "2116" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2117_2124> a nif:Word ;
+    nif:anchorOf "Actress" ;
+    nif:beginIndex "2117" ;
+    nif:endIndex "2124" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2126_2128> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "2126" ;
+    nif:endIndex "2128" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2129_2135> a nif:Word ;
+    nif:anchorOf "Butaca" ;
+    nif:beginIndex "2129" ;
+    nif:endIndex "2135" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_212_218> a nif:Word ;
+    nif:anchorOf "actors" ;
+    nif:beginIndex "212" ;
+    nif:endIndex "218" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2136_2142> a nif:Word ;
+    nif:anchorOf "Awards" ;
+    nif:beginIndex "2136" ;
+    nif:endIndex "2142" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2144_2150> a nif:Word ;
+    nif:anchorOf "shared" ;
+    nif:beginIndex "2144" ;
+    nif:endIndex "2150" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2151_2153> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "2151" ;
+    nif:endIndex "2153" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2154_2159> a nif:Word ;
+    nif:anchorOf "Núria" ;
+    nif:beginIndex "2154" ;
+    nif:endIndex "2159" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2160_2166> a nif:Word ;
+    nif:anchorOf "Espert" ;
+    nif:beginIndex "2160" ;
+    nif:endIndex "2166" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2168_2172> a nif:Word ;
+    nif:anchorOf "Rosa" ;
+    nif:beginIndex "2168" ;
+    nif:endIndex "2172" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2173_2178> a nif:Word ;
+    nif:anchorOf "Maria" ;
+    nif:beginIndex "2173" ;
+    nif:endIndex "2178" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2179_2184> a nif:Word ;
+    nif:anchorOf "Sardà" ;
+    nif:beginIndex "2179" ;
+    nif:endIndex "2184" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2186_2190> a nif:Word ;
+    nif:anchorOf "Anna" ;
+    nif:beginIndex "2186" ;
+    nif:endIndex "2190" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2191_2198> a nif:Word ;
+    nif:anchorOf "Lizaran" ;
+    nif:beginIndex "2191" ;
+    nif:endIndex "2198" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2200_2203> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "2200" ;
+    nif:endIndex "2203" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2204_2209> a nif:Word ;
+    nif:anchorOf "Mercè" ;
+    nif:beginIndex "2204" ;
+    nif:endIndex "2209" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_220_224> a nif:Word ;
+    nif:anchorOf "with" ;
+    nif:beginIndex "220" ;
+    nif:endIndex "224" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2210_2214> a nif:Word ;
+    nif:anchorOf "Pons" ;
+    nif:beginIndex "2210" ;
+    nif:endIndex "2214" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2219_2223> a nif:Word ;
+    nif:anchorOf "1998" ;
+    nif:beginIndex "2219" ;
+    nif:endIndex "2223" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2225_2234> a nif:Word ;
+    nif:anchorOf "nominated" ;
+    nif:beginIndex "2225" ;
+    nif:endIndex "2234" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2235_2238> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "2235" ;
+    nif:endIndex "2238" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2239_2244> a nif:Word ;
+    nif:anchorOf "'Best" ;
+    nif:beginIndex "2239" ;
+    nif:endIndex "2244" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2245_2255> a nif:Word ;
+    nif:anchorOf "Screenplay" ;
+    nif:beginIndex "2245" ;
+    nif:endIndex "2255" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2257_2259> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "2257" ;
+    nif:endIndex "2259" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_225_228> a nif:Word ;
+    nif:anchorOf "all" ;
+    nif:beginIndex "225" ;
+    nif:endIndex "228" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2260_2264> a nif:Word ;
+    nif:anchorOf "Goya" ;
+    nif:beginIndex "2260" ;
+    nif:endIndex "2264" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2265_2271> a nif:Word ;
+    nif:anchorOf "Awards" ;
+    nif:beginIndex "2265" ;
+    nif:endIndex "2271" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2273_2279> a nif:Word ;
+    nif:anchorOf "shared" ;
+    nif:beginIndex "2273" ;
+    nif:endIndex "2279" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2280_2282> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "2280" ;
+    nif:endIndex "2282" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2283_2288> a nif:Word ;
+    nif:anchorOf "Josep" ;
+    nif:beginIndex "2283" ;
+    nif:endIndex "2288" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2289_2294> a nif:Word ;
+    nif:anchorOf "Maria" ;
+    nif:beginIndex "2289" ;
+    nif:endIndex "2294" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2295_2300> a nif:Word ;
+    nif:anchorOf "Benet" ;
+    nif:beginIndex "2295" ;
+    nif:endIndex "2300" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_229_234> a nif:Word ;
+    nif:anchorOf "roles" ;
+    nif:beginIndex "229" ;
+    nif:endIndex "234" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2301_2302> a nif:Word ;
+    nif:anchorOf "i" ;
+    nif:beginIndex "2301" ;
+    nif:endIndex "2302" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2303_2309> a nif:Word ;
+    nif:anchorOf "Jornet" ;
+    nif:beginIndex "2303" ;
+    nif:endIndex "2309" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2310_2313> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "2310" ;
+    nif:endIndex "2313" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2314_2321> a nif:Word ;
+    nif:anchorOf "Ventura" ;
+    nif:beginIndex "2314" ;
+    nif:endIndex "2321" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2322_2326> a nif:Word ;
+    nif:anchorOf "Pons" ;
+    nif:beginIndex "2322" ;
+    nif:endIndex "2326" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2328_2338> a nif:Word ;
+    nif:anchorOf "References" ;
+    nif:beginIndex "2328" ;
+    nif:endIndex "2338" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2341_2349> a nif:Word ;
+    nif:anchorOf "External" ;
+    nif:beginIndex "2341" ;
+    nif:endIndex "2349" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2350_2355> a nif:Word ;
+    nif:anchorOf "links" ;
+    nif:beginIndex "2350" ;
+    nif:endIndex "2355" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_235_241> a nif:Word ;
+    nif:anchorOf "played" ;
+    nif:beginIndex "235" ;
+    nif:endIndex "241" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2360_2369> a nif:Word ;
+    nif:anchorOf "Actresses" ;
+    nif:beginIndex "2360" ;
+    nif:endIndex "2369" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2371_2373> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "2371" ;
+    nif:endIndex "2373" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2374_2377> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "2374" ;
+    nif:endIndex "2377" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2378_2386> a nif:Word ;
+    nif:anchorOf "Internet" ;
+    nif:beginIndex "2378" ;
+    nif:endIndex "2386" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2387_2392> a nif:Word ;
+    nif:anchorOf "Movie" ;
+    nif:beginIndex "2387" ;
+    nif:endIndex "2392" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2393_2401> a nif:Word ;
+    nif:anchorOf "Database" ;
+    nif:beginIndex "2393" ;
+    nif:endIndex "2401" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2406_2414> a nif:Word ;
+    nif:anchorOf "Official" ;
+    nif:beginIndex "2406" ;
+    nif:endIndex "2414" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2415_2422> a nif:Word ;
+    nif:anchorOf "website" ;
+    nif:beginIndex "2415" ;
+    nif:endIndex "2422" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2423_2425> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "2423" ;
+    nif:endIndex "2425" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2426_2434> a nif:Word ;
+    nif:anchorOf "archived" ;
+    nif:beginIndex "2426" ;
+    nif:endIndex "2434" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_242_244> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "242" ;
+    nif:endIndex "244" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2435_2443> a nif:Word ;
+    nif:anchorOf "February" ;
+    nif:beginIndex "2435" ;
+    nif:endIndex "2443" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2444_2446> a nif:Word ;
+    nif:anchorOf "17" ;
+    nif:beginIndex "2444" ;
+    nif:endIndex "2446" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2448_2452> a nif:Word ;
+    nif:anchorOf "2009" ;
+    nif:beginIndex "2448" ;
+    nif:endIndex "2452" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_2454_2461> a nif:Word ;
+    nif:anchorOf "Spanish" ;
+    nif:beginIndex "2454" ;
+    nif:endIndex "2461" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_245_252> a nif:Word ;
+    nif:anchorOf "females" ;
+    nif:beginIndex "245" ;
+    nif:endIndex "252" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_254_257> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "254" ;
+    nif:endIndex "257" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_258_262> a nif:Word ;
+    nif:anchorOf "film" ;
+    nif:beginIndex "258" ;
+    nif:endIndex "262" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_263_266> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "263" ;
+    nif:endIndex "266" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_267_275> a nif:Word ;
+    nif:anchorOf "produced" ;
+    nif:beginIndex "267" ;
+    nif:endIndex "275" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_276_278> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "276" ;
+    nif:endIndex "278" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_279_283> a nif:Word ;
+    nif:anchorOf "1996" ;
+    nif:beginIndex "279" ;
+    nif:endIndex "283" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_286_294> a nif:Word ;
+    nif:anchorOf "Synopsis" ;
+    nif:beginIndex "286" ;
+    nif:endIndex "294" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_295_297> a nif:Word ;
+    nif:anchorOf "In" ;
+    nif:beginIndex "295" ;
+    nif:endIndex "297" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_298_303> a nif:Word ;
+    nif:anchorOf "order" ;
+    nif:beginIndex "298" ;
+    nif:endIndex "303" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_29_31> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "29" ;
+    nif:endIndex "31" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_304_306> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "304" ;
+    nif:endIndex "306" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_307_314> a nif:Word ;
+    nif:anchorOf "prepare" ;
+    nif:beginIndex "307" ;
+    nif:endIndex "314" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_315_322> a nif:Word ;
+    nif:anchorOf "herself" ;
+    nif:beginIndex "315" ;
+    nif:endIndex "322" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_323_325> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "323" ;
+    nif:endIndex "325" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_326_330> a nif:Word ;
+    nif:anchorOf "play" ;
+    nif:beginIndex "326" ;
+    nif:endIndex "330" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_32_33> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "32" ;
+    nif:endIndex "33" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_331_332> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "331" ;
+    nif:endIndex "332" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_333_337> a nif:Word ;
+    nif:anchorOf "role" ;
+    nif:beginIndex "333" ;
+    nif:endIndex "337" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_338_351> a nif:Word ;
+    nif:anchorOf "commemorating" ;
+    nif:beginIndex "338" ;
+    nif:endIndex "351" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_34_38> a nif:Word ;
+    nif:anchorOf "1997" ;
+    nif:beginIndex "34" ;
+    nif:endIndex "38" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_352_355> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "352" ;
+    nif:endIndex "355" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_356_360> a nif:Word ;
+    nif:anchorOf "life" ;
+    nif:beginIndex "356" ;
+    nif:endIndex "360" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_361_363> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "361" ;
+    nif:endIndex "363" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_364_373> a nif:Word ;
+    nif:anchorOf "legendary" ;
+    nif:beginIndex "364" ;
+    nif:endIndex "373" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_374_381> a nif:Word ;
+    nif:anchorOf "actress" ;
+    nif:beginIndex "374" ;
+    nif:endIndex "381" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_382_387> a nif:Word ;
+    nif:anchorOf "Empar" ;
+    nif:beginIndex "382" ;
+    nif:endIndex "387" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_388_394> a nif:Word ;
+    nif:anchorOf "Ribera" ;
+    nif:beginIndex "388" ;
+    nif:endIndex "394" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_396_401> a nif:Word ;
+    nif:anchorOf "young" ;
+    nif:beginIndex "396" ;
+    nif:endIndex "401" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_39_46> a nif:Word ;
+    nif:anchorOf "Catalan" ;
+    nif:beginIndex "39" ;
+    nif:endIndex "46" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_402_409> a nif:Word ;
+    nif:anchorOf "actress" ;
+    nif:beginIndex "402" ;
+    nif:endIndex "409" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_411_416> a nif:Word ;
+    nif:anchorOf "Mercè" ;
+    nif:beginIndex "411" ;
+    nif:endIndex "416" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_417_421> a nif:Word ;
+    nif:anchorOf "Pons" ;
+    nif:beginIndex "417" ;
+    nif:endIndex "421" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_423_433> a nif:Word ;
+    nif:anchorOf "interviews" ;
+    nif:beginIndex "423" ;
+    nif:endIndex "433" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_434_439> a nif:Word ;
+    nif:anchorOf "three" ;
+    nif:beginIndex "434" ;
+    nif:endIndex "439" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_440_451> a nif:Word ;
+    nif:anchorOf "established" ;
+    nif:beginIndex "440" ;
+    nif:endIndex "451" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_452_461> a nif:Word ;
+    nif:anchorOf "actresses" ;
+    nif:beginIndex "452" ;
+    nif:endIndex "461" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_462_465> a nif:Word ;
+    nif:anchorOf "who" ;
+    nif:beginIndex "462" ;
+    nif:endIndex "465" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_466_469> a nif:Word ;
+    nif:anchorOf "had" ;
+    nif:beginIndex "466" ;
+    nif:endIndex "469" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_470_474> a nif:Word ;
+    nif:anchorOf "been" ;
+    nif:beginIndex "470" ;
+    nif:endIndex "474" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_475_478> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "475" ;
+    nif:endIndex "478" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_479_485> a nif:Word ;
+    nif:anchorOf "Ribera" ;
+    nif:beginIndex "479" ;
+    nif:endIndex "485" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_47_55> a nif:Word ;
+    nif:anchorOf "language" ;
+    nif:beginIndex "47" ;
+    nif:endIndex "55" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_485_487> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "485" ;
+    nif:endIndex "487" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_488_494> a nif:Word ;
+    nif:anchorOf "pupils" ;
+    nif:beginIndex "488" ;
+    nif:endIndex "494" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_496_499> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "496" ;
+    nif:endIndex "499" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_500_513> a nif:Word ;
+    nif:anchorOf "international" ;
+    nif:beginIndex "500" ;
+    nif:endIndex "513" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_514_518> a nif:Word ;
+    nif:anchorOf "diva" ;
+    nif:beginIndex "514" ;
+    nif:endIndex "518" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_519_525> a nif:Word ;
+    nif:anchorOf "Glòria" ;
+    nif:beginIndex "519" ;
+    nif:endIndex "525" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_526_530> a nif:Word ;
+    nif:anchorOf "Marc" ;
+    nif:beginIndex "526" ;
+    nif:endIndex "530" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_532_537> a nif:Word ;
+    nif:anchorOf "Núria" ;
+    nif:beginIndex "532" ;
+    nif:endIndex "537" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_538_544> a nif:Word ;
+    nif:anchorOf "Espert" ;
+    nif:beginIndex "538" ;
+    nif:endIndex "544" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_547_550> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "547" ;
+    nif:endIndex "550" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_551_561> a nif:Word ;
+    nif:anchorOf "television" ;
+    nif:beginIndex "551" ;
+    nif:endIndex "561" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_562_566> a nif:Word ;
+    nif:anchorOf "star" ;
+    nif:beginIndex "562" ;
+    nif:endIndex "566" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_567_575> a nif:Word ;
+    nif:anchorOf "Assumpta" ;
+    nif:beginIndex "567" ;
+    nif:endIndex "575" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_56_63> a nif:Word ;
+    nif:anchorOf "Spanish" ;
+    nif:beginIndex "56" ;
+    nif:endIndex "63" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_576_580> a nif:Word ;
+    nif:anchorOf "Roca" ;
+    nif:beginIndex "576" ;
+    nif:endIndex "580" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_582_586> a nif:Word ;
+    nif:anchorOf "Rosa" ;
+    nif:beginIndex "582" ;
+    nif:endIndex "586" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_587_592> a nif:Word ;
+    nif:anchorOf "Maria" ;
+    nif:beginIndex "587" ;
+    nif:endIndex "592" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_593_598> a nif:Word ;
+    nif:anchorOf "Sardà" ;
+    nif:beginIndex "593" ;
+    nif:endIndex "598" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_601_604> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "601" ;
+    nif:endIndex "604" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_605_612> a nif:Word ;
+    nif:anchorOf "dubbing" ;
+    nif:beginIndex "605" ;
+    nif:endIndex "612" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_613_621> a nif:Word ;
+    nif:anchorOf "director" ;
+    nif:beginIndex "613" ;
+    nif:endIndex "621" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_622_627> a nif:Word ;
+    nif:anchorOf "Maria" ;
+    nif:beginIndex "622" ;
+    nif:endIndex "627" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_628_635> a nif:Word ;
+    nif:anchorOf "Caminal" ;
+    nif:beginIndex "628" ;
+    nif:endIndex "635" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_637_641> a nif:Word ;
+    nif:anchorOf "Anna" ;
+    nif:beginIndex "637" ;
+    nif:endIndex "641" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_642_649> a nif:Word ;
+    nif:anchorOf "Lizaran" ;
+    nif:beginIndex "642" ;
+    nif:endIndex "649" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_64_69> a nif:Word ;
+    nif:anchorOf "drama" ;
+    nif:beginIndex "64" ;
+    nif:endIndex "69" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_653_657> a nif:Word ;
+    nif:anchorOf "Cast" ;
+    nif:beginIndex "653" ;
+    nif:endIndex "657" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_662_667> a nif:Word ;
+    nif:anchorOf "Núria" ;
+    nif:beginIndex "662" ;
+    nif:endIndex "667" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_668_674> a nif:Word ;
+    nif:anchorOf "Espert" ;
+    nif:beginIndex "668" ;
+    nif:endIndex "674" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_675_677> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "675" ;
+    nif:endIndex "677" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_678_684> a nif:Word ;
+    nif:anchorOf "Glòria" ;
+    nif:beginIndex "678" ;
+    nif:endIndex "684" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_685_689> a nif:Word ;
+    nif:anchorOf "Marc" ;
+    nif:beginIndex "685" ;
+    nif:endIndex "689" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_694_698> a nif:Word ;
+    nif:anchorOf "Rosa" ;
+    nif:beginIndex "694" ;
+    nif:endIndex "698" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_699_704> a nif:Word ;
+    nif:anchorOf "Maria" ;
+    nif:beginIndex "699" ;
+    nif:endIndex "704" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_705_710> a nif:Word ;
+    nif:anchorOf "Sardà" ;
+    nif:beginIndex "705" ;
+    nif:endIndex "710" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_70_74> a nif:Word ;
+    nif:anchorOf "film" ;
+    nif:beginIndex "70" ;
+    nif:endIndex "74" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_711_713> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "711" ;
+    nif:endIndex "713" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_714_722> a nif:Word ;
+    nif:anchorOf "Assumpta" ;
+    nif:beginIndex "714" ;
+    nif:endIndex "722" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_723_727> a nif:Word ;
+    nif:anchorOf "Roca" ;
+    nif:beginIndex "723" ;
+    nif:endIndex "727" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_732_736> a nif:Word ;
+    nif:anchorOf "Anna" ;
+    nif:beginIndex "732" ;
+    nif:endIndex "736" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_737_744> a nif:Word ;
+    nif:anchorOf "Lizaran" ;
+    nif:beginIndex "737" ;
+    nif:endIndex "744" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_745_747> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "745" ;
+    nif:endIndex "747" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_748_753> a nif:Word ;
+    nif:anchorOf "Maria" ;
+    nif:beginIndex "748" ;
+    nif:endIndex "753" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_754_761> a nif:Word ;
+    nif:anchorOf "Caminal" ;
+    nif:beginIndex "754" ;
+    nif:endIndex "761" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_75_83> a nif:Word ;
+    nif:anchorOf "produced" ;
+    nif:beginIndex "75" ;
+    nif:endIndex "83" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_766_771> a nif:Word ;
+    nif:anchorOf "Mercè" ;
+    nif:beginIndex "766" ;
+    nif:endIndex "771" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_772_776> a nif:Word ;
+    nif:anchorOf "Pons" ;
+    nif:beginIndex "772" ;
+    nif:endIndex "776" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_777_779> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "777" ;
+    nif:endIndex "779" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_780_789> a nif:Word ;
+    nif:anchorOf "Estudiant" ;
+    nif:beginIndex "780" ;
+    nif:endIndex "789" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_791_802> a nif:Word ;
+    nif:anchorOf "Recognition" ;
+    nif:beginIndex "791" ;
+    nif:endIndex "802" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_805_815> a nif:Word ;
+    nif:anchorOf "Screenings" ;
+    nif:beginIndex "805" ;
+    nif:endIndex "815" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_816_823> a nif:Word ;
+    nif:anchorOf "Actrius" ;
+    nif:beginIndex "816" ;
+    nif:endIndex "823" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_824_832> a nif:Word ;
+    nif:anchorOf "screened" ;
+    nif:beginIndex "824" ;
+    nif:endIndex "832" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_833_835> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "833" ;
+    nif:endIndex "835" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_836_840> a nif:Word ;
+    nif:anchorOf "2001" ;
+    nif:beginIndex "836" ;
+    nif:endIndex "840" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_841_843> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "841" ;
+    nif:endIndex "843" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_844_847> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "844" ;
+    nif:endIndex "847" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_848_855> a nif:Word ;
+    nif:anchorOf "Grauman" ;
+    nif:beginIndex "848" ;
+    nif:endIndex "855" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_84_87> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "84" ;
+    nif:endIndex "87" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_855_857> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "855" ;
+    nif:endIndex "857" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_858_866> a nif:Word ;
+    nif:anchorOf "Egyptian" ;
+    nif:beginIndex "858" ;
+    nif:endIndex "866" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_867_874> a nif:Word ;
+    nif:anchorOf "Theatre" ;
+    nif:beginIndex "867" ;
+    nif:endIndex "874" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_875_877> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "875" ;
+    nif:endIndex "877" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_878_880> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "878" ;
+    nif:endIndex "880" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_881_889> a nif:Word ;
+    nif:anchorOf "American" ;
+    nif:beginIndex "881" ;
+    nif:endIndex "889" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_88_96> a nif:Word ;
+    nif:anchorOf "directed" ;
+    nif:beginIndex "88" ;
+    nif:endIndex "96" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_890_902> a nif:Word ;
+    nif:anchorOf "Cinematheque" ;
+    nif:beginIndex "890" ;
+    nif:endIndex "902" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_903_916> a nif:Word ;
+    nif:anchorOf "retrospective" ;
+    nif:beginIndex "903" ;
+    nif:endIndex "916" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_917_919> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "917" ;
+    nif:endIndex "919" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_920_923> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "920" ;
+    nif:endIndex "923" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_924_929> a nif:Word ;
+    nif:anchorOf "works" ;
+    nif:beginIndex "924" ;
+    nif:endIndex "929" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_930_932> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "930" ;
+    nif:endIndex "932" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_933_936> a nif:Word ;
+    nif:anchorOf "its" ;
+    nif:beginIndex "933" ;
+    nif:endIndex "936" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_937_945> a nif:Word ;
+    nif:anchorOf "director" ;
+    nif:beginIndex "937" ;
+    nif:endIndex "945" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_947_950> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "947" ;
+    nif:endIndex "950" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_951_955> a nif:Word ;
+    nif:anchorOf "film" ;
+    nif:beginIndex "951" ;
+    nif:endIndex "955" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_956_959> a nif:Word ;
+    nif:anchorOf "had" ;
+    nif:beginIndex "956" ;
+    nif:endIndex "959" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_960_965> a nif:Word ;
+    nif:anchorOf "first" ;
+    nif:beginIndex "960" ;
+    nif:endIndex "965" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_966_974> a nif:Word ;
+    nif:anchorOf "screened" ;
+    nif:beginIndex "966" ;
+    nif:endIndex "974" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_975_977> a nif:Word ;
+    nif:anchorOf "at" ;
+    nif:beginIndex "975" ;
+    nif:endIndex "977" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_978_981> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "978" ;
+    nif:endIndex "981" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_97_99> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "97" ;
+    nif:endIndex "99" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_982_986> a nif:Word ;
+    nif:anchorOf "same" ;
+    nif:beginIndex "982" ;
+    nif:endIndex "986" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_987_995> a nif:Word ;
+    nif:anchorOf "location" ;
+    nif:beginIndex "987" ;
+    nif:endIndex "995" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_996_998> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "996" ;
+    nif:endIndex "998" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=word_offset_999_1003> a nif:Word ;
+    nif:anchorOf "1998" ;
+    nif:beginIndex "999" ;
+    nif:endIndex "1003" ;
+    nif:referenceContext <http://dbpedia.org/resource/Actrius?dbpv=2016-10&nif=context> .
+

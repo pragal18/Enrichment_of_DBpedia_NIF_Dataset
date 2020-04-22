@@ -1,0 +1,3606 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1003_1008> a nif:Word ;
+    nif:anchorOf "Grund" ;
+    nif:beginIndex "1003" ;
+    nif:endIndex "1008" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1009_1015> a nif:Word ;
+    nif:anchorOf "seiner" ;
+    nif:beginIndex "1009" ;
+    nif:endIndex "1015" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1016_1021> a nif:Word ;
+    nif:anchorOf "Größe" ;
+    nif:beginIndex "1016" ;
+    nif:endIndex "1021" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1022_1030> a nif:Word ;
+    nif:anchorOf "befindet" ;
+    nif:beginIndex "1022" ;
+    nif:endIndex "1030" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_102_109> a nif:Word ;
+    nif:anchorOf "erhielt" ;
+    nif:beginIndex "102" ;
+    nif:endIndex "109" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1031_1035> a nif:Word ;
+    nif:anchorOf "sich" ;
+    nif:beginIndex "1031" ;
+    nif:endIndex "1035" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1036_1042> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "1036" ;
+    nif:endIndex "1042" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1043_1057> a nif:Word ;
+    nif:anchorOf "wahrscheinlich" ;
+    nif:beginIndex "1043" ;
+    nif:endIndex "1057" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1058_1060> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "1058" ;
+    nif:endIndex "1060" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1061_1077> a nif:Word ;
+    nif:anchorOf "hydrodynamischen" ;
+    nif:beginIndex "1061" ;
+    nif:endIndex "1077" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1078_1091> a nif:Word ;
+    nif:anchorOf "Gleichgewicht" ;
+    nif:beginIndex "1078" ;
+    nif:endIndex "1091" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1093_1095> a nif:Word ;
+    nif:anchorOf "so" ;
+    nif:beginIndex "1093" ;
+    nif:endIndex "1095" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1096_1100> a nif:Word ;
+    nif:anchorOf "dass" ;
+    nif:beginIndex "1096" ;
+    nif:endIndex "1100" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1101_1105> a nif:Word ;
+    nif:anchorOf "eine" ;
+    nif:beginIndex "1101" ;
+    nif:endIndex "1105" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1106_1115> a nif:Word ;
+    nif:anchorOf "Zuordnung" ;
+    nif:beginIndex "1106" ;
+    nif:endIndex "1115" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1116_1118> a nif:Word ;
+    nif:anchorOf "zu" ;
+    nif:beginIndex "1116" ;
+    nif:endIndex "1118" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1119_1122> a nif:Word ;
+    nif:anchorOf "den" ;
+    nif:beginIndex "1119" ;
+    nif:endIndex "1122" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_111_116> a nif:Word ;
+    nif:anchorOf "wurde" ;
+    nif:beginIndex "111" ;
+    nif:endIndex "116" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1123_1136> a nif:Word ;
+    nif:anchorOf "Zwergplaneten" ;
+    nif:beginIndex "1123" ;
+    nif:endIndex "1136" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1137_1139> a nif:Word ;
+    nif:anchorOf "zu" ;
+    nif:beginIndex "1137" ;
+    nif:endIndex "1139" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1140_1148> a nif:Word ;
+    nif:anchorOf "erwarten" ;
+    nif:beginIndex "1140" ;
+    nif:endIndex "1148" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1149_1152> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "1149" ;
+    nif:endIndex "1152" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1154_1158> a nif:Word ;
+    nif:anchorOf "Nach" ;
+    nif:beginIndex "1154" ;
+    nif:endIndex "1158" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1159_1163> a nif:Word ;
+    nif:anchorOf "Mike" ;
+    nif:beginIndex "1159" ;
+    nif:endIndex "1163" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1164_1169> a nif:Word ;
+    nif:anchorOf "Brown" ;
+    nif:beginIndex "1164" ;
+    nif:endIndex "1169" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1170_1173> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "1170" ;
+    nif:endIndex "1173" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1174_1176> a nif:Word ;
+    nif:anchorOf "er" ;
+    nif:beginIndex "1174" ;
+    nif:endIndex "1176" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1177_1181> a nif:Word ;
+    nif:anchorOf "fast" ;
+    nif:beginIndex "1177" ;
+    nif:endIndex "1181" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_117_119> a nif:Word ;
+    nif:anchorOf "er" ;
+    nif:beginIndex "117" ;
+    nif:endIndex "119" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1182_1188> a nif:Word ;
+    nif:anchorOf "sicher" ;
+    nif:beginIndex "1182" ;
+    nif:endIndex "1188" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1189_1192> a nif:Word ;
+    nif:anchorOf "ein" ;
+    nif:beginIndex "1189" ;
+    nif:endIndex "1192" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1193_1204> a nif:Word ;
+    nif:anchorOf "Zwergplanet" ;
+    nif:beginIndex "1193" ;
+    nif:endIndex "1204" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1206_1212> a nif:Word ;
+    nif:anchorOf "Anders" ;
+    nif:beginIndex "1206" ;
+    nif:endIndex "1212" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_120_125> a nif:Word ;
+    nif:anchorOf "unter" ;
+    nif:beginIndex "120" ;
+    nif:endIndex "125" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1213_1216> a nif:Word ;
+    nif:anchorOf "als" ;
+    nif:beginIndex "1213" ;
+    nif:endIndex "1216" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1217_1222> a nif:Word ;
+    nif:anchorOf "Pluto" ;
+    nif:beginIndex "1217" ;
+    nif:endIndex "1222" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1223_1230> a nif:Word ;
+    nif:anchorOf "verfügt" ;
+    nif:beginIndex "1223" ;
+    nif:endIndex "1230" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1231_1237> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "1231" ;
+    nif:endIndex "1237" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1238_1241> a nif:Word ;
+    nif:anchorOf "wie" ;
+    nif:beginIndex "1238" ;
+    nif:endIndex "1241" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1242_1245> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "1242" ;
+    nif:endIndex "1245" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1246_1253> a nif:Word ;
+    nif:anchorOf "meisten" ;
+    nif:beginIndex "1246" ;
+    nif:endIndex "1253" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1254_1267> a nif:Word ;
+    nif:anchorOf "Zwergplaneten" ;
+    nif:beginIndex "1254" ;
+    nif:endIndex "1267" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1268_1272> a nif:Word ;
+    nif:anchorOf "über" ;
+    nif:beginIndex "1268" ;
+    nif:endIndex "1272" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_126_129> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "126" ;
+    nif:endIndex "129" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1273_1277> a nif:Word ;
+    nif:anchorOf "kein" ;
+    nif:beginIndex "1273" ;
+    nif:endIndex "1277" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1278_1289> a nif:Word ;
+    nif:anchorOf "offizielles" ;
+    nif:beginIndex "1278" ;
+    nif:endIndex "1289" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1290_1304> a nif:Word ;
+    nif:anchorOf "Astronomisches" ;
+    nif:beginIndex "1290" ;
+    nif:endIndex "1304" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1305_1311> a nif:Word ;
+    nif:anchorOf "Symbol" ;
+    nif:beginIndex "1305" ;
+    nif:endIndex "1311" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_130_141> a nif:Word ;
+    nif:anchorOf "vorläufigen" ;
+    nif:beginIndex "130" ;
+    nif:endIndex "141" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1312_1316> a nif:Word ;
+    nif:anchorOf "oder" ;
+    nif:beginIndex "1312" ;
+    nif:endIndex "1316" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1317_1322> a nif:Word ;
+    nif:anchorOf "eines" ;
+    nif:beginIndex "1317" ;
+    nif:endIndex "1322" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1323_1330> a nif:Word ;
+    nif:anchorOf "welches" ;
+    nif:beginIndex "1323" ;
+    nif:endIndex "1330" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1331_1340> a nif:Word ;
+    nif:anchorOf "allgemein" ;
+    nif:beginIndex "1331" ;
+    nif:endIndex "1340" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1341_1350> a nif:Word ;
+    nif:anchorOf "verwendet" ;
+    nif:beginIndex "1341" ;
+    nif:endIndex "1350" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1351_1355> a nif:Word ;
+    nif:anchorOf "wird" ;
+    nif:beginIndex "1351" ;
+    nif:endIndex "1355" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1357_1359> a nif:Word ;
+    nif:anchorOf "Im" ;
+    nif:beginIndex "1357" ;
+    nif:endIndex "1359" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1360_1368> a nif:Word ;
+    nif:anchorOf "Internet" ;
+    nif:beginIndex "1360" ;
+    nif:endIndex "1368" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1369_1380> a nif:Word ;
+    nif:anchorOf "kursierende" ;
+    nif:beginIndex "1369" ;
+    nif:endIndex "1380" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1381_1394> a nif:Word ;
+    nif:anchorOf "Quaoarsymbole" ;
+    nif:beginIndex "1381" ;
+    nif:endIndex "1394" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1396_1397> a nif:Word ;
+    nif:anchorOf "z" ;
+    nif:beginIndex "1396" ;
+    nif:endIndex "1397" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1399_1401> a nif:Word ;
+    nif:anchorOf "B." ;
+    nif:beginIndex "1399" ;
+    nif:endIndex "1401" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1402_1407> a nif:Word ;
+    nif:anchorOf "Datei" ;
+    nif:beginIndex "1402" ;
+    nif:endIndex "1407" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1408_1414> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "1408" ;
+    nif:endIndex "1414" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1415_1421> a nif:Word ;
+    nif:anchorOf "symbol" ;
+    nif:beginIndex "1415" ;
+    nif:endIndex "1421" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1422_1434> a nif:Word ;
+    nif:anchorOf "proposal.png" ;
+    nif:beginIndex "1422" ;
+    nif:endIndex "1434" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_142_153> a nif:Word ;
+    nif:anchorOf "Bezeichnung" ;
+    nif:beginIndex "142" ;
+    nif:endIndex "153" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1436_1440> a nif:Word ;
+    nif:anchorOf "sind" ;
+    nif:beginIndex "1436" ;
+    nif:endIndex "1440" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1441_1449> a nif:Word ;
+    nif:anchorOf "Entwürfe" ;
+    nif:beginIndex "1441" ;
+    nif:endIndex "1449" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1450_1453> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "1450" ;
+    nif:endIndex "1453" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1454_1468> a nif:Word ;
+    nif:anchorOf "Privatpersonen" ;
+    nif:beginIndex "1454" ;
+    nif:endIndex "1468" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1470_1474> a nif:Word ;
+    nif:anchorOf "Eine" ;
+    nif:beginIndex "1470" ;
+    nif:endIndex "1474" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1475_1485> a nif:Word ;
+    nif:anchorOf "offizielle" ;
+    nif:beginIndex "1475" ;
+    nif:endIndex "1485" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1486_1497> a nif:Word ;
+    nif:anchorOf "Anerkennung" ;
+    nif:beginIndex "1486" ;
+    nif:endIndex "1497" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1498_1501> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "1498" ;
+    nif:endIndex "1501" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1502_1507> a nif:Word ;
+    nif:anchorOf "nicht" ;
+    nif:beginIndex "1502" ;
+    nif:endIndex "1507" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1508_1516> a nif:Word ;
+    nif:anchorOf "absehbar" ;
+    nif:beginIndex "1508" ;
+    nif:endIndex "1516" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1518_1520> a nif:Word ;
+    nif:anchorOf "da" ;
+    nif:beginIndex "1518" ;
+    nif:endIndex "1520" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1521_1534> a nif:Word ;
+    nif:anchorOf "astronomische" ;
+    nif:beginIndex "1521" ;
+    nif:endIndex "1534" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1535_1542> a nif:Word ;
+    nif:anchorOf "Symbole" ;
+    nif:beginIndex "1535" ;
+    nif:endIndex "1542" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1543_1545> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1543" ;
+    nif:endIndex "1545" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1546_1549> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "1546" ;
+    nif:endIndex "1549" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_154_158> a nif:Word ;
+    nif:anchorOf "2002" ;
+    nif:beginIndex "154" ;
+    nif:endIndex "158" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1550_1558> a nif:Word ;
+    nif:anchorOf "modernen" ;
+    nif:beginIndex "1550" ;
+    nif:endIndex "1558" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1559_1569> a nif:Word ;
+    nif:anchorOf "Astronomie" ;
+    nif:beginIndex "1559" ;
+    nif:endIndex "1569" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1570_1573> a nif:Word ;
+    nif:anchorOf "nur" ;
+    nif:beginIndex "1570" ;
+    nif:endIndex "1573" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1574_1578> a nif:Word ;
+    nif:anchorOf "noch" ;
+    nif:beginIndex "1574" ;
+    nif:endIndex "1578" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1579_1583> a nif:Word ;
+    nif:anchorOf "eine" ;
+    nif:beginIndex "1579" ;
+    nif:endIndex "1583" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1584_1598> a nif:Word ;
+    nif:anchorOf "untergeordnete" ;
+    nif:beginIndex "1584" ;
+    nif:endIndex "1598" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1599_1604> a nif:Word ;
+    nif:anchorOf "Rolle" ;
+    nif:beginIndex "1599" ;
+    nif:endIndex "1604" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_159_163> a nif:Word ;
+    nif:anchorOf "LM60" ;
+    nif:beginIndex "159" ;
+    nif:endIndex "163" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1605_1612> a nif:Word ;
+    nif:anchorOf "spielen" ;
+    nif:beginIndex "1605" ;
+    nif:endIndex "1612" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1615_1632> a nif:Word ;
+    nif:anchorOf "Bahneigenschaften" ;
+    nif:beginIndex "1615" ;
+    nif:endIndex "1632" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1633_1639> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "1633" ;
+    nif:endIndex "1639" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1640_1648> a nif:Word ;
+    nif:anchorOf "umkreist" ;
+    nif:beginIndex "1640" ;
+    nif:endIndex "1648" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1649_1652> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "1649" ;
+    nif:endIndex "1652" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_164_178> a nif:Word ;
+    nif:anchorOf "geführt.Quaoar" ;
+    nif:beginIndex "164" ;
+    nif:endIndex "178" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1653_1658> a nif:Word ;
+    nif:anchorOf "Sonne" ;
+    nif:beginIndex "1653" ;
+    nif:endIndex "1658" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1659_1661> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1659" ;
+    nif:endIndex "1661" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1662_1667> a nif:Word ;
+    nif:anchorOf "einer" ;
+    nif:beginIndex "1662" ;
+    nif:endIndex "1667" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1668_1672> a nif:Word ;
+    nif:anchorOf "fast" ;
+    nif:beginIndex "1668" ;
+    nif:endIndex "1672" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1673_1682> a nif:Word ;
+    nif:anchorOf "perfekten" ;
+    nif:beginIndex "1673" ;
+    nif:endIndex "1682" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1683_1692> a nif:Word ;
+    nif:anchorOf "Kreisbahn" ;
+    nif:beginIndex "1683" ;
+    nif:endIndex "1692" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1693_1695> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1693" ;
+    nif:endIndex "1695" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1696_1700> a nif:Word ;
+    nif:anchorOf "etwa" ;
+    nif:beginIndex "1696" ;
+    nif:endIndex "1700" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_16_24> a nif:Word ;
+    nif:anchorOf "ˈkwɑːwɑr" ;
+    nif:beginIndex "16" ;
+    nif:endIndex "24" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1701_1704> a nif:Word ;
+    nif:anchorOf "6,5" ;
+    nif:beginIndex "1701" ;
+    nif:endIndex "1704" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1705_1715> a nif:Word ;
+    nif:anchorOf "Milliarden" ;
+    nif:beginIndex "1705" ;
+    nif:endIndex "1715" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1716_1725> a nif:Word ;
+    nif:anchorOf "Kilometer" ;
+    nif:beginIndex "1716" ;
+    nif:endIndex "1725" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1726_1736> a nif:Word ;
+    nif:anchorOf "Entfernung" ;
+    nif:beginIndex "1726" ;
+    nif:endIndex "1736" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1738_1744> a nif:Word ;
+    nif:anchorOf "43,440" ;
+    nif:beginIndex "1738" ;
+    nif:endIndex "1744" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1745_1747> a nif:Word ;
+    nif:anchorOf "AE" ;
+    nif:beginIndex "1745" ;
+    nif:endIndex "1747" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1749_1756> a nif:Word ;
+    nif:anchorOf "Perihel" ;
+    nif:beginIndex "1749" ;
+    nif:endIndex "1756" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1757_1763> a nif:Word ;
+    nif:anchorOf "41,913" ;
+    nif:beginIndex "1757" ;
+    nif:endIndex "1763" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1764_1766> a nif:Word ;
+    nif:anchorOf "AE" ;
+    nif:beginIndex "1764" ;
+    nif:endIndex "1766" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1767_1768> a nif:Word ;
+    nif:anchorOf "–" ;
+    nif:beginIndex "1767" ;
+    nif:endIndex "1768" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1769_1774> a nif:Word ;
+    nif:anchorOf "Aphel" ;
+    nif:beginIndex "1769" ;
+    nif:endIndex "1774" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1775_1781> a nif:Word ;
+    nif:anchorOf "44,967" ;
+    nif:beginIndex "1775" ;
+    nif:endIndex "1781" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1782_1784> a nif:Word ;
+    nif:anchorOf "AE" ;
+    nif:beginIndex "1782" ;
+    nif:endIndex "1784" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1787_1790> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "1787" ;
+    nif:endIndex "1790" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1791_1798> a nif:Word ;
+    nif:anchorOf "7,9866°" ;
+    nif:beginIndex "1791" ;
+    nif:endIndex "1798" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1799_1804> a nif:Word ;
+    nif:anchorOf "gegen" ;
+    nif:beginIndex "1799" ;
+    nif:endIndex "1804" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_179_185> a nif:Word ;
+    nif:anchorOf "gehört" ;
+    nif:beginIndex "179" ;
+    nif:endIndex "185" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1805_1808> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "1805" ;
+    nif:endIndex "1808" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1809_1817> a nif:Word ;
+    nif:anchorOf "Ekliptik" ;
+    nif:beginIndex "1809" ;
+    nif:endIndex "1817" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1818_1825> a nif:Word ;
+    nif:anchorOf "geneigt" ;
+    nif:beginIndex "1818" ;
+    nif:endIndex "1825" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1826_1829> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "1826" ;
+    nif:endIndex "1829" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1831_1834> a nif:Word ;
+    nif:anchorOf "Die" ;
+    nif:beginIndex "1831" ;
+    nif:endIndex "1834" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1835_1846> a nif:Word ;
+    nif:anchorOf "Umlaufdauer" ;
+    nif:beginIndex "1835" ;
+    nif:endIndex "1846" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1847_1854> a nif:Word ;
+    nif:anchorOf "beträgt" ;
+    nif:beginIndex "1847" ;
+    nif:endIndex "1854" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1855_1861> a nif:Word ;
+    nif:anchorOf "286,31" ;
+    nif:beginIndex "1855" ;
+    nif:endIndex "1861" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1862_1867> a nif:Word ;
+    nif:anchorOf "Jahre" ;
+    nif:beginIndex "1862" ;
+    nif:endIndex "1867" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_186_200> a nif:Word ;
+    nif:anchorOf "wahrscheinlich" ;
+    nif:beginIndex "186" ;
+    nif:endIndex "200" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1870_1883> a nif:Word ;
+    nif:anchorOf "Physikalische" ;
+    nif:beginIndex "1870" ;
+    nif:endIndex "1883" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1884_1897> a nif:Word ;
+    nif:anchorOf "Eigenschaften" ;
+    nif:beginIndex "1884" ;
+    nif:endIndex "1897" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1898_1905> a nif:Word ;
+    nif:anchorOf "Quaoars" ;
+    nif:beginIndex "1898" ;
+    nif:endIndex "1905" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1906_1917> a nif:Word ;
+    nif:anchorOf "Durchmesser" ;
+    nif:beginIndex "1906" ;
+    nif:endIndex "1917" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1918_1923> a nif:Word ;
+    nif:anchorOf "wurde" ;
+    nif:beginIndex "1918" ;
+    nif:endIndex "1923" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1925_1930> a nif:Word ;
+    nif:anchorOf "unter" ;
+    nif:beginIndex "1925" ;
+    nif:endIndex "1930" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1931_1938> a nif:Word ;
+    nif:anchorOf "anderem" ;
+    nif:beginIndex "1931" ;
+    nif:endIndex "1938" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1939_1942> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "1939" ;
+    nif:endIndex "1942" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1943_1948> a nif:Word ;
+    nif:anchorOf "Hilfe" ;
+    nif:beginIndex "1943" ;
+    nif:endIndex "1948" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1949_1952> a nif:Word ;
+    nif:anchorOf "des" ;
+    nif:beginIndex "1949" ;
+    nif:endIndex "1952" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1953_1978> a nif:Word ;
+    nif:anchorOf "Hubble-Weltraumteleskopes" ;
+    nif:beginIndex "1953" ;
+    nif:endIndex "1978" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1980_1988> a nif:Word ;
+    nif:anchorOf "zunächst" ;
+    nif:beginIndex "1980" ;
+    nif:endIndex "1988" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1989_1991> a nif:Word ;
+    nif:anchorOf "zu" ;
+    nif:beginIndex "1989" ;
+    nif:endIndex "1991" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1992_1996> a nif:Word ;
+    nif:anchorOf "1250" ;
+    nif:beginIndex "1992" ;
+    nif:endIndex "1996" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1997_1998> a nif:Word ;
+    nif:anchorOf "±" ;
+    nif:beginIndex "1997" ;
+    nif:endIndex "1998" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1999_2001> a nif:Word ;
+    nif:anchorOf "50" ;
+    nif:beginIndex "1999" ;
+    nif:endIndex "2001" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_1_6> a nif:Word ;
+    nif:anchorOf "50000" ;
+    nif:beginIndex "1" ;
+    nif:endIndex "6" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2002_2004> a nif:Word ;
+    nif:anchorOf "km" ;
+    nif:beginIndex "2002" ;
+    nif:endIndex "2004" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2005_2013> a nif:Word ;
+    nif:anchorOf "bestimmt" ;
+    nif:beginIndex "2005" ;
+    nif:endIndex "2013" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2015_2020> a nif:Word ;
+    nif:anchorOf "Damit" ;
+    nif:beginIndex "2015" ;
+    nif:endIndex "2020" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_201_203> a nif:Word ;
+    nif:anchorOf "zu" ;
+    nif:beginIndex "201" ;
+    nif:endIndex "203" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2021_2024> a nif:Word ;
+    nif:anchorOf "war" ;
+    nif:beginIndex "2021" ;
+    nif:endIndex "2024" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2025_2027> a nif:Word ;
+    nif:anchorOf "er" ;
+    nif:beginIndex "2025" ;
+    nif:endIndex "2027" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2029_2032> a nif:Word ;
+    nif:anchorOf "bis" ;
+    nif:beginIndex "2029" ;
+    nif:endIndex "2032" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2033_2036> a nif:Word ;
+    nif:anchorOf "zur" ;
+    nif:beginIndex "2033" ;
+    nif:endIndex "2036" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2037_2047> a nif:Word ;
+    nif:anchorOf "Entdeckung" ;
+    nif:beginIndex "2037" ;
+    nif:endIndex "2047" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2048_2051> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "2048" ;
+    nif:endIndex "2051" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_204_207> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "204" ;
+    nif:endIndex "207" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2053_2058> a nif:Word ;
+    nif:anchorOf "90482" ;
+    nif:beginIndex "2053" ;
+    nif:endIndex "2058" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2060_2065> a nif:Word ;
+    nif:anchorOf "Orcus" ;
+    nif:beginIndex "2060" ;
+    nif:endIndex "2065" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2066_2069> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "2066" ;
+    nif:endIndex "2069" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2071_2076> a nif:Word ;
+    nif:anchorOf "90377" ;
+    nif:beginIndex "2071" ;
+    nif:endIndex "2076" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2078_2083> a nif:Word ;
+    nif:anchorOf "Sedna" ;
+    nif:beginIndex "2078" ;
+    nif:endIndex "2083" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2085_2088> a nif:Word ;
+    nif:anchorOf "das" ;
+    nif:beginIndex "2085" ;
+    nif:endIndex "2088" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2089_2095> a nif:Word ;
+    nif:anchorOf "größte" ;
+    nif:beginIndex "2089" ;
+    nif:endIndex "2095" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_208_210> a nif:Word ;
+    nif:anchorOf "am" ;
+    nif:beginIndex "208" ;
+    nif:endIndex "210" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2096_2100> a nif:Word ;
+    nif:anchorOf "seit" ;
+    nif:beginIndex "2096" ;
+    nif:endIndex "2100" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2101_2106> a nif:Word ;
+    nif:anchorOf "Pluto" ;
+    nif:beginIndex "2101" ;
+    nif:endIndex "2106" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2107_2116> a nif:Word ;
+    nif:anchorOf "entdeckte" ;
+    nif:beginIndex "2107" ;
+    nif:endIndex "2116" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2117_2123> a nif:Word ;
+    nif:anchorOf "Objekt" ;
+    nif:beginIndex "2117" ;
+    nif:endIndex "2123" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_211_214> a nif:Word ;
+    nif:anchorOf "24." ;
+    nif:beginIndex "211" ;
+    nif:endIndex "214" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2124_2126> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "2124" ;
+    nif:endIndex "2126" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2127_2139> a nif:Word ;
+    nif:anchorOf "Sonnensystem" ;
+    nif:beginIndex "2127" ;
+    nif:endIndex "2139" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2141_2144> a nif:Word ;
+    nif:anchorOf "Mit" ;
+    nif:beginIndex "2141" ;
+    nif:endIndex "2144" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2145_2150> a nif:Word ;
+    nif:anchorOf "Hilfe" ;
+    nif:beginIndex "2145" ;
+    nif:endIndex "2150" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2151_2154> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "2151" ;
+    nif:endIndex "2154" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2155_2160> a nif:Word ;
+    nif:anchorOf "Daten" ;
+    nif:beginIndex "2155" ;
+    nif:endIndex "2160" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_215_221> a nif:Word ;
+    nif:anchorOf "August" ;
+    nif:beginIndex "215" ;
+    nif:endIndex "221" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2161_2164> a nif:Word ;
+    nif:anchorOf "des" ;
+    nif:beginIndex "2161" ;
+    nif:endIndex "2164" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2165_2190> a nif:Word ;
+    nif:anchorOf "Spitzer-Weltraumteleskops" ;
+    nif:beginIndex "2165" ;
+    nif:endIndex "2190" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2191_2196> a nif:Word ;
+    nif:anchorOf "wurde" ;
+    nif:beginIndex "2191" ;
+    nif:endIndex "2196" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2197_2202> a nif:Word ;
+    nif:anchorOf "durch" ;
+    nif:beginIndex "2197" ;
+    nif:endIndex "2202" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2203_2213> a nif:Word ;
+    nif:anchorOf "Stansberry" ;
+    nif:beginIndex "2203" ;
+    nif:endIndex "2213" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2214_2216> a nif:Word ;
+    nif:anchorOf "et" ;
+    nif:beginIndex "2214" ;
+    nif:endIndex "2216" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2217_2219> a nif:Word ;
+    nif:anchorOf "al" ;
+    nif:beginIndex "2217" ;
+    nif:endIndex "2219" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2221_2225> a nif:Word ;
+    nif:anchorOf "2008" ;
+    nif:beginIndex "2221" ;
+    nif:endIndex "2225" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2226_2230> a nif:Word ;
+    nif:anchorOf "bzw." ;
+    nif:beginIndex "2226" ;
+    nif:endIndex "2230" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_222_226> a nif:Word ;
+    nif:anchorOf "2006" ;
+    nif:beginIndex "222" ;
+    nif:endIndex "226" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2231_2238> a nif:Word ;
+    nif:anchorOf "Brucker" ;
+    nif:beginIndex "2231" ;
+    nif:endIndex "2238" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2239_2241> a nif:Word ;
+    nif:anchorOf "et" ;
+    nif:beginIndex "2239" ;
+    nif:endIndex "2241" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2242_2244> a nif:Word ;
+    nif:anchorOf "al" ;
+    nif:beginIndex "2242" ;
+    nif:endIndex "2244" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2246_2250> a nif:Word ;
+    nif:anchorOf "2009" ;
+    nif:beginIndex "2246" ;
+    nif:endIndex "2250" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2251_2254> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "2251" ;
+    nif:endIndex "2254" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2255_2266> a nif:Word ;
+    nif:anchorOf "Durchmesser" ;
+    nif:beginIndex "2255" ;
+    nif:endIndex "2266" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2267_2270> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "2267" ;
+    nif:endIndex "2270" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2271_2277> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "2271" ;
+    nif:endIndex "2277" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2278_2281> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "2278" ;
+    nif:endIndex "2281" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_227_230> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "227" ;
+    nif:endIndex "230" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2282_2283> a nif:Word ;
+    nif:anchorOf "≈" ;
+    nif:beginIndex "2282" ;
+    nif:endIndex "2283" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2284_2287> a nif:Word ;
+    nif:anchorOf "900" ;
+    nif:beginIndex "2284" ;
+    nif:endIndex "2287" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2288_2290> a nif:Word ;
+    nif:anchorOf "km" ;
+    nif:beginIndex "2288" ;
+    nif:endIndex "2290" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2291_2299> a nif:Word ;
+    nif:anchorOf "bestimmt" ;
+    nif:beginIndex "2291" ;
+    nif:endIndex "2299" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2301_2304> a nif:Word ;
+    nif:anchorOf "Die" ;
+    nif:beginIndex "2301" ;
+    nif:endIndex "2304" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2305_2309> a nif:Word ;
+    nif:anchorOf "sich" ;
+    nif:beginIndex "2305" ;
+    nif:endIndex "2309" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2310_2316> a nif:Word ;
+    nif:anchorOf "daraus" ;
+    nif:beginIndex "2310" ;
+    nif:endIndex "2316" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2317_2326> a nif:Word ;
+    nif:anchorOf "ergebende" ;
+    nif:beginIndex "2317" ;
+    nif:endIndex "2326" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_231_234> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "231" ;
+    nif:endIndex "234" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2327_2333> a nif:Word ;
+    nif:anchorOf "Dichte" ;
+    nif:beginIndex "2327" ;
+    nif:endIndex "2333" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2334_2337> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "2334" ;
+    nif:endIndex "2337" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2338_2341> a nif:Word ;
+    nif:anchorOf "4,2" ;
+    nif:beginIndex "2338" ;
+    nif:endIndex "2341" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2342_2347> a nif:Word ;
+    nif:anchorOf "Gramm" ;
+    nif:beginIndex "2342" ;
+    nif:endIndex "2347" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2348_2351> a nif:Word ;
+    nif:anchorOf "pro" ;
+    nif:beginIndex "2348" ;
+    nif:endIndex "2351" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2352_2367> a nif:Word ;
+    nif:anchorOf "Kubikzentimeter" ;
+    nif:beginIndex "2352" ;
+    nif:endIndex "2367" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_235_250> a nif:Word ;
+    nif:anchorOf "Internationalen" ;
+    nif:beginIndex "235" ;
+    nif:endIndex "250" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2368_2372> a nif:Word ;
+    nif:anchorOf "wäre" ;
+    nif:beginIndex "2368" ;
+    nif:endIndex "2372" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2373_2376> a nif:Word ;
+    nif:anchorOf "für" ;
+    nif:beginIndex "2373" ;
+    nif:endIndex "2376" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2377_2384> a nif:Word ;
+    nif:anchorOf "Objekte" ;
+    nif:beginIndex "2377" ;
+    nif:endIndex "2384" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2385_2388> a nif:Word ;
+    nif:anchorOf "des" ;
+    nif:beginIndex "2385" ;
+    nif:endIndex "2388" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2389_2402> a nif:Word ;
+    nif:anchorOf "Kuipergürtels" ;
+    nif:beginIndex "2389" ;
+    nif:endIndex "2402" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2403_2415> a nif:Word ;
+    nif:anchorOf "ungewöhnlich" ;
+    nif:beginIndex "2403" ;
+    nif:endIndex "2415" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2416_2420> a nif:Word ;
+    nif:anchorOf "hoch" ;
+    nif:beginIndex "2416" ;
+    nif:endIndex "2420" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2422_2428> a nif:Word ;
+    nif:anchorOf "Neuere" ;
+    nif:beginIndex "2422" ;
+    nif:endIndex "2428" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2429_2443> a nif:Word ;
+    nif:anchorOf "Untersuchungen" ;
+    nif:beginIndex "2429" ;
+    nif:endIndex "2443" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2444_2448> a nif:Word ;
+    nif:anchorOf "2013" ;
+    nif:beginIndex "2444" ;
+    nif:endIndex "2448" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2449_2452> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "2449" ;
+    nif:endIndex "2452" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2453_2456> a nif:Word ;
+    nif:anchorOf "dem" ;
+    nif:beginIndex "2453" ;
+    nif:endIndex "2456" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2457_2482> a nif:Word ;
+    nif:anchorOf "Herschel-Weltraumteleskop" ;
+    nif:beginIndex "2457" ;
+    nif:endIndex "2482" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2484_2495> a nif:Word ;
+    nif:anchorOf "Instrumente" ;
+    nif:beginIndex "2484" ;
+    nif:endIndex "2495" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2496_2501> a nif:Word ;
+    nif:anchorOf "SPIRE" ;
+    nif:beginIndex "2496" ;
+    nif:endIndex "2501" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2502_2505> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "2502" ;
+    nif:endIndex "2505" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2506_2510> a nif:Word ;
+    nif:anchorOf "PACS" ;
+    nif:beginIndex "2506" ;
+    nif:endIndex "2510" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2512_2522> a nif:Word ;
+    nif:anchorOf "kombiniert" ;
+    nif:beginIndex "2512" ;
+    nif:endIndex "2522" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_251_265> a nif:Word ;
+    nif:anchorOf "Astronomischen" ;
+    nif:beginIndex "251" ;
+    nif:endIndex "265" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2523_2526> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "2523" ;
+    nif:endIndex "2526" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2527_2530> a nif:Word ;
+    nif:anchorOf "den" ;
+    nif:beginIndex "2527" ;
+    nif:endIndex "2530" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2531_2545> a nif:Word ;
+    nif:anchorOf "überarbeiteten" ;
+    nif:beginIndex "2531" ;
+    nif:endIndex "2545" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2546_2551> a nif:Word ;
+    nif:anchorOf "Daten" ;
+    nif:beginIndex "2546" ;
+    nif:endIndex "2551" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2552_2555> a nif:Word ;
+    nif:anchorOf "des" ;
+    nif:beginIndex "2552" ;
+    nif:endIndex "2555" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2556_2573> a nif:Word ;
+    nif:anchorOf "Spitzer-Teleskops" ;
+    nif:beginIndex "2556" ;
+    nif:endIndex "2573" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2575_2585> a nif:Word ;
+    nif:anchorOf "Instrument" ;
+    nif:beginIndex "2575" ;
+    nif:endIndex "2585" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2586_2590> a nif:Word ;
+    nif:anchorOf "MIPS" ;
+    nif:beginIndex "2586" ;
+    nif:endIndex "2590" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2592_2598> a nif:Word ;
+    nif:anchorOf "kommen" ;
+    nif:beginIndex "2592" ;
+    nif:endIndex "2598" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2599_2601> a nif:Word ;
+    nif:anchorOf "zu" ;
+    nif:beginIndex "2599" ;
+    nif:endIndex "2601" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2602_2605> a nif:Word ;
+    nif:anchorOf "dem" ;
+    nif:beginIndex "2602" ;
+    nif:endIndex "2605" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2606_2613> a nif:Word ;
+    nif:anchorOf "Schluss" ;
+    nif:beginIndex "2606" ;
+    nif:endIndex "2613" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2615_2619> a nif:Word ;
+    nif:anchorOf "dass" ;
+    nif:beginIndex "2615" ;
+    nif:endIndex "2619" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2620_2623> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "2620" ;
+    nif:endIndex "2623" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2624_2635> a nif:Word ;
+    nif:anchorOf "Durchmesser" ;
+    nif:beginIndex "2624" ;
+    nif:endIndex "2635" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2636_2640> a nif:Word ;
+    nif:anchorOf "doch" ;
+    nif:beginIndex "2636" ;
+    nif:endIndex "2640" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2641_2645> a nif:Word ;
+    nif:anchorOf "eher" ;
+    nif:beginIndex "2641" ;
+    nif:endIndex "2645" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2646_2652> a nif:Word ;
+    nif:anchorOf "1073,6" ;
+    nif:beginIndex "2646" ;
+    nif:endIndex "2652" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2653_2654> a nif:Word ;
+    nif:anchorOf "±" ;
+    nif:beginIndex "2653" ;
+    nif:endIndex "2654" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2655_2659> a nif:Word ;
+    nif:anchorOf "37,9" ;
+    nif:beginIndex "2655" ;
+    nif:endIndex "2659" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2660_2662> a nif:Word ;
+    nif:anchorOf "km" ;
+    nif:beginIndex "2660" ;
+    nif:endIndex "2662" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2663_2670> a nif:Word ;
+    nif:anchorOf "beträgt" ;
+    nif:beginIndex "2663" ;
+    nif:endIndex "2670" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_266_271> a nif:Word ;
+    nif:anchorOf "Union" ;
+    nif:beginIndex "266" ;
+    nif:endIndex "271" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2672_2675> a nif:Word ;
+    nif:anchorOf "Die" ;
+    nif:beginIndex "2672" ;
+    nif:endIndex "2675" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2676_2682> a nif:Word ;
+    nif:anchorOf "Dichte" ;
+    nif:beginIndex "2676" ;
+    nif:endIndex "2682" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2683_2687> a nif:Word ;
+    nif:anchorOf "wäre" ;
+    nif:beginIndex "2683" ;
+    nif:endIndex "2687" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2688_2692> a nif:Word ;
+    nif:anchorOf "dann" ;
+    nif:beginIndex "2688" ;
+    nif:endIndex "2692" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2693_2697> a nif:Word ;
+    nif:anchorOf "2,15" ;
+    nif:beginIndex "2693" ;
+    nif:endIndex "2697" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2698_2703> a nif:Word ;
+    nif:anchorOf "±0,40" ;
+    nif:beginIndex "2698" ;
+    nif:endIndex "2703" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_26_29> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "26" ;
+    nif:endIndex "29" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2704_2709> a nif:Word ;
+    nif:anchorOf "g/cm³" ;
+    nif:beginIndex "2704" ;
+    nif:endIndex "2709" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2711_2715> a nif:Word ;
+    nif:anchorOf "S.15" ;
+    nif:beginIndex "2711" ;
+    nif:endIndex "2715" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2717_2721> a nif:Word ;
+    nif:anchorOf "Auch" ;
+    nif:beginIndex "2717" ;
+    nif:endIndex "2721" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2722_2728> a nif:Word ;
+    nif:anchorOf "andere" ;
+    nif:beginIndex "2722" ;
+    nif:endIndex "2728" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2729_2744> a nif:Word ;
+    nif:anchorOf "Forschergruppen" ;
+    nif:beginIndex "2729" ;
+    nif:endIndex "2744" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_273_276> a nif:Word ;
+    nif:anchorOf "IAU" ;
+    nif:beginIndex "273" ;
+    nif:endIndex "276" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2745_2756> a nif:Word ;
+    nif:anchorOf "errechneten" ;
+    nif:beginIndex "2745" ;
+    nif:endIndex "2756" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2757_2762> a nif:Word ;
+    nif:anchorOf "Werte" ;
+    nif:beginIndex "2757" ;
+    nif:endIndex "2762" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2763_2766> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "2763" ;
+    nif:endIndex "2766" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2767_2771> a nif:Word ;
+    nif:anchorOf "1100" ;
+    nif:beginIndex "2767" ;
+    nif:endIndex "2771" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2772_2773> a nif:Word ;
+    nif:anchorOf "±" ;
+    nif:beginIndex "2772" ;
+    nif:endIndex "2773" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2774_2775> a nif:Word ;
+    nif:anchorOf "5" ;
+    nif:beginIndex "2774" ;
+    nif:endIndex "2775" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2776_2778> a nif:Word ;
+    nif:anchorOf "km" ;
+    nif:beginIndex "2776" ;
+    nif:endIndex "2778" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2779_2789> a nif:Word ;
+    nif:anchorOf "anlässlich" ;
+    nif:beginIndex "2779" ;
+    nif:endIndex "2789" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_278_290> a nif:Word ;
+    nif:anchorOf "eingeführten" ;
+    nif:beginIndex "278" ;
+    nif:endIndex "290" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2790_2795> a nif:Word ;
+    nif:anchorOf "einer" ;
+    nif:beginIndex "2790" ;
+    nif:endIndex "2795" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2796_2810> a nif:Word ;
+    nif:anchorOf "Sternbedeckung" ;
+    nif:beginIndex "2796" ;
+    nif:endIndex "2810" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2811_2815> a nif:Word ;
+    nif:anchorOf "2011" ;
+    nif:beginIndex "2811" ;
+    nif:endIndex "2815" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2817_2820> a nif:Word ;
+    nif:anchorOf "Das" ;
+    nif:beginIndex "2817" ;
+    nif:endIndex "2820" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2821_2827> a nif:Word ;
+    nif:anchorOf "ergibt" ;
+    nif:beginIndex "2821" ;
+    nif:endIndex "2827" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2828_2832> a nif:Word ;
+    nif:anchorOf "eine" ;
+    nif:beginIndex "2828" ;
+    nif:endIndex "2832" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2833_2839> a nif:Word ;
+    nif:anchorOf "Dichte" ;
+    nif:beginIndex "2833" ;
+    nif:endIndex "2839" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2840_2843> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "2840" ;
+    nif:endIndex "2843" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2844_2848> a nif:Word ;
+    nif:anchorOf "2,01" ;
+    nif:beginIndex "2844" ;
+    nif:endIndex "2848" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2849_2854> a nif:Word ;
+    nif:anchorOf "g/cm³" ;
+    nif:beginIndex "2849" ;
+    nif:endIndex "2854" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2856_2859> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "2856" ;
+    nif:endIndex "2859" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2860_2863> a nif:Word ;
+    nif:anchorOf "für" ;
+    nif:beginIndex "2860" ;
+    nif:endIndex "2863" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2864_2883> a nif:Word ;
+    nif:anchorOf "Kuipergürtelobjekte" ;
+    nif:beginIndex "2864" ;
+    nif:endIndex "2883" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2884_2889> a nif:Word ;
+    nif:anchorOf "nicht" ;
+    nif:beginIndex "2884" ;
+    nif:endIndex "2889" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2890_2902> a nif:Word ;
+    nif:anchorOf "ungewöhnlich" ;
+    nif:beginIndex "2890" ;
+    nif:endIndex "2902" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2903_2906> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "2903" ;
+    nif:endIndex "2906" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2908_2910> a nif:Word ;
+    nif:anchorOf "Im" ;
+    nif:beginIndex "2908" ;
+    nif:endIndex "2910" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2911_2919> a nif:Word ;
+    nif:anchorOf "Dezember" ;
+    nif:beginIndex "2911" ;
+    nif:endIndex "2919" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_291_297> a nif:Word ;
+    nif:anchorOf "Klasse" ;
+    nif:beginIndex "291" ;
+    nif:endIndex "297" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2920_2924> a nif:Word ;
+    nif:anchorOf "2004" ;
+    nif:beginIndex "2920" ;
+    nif:endIndex "2924" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2925_2931> a nif:Word ;
+    nif:anchorOf "gelang" ;
+    nif:beginIndex "2925" ;
+    nif:endIndex "2931" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2932_2935> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "2932" ;
+    nif:endIndex "2935" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2936_2939> a nif:Word ;
+    nif:anchorOf "dem" ;
+    nif:beginIndex "2936" ;
+    nif:endIndex "2939" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2940_2951> a nif:Word ;
+    nif:anchorOf "japanischen" ;
+    nif:beginIndex "2940" ;
+    nif:endIndex "2951" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2952_2971> a nif:Word ;
+    nif:anchorOf "Acht-Meter-Teleskop" ;
+    nif:beginIndex "2952" ;
+    nif:endIndex "2971" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2972_2978> a nif:Word ;
+    nif:anchorOf "Subaru" ;
+    nif:beginIndex "2972" ;
+    nif:endIndex "2978" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2979_2982> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "2979" ;
+    nif:endIndex "2982" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2983_2991> a nif:Word ;
+    nif:anchorOf "Nachweis" ;
+    nif:beginIndex "2983" ;
+    nif:endIndex "2991" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_298_301> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "298" ;
+    nif:endIndex "301" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2992_2995> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "2992" ;
+    nif:endIndex "2995" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_2996_3008> a nif:Word ;
+    nif:anchorOf "kristallinem" ;
+    nif:beginIndex "2996" ;
+    nif:endIndex "3008" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3009_3018> a nif:Word ;
+    nif:anchorOf "Wassereis" ;
+    nif:beginIndex "3009" ;
+    nif:endIndex "3018" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3019_3022> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "3019" ;
+    nif:endIndex "3022" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3023_3027> a nif:Word ;
+    nif:anchorOf "auch" ;
+    nif:beginIndex "3023" ;
+    nif:endIndex "3027" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3028_3043> a nif:Word ;
+    nif:anchorOf "Ammoniak-Hydrat" ;
+    nif:beginIndex "3028" ;
+    nif:endIndex "3043" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_302_315> a nif:Word ;
+    nif:anchorOf "Zwergplaneten" ;
+    nif:beginIndex "302" ;
+    nif:endIndex "315" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3044_3046> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "3044" ;
+    nif:endIndex "3046" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3047_3050> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "3047" ;
+    nif:endIndex "3050" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3051_3061> a nif:Word ;
+    nif:anchorOf "Oberfläche" ;
+    nif:beginIndex "3051" ;
+    nif:endIndex "3061" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3062_3065> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "3062" ;
+    nif:endIndex "3065" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3066_3072> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "3066" ;
+    nif:endIndex "3072" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3074_3078> a nif:Word ;
+    nif:anchorOf "Dies" ;
+    nif:beginIndex "3074" ;
+    nif:endIndex "3078" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3079_3082> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "3079" ;
+    nif:endIndex "3082" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3083_3087> a nif:Word ;
+    nif:anchorOf "sehr" ;
+    nif:beginIndex "3083" ;
+    nif:endIndex "3087" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3088_3100> a nif:Word ;
+    nif:anchorOf "überraschend" ;
+    nif:beginIndex "3088" ;
+    nif:endIndex "3100" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_30_33> a nif:Word ;
+    nif:anchorOf "ein" ;
+    nif:beginIndex "30" ;
+    nif:endIndex "33" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3102_3104> a nif:Word ;
+    nif:anchorOf "da" ;
+    nif:beginIndex "3102" ;
+    nif:endIndex "3104" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3105_3108> a nif:Word ;
+    nif:anchorOf "man" ;
+    nif:beginIndex "3105" ;
+    nif:endIndex "3108" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3109_3112> a nif:Word ;
+    nif:anchorOf "bei" ;
+    nif:beginIndex "3109" ;
+    nif:endIndex "3112" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3113_3118> a nif:Word ;
+    nif:anchorOf "einer" ;
+    nif:beginIndex "3113" ;
+    nif:endIndex "3118" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3119_3140> a nif:Word ;
+    nif:anchorOf "Oberflächentemperatur" ;
+    nif:beginIndex "3119" ;
+    nif:endIndex "3140" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3141_3144> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "3141" ;
+    nif:endIndex "3144" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3145_3147> a nif:Word ;
+    nif:anchorOf "50" ;
+    nif:beginIndex "3145" ;
+    nif:endIndex "3147" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3148_3154> a nif:Word ;
+    nif:anchorOf "Kelvin" ;
+    nif:beginIndex "3148" ;
+    nif:endIndex "3154" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3155_3165> a nif:Word ;
+    nif:anchorOf "eigentlich" ;
+    nif:beginIndex "3155" ;
+    nif:endIndex "3165" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3166_3169> a nif:Word ;
+    nif:anchorOf "nur" ;
+    nif:beginIndex "3166" ;
+    nif:endIndex "3169" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3170_3178> a nif:Word ;
+    nif:anchorOf "amorphes" ;
+    nif:beginIndex "3170" ;
+    nif:endIndex "3178" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3179_3182> a nif:Word ;
+    nif:anchorOf "Eis" ;
+    nif:beginIndex "3179" ;
+    nif:endIndex "3182" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3183_3187> a nif:Word ;
+    nif:anchorOf "ohne" ;
+    nif:beginIndex "3183" ;
+    nif:endIndex "3187" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3188_3204> a nif:Word ;
+    nif:anchorOf "Kristallstruktur" ;
+    nif:beginIndex "3188" ;
+    nif:endIndex "3204" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_318_328> a nif:Word ;
+    nif:anchorOf "Entdeckung" ;
+    nif:beginIndex "318" ;
+    nif:endIndex "328" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3205_3213> a nif:Word ;
+    nif:anchorOf "vermuten" ;
+    nif:beginIndex "3205" ;
+    nif:endIndex "3213" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3214_3219> a nif:Word ;
+    nif:anchorOf "würde" ;
+    nif:beginIndex "3214" ;
+    nif:endIndex "3219" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3221_3224> a nif:Word ;
+    nif:anchorOf "Man" ;
+    nif:beginIndex "3221" ;
+    nif:endIndex "3224" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3225_3232> a nif:Word ;
+    nif:anchorOf "braucht" ;
+    nif:beginIndex "3225" ;
+    nif:endIndex "3232" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3233_3236> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "3233" ;
+    nif:endIndex "3236" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3237_3244> a nif:Word ;
+    nif:anchorOf "Annahme" ;
+    nif:beginIndex "3237" ;
+    nif:endIndex "3244" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3245_3248> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "3245" ;
+    nif:endIndex "3248" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3249_3261> a nif:Word ;
+    nif:anchorOf "Temperaturen" ;
+    nif:beginIndex "3249" ;
+    nif:endIndex "3261" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3262_3265> a nif:Word ;
+    nif:anchorOf "bis" ;
+    nif:beginIndex "3262" ;
+    nif:endIndex "3265" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3266_3268> a nif:Word ;
+    nif:anchorOf "zu" ;
+    nif:beginIndex "3266" ;
+    nif:endIndex "3268" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3269_3272> a nif:Word ;
+    nif:anchorOf "110" ;
+    nif:beginIndex "3269" ;
+    nif:endIndex "3272" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3273_3279> a nif:Word ;
+    nif:anchorOf "Kelvin" ;
+    nif:beginIndex "3273" ;
+    nif:endIndex "3279" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3281_3283> a nif:Word ;
+    nif:anchorOf "um" ;
+    nif:beginIndex "3281" ;
+    nif:endIndex "3283" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3284_3287> a nif:Word ;
+    nif:anchorOf "den" ;
+    nif:beginIndex "3284" ;
+    nif:endIndex "3287" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3288_3295> a nif:Word ;
+    nif:anchorOf "Prozess" ;
+    nif:beginIndex "3288" ;
+    nif:endIndex "3295" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3296_3304> a nif:Word ;
+    nif:anchorOf "erklären" ;
+    nif:beginIndex "3296" ;
+    nif:endIndex "3304" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_329_332> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "329" ;
+    nif:endIndex "332" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3305_3307> a nif:Word ;
+    nif:anchorOf "zu" ;
+    nif:beginIndex "3305" ;
+    nif:endIndex "3307" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3308_3314> a nif:Word ;
+    nif:anchorOf "können" ;
+    nif:beginIndex "3308" ;
+    nif:endIndex "3314" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3316_3319> a nif:Word ;
+    nif:anchorOf "Nun" ;
+    nif:beginIndex "3316" ;
+    nif:endIndex "3319" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3320_3324> a nif:Word ;
+    nif:anchorOf "wird" ;
+    nif:beginIndex "3320" ;
+    nif:endIndex "3324" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3325_3333> a nif:Word ;
+    nif:anchorOf "vermutet" ;
+    nif:beginIndex "3325" ;
+    nif:endIndex "3333" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3335_3339> a nif:Word ;
+    nif:anchorOf "dass" ;
+    nif:beginIndex "3335" ;
+    nif:endIndex "3339" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_333_342> a nif:Word ;
+    nif:anchorOf "Benennung" ;
+    nif:beginIndex "333" ;
+    nif:endIndex "342" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3340_3344> a nif:Word ;
+    nif:anchorOf "sich" ;
+    nif:beginIndex "3340" ;
+    nif:endIndex "3344" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3345_3347> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "3345" ;
+    nif:endIndex "3347" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3348_3355> a nif:Word ;
+    nif:anchorOf "Inneren" ;
+    nif:beginIndex "3348" ;
+    nif:endIndex "3355" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3356_3359> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "3356" ;
+    nif:endIndex "3359" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3360_3366> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "3360" ;
+    nif:endIndex "3366" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3367_3371> a nif:Word ;
+    nif:anchorOf "noch" ;
+    nif:beginIndex "3367" ;
+    nif:endIndex "3371" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3372_3380> a nif:Word ;
+    nif:anchorOf "genügend" ;
+    nif:beginIndex "3372" ;
+    nif:endIndex "3380" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3381_3401> a nif:Word ;
+    nif:anchorOf "Radioaktivitätswärme" ;
+    nif:beginIndex "3381" ;
+    nif:endIndex "3401" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3402_3410> a nif:Word ;
+    nif:anchorOf "befindet" ;
+    nif:beginIndex "3402" ;
+    nif:endIndex "3410" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3412_3415> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "3412" ;
+    nif:endIndex "3415" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3416_3421> a nif:Word ;
+    nif:anchorOf "diese" ;
+    nif:beginIndex "3416" ;
+    nif:endIndex "3421" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3422_3434> a nif:Word ;
+    nif:anchorOf "Temperaturen" ;
+    nif:beginIndex "3422" ;
+    nif:endIndex "3434" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3435_3442> a nif:Word ;
+    nif:anchorOf "erzeugt" ;
+    nif:beginIndex "3435" ;
+    nif:endIndex "3442" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_343_349> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "343" ;
+    nif:endIndex "349" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3444_3446> a nif:Word ;
+    nif:anchorOf "Es" ;
+    nif:beginIndex "3444" ;
+    nif:endIndex "3446" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3447_3455> a nif:Word ;
+    nif:anchorOf "entsteht" ;
+    nif:beginIndex "3447" ;
+    nif:endIndex "3455" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3456_3461> a nif:Word ;
+    nif:anchorOf "dabei" ;
+    nif:beginIndex "3456" ;
+    nif:endIndex "3461" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3462_3466> a nif:Word ;
+    nif:anchorOf "eine" ;
+    nif:beginIndex "3462" ;
+    nif:endIndex "3466" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3467_3470> a nif:Word ;
+    nif:anchorOf "Art" ;
+    nif:beginIndex "3467" ;
+    nif:endIndex "3470" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3471_3486> a nif:Word ;
+    nif:anchorOf "Kryovulkanismus" ;
+    nif:beginIndex "3471" ;
+    nif:endIndex "3486" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3488_3491> a nif:Word ;
+    nif:anchorOf "wie" ;
+    nif:beginIndex "3488" ;
+    nif:endIndex "3491" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3492_3496> a nif:Word ;
+    nif:anchorOf "auch" ;
+    nif:beginIndex "3492" ;
+    nif:endIndex "3496" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3497_3500> a nif:Word ;
+    nif:anchorOf "auf" ;
+    nif:beginIndex "3497" ;
+    nif:endIndex "3500" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_34_51> a nif:Word ;
+    nif:anchorOf "transneptunisches" ;
+    nif:beginIndex "34" ;
+    nif:endIndex "51" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3501_3504> a nif:Word ;
+    nif:anchorOf "dem" ;
+    nif:beginIndex "3501" ;
+    nif:endIndex "3504" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3505_3515> a nif:Word ;
+    nif:anchorOf "Neptunmond" ;
+    nif:beginIndex "3505" ;
+    nif:endIndex "3515" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_350_355> a nif:Word ;
+    nif:anchorOf "wurde" ;
+    nif:beginIndex "350" ;
+    nif:endIndex "355" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3516_3522> a nif:Word ;
+    nif:anchorOf "Triton" ;
+    nif:beginIndex "3516" ;
+    nif:endIndex "3522" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3525_3529> a nif:Word ;
+    nif:anchorOf "Mond" ;
+    nif:beginIndex "3525" ;
+    nif:endIndex "3529" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3530_3532> a nif:Word ;
+    nif:anchorOf "Im" ;
+    nif:beginIndex "3530" ;
+    nif:endIndex "3532" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3533_3540> a nif:Word ;
+    nif:anchorOf "Februar" ;
+    nif:beginIndex "3533" ;
+    nif:endIndex "3540" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3541_3545> a nif:Word ;
+    nif:anchorOf "2007" ;
+    nif:beginIndex "3541" ;
+    nif:endIndex "3545" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3546_3549> a nif:Word ;
+    nif:anchorOf "gab" ;
+    nif:beginIndex "3546" ;
+    nif:endIndex "3549" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3550_3553> a nif:Word ;
+    nif:anchorOf "ein" ;
+    nif:beginIndex "3550" ;
+    nif:endIndex "3553" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3554_3558> a nif:Word ;
+    nif:anchorOf "Team" ;
+    nif:beginIndex "3554" ;
+    nif:endIndex "3558" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3559_3561> a nif:Word ;
+    nif:anchorOf "um" ;
+    nif:beginIndex "3559" ;
+    nif:endIndex "3561" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3562_3566> a nif:Word ;
+    nif:anchorOf "Mike" ;
+    nif:beginIndex "3562" ;
+    nif:endIndex "3566" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3567_3572> a nif:Word ;
+    nif:anchorOf "Brown" ;
+    nif:beginIndex "3567" ;
+    nif:endIndex "3572" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_356_363> a nif:Word ;
+    nif:anchorOf "bereits" ;
+    nif:beginIndex "356" ;
+    nif:endIndex "363" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3573_3576> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "3573" ;
+    nif:endIndex "3576" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3577_3587> a nif:Word ;
+    nif:anchorOf "Entdeckung" ;
+    nif:beginIndex "3577" ;
+    nif:endIndex "3587" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3588_3593> a nif:Word ;
+    nif:anchorOf "eines" ;
+    nif:beginIndex "3588" ;
+    nif:endIndex "3593" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3594_3600> a nif:Word ;
+    nif:anchorOf "Mondes" ;
+    nif:beginIndex "3594" ;
+    nif:endIndex "3600" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3601_3604> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "3601" ;
+    nif:endIndex "3604" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3605_3607> a nif:Word ;
+    nif:anchorOf "95" ;
+    nif:beginIndex "3605" ;
+    nif:endIndex "3607" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3608_3610> a nif:Word ;
+    nif:anchorOf "km" ;
+    nif:beginIndex "3608" ;
+    nif:endIndex "3610" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3611_3622> a nif:Word ;
+    nif:anchorOf "Durchmesser" ;
+    nif:beginIndex "3611" ;
+    nif:endIndex "3622" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3623_3630> a nif:Word ;
+    nif:anchorOf "bekannt" ;
+    nif:beginIndex "3623" ;
+    nif:endIndex "3630" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3632_3635> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "3632" ;
+    nif:endIndex "3635" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3636_3639> a nif:Word ;
+    nif:anchorOf "auf" ;
+    nif:beginIndex "3636" ;
+    nif:endIndex "3639" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3640_3649> a nif:Word ;
+    nif:anchorOf "Aufnahmen" ;
+    nif:beginIndex "3640" ;
+    nif:endIndex "3649" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_364_368> a nif:Word ;
+    nif:anchorOf "1982" ;
+    nif:beginIndex "364" ;
+    nif:endIndex "368" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3650_3653> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "3650" ;
+    nif:endIndex "3653" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3654_3658> a nif:Word ;
+    nif:anchorOf "2006" ;
+    nif:beginIndex "3654" ;
+    nif:endIndex "3658" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3659_3667> a nif:Word ;
+    nif:anchorOf "entdeckt" ;
+    nif:beginIndex "3659" ;
+    nif:endIndex "3667" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3668_3673> a nif:Word ;
+    nif:anchorOf "wurde" ;
+    nif:beginIndex "3668" ;
+    nif:endIndex "3673" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3675_3677> a nif:Word ;
+    nif:anchorOf "Im" ;
+    nif:beginIndex "3675" ;
+    nif:endIndex "3677" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3678_3686> a nif:Word ;
+    nif:anchorOf "November" ;
+    nif:beginIndex "3678" ;
+    nif:endIndex "3686" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3687_3691> a nif:Word ;
+    nif:anchorOf "2009" ;
+    nif:beginIndex "3687" ;
+    nif:endIndex "3691" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3692_3697> a nif:Word ;
+    nif:anchorOf "wurde" ;
+    nif:beginIndex "3692" ;
+    nif:endIndex "3697" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3698_3701> a nif:Word ;
+    nif:anchorOf "dem" ;
+    nif:beginIndex "3698" ;
+    nif:endIndex "3701" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_369_372> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "369" ;
+    nif:endIndex "372" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3702_3706> a nif:Word ;
+    nif:anchorOf "Mond" ;
+    nif:beginIndex "3702" ;
+    nif:endIndex "3706" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3707_3710> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "3707" ;
+    nif:endIndex "3710" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3711_3715> a nif:Word ;
+    nif:anchorOf "Name" ;
+    nif:beginIndex "3711" ;
+    nif:endIndex "3715" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3716_3722> a nif:Word ;
+    nif:anchorOf "Weywot" ;
+    nif:beginIndex "3716" ;
+    nif:endIndex "3722" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3724_3730> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "3724" ;
+    nif:endIndex "3730" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3731_3732> a nif:Word ;
+    nif:anchorOf "I" ;
+    nif:beginIndex "3731" ;
+    nif:endIndex "3732" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3734_3744> a nif:Word ;
+    nif:anchorOf "zugewiesen" ;
+    nif:beginIndex "3734" ;
+    nif:endIndex "3744" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_373_376> a nif:Word ;
+    nif:anchorOf "dem" ;
+    nif:beginIndex "373" ;
+    nif:endIndex "376" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3746_3751> a nif:Word ;
+    nif:anchorOf "Durch" ;
+    nif:beginIndex "3746" ;
+    nif:endIndex "3751" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3752_3755> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "3752" ;
+    nif:endIndex "3755" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3756_3763> a nif:Word ;
+    nif:anchorOf "Analyse" ;
+    nif:beginIndex "3756" ;
+    nif:endIndex "3763" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3764_3767> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "3764" ;
+    nif:endIndex "3767" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3768_3778> a nif:Word ;
+    nif:anchorOf "Umlaufbahn" ;
+    nif:beginIndex "3768" ;
+    nif:endIndex "3778" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3779_3785> a nif:Word ;
+    nif:anchorOf "konnte" ;
+    nif:beginIndex "3779" ;
+    nif:endIndex "3785" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_377_387> a nif:Word ;
+    nif:anchorOf "Astronomen" ;
+    nif:beginIndex "377" ;
+    nif:endIndex "387" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3786_3789> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "3786" ;
+    nif:endIndex "3789" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3790_3795> a nif:Word ;
+    nif:anchorOf "Masse" ;
+    nif:beginIndex "3790" ;
+    nif:endIndex "3795" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3796_3799> a nif:Word ;
+    nif:anchorOf "des" ;
+    nif:beginIndex "3796" ;
+    nif:endIndex "3799" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3800_3807> a nif:Word ;
+    nif:anchorOf "Systems" ;
+    nif:beginIndex "3800" ;
+    nif:endIndex "3807" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3808_3811> a nif:Word ;
+    nif:anchorOf "auf" ;
+    nif:beginIndex "3808" ;
+    nif:endIndex "3811" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3812_3815> a nif:Word ;
+    nif:anchorOf "1,4" ;
+    nif:beginIndex "3812" ;
+    nif:endIndex "3815" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3816_3817> a nif:Word ;
+    nif:anchorOf "⋅" ;
+    nif:beginIndex "3816" ;
+    nif:endIndex "3817" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3818_3822> a nif:Word ;
+    nif:anchorOf "1021" ;
+    nif:beginIndex "3818" ;
+    nif:endIndex "3822" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3823_3825> a nif:Word ;
+    nif:anchorOf "kg" ;
+    nif:beginIndex "3823" ;
+    nif:endIndex "3825" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3827_3835> a nif:Word ;
+    nif:anchorOf "bestimmt" ;
+    nif:beginIndex "3827" ;
+    nif:endIndex "3835" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3836_3842> a nif:Word ;
+    nif:anchorOf "werden" ;
+    nif:beginIndex "3836" ;
+    nif:endIndex "3842" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3845_3857> a nif:Word ;
+    nif:anchorOf "Sichtbarkeit" ;
+    nif:beginIndex "3845" ;
+    nif:endIndex "3857" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3858_3875> a nif:Word ;
+    nif:anchorOf "Amateurastronomen" ;
+    nif:beginIndex "3858" ;
+    nif:endIndex "3875" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3876_3885> a nif:Word ;
+    nif:anchorOf "benötigen" ;
+    nif:beginIndex "3876" ;
+    nif:endIndex "3885" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3886_3889> a nif:Word ;
+    nif:anchorOf "zur" ;
+    nif:beginIndex "3886" ;
+    nif:endIndex "3889" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_388_395> a nif:Word ;
+    nif:anchorOf "Charles" ;
+    nif:beginIndex "388" ;
+    nif:endIndex "395" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3890_3901> a nif:Word ;
+    nif:anchorOf "Beobachtung" ;
+    nif:beginIndex "3890" ;
+    nif:endIndex "3901" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3902_3905> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "3902" ;
+    nif:endIndex "3905" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3906_3913> a nif:Word ;
+    nif:anchorOf "genauen" ;
+    nif:beginIndex "3906" ;
+    nif:endIndex "3913" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3914_3925> a nif:Word ;
+    nif:anchorOf "Koordinaten" ;
+    nif:beginIndex "3914" ;
+    nif:endIndex "3925" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3927_3930> a nif:Word ;
+    nif:anchorOf "ein" ;
+    nif:beginIndex "3927" ;
+    nif:endIndex "3930" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3931_3953> a nif:Word ;
+    nif:anchorOf "40-Zentimeter-Teleskop" ;
+    nif:beginIndex "3931" ;
+    nif:endIndex "3953" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3954_3959> a nif:Word ;
+    nif:anchorOf "sowie" ;
+    nif:beginIndex "3954" ;
+    nif:endIndex "3959" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3960_3963> a nif:Word ;
+    nif:anchorOf "zur" ;
+    nif:beginIndex "3960" ;
+    nif:endIndex "3963" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3964_3977> a nif:Word ;
+    nif:anchorOf "Dokumentation" ;
+    nif:beginIndex "3964" ;
+    nif:endIndex "3977" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_396_401> a nif:Word ;
+    nif:anchorOf "Kowal" ;
+    nif:beginIndex "396" ;
+    nif:endIndex "401" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3978_3982> a nif:Word ;
+    nif:anchorOf "eine" ;
+    nif:beginIndex "3978" ;
+    nif:endIndex "3982" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3983_3989> a nif:Word ;
+    nif:anchorOf "Kamera" ;
+    nif:beginIndex "3983" ;
+    nif:endIndex "3989" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3991_3994> a nif:Word ;
+    nif:anchorOf "Auf" ;
+    nif:beginIndex "3991" ;
+    nif:endIndex "3994" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_3995_4004> a nif:Word ;
+    nif:anchorOf "Aufnahmen" ;
+    nif:beginIndex "3995" ;
+    nif:endIndex "4004" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4005_4008> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "4005" ;
+    nif:endIndex "4008" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4009_4023> a nif:Word ;
+    nif:anchorOf "hintereinander" ;
+    nif:beginIndex "4009" ;
+    nif:endIndex "4023" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4024_4033> a nif:Word ;
+    nif:anchorOf "folgenden" ;
+    nif:beginIndex "4024" ;
+    nif:endIndex "4033" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_402_414> a nif:Word ;
+    nif:anchorOf "fotografiert" ;
+    nif:beginIndex "402" ;
+    nif:endIndex "414" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4034_4041> a nif:Word ;
+    nif:anchorOf "Nächten" ;
+    nif:beginIndex "4034" ;
+    nif:endIndex "4041" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4042_4046> a nif:Word ;
+    nif:anchorOf "gibt" ;
+    nif:beginIndex "4042" ;
+    nif:endIndex "4046" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4047_4051> a nif:Word ;
+    nif:anchorOf "sich" ;
+    nif:beginIndex "4047" ;
+    nif:endIndex "4051" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4052_4055> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "4052" ;
+    nif:endIndex "4055" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4056_4064> a nif:Word ;
+    nif:anchorOf "Asteroid" ;
+    nif:beginIndex "4056" ;
+    nif:endIndex "4064" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4065_4069> a nif:Word ;
+    nif:anchorOf "dann" ;
+    nif:beginIndex "4065" ;
+    nif:endIndex "4069" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4070_4073> a nif:Word ;
+    nif:anchorOf "als" ;
+    nif:beginIndex "4070" ;
+    nif:endIndex "4073" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4074_4081> a nif:Word ;
+    nif:anchorOf "langsam" ;
+    nif:beginIndex "4074" ;
+    nif:endIndex "4081" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4082_4092> a nif:Word ;
+    nif:anchorOf "wandernder" ;
+    nif:beginIndex "4082" ;
+    nif:endIndex "4092" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4093_4098> a nif:Word ;
+    nif:anchorOf "Punkt" ;
+    nif:beginIndex "4093" ;
+    nif:endIndex "4098" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4099_4101> a nif:Word ;
+    nif:anchorOf "zu" ;
+    nif:beginIndex "4099" ;
+    nif:endIndex "4101" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4102_4110> a nif:Word ;
+    nif:anchorOf "erkennen" ;
+    nif:beginIndex "4102" ;
+    nif:endIndex "4110" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4113_4118> a nif:Word ;
+    nif:anchorOf "Siehe" ;
+    nif:beginIndex "4113" ;
+    nif:endIndex "4118" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4119_4123> a nif:Word ;
+    nif:anchorOf "auch" ;
+    nif:beginIndex "4119" ;
+    nif:endIndex "4123" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4128_4133> a nif:Word ;
+    nif:anchorOf "Liste" ;
+    nif:beginIndex "4128" ;
+    nif:endIndex "4133" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4134_4137> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "4134" ;
+    nif:endIndex "4137" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4138_4148> a nif:Word ;
+    nif:anchorOf "Asteroiden" ;
+    nif:beginIndex "4138" ;
+    nif:endIndex "4148" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4153_4158> a nif:Word ;
+    nif:anchorOf "Liste" ;
+    nif:beginIndex "4153" ;
+    nif:endIndex "4158" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4159_4162> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "4159" ;
+    nif:endIndex "4162" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4163_4180> a nif:Word ;
+    nif:anchorOf "transneptunischen" ;
+    nif:beginIndex "4163" ;
+    nif:endIndex "4180" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_416_420> a nif:Word ;
+    nif:anchorOf "aber" ;
+    nif:beginIndex "416" ;
+    nif:endIndex "420" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4181_4188> a nif:Word ;
+    nif:anchorOf "Objekte" ;
+    nif:beginIndex "4181" ;
+    nif:endIndex "4188" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4193_4198> a nif:Word ;
+    nif:anchorOf "Liste" ;
+    nif:beginIndex "4193" ;
+    nif:endIndex "4198" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4199_4202> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "4199" ;
+    nif:endIndex "4202" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4203_4216> a nif:Word ;
+    nif:anchorOf "Zwergplaneten" ;
+    nif:beginIndex "4203" ;
+    nif:endIndex "4216" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4217_4220> a nif:Word ;
+    nif:anchorOf "des" ;
+    nif:beginIndex "4217" ;
+    nif:endIndex "4220" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_421_426> a nif:Word ;
+    nif:anchorOf "nicht" ;
+    nif:beginIndex "421" ;
+    nif:endIndex "426" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_4221_4234> a nif:Word ;
+    nif:anchorOf "Sonnensystems" ;
+    nif:beginIndex "4221" ;
+    nif:endIndex "4234" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_427_430> a nif:Word ;
+    nif:anchorOf "als" ;
+    nif:beginIndex "427" ;
+    nif:endIndex "430" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_431_439> a nif:Word ;
+    nif:anchorOf "Asteroid" ;
+    nif:beginIndex "431" ;
+    nif:endIndex "439" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_440_453> a nif:Word ;
+    nif:anchorOf "identifiziert" ;
+    nif:beginIndex "440" ;
+    nif:endIndex "453" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_455_463> a nif:Word ;
+    nif:anchorOf "Entdeckt" ;
+    nif:beginIndex "455" ;
+    nif:endIndex "463" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_464_469> a nif:Word ;
+    nif:anchorOf "wurde" ;
+    nif:beginIndex "464" ;
+    nif:endIndex "469" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_470_473> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "470" ;
+    nif:endIndex "473" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_474_482> a nif:Word ;
+    nif:anchorOf "Asteroid" ;
+    nif:beginIndex "474" ;
+    nif:endIndex "482" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_483_485> a nif:Word ;
+    nif:anchorOf "am" ;
+    nif:beginIndex "483" ;
+    nif:endIndex "485" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_486_488> a nif:Word ;
+    nif:anchorOf "4." ;
+    nif:beginIndex "486" ;
+    nif:endIndex "488" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_489_493> a nif:Word ;
+    nif:anchorOf "Juni" ;
+    nif:beginIndex "489" ;
+    nif:endIndex "493" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_494_498> a nif:Word ;
+    nif:anchorOf "2002" ;
+    nif:beginIndex "494" ;
+    nif:endIndex "498" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_499_502> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "499" ;
+    nif:endIndex "502" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_503_506> a nif:Word ;
+    nif:anchorOf "den" ;
+    nif:beginIndex "503" ;
+    nif:endIndex "506" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_507_517> a nif:Word ;
+    nif:anchorOf "Astronomen" ;
+    nif:beginIndex "507" ;
+    nif:endIndex "517" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_518_522> a nif:Word ;
+    nif:anchorOf "Chad" ;
+    nif:beginIndex "518" ;
+    nif:endIndex "522" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_523_531> a nif:Word ;
+    nif:anchorOf "Trujillo" ;
+    nif:beginIndex "523" ;
+    nif:endIndex "531" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_52_58> a nif:Word ;
+    nif:anchorOf "Objekt" ;
+    nif:beginIndex "52" ;
+    nif:endIndex "58" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_532_535> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "532" ;
+    nif:endIndex "535" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_536_543> a nif:Word ;
+    nif:anchorOf "Michael" ;
+    nif:beginIndex "536" ;
+    nif:endIndex "543" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_544_546> a nif:Word ;
+    nif:anchorOf "E." ;
+    nif:beginIndex "544" ;
+    nif:endIndex "546" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_547_552> a nif:Word ;
+    nif:anchorOf "Brown" ;
+    nif:beginIndex "547" ;
+    nif:endIndex "552" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_553_555> a nif:Word ;
+    nif:anchorOf "am" ;
+    nif:beginIndex "553" ;
+    nif:endIndex "555" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_556_566> a nif:Word ;
+    nif:anchorOf "California" ;
+    nif:beginIndex "556" ;
+    nif:endIndex "566" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_567_576> a nif:Word ;
+    nif:anchorOf "Institute" ;
+    nif:beginIndex "567" ;
+    nif:endIndex "576" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_577_579> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "577" ;
+    nif:endIndex "579" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_580_590> a nif:Word ;
+    nif:anchorOf "Technology" ;
+    nif:beginIndex "580" ;
+    nif:endIndex "590" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_591_593> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "591" ;
+    nif:endIndex "593" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_594_602> a nif:Word ;
+    nif:anchorOf "Pasadena" ;
+    nif:beginIndex "594" ;
+    nif:endIndex "602" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_59_61> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "59" ;
+    nif:endIndex "61" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_604_607> a nif:Word ;
+    nif:anchorOf "USA" ;
+    nif:beginIndex "604" ;
+    nif:endIndex "607" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_609_612> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "609" ;
+    nif:endIndex "612" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_613_618> a nif:Word ;
+    nif:anchorOf "denen" ;
+    nif:beginIndex "613" ;
+    nif:endIndex "618" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_619_621> a nif:Word ;
+    nif:anchorOf "er" ;
+    nif:beginIndex "619" ;
+    nif:endIndex "621" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_622_626> a nif:Word ;
+    nif:anchorOf "auch" ;
+    nif:beginIndex "622" ;
+    nif:endIndex "626" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_627_634> a nif:Word ;
+    nif:anchorOf "benannt" ;
+    nif:beginIndex "627" ;
+    nif:endIndex "634" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_62_74> a nif:Word ;
+    nif:anchorOf "Kuipergürtel" ;
+    nif:beginIndex "62" ;
+    nif:endIndex "74" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_635_640> a nif:Word ;
+    nif:anchorOf "wurde" ;
+    nif:beginIndex "635" ;
+    nif:endIndex "640" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_642_645> a nif:Word ;
+    nif:anchorOf "Der" ;
+    nif:beginIndex "642" ;
+    nif:endIndex "645" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_646_650> a nif:Word ;
+    nif:anchorOf "Name" ;
+    nif:beginIndex "646" ;
+    nif:endIndex "650" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_651_657> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "651" ;
+    nif:endIndex "657" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_658_667> a nif:Word ;
+    nif:anchorOf "entstammt" ;
+    nif:beginIndex "658" ;
+    nif:endIndex "667" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_668_671> a nif:Word ;
+    nif:anchorOf "dem" ;
+    nif:beginIndex "668" ;
+    nif:endIndex "671" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_672_688> a nif:Word ;
+    nif:anchorOf "Schöpfungsmythos" ;
+    nif:beginIndex "672" ;
+    nif:endIndex "688" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_689_692> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "689" ;
+    nif:endIndex "692" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_693_711> a nif:Word ;
+    nif:anchorOf "nordamerikanischen" ;
+    nif:beginIndex "693" ;
+    nif:endIndex "711" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_712_727> a nif:Word ;
+    nif:anchorOf "Tongva-Indianer" ;
+    nif:beginIndex "712" ;
+    nif:endIndex "727" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_729_732> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "729" ;
+    nif:endIndex "732" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_733_735> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "733" ;
+    nif:endIndex "735" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_736_739> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "736" ;
+    nif:endIndex "739" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_740_746> a nif:Word ;
+    nif:anchorOf "Gegend" ;
+    nif:beginIndex "740" ;
+    nif:endIndex "746" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_747_749> a nif:Word ;
+    nif:anchorOf "um" ;
+    nif:beginIndex "747" ;
+    nif:endIndex "749" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_750_753> a nif:Word ;
+    nif:anchorOf "Los" ;
+    nif:beginIndex "750" ;
+    nif:endIndex "753" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_754_761> a nif:Word ;
+    nif:anchorOf "Angeles" ;
+    nif:beginIndex "754" ;
+    nif:endIndex "761" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_762_767> a nif:Word ;
+    nif:anchorOf "leben" ;
+    nif:beginIndex "762" ;
+    nif:endIndex "767" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_769_772> a nif:Word ;
+    nif:anchorOf "Die" ;
+    nif:beginIndex "769" ;
+    nif:endIndex "772" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_76_81> a nif:Word ;
+    nif:anchorOf "Bevor" ;
+    nif:beginIndex "76" ;
+    nif:endIndex "81" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_773_783> a nif:Word ;
+    nif:anchorOf "Entdeckung" ;
+    nif:beginIndex "773" ;
+    nif:endIndex "783" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_784_787> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "784" ;
+    nif:endIndex "787" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_788_794> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "788" ;
+    nif:endIndex "794" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_795_804> a nif:Word ;
+    nif:anchorOf "schwächte" ;
+    nif:beginIndex "795" ;
+    nif:endIndex "804" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_805_811> a nif:Word ;
+    nif:anchorOf "Plutos" ;
+    nif:beginIndex "805" ;
+    nif:endIndex "811" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_812_818> a nif:Word ;
+    nif:anchorOf "Status" ;
+    nif:beginIndex "812" ;
+    nif:endIndex "818" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_819_822> a nif:Word ;
+    nif:anchorOf "als" ;
+    nif:beginIndex "819" ;
+    nif:endIndex "822" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_823_829> a nif:Word ;
+    nif:anchorOf "Planet" ;
+    nif:beginIndex "823" ;
+    nif:endIndex "829" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_82_84> a nif:Word ;
+    nif:anchorOf "er" ;
+    nif:beginIndex "82" ;
+    nif:endIndex "84" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_831_836> a nif:Word ;
+    nif:anchorOf "zumal" ;
+    nif:beginIndex "831" ;
+    nif:endIndex "836" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_837_847> a nif:Word ;
+    nif:anchorOf "Astronomen" ;
+    nif:beginIndex "837" ;
+    nif:endIndex "847" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_848_855> a nif:Word ;
+    nif:anchorOf "weitere" ;
+    nif:beginIndex "848" ;
+    nif:endIndex "855" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_856_863> a nif:Word ;
+    nif:anchorOf "Objekte" ;
+    nif:beginIndex "856" ;
+    nif:endIndex "863" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_85_88> a nif:Word ;
+    nif:anchorOf "den" ;
+    nif:beginIndex "85" ;
+    nif:endIndex "88" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_864_867> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "864" ;
+    nif:endIndex "867" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_868_875> a nif:Word ;
+    nif:anchorOf "Quaoars" ;
+    nif:beginIndex "868" ;
+    nif:endIndex "875" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_876_881> a nif:Word ;
+    nif:anchorOf "Größe" ;
+    nif:beginIndex "876" ;
+    nif:endIndex "881" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_882_884> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "882" ;
+    nif:endIndex "884" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_885_897> a nif:Word ;
+    nif:anchorOf "Kuipergürtel" ;
+    nif:beginIndex "885" ;
+    nif:endIndex "897" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_898_906> a nif:Word ;
+    nif:anchorOf "vermuten" ;
+    nif:beginIndex "898" ;
+    nif:endIndex "906" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_89_94> a nif:Word ;
+    nif:anchorOf "Namen" ;
+    nif:beginIndex "89" ;
+    nif:endIndex "94" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_8_14> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "8" ;
+    nif:endIndex "14" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_908_914> a nif:Word ;
+    nif:anchorOf "Später" ;
+    nif:beginIndex "908" ;
+    nif:endIndex "914" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_915_920> a nif:Word ;
+    nif:anchorOf "wurde" ;
+    nif:beginIndex "915" ;
+    nif:endIndex "920" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_921_924> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "921" ;
+    nif:endIndex "924" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_925_929> a nif:Word ;
+    nif:anchorOf "Eris" ;
+    nif:beginIndex "925" ;
+    nif:endIndex "929" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_930_934> a nif:Word ;
+    nif:anchorOf "dort" ;
+    nif:beginIndex "930" ;
+    nif:endIndex "934" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_935_940> a nif:Word ;
+    nif:anchorOf "sogar" ;
+    nif:beginIndex "935" ;
+    nif:endIndex "940" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_941_944> a nif:Word ;
+    nif:anchorOf "ein" ;
+    nif:beginIndex "941" ;
+    nif:endIndex "944" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_945_951> a nif:Word ;
+    nif:anchorOf "Objekt" ;
+    nif:beginIndex "945" ;
+    nif:endIndex "951" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_952_960> a nif:Word ;
+    nif:anchorOf "gefunden" ;
+    nif:beginIndex "952" ;
+    nif:endIndex "960" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_95_101> a nif:Word ;
+    nif:anchorOf "Quaoar" ;
+    nif:beginIndex "95" ;
+    nif:endIndex "101" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_962_965> a nif:Word ;
+    nif:anchorOf "das" ;
+    nif:beginIndex "962" ;
+    nif:endIndex "965" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_966_972> a nif:Word ;
+    nif:anchorOf "größer" ;
+    nif:beginIndex "966" ;
+    nif:endIndex "972" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_973_976> a nif:Word ;
+    nif:anchorOf "als" ;
+    nif:beginIndex "973" ;
+    nif:endIndex "976" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_977_982> a nif:Word ;
+    nif:anchorOf "Pluto" ;
+    nif:beginIndex "977" ;
+    nif:endIndex "982" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_983_985> a nif:Word ;
+    nif:anchorOf "zu" ;
+    nif:beginIndex "983" ;
+    nif:endIndex "985" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_986_990> a nif:Word ;
+    nif:anchorOf "sein" ;
+    nif:beginIndex "986" ;
+    nif:endIndex "990" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_991_997> a nif:Word ;
+    nif:anchorOf "schien" ;
+    nif:beginIndex "991" ;
+    nif:endIndex "997" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=word_offset_999_1002> a nif:Word ;
+    nif:anchorOf "Auf" ;
+    nif:beginIndex "999" ;
+    nif:endIndex "1002" ;
+    nif:referenceContext <http://dbpedia.org/resource/(50000)_Quaoar?dbpv=2016-10&nif=context> .
+

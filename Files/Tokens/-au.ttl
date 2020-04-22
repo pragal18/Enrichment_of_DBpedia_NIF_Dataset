@@ -1,0 +1,2928 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_0_3> a nif:Word ;
+    nif:anchorOf "-au" ;
+    nif:beginIndex "0" ;
+    nif:endIndex "3" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1000_1006> a nif:Word ;
+    nif:anchorOf "werden" ;
+    nif:beginIndex "1000" ;
+    nif:endIndex "1006" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1008_1010> a nif:Word ;
+    nif:anchorOf "so" ;
+    nif:beginIndex "1008" ;
+    nif:endIndex "1010" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1011_1013> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "1011" ;
+    nif:endIndex "1013" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1014_1022> a nif:Word ;
+    nif:anchorOf "Bodensee" ;
+    nif:beginIndex "1014" ;
+    nif:endIndex "1022" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1023_1026> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "1023" ;
+    nif:endIndex "1026" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1027_1033> a nif:Word ;
+    nif:anchorOf "Inseln" ;
+    nif:beginIndex "1027" ;
+    nif:endIndex "1033" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1034_1040> a nif:Word ;
+    nif:anchorOf "Mainau" ;
+    nif:beginIndex "1034" ;
+    nif:endIndex "1040" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_103_106> a nif:Word ;
+    nif:anchorOf "Das" ;
+    nif:beginIndex "103" ;
+    nif:endIndex "106" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1042_1051> a nif:Word ;
+    nif:anchorOf "Reichenau" ;
+    nif:beginIndex "1042" ;
+    nif:endIndex "1051" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1052_1055> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "1052" ;
+    nif:endIndex "1055" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1056_1059> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "1056" ;
+    nif:endIndex "1059" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1060_1070> a nif:Word ;
+    nif:anchorOf "Inselstadt" ;
+    nif:beginIndex "1060" ;
+    nif:endIndex "1070" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1071_1077> a nif:Word ;
+    nif:anchorOf "Lindau" ;
+    nif:beginIndex "1071" ;
+    nif:endIndex "1077" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1079_1081> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "1079" ;
+    nif:endIndex "1081" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_107_115> a nif:Word ;
+    nif:anchorOf "zugrunde" ;
+    nif:beginIndex "107" ;
+    nif:endIndex "115" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1082_1091> a nif:Word ;
+    nif:anchorOf "Zürichsee" ;
+    nif:beginIndex "1082" ;
+    nif:endIndex "1091" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1092_1098> a nif:Word ;
+    nif:anchorOf "Ufenau" ;
+    nif:beginIndex "1092" ;
+    nif:endIndex "1098" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1099_1102> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "1099" ;
+    nif:endIndex "1102" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1103_1111> a nif:Word ;
+    nif:anchorOf "Lützelau" ;
+    nif:beginIndex "1103" ;
+    nif:endIndex "1111" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1113_1116> a nif:Word ;
+    nif:anchorOf "Das" ;
+    nif:beginIndex "1113" ;
+    nif:endIndex "1116" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1117_1121> a nif:Word ;
+    nif:anchorOf "Wort" ;
+    nif:beginIndex "1117" ;
+    nif:endIndex "1121" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1122_1125> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "1122" ;
+    nif:endIndex "1125" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1126_1136> a nif:Word ;
+    nif:anchorOf "urverwandt" ;
+    nif:beginIndex "1126" ;
+    nif:endIndex "1136" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1137_1140> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "1137" ;
+    nif:endIndex "1140" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1141_1151> a nif:Word ;
+    nif:anchorOf "lateinisch" ;
+    nif:beginIndex "1141" ;
+    nif:endIndex "1151" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1152_1156> a nif:Word ;
+    nif:anchorOf "aqua" ;
+    nif:beginIndex "1152" ;
+    nif:endIndex "1156" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1157_1164> a nif:Word ;
+    nif:anchorOf "‚Wasser" ;
+    nif:beginIndex "1157" ;
+    nif:endIndex "1164" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1164_1165> a nif:Word ;
+    nif:anchorOf "‘" ;
+    nif:beginIndex "1164" ;
+    nif:endIndex "1165" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1167_1169> a nif:Word ;
+    nif:anchorOf "Es" ;
+    nif:beginIndex "1167" ;
+    nif:endIndex "1169" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_116_124> a nif:Word ;
+    nif:anchorOf "liegende" ;
+    nif:beginIndex "116" ;
+    nif:endIndex "124" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1170_1176> a nif:Word ;
+    nif:anchorOf "findet" ;
+    nif:beginIndex "1170" ;
+    nif:endIndex "1176" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1177_1181> a nif:Word ;
+    nif:anchorOf "sich" ;
+    nif:beginIndex "1177" ;
+    nif:endIndex "1181" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1182_1186> a nif:Word ;
+    nif:anchorOf "auch" ;
+    nif:beginIndex "1182" ;
+    nif:endIndex "1186" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1187_1189> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1187" ;
+    nif:endIndex "1189" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1190_1197> a nif:Word ;
+    nif:anchorOf "anderen" ;
+    nif:beginIndex "1190" ;
+    nif:endIndex "1197" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1198_1214> a nif:Word ;
+    nif:anchorOf "indogermanischen" ;
+    nif:beginIndex "1198" ;
+    nif:endIndex "1214" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1215_1223> a nif:Word ;
+    nif:anchorOf "Sprachen" ;
+    nif:beginIndex "1215" ;
+    nif:endIndex "1223" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1225_1231> a nif:Word ;
+    nif:anchorOf "sodass" ;
+    nif:beginIndex "1225" ;
+    nif:endIndex "1231" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1232_1235> a nif:Word ;
+    nif:anchorOf "ein" ;
+    nif:beginIndex "1232" ;
+    nif:endIndex "1235" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1236_1247> a nif:Word ;
+    nif:anchorOf "gemeinsamer" ;
+    nif:beginIndex "1236" ;
+    nif:endIndex "1247" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1248_1264> a nif:Word ;
+    nif:anchorOf "indogermanischer" ;
+    nif:beginIndex "1248" ;
+    nif:endIndex "1264" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_125_136> a nif:Word ;
+    nif:anchorOf "germanische" ;
+    nif:beginIndex "125" ;
+    nif:endIndex "136" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1265_1270> a nif:Word ;
+    nif:anchorOf "Stamm" ;
+    nif:beginIndex "1265" ;
+    nif:endIndex "1270" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1271_1275> a nif:Word ;
+    nif:anchorOf "əkṷã" ;
+    nif:beginIndex "1271" ;
+    nif:endIndex "1275" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1276_1279> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "1276" ;
+    nif:endIndex "1279" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1280_1283> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "1280" ;
+    nif:endIndex "1283" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1284_1293> a nif:Word ;
+    nif:anchorOf "Bedeutung" ;
+    nif:beginIndex "1284" ;
+    nif:endIndex "1293" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1294_1302> a nif:Word ;
+    nif:anchorOf "Gewässer" ;
+    nif:beginIndex "1294" ;
+    nif:endIndex "1302" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1303_1313> a nif:Word ;
+    nif:anchorOf "angenommen" ;
+    nif:beginIndex "1303" ;
+    nif:endIndex "1313" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1314_1320> a nif:Word ;
+    nif:anchorOf "werden" ;
+    nif:beginIndex "1314" ;
+    nif:endIndex "1320" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1321_1325> a nif:Word ;
+    nif:anchorOf "kann" ;
+    nif:beginIndex "1321" ;
+    nif:endIndex "1325" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1328_1337> a nif:Word ;
+    nif:anchorOf "Slawische" ;
+    nif:beginIndex "1328" ;
+    nif:endIndex "1337" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1338_1342> a nif:Word ;
+    nif:anchorOf "Orte" ;
+    nif:beginIndex "1338" ;
+    nif:endIndex "1342" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1343_1349> a nif:Word ;
+    nif:anchorOf "Andere" ;
+    nif:beginIndex "1343" ;
+    nif:endIndex "1349" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1350_1355> a nif:Word ;
+    nif:anchorOf "Namen" ;
+    nif:beginIndex "1350" ;
+    nif:endIndex "1355" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1356_1359> a nif:Word ;
+    nif:anchorOf "auf" ;
+    nif:beginIndex "1356" ;
+    nif:endIndex "1359" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1360_1363> a nif:Word ;
+    nif:anchorOf "-au" ;
+    nif:beginIndex "1360" ;
+    nif:endIndex "1363" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1364_1370> a nif:Word ;
+    nif:anchorOf "leiten" ;
+    nif:beginIndex "1364" ;
+    nif:endIndex "1370" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1371_1375> a nif:Word ;
+    nif:anchorOf "sich" ;
+    nif:beginIndex "1371" ;
+    nif:endIndex "1375" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1376_1379> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "1376" ;
+    nif:endIndex "1379" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_137_139> a nif:Word ;
+    nif:anchorOf "*a" ;
+    nif:beginIndex "137" ;
+    nif:endIndex "139" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1380_1390> a nif:Word ;
+    nif:anchorOf "slawischen" ;
+    nif:beginIndex "1380" ;
+    nif:endIndex "1390" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1391_1399> a nif:Word ;
+    nif:anchorOf "Genitiv-" ;
+    nif:beginIndex "1391" ;
+    nif:endIndex "1399" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_13_28> a nif:Word ;
+    nif:anchorOf "Ortsnamenendung" ;
+    nif:beginIndex "13" ;
+    nif:endIndex "28" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1400_1403> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "1400" ;
+    nif:endIndex "1403" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1404_1420> a nif:Word ;
+    nif:anchorOf "Adjektivendungen" ;
+    nif:beginIndex "1404" ;
+    nif:endIndex "1420" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_140_141> a nif:Word ;
+    nif:anchorOf "g" ;
+    nif:beginIndex "140" ;
+    nif:endIndex "141" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1421_1424> a nif:Word ;
+    nif:anchorOf "wie" ;
+    nif:beginIndex "1421" ;
+    nif:endIndex "1424" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1425_1428> a nif:Word ;
+    nif:anchorOf "-ow" ;
+    nif:beginIndex "1425" ;
+    nif:endIndex "1428" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_142_145> a nif:Word ;
+    nif:anchorOf "wjõ" ;
+    nif:beginIndex "142" ;
+    nif:endIndex "145" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1430_1434> a nif:Word ;
+    nif:anchorOf "-owa" ;
+    nif:beginIndex "1430" ;
+    nif:endIndex "1434" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1436_1440> a nif:Word ;
+    nif:anchorOf "-awa" ;
+    nif:beginIndex "1436" ;
+    nif:endIndex "1440" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1441_1444> a nif:Word ;
+    nif:anchorOf "her" ;
+    nif:beginIndex "1441" ;
+    nif:endIndex "1444" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1446_1455> a nif:Word ;
+    nif:anchorOf "Derartige" ;
+    nif:beginIndex "1446" ;
+    nif:endIndex "1455" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1456_1461> a nif:Word ;
+    nif:anchorOf "Namen" ;
+    nif:beginIndex "1456" ;
+    nif:endIndex "1461" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1462_1468> a nif:Word ;
+    nif:anchorOf "kommen" ;
+    nif:beginIndex "1462" ;
+    nif:endIndex "1468" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1469_1472> a nif:Word ;
+    nif:anchorOf "vor" ;
+    nif:beginIndex "1469" ;
+    nif:endIndex "1472" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_146_148> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "146" ;
+    nif:endIndex "148" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1473_1478> a nif:Word ;
+    nif:anchorOf "allem" ;
+    nif:beginIndex "1473" ;
+    nif:endIndex "1478" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1479_1481> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "1479" ;
+    nif:endIndex "1481" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1482_1500> a nif:Word ;
+    nif:anchorOf "ostmitteldeutschen" ;
+    nif:beginIndex "1482" ;
+    nif:endIndex "1500" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_149_152> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "149" ;
+    nif:endIndex "152" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1501_1513> a nif:Word ;
+    nif:anchorOf "Sprachgebiet" ;
+    nif:beginIndex "1501" ;
+    nif:endIndex "1513" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1514_1517> a nif:Word ;
+    nif:anchorOf "vor" ;
+    nif:beginIndex "1514" ;
+    nif:endIndex "1517" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1518_1521> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "1518" ;
+    nif:endIndex "1521" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1522_1527> a nif:Word ;
+    nif:anchorOf "haben" ;
+    nif:beginIndex "1522" ;
+    nif:endIndex "1527" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1528_1531> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "1528" ;
+    nif:endIndex "1531" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1532_1535> a nif:Word ;
+    nif:anchorOf "Aue" ;
+    nif:beginIndex "1532" ;
+    nif:endIndex "1535" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1536_1548> a nif:Word ;
+    nif:anchorOf "etymologisch" ;
+    nif:beginIndex "1536" ;
+    nif:endIndex "1548" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_153_162> a nif:Word ;
+    nif:anchorOf "Bedeutung" ;
+    nif:beginIndex "153" ;
+    nif:endIndex "162" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1549_1555> a nif:Word ;
+    nif:anchorOf "nichts" ;
+    nif:beginIndex "1549" ;
+    nif:endIndex "1555" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1556_1558> a nif:Word ;
+    nif:anchorOf "zu" ;
+    nif:beginIndex "1556" ;
+    nif:endIndex "1558" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1559_1562> a nif:Word ;
+    nif:anchorOf "tun" ;
+    nif:beginIndex "1559" ;
+    nif:endIndex "1562" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1565_1576> a nif:Word ;
+    nif:anchorOf "Bestandteil" ;
+    nif:beginIndex "1565" ;
+    nif:endIndex "1576" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1577_1580> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "1577" ;
+    nif:endIndex "1580" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1581_1584> a nif:Word ;
+    nif:anchorOf "Gau" ;
+    nif:beginIndex "1581" ;
+    nif:endIndex "1584" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1585_1590> a nif:Word ;
+    nif:anchorOf "Nicht" ;
+    nif:beginIndex "1585" ;
+    nif:endIndex "1590" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1591_1594> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "1591" ;
+    nif:endIndex "1594" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1595_1598> a nif:Word ;
+    nif:anchorOf "-au" ;
+    nif:beginIndex "1595" ;
+    nif:endIndex "1598" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1599_1601> a nif:Word ;
+    nif:anchorOf "zu" ;
+    nif:beginIndex "1599" ;
+    nif:endIndex "1601" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1602_1613> a nif:Word ;
+    nif:anchorOf "verwechseln" ;
+    nif:beginIndex "1602" ;
+    nif:endIndex "1613" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1614_1618> a nif:Word ;
+    nif:anchorOf "sind" ;
+    nif:beginIndex "1614" ;
+    nif:endIndex "1618" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1619_1624> a nif:Word ;
+    nif:anchorOf "Namen" ;
+    nif:beginIndex "1619" ;
+    nif:endIndex "1624" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1625_1637> a nif:Word ;
+    nif:anchorOf "germanischer" ;
+    nif:beginIndex "1625" ;
+    nif:endIndex "1637" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1638_1646> a nif:Word ;
+    nif:anchorOf "Herkunft" ;
+    nif:beginIndex "1638" ;
+    nif:endIndex "1646" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_163_169> a nif:Word ;
+    nif:anchorOf "‚Insel" ;
+    nif:beginIndex "163" ;
+    nif:endIndex "169" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1647_1650> a nif:Word ;
+    nif:anchorOf "auf" ;
+    nif:beginIndex "1647" ;
+    nif:endIndex "1650" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1651_1655> a nif:Word ;
+    nif:anchorOf "-gau" ;
+    nif:beginIndex "1651" ;
+    nif:endIndex "1655" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1656_1658> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1656" ;
+    nif:endIndex "1658" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1659_1662> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "1659" ;
+    nif:endIndex "1662" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1663_1672> a nif:Word ;
+    nif:anchorOf "Bedeutung" ;
+    nif:beginIndex "1663" ;
+    nif:endIndex "1672" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1673_1676> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "1673" ;
+    nif:endIndex "1676" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1677_1687> a nif:Word ;
+    nif:anchorOf "Landschaft" ;
+    nif:beginIndex "1677" ;
+    nif:endIndex "1687" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1689_1707> a nif:Word ;
+    nif:anchorOf "Verwaltungseinheit" ;
+    nif:beginIndex "1689" ;
+    nif:endIndex "1707" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1709_1719> a nif:Word ;
+    nif:anchorOf "eigentlich" ;
+    nif:beginIndex "1709" ;
+    nif:endIndex "1719" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_171_173> a nif:Word ;
+    nif:anchorOf "Au" ;
+    nif:beginIndex "171" ;
+    nif:endIndex "173" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1720_1734> a nif:Word ;
+    nif:anchorOf "Gerichtsbezirk" ;
+    nif:beginIndex "1720" ;
+    nif:endIndex "1734" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1736_1739> a nif:Word ;
+    nif:anchorOf "Die" ;
+    nif:beginIndex "1736" ;
+    nif:endIndex "1739" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_173_174> a nif:Word ;
+    nif:anchorOf "‘" ;
+    nif:beginIndex "173" ;
+    nif:endIndex "174" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1740_1753> a nif:Word ;
+    nif:anchorOf "Bezeichnungen" ;
+    nif:beginIndex "1740" ;
+    nif:endIndex "1753" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1754_1758> a nif:Word ;
+    nif:anchorOf "geht" ;
+    nif:beginIndex "1754" ;
+    nif:endIndex "1758" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1759_1767> a nif:Word ;
+    nif:anchorOf "entweder" ;
+    nif:beginIndex "1759" ;
+    nif:endIndex "1767" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_175_178> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "175" ;
+    nif:endIndex "178" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1768_1771> a nif:Word ;
+    nif:anchorOf "auf" ;
+    nif:beginIndex "1768" ;
+    nif:endIndex "1771" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1772_1776> a nif:Word ;
+    nif:anchorOf "eine" ;
+    nif:beginIndex "1772" ;
+    nif:endIndex "1776" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1777_1788> a nif:Word ;
+    nif:anchorOf "germanische" ;
+    nif:beginIndex "1777" ;
+    nif:endIndex "1788" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1789_1805> a nif:Word ;
+    nif:anchorOf "Kollektivbildung" ;
+    nif:beginIndex "1789" ;
+    nif:endIndex "1805" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_179_189> a nif:Word ;
+    nif:anchorOf "abgeleitet" ;
+    nif:beginIndex "179" ;
+    nif:endIndex "189" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1806_1815> a nif:Word ;
+    nif:anchorOf "*ga-auja-" ;
+    nif:beginIndex "1806" ;
+    nif:endIndex "1815" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1816_1832> a nif:Word ;
+    nif:anchorOf "‚Siedlungsgebiet" ;
+    nif:beginIndex "1816" ;
+    nif:endIndex "1832" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1832_1833> a nif:Word ;
+    nif:anchorOf "‘" ;
+    nif:beginIndex "1832" ;
+    nif:endIndex "1833" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1834_1838> a nif:Word ;
+    nif:anchorOf "oder" ;
+    nif:beginIndex "1834" ;
+    nif:endIndex "1838" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1839_1842> a nif:Word ;
+    nif:anchorOf "auf" ;
+    nif:beginIndex "1839" ;
+    nif:endIndex "1842" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1843_1847> a nif:Word ;
+    nif:anchorOf "eine" ;
+    nif:beginIndex "1843" ;
+    nif:endIndex "1847" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1848_1859> a nif:Word ;
+    nif:anchorOf "germanische" ;
+    nif:beginIndex "1848" ;
+    nif:endIndex "1859" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1860_1876> a nif:Word ;
+    nif:anchorOf "Kollektivbildung" ;
+    nif:beginIndex "1860" ;
+    nif:endIndex "1876" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1877_1886> a nif:Word ;
+    nif:anchorOf "*ga-awja-" ;
+    nif:beginIndex "1877" ;
+    nif:endIndex "1886" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1887_1896> a nif:Word ;
+    nif:anchorOf "‚Umgebung" ;
+    nif:beginIndex "1887" ;
+    nif:endIndex "1896" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1897_1902> a nif:Word ;
+    nif:anchorOf "eines" ;
+    nif:beginIndex "1897" ;
+    nif:endIndex "1902" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1903_1912> a nif:Word ;
+    nif:anchorOf "Gewässers" ;
+    nif:beginIndex "1903" ;
+    nif:endIndex "1912" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_190_193> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "190" ;
+    nif:endIndex "193" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1912_1913> a nif:Word ;
+    nif:anchorOf "‘" ;
+    nif:beginIndex "1912" ;
+    nif:endIndex "1913" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1914_1920> a nif:Word ;
+    nif:anchorOf "zurück" ;
+    nif:beginIndex "1914" ;
+    nif:endIndex "1920" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1926_1936> a nif:Word ;
+    nif:anchorOf "Vergleiche" ;
+    nif:beginIndex "1926" ;
+    nif:endIndex "1936" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1937_1941> a nif:Word ;
+    nif:anchorOf "auch" ;
+    nif:beginIndex "1937" ;
+    nif:endIndex "1941" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1942_1945> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "1942" ;
+    nif:endIndex "1945" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1946_1951> a nif:Word ;
+    nif:anchorOf "Liste" ;
+    nif:beginIndex "1946" ;
+    nif:endIndex "1951" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_194_204> a nif:Word ;
+    nif:anchorOf "germanisch" ;
+    nif:beginIndex "194" ;
+    nif:endIndex "204" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1952_1955> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "1952" ;
+    nif:endIndex "1955" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1956_1960> a nif:Word ;
+    nif:anchorOf "Gaue" ;
+    nif:beginIndex "1956" ;
+    nif:endIndex "1960" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1961_1964> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "1961" ;
+    nif:endIndex "1964" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1965_1975> a nif:Word ;
+    nif:anchorOf "Alamannien" ;
+    nif:beginIndex "1965" ;
+    nif:endIndex "1975" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1977_1985> a nif:Word ;
+    nif:anchorOf "Schwaben" ;
+    nif:beginIndex "1977" ;
+    nif:endIndex "1985" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1987_1990> a nif:Word ;
+    nif:anchorOf "dem" ;
+    nif:beginIndex "1987" ;
+    nif:endIndex "1990" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1991_1997> a nif:Word ;
+    nif:anchorOf "Elsass" ;
+    nif:beginIndex "1991" ;
+    nif:endIndex "1997" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_1998_2001> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "1998" ;
+    nif:endIndex "2001" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2002_2005> a nif:Word ;
+    nif:anchorOf "von" ;
+    nif:beginIndex "2002" ;
+    nif:endIndex "2005" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2006_2017> a nif:Word ;
+    nif:anchorOf "Hochburgund" ;
+    nif:beginIndex "2006" ;
+    nif:endIndex "2017" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2020_2029> a nif:Word ;
+    nif:anchorOf "Beispiele" ;
+    nif:beginIndex "2020" ;
+    nif:endIndex "2029" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2032_2036> a nif:Word ;
+    nif:anchorOf "Orte" ;
+    nif:beginIndex "2032" ;
+    nif:endIndex "2036" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2037_2039> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "2037" ;
+    nif:endIndex "2039" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2040_2049> a nif:Word ;
+    nif:anchorOf "Flussauen" ;
+    nif:beginIndex "2040" ;
+    nif:endIndex "2049" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2050_2055> a nif:Word ;
+    nif:anchorOf "Aarau" ;
+    nif:beginIndex "2050" ;
+    nif:endIndex "2055" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2057_2063> a nif:Word ;
+    nif:anchorOf "Amönau" ;
+    nif:beginIndex "2057" ;
+    nif:endIndex "2063" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_205_210> a nif:Word ;
+    nif:anchorOf "*ahwõ" ;
+    nif:beginIndex "205" ;
+    nif:endIndex "210" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2065_2071> a nif:Word ;
+    nif:anchorOf "Aschau" ;
+    nif:beginIndex "2065" ;
+    nif:endIndex "2071" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2073_2081> a nif:Word ;
+    nif:anchorOf "Blumenau" ;
+    nif:beginIndex "2073" ;
+    nif:endIndex "2081" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2083_2090> a nif:Word ;
+    nif:anchorOf "München" ;
+    nif:beginIndex "2083" ;
+    nif:endIndex "2090" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2093_2102> a nif:Word ;
+    nif:anchorOf "Brückenau" ;
+    nif:beginIndex "2093" ;
+    nif:endIndex "2102" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2104_2112> a nif:Word ;
+    nif:anchorOf "Buchenau" ;
+    nif:beginIndex "2104" ;
+    nif:endIndex "2112" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2114_2124> a nif:Word ;
+    nif:anchorOf "Freiwaldau" ;
+    nif:beginIndex "2114" ;
+    nif:endIndex "2124" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2126_2135> a nif:Word ;
+    nif:anchorOf "Fürstenau" ;
+    nif:beginIndex "2126" ;
+    nif:endIndex "2135" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_212_215> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "212" ;
+    nif:endIndex "215" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2137_2145> a nif:Word ;
+    nif:anchorOf "Gaggenau" ;
+    nif:beginIndex "2137" ;
+    nif:endIndex "2145" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2147_2153> a nif:Word ;
+    nif:anchorOf "Hallau" ;
+    nif:beginIndex "2147" ;
+    nif:endIndex "2153" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2155_2164> a nif:Word ;
+    nif:anchorOf "Hallertau" ;
+    nif:beginIndex "2155" ;
+    nif:endIndex "2164" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2166_2171> a nif:Word ;
+    nif:anchorOf "Hanau" ;
+    nif:beginIndex "2166" ;
+    nif:endIndex "2171" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_216_221> a nif:Word ;
+    nif:anchorOf "heute" ;
+    nif:beginIndex "216" ;
+    nif:endIndex "221" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2173_2181> a nif:Word ;
+    nif:anchorOf "Holledau" ;
+    nif:beginIndex "2173" ;
+    nif:endIndex "2181" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2183_2196> a nif:Word ;
+    nif:anchorOf "Kiel-Holtenau" ;
+    nif:beginIndex "2183" ;
+    nif:endIndex "2196" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2198_2205> a nif:Word ;
+    nif:anchorOf "Ilmenau" ;
+    nif:beginIndex "2198" ;
+    nif:endIndex "2205" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2207_2214> a nif:Word ;
+    nif:anchorOf "Klotzau" ;
+    nif:beginIndex "2207" ;
+    nif:endIndex "2214" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2216_2223> a nif:Word ;
+    nif:anchorOf "Kreuzau" ;
+    nif:beginIndex "2216" ;
+    nif:endIndex "2223" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2225_2234> a nif:Word ;
+    nif:anchorOf "Künzelsau" ;
+    nif:beginIndex "2225" ;
+    nif:endIndex "2234" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_222_225> a nif:Word ;
+    nif:anchorOf "nur" ;
+    nif:beginIndex "222" ;
+    nif:endIndex "225" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2236_2244> a nif:Word ;
+    nif:anchorOf "Langenau" ;
+    nif:beginIndex "2236" ;
+    nif:endIndex "2244" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2246_2254> a nif:Word ;
+    nif:anchorOf "Muldenau" ;
+    nif:beginIndex "2246" ;
+    nif:endIndex "2254" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2256_2262> a nif:Word ;
+    nif:anchorOf "Nassau" ;
+    nif:beginIndex "2256" ;
+    nif:endIndex "2262" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2264_2272> a nif:Word ;
+    nif:anchorOf "Niederau" ;
+    nif:beginIndex "2264" ;
+    nif:endIndex "2272" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_226_230> a nif:Word ;
+    nif:anchorOf "noch" ;
+    nif:beginIndex "226" ;
+    nif:endIndex "230" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2274_2288> a nif:Word ;
+    nif:anchorOf "Neuendettelsau" ;
+    nif:beginIndex "2274" ;
+    nif:endIndex "2288" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2290_2296> a nif:Word ;
+    nif:anchorOf "Passau" ;
+    nif:beginIndex "2290" ;
+    nif:endIndex "2296" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2298_2305> a nif:Word ;
+    nif:anchorOf "Rheinau" ;
+    nif:beginIndex "2298" ;
+    nif:endIndex "2305" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2307_2313> a nif:Word ;
+    nif:anchorOf "Rhinau" ;
+    nif:beginIndex "2307" ;
+    nif:endIndex "2313" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2315_2328> a nif:Word ;
+    nif:anchorOf "Sachsenwaldau" ;
+    nif:beginIndex "2315" ;
+    nif:endIndex "2328" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_231_233> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "231" ;
+    nif:endIndex "233" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2330_2337> a nif:Word ;
+    nif:anchorOf "Schönau" ;
+    nif:beginIndex "2330" ;
+    nif:endIndex "2337" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2339_2346> a nif:Word ;
+    nif:anchorOf "mehrere" ;
+    nif:beginIndex "2339" ;
+    nif:endIndex "2346" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2349_2355> a nif:Word ;
+    nif:anchorOf "Soltau" ;
+    nif:beginIndex "2349" ;
+    nif:endIndex "2355" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_234_244> a nif:Word ;
+    nif:anchorOf "Flussnamen" ;
+    nif:beginIndex "234" ;
+    nif:endIndex "244" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2357_2364> a nif:Word ;
+    nif:anchorOf "Steinau" ;
+    nif:beginIndex "2357" ;
+    nif:endIndex "2364" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2366_2373> a nif:Word ;
+    nif:anchorOf "mehrere" ;
+    nif:beginIndex "2366" ;
+    nif:endIndex "2373" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2376_2381> a nif:Word ;
+    nif:anchorOf "Wenau" ;
+    nif:beginIndex "2376" ;
+    nif:endIndex "2381" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2383_2389> a nif:Word ;
+    nif:anchorOf "Werdau" ;
+    nif:beginIndex "2383" ;
+    nif:endIndex "2389" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2391_2397> a nif:Word ;
+    nif:anchorOf "Wernau" ;
+    nif:beginIndex "2391" ;
+    nif:endIndex "2397" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2399_2405> a nif:Word ;
+    nif:anchorOf "Inseln" ;
+    nif:beginIndex "2399" ;
+    nif:endIndex "2405" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2409_2411> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "2409" ;
+    nif:endIndex "2411" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2412_2420> a nif:Word ;
+    nif:anchorOf "Bodensee" ;
+    nif:beginIndex "2412" ;
+    nif:endIndex "2420" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2422_2428> a nif:Word ;
+    nif:anchorOf "Lindau" ;
+    nif:beginIndex "2422" ;
+    nif:endIndex "2428" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2430_2436> a nif:Word ;
+    nif:anchorOf "Mainau" ;
+    nif:beginIndex "2430" ;
+    nif:endIndex "2436" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2438_2445> a nif:Word ;
+    nif:anchorOf "Mettnau" ;
+    nif:beginIndex "2438" ;
+    nif:endIndex "2445" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2447_2452> a nif:Word ;
+    nif:anchorOf "heute" ;
+    nif:beginIndex "2447" ;
+    nif:endIndex "2452" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2453_2462> a nif:Word ;
+    nif:anchorOf "Halbinsel" ;
+    nif:beginIndex "2453" ;
+    nif:endIndex "2462" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_245_254> a nif:Word ;
+    nif:anchorOf "bewahrten" ;
+    nif:beginIndex "245" ;
+    nif:endIndex "254" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2465_2474> a nif:Word ;
+    nif:anchorOf "Reichenau" ;
+    nif:beginIndex "2465" ;
+    nif:endIndex "2474" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2478_2480> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "2478" ;
+    nif:endIndex "2480" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2481_2490> a nif:Word ;
+    nif:anchorOf "Zürichsee" ;
+    nif:beginIndex "2481" ;
+    nif:endIndex "2490" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2492_2498> a nif:Word ;
+    nif:anchorOf "Ufenau" ;
+    nif:beginIndex "2492" ;
+    nif:endIndex "2498" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2500_2508> a nif:Word ;
+    nif:anchorOf "Lützelau" ;
+    nif:beginIndex "2500" ;
+    nif:endIndex "2508" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2512_2514> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "2512" ;
+    nif:endIndex "2514" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2515_2518> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "2515" ;
+    nif:endIndex "2518" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2519_2523> a nif:Word ;
+    nif:anchorOf "Lahn" ;
+    nif:beginIndex "2519" ;
+    nif:endIndex "2523" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2525_2533> a nif:Word ;
+    nif:anchorOf "Silberau" ;
+    nif:beginIndex "2525" ;
+    nif:endIndex "2533" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2537_2539> a nif:Word ;
+    nif:anchorOf "je" ;
+    nif:beginIndex "2537" ;
+    nif:endIndex "2539" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2540_2544> a nif:Word ;
+    nif:anchorOf "nach" ;
+    nif:beginIndex "2540" ;
+    nif:endIndex "2544" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2545_2551> a nif:Word ;
+    nif:anchorOf "Region" ;
+    nif:beginIndex "2545" ;
+    nif:endIndex "2551" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2552_2555> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "2552" ;
+    nif:endIndex "2555" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2556_2558> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "2556" ;
+    nif:endIndex "2558" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2559_2569> a nif:Word ;
+    nif:anchorOf "Inselnamen" ;
+    nif:beginIndex "2559" ;
+    nif:endIndex "2569" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_255_266> a nif:Word ;
+    nif:anchorOf "Bezeichnung" ;
+    nif:beginIndex "255" ;
+    nif:endIndex "266" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2570_2573> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "2570" ;
+    nif:endIndex "2573" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2574_2580> a nif:Word ;
+    nif:anchorOf "Endung" ;
+    nif:beginIndex "2574" ;
+    nif:endIndex "2580" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2581_2585> a nif:Word ;
+    nif:anchorOf "-aue" ;
+    nif:beginIndex "2581" ;
+    nif:endIndex "2585" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2586_2594> a nif:Word ;
+    nif:anchorOf "häufiger" ;
+    nif:beginIndex "2586" ;
+    nif:endIndex "2594" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2596_2600> a nif:Word ;
+    nif:anchorOf "vgl." ;
+    nif:beginIndex "2596" ;
+    nif:endIndex "2600" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2601_2604> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "2601" ;
+    nif:endIndex "2604" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2605_2610> a nif:Word ;
+    nif:anchorOf "Namen" ;
+    nif:beginIndex "2605" ;
+    nif:endIndex "2610" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2611_2614> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "2611" ;
+    nif:endIndex "2614" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2615_2626> a nif:Word ;
+    nif:anchorOf "Rheininseln" ;
+    nif:beginIndex "2615" ;
+    nif:endIndex "2626" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2627_2640> a nif:Word ;
+    nif:anchorOf "Königsklinger" ;
+    nif:beginIndex "2627" ;
+    nif:endIndex "2640" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2641_2644> a nif:Word ;
+    nif:anchorOf "Aue" ;
+    nif:beginIndex "2641" ;
+    nif:endIndex "2644" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2646_2658> a nif:Word ;
+    nif:anchorOf "Mariannenaue" ;
+    nif:beginIndex "2646" ;
+    nif:endIndex "2658" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2660_2671> a nif:Word ;
+    nif:anchorOf "Maulbeeraue" ;
+    nif:beginIndex "2660" ;
+    nif:endIndex "2671" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2673_2682> a nif:Word ;
+    nif:anchorOf "Petersaue" ;
+    nif:beginIndex "2673" ;
+    nif:endIndex "2682" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_267_270> a nif:Word ;
+    nif:anchorOf "für" ;
+    nif:beginIndex "267" ;
+    nif:endIndex "270" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2684_2696> a nif:Word ;
+    nif:anchorOf "Rettbergsaue" ;
+    nif:beginIndex "2684" ;
+    nif:endIndex "2696" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2698_2709> a nif:Word ;
+    nif:anchorOf "Rüdesheimer" ;
+    nif:beginIndex "2698" ;
+    nif:endIndex "2709" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2710_2713> a nif:Word ;
+    nif:anchorOf "Aue" ;
+    nif:beginIndex "2710" ;
+    nif:endIndex "2713" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2714_2717> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "2714" ;
+    nif:endIndex "2717" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2718_2726> a nif:Word ;
+    nif:anchorOf "Winkeler" ;
+    nif:beginIndex "2718" ;
+    nif:endIndex "2726" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_271_280> a nif:Word ;
+    nif:anchorOf "‚Gewässer" ;
+    nif:beginIndex "271" ;
+    nif:endIndex "280" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2727_2730> a nif:Word ;
+    nif:anchorOf "Aue" ;
+    nif:beginIndex "2727" ;
+    nif:endIndex "2730" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2732_2738> a nif:Word ;
+    nif:anchorOf "Flüsse" ;
+    nif:beginIndex "2732" ;
+    nif:endIndex "2738" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2739_2749> a nif:Word ;
+    nif:anchorOf "Flussnamen" ;
+    nif:beginIndex "2739" ;
+    nif:endIndex "2749" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2750_2753> a nif:Word ;
+    nif:anchorOf "auf" ;
+    nif:beginIndex "2750" ;
+    nif:endIndex "2753" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2754_2757> a nif:Word ;
+    nif:anchorOf "-au" ;
+    nif:beginIndex "2754" ;
+    nif:endIndex "2757" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2758_2764> a nif:Word ;
+    nif:anchorOf "kommen" ;
+    nif:beginIndex "2758" ;
+    nif:endIndex "2764" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2765_2767> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "2765" ;
+    nif:endIndex "2767" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2768_2774> a nif:Word ;
+    nif:anchorOf "vielen" ;
+    nif:beginIndex "2768" ;
+    nif:endIndex "2774" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2775_2783> a nif:Word ;
+    nif:anchorOf "Gegenden" ;
+    nif:beginIndex "2775" ;
+    nif:endIndex "2783" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2784_2787> a nif:Word ;
+    nif:anchorOf "des" ;
+    nif:beginIndex "2784" ;
+    nif:endIndex "2787" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2788_2797> a nif:Word ;
+    nif:anchorOf "deutschen" ;
+    nif:beginIndex "2788" ;
+    nif:endIndex "2797" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2798_2812> a nif:Word ;
+    nif:anchorOf "Sprachgebietes" ;
+    nif:beginIndex "2798" ;
+    nif:endIndex "2812" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2813_2823> a nif:Word ;
+    nif:anchorOf "vereinzelt" ;
+    nif:beginIndex "2813" ;
+    nif:endIndex "2823" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2824_2827> a nif:Word ;
+    nif:anchorOf "vor" ;
+    nif:beginIndex "2824" ;
+    nif:endIndex "2827" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2829_2834> a nif:Word ;
+    nif:anchorOf "etwas" ;
+    nif:beginIndex "2829" ;
+    nif:endIndex "2834" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_282_287> a nif:Word ;
+    nif:anchorOf "Fluss" ;
+    nif:beginIndex "282" ;
+    nif:endIndex "287" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2835_2843> a nif:Word ;
+    nif:anchorOf "häufiger" ;
+    nif:beginIndex "2835" ;
+    nif:endIndex "2843" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2844_2846> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "2844" ;
+    nif:endIndex "2846" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2847_2860> a nif:Word ;
+    nif:anchorOf "Niedersachsen" ;
+    nif:beginIndex "2847" ;
+    nif:endIndex "2860" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2861_2864> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "2861" ;
+    nif:endIndex "2864" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2865_2872> a nif:Word ;
+    nif:anchorOf "gehäuft" ;
+    nif:beginIndex "2865" ;
+    nif:endIndex "2872" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2873_2875> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "2873" ;
+    nif:endIndex "2875" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2876_2894> a nif:Word ;
+    nif:anchorOf "Schleswig-Holstein" ;
+    nif:beginIndex "2876" ;
+    nif:endIndex "2894" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_287_288> a nif:Word ;
+    nif:anchorOf "‘" ;
+    nif:beginIndex "287" ;
+    nif:endIndex "288" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2896_2898> a nif:Word ;
+    nif:anchorOf "Im" ;
+    nif:beginIndex "2896" ;
+    nif:endIndex "2898" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2899_2909> a nif:Word ;
+    nif:anchorOf "Landesteil" ;
+    nif:beginIndex "2899" ;
+    nif:endIndex "2909" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_290_300> a nif:Word ;
+    nif:anchorOf "vergleiche" ;
+    nif:beginIndex "290" ;
+    nif:endIndex "300" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2910_2919> a nif:Word ;
+    nif:anchorOf "Schleswig" ;
+    nif:beginIndex "2910" ;
+    nif:endIndex "2919" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2920_2930> a nif:Word ;
+    nif:anchorOf "entspricht" ;
+    nif:beginIndex "2920" ;
+    nif:endIndex "2930" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2931_2936> a nif:Word ;
+    nif:anchorOf "einer" ;
+    nif:beginIndex "2931" ;
+    nif:endIndex "2936" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2937_2946> a nif:Word ;
+    nif:anchorOf "deutschen" ;
+    nif:beginIndex "2937" ;
+    nif:endIndex "2946" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2947_2961> a nif:Word ;
+    nif:anchorOf "Namensvariante" ;
+    nif:beginIndex "2947" ;
+    nif:endIndex "2961" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2962_2965> a nif:Word ;
+    nif:anchorOf "auf" ;
+    nif:beginIndex "2962" ;
+    nif:endIndex "2965" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2966_2969> a nif:Word ;
+    nif:anchorOf "-au" ;
+    nif:beginIndex "2966" ;
+    nif:endIndex "2969" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2970_2972> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "2970" ;
+    nif:endIndex "2972" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2973_2976> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "2973" ;
+    nif:endIndex "2976" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2977_2982> a nif:Word ;
+    nif:anchorOf "Regel" ;
+    nif:beginIndex "2977" ;
+    nif:endIndex "2982" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2983_2987> a nif:Word ;
+    nif:anchorOf "eine" ;
+    nif:beginIndex "2983" ;
+    nif:endIndex "2987" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2988_2996> a nif:Word ;
+    nif:anchorOf "dänische" ;
+    nif:beginIndex "2988" ;
+    nif:endIndex "2996" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_2997_3000> a nif:Word ;
+    nif:anchorOf "auf" ;
+    nif:beginIndex "2997" ;
+    nif:endIndex "3000" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_29_31> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "29" ;
+    nif:endIndex "31" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3001_3003> a nif:Word ;
+    nif:anchorOf "-å" ;
+    nif:beginIndex "3001" ;
+    nif:endIndex "3003" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3005_3008> a nif:Word ;
+    nif:anchorOf "Die" ;
+    nif:beginIndex "3005" ;
+    nif:endIndex "3008" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3009_3014> a nif:Word ;
+    nif:anchorOf "Silbe" ;
+    nif:beginIndex "3009" ;
+    nif:endIndex "3014" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3015_3019> a nif:Word ;
+    nif:anchorOf "wird" ;
+    nif:beginIndex "3015" ;
+    nif:endIndex "3019" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_301_304> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "301" ;
+    nif:endIndex "304" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3020_3023> a nif:Word ;
+    nif:anchorOf "bei" ;
+    nif:beginIndex "3020" ;
+    nif:endIndex "3023" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3024_3031> a nif:Word ;
+    nif:anchorOf "manchen" ;
+    nif:beginIndex "3024" ;
+    nif:endIndex "3031" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3032_3037> a nif:Word ;
+    nif:anchorOf "Namen" ;
+    nif:beginIndex "3032" ;
+    nif:endIndex "3037" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3038_3041> a nif:Word ;
+    nif:anchorOf "wie" ;
+    nif:beginIndex "3038" ;
+    nif:endIndex "3041" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3042_3045> a nif:Word ;
+    nif:anchorOf "ein" ;
+    nif:beginIndex "3042" ;
+    nif:endIndex "3045" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3046_3052> a nif:Word ;
+    nif:anchorOf "Suffix" ;
+    nif:beginIndex "3046" ;
+    nif:endIndex "3052" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3053_3055> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "3053" ;
+    nif:endIndex "3055" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3056_3059> a nif:Word ;
+    nif:anchorOf "den" ;
+    nif:beginIndex "3056" ;
+    nif:endIndex "3059" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_305_315> a nif:Word ;
+    nif:anchorOf "Flussnamen" ;
+    nif:beginIndex "305" ;
+    nif:endIndex "315" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3060_3067> a nif:Word ;
+    nif:anchorOf "anderen" ;
+    nif:beginIndex "3060" ;
+    nif:endIndex "3067" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3068_3079> a nif:Word ;
+    nif:anchorOf "Bestandteil" ;
+    nif:beginIndex "3068" ;
+    nif:endIndex "3079" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3080_3089> a nif:Word ;
+    nif:anchorOf "angehängt" ;
+    nif:beginIndex "3080" ;
+    nif:endIndex "3089" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3091_3094> a nif:Word ;
+    nif:anchorOf "bei" ;
+    nif:beginIndex "3091" ;
+    nif:endIndex "3094" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3095_3102> a nif:Word ;
+    nif:anchorOf "anderen" ;
+    nif:beginIndex "3095" ;
+    nif:endIndex "3102" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3103_3109> a nif:Word ;
+    nif:anchorOf "bildet" ;
+    nif:beginIndex "3103" ;
+    nif:endIndex "3109" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3110_3113> a nif:Word ;
+    nif:anchorOf "sie" ;
+    nif:beginIndex "3110" ;
+    nif:endIndex "3113" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3114_3117> a nif:Word ;
+    nif:anchorOf "ein" ;
+    nif:beginIndex "3114" ;
+    nif:endIndex "3117" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3118_3125> a nif:Word ;
+    nif:anchorOf "eigenes" ;
+    nif:beginIndex "3118" ;
+    nif:endIndex "3125" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3126_3136> a nif:Word ;
+    nif:anchorOf "Substantiv" ;
+    nif:beginIndex "3126" ;
+    nif:endIndex "3136" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3142_3149> a nif:Word ;
+    nif:anchorOf "Altenau" ;
+    nif:beginIndex "3142" ;
+    nif:endIndex "3149" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3155_3166> a nif:Word ;
+    nif:anchorOf "Brokstedter" ;
+    nif:beginIndex "3155" ;
+    nif:endIndex "3166" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3167_3169> a nif:Word ;
+    nif:anchorOf "Au" ;
+    nif:beginIndex "3167" ;
+    nif:endIndex "3169" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_316_319> a nif:Word ;
+    nif:anchorOf "Ach" ;
+    nif:beginIndex "316" ;
+    nif:endIndex "319" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3174_3181> a nif:Word ;
+    nif:anchorOf "Glinder" ;
+    nif:beginIndex "3174" ;
+    nif:endIndex "3181" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3182_3184> a nif:Word ;
+    nif:anchorOf "Au" ;
+    nif:beginIndex "3182" ;
+    nif:endIndex "3184" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3189_3196> a nif:Word ;
+    nif:anchorOf "Ilmenau" ;
+    nif:beginIndex "3189" ;
+    nif:endIndex "3196" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3201_3206> a nif:Word ;
+    nif:anchorOf "Linau" ;
+    nif:beginIndex "3201" ;
+    nif:endIndex "3206" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3211_3218> a nif:Word ;
+    nif:anchorOf "Rheider" ;
+    nif:beginIndex "3211" ;
+    nif:endIndex "3218" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3219_3221> a nif:Word ;
+    nif:anchorOf "Au" ;
+    nif:beginIndex "3219" ;
+    nif:endIndex "3221" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_321_325> a nif:Word ;
+    nif:anchorOf "Aach" ;
+    nif:beginIndex "321" ;
+    nif:endIndex "325" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3226_3235> a nif:Word ;
+    nif:anchorOf "Schwartau" ;
+    nif:beginIndex "3226" ;
+    nif:endIndex "3235" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3240_3248> a nif:Word ;
+    nif:anchorOf "Warmenau" ;
+    nif:beginIndex "3240" ;
+    nif:endIndex "3248" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3253_3260> a nif:Word ;
+    nif:anchorOf "Wedeler" ;
+    nif:beginIndex "3253" ;
+    nif:endIndex "3260" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3261_3263> a nif:Word ;
+    nif:anchorOf "Au" ;
+    nif:beginIndex "3261" ;
+    nif:endIndex "3263" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3265_3274> a nif:Word ;
+    nif:anchorOf "Slawische" ;
+    nif:beginIndex "3265" ;
+    nif:endIndex "3274" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3275_3283> a nif:Word ;
+    nif:anchorOf "Herkunft" ;
+    nif:beginIndex "3275" ;
+    nif:endIndex "3283" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_327_338> a nif:Word ;
+    nif:anchorOf "Engelberger" ;
+    nif:beginIndex "327" ;
+    nif:endIndex "338" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3284_3291> a nif:Word ;
+    nif:anchorOf "Breslau" ;
+    nif:beginIndex "3284" ;
+    nif:endIndex "3291" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3293_3300> a nif:Word ;
+    nif:anchorOf "Bunzlau" ;
+    nif:beginIndex "3293" ;
+    nif:endIndex "3300" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_32_45> a nif:Word ;
+    nif:anchorOf "verschiedenen" ;
+    nif:beginIndex "32" ;
+    nif:endIndex "45" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3302_3314> a nif:Word ;
+    nif:anchorOf "Crimmitschau" ;
+    nif:beginIndex "3302" ;
+    nif:endIndex "3314" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3316_3324> a nif:Word ;
+    nif:anchorOf "Glauchau" ;
+    nif:beginIndex "3316" ;
+    nif:endIndex "3324" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3326_3332> a nif:Word ;
+    nif:anchorOf "Krakau" ;
+    nif:beginIndex "3326" ;
+    nif:endIndex "3332" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3334_3339> a nif:Word ;
+    nif:anchorOf "Löbau" ;
+    nif:beginIndex "3334" ;
+    nif:endIndex "3339" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3341_3347> a nif:Word ;
+    nif:anchorOf "Mockau" ;
+    nif:beginIndex "3341" ;
+    nif:endIndex "3347" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3349_3355> a nif:Word ;
+    nif:anchorOf "Moskau" ;
+    nif:beginIndex "3349" ;
+    nif:endIndex "3355" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3357_3360> a nif:Word ;
+    nif:anchorOf "Bad" ;
+    nif:beginIndex "3357" ;
+    nif:endIndex "3360" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3361_3367> a nif:Word ;
+    nif:anchorOf "Muskau" ;
+    nif:beginIndex "3361" ;
+    nif:endIndex "3367" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3369_3375> a nif:Word ;
+    nif:anchorOf "Ostrau" ;
+    nif:beginIndex "3369" ;
+    nif:endIndex "3375" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3377_3384> a nif:Word ;
+    nif:anchorOf "Spandau" ;
+    nif:beginIndex "3377" ;
+    nif:endIndex "3384" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3386_3392> a nif:Word ;
+    nif:anchorOf "Torgau" ;
+    nif:beginIndex "3386" ;
+    nif:endIndex "3392" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3394_3402> a nif:Word ;
+    nif:anchorOf "Warschau" ;
+    nif:beginIndex "3394" ;
+    nif:endIndex "3402" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_339_341> a nif:Word ;
+    nif:anchorOf "Aa" ;
+    nif:beginIndex "339" ;
+    nif:endIndex "341" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3404_3411> a nif:Word ;
+    nif:anchorOf "Wustrau" ;
+    nif:beginIndex "3404" ;
+    nif:endIndex "3411" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3413_3419> a nif:Word ;
+    nif:anchorOf "Zittau" ;
+    nif:beginIndex "3413" ;
+    nif:endIndex "3419" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3421_3430> a nif:Word ;
+    nif:anchorOf "Züllichau" ;
+    nif:beginIndex "3421" ;
+    nif:endIndex "3430" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3432_3439> a nif:Word ;
+    nif:anchorOf "Zwickau" ;
+    nif:beginIndex "3432" ;
+    nif:endIndex "3439" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_343_352> a nif:Word ;
+    nif:anchorOf "Bregenzer" ;
+    nif:beginIndex "343" ;
+    nif:endIndex "352" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3441_3449> a nif:Word ;
+    nif:anchorOf "Fraglich" ;
+    nif:beginIndex "3441" ;
+    nif:endIndex "3449" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3452_3461> a nif:Word ;
+    nif:anchorOf "Teilweise" ;
+    nif:beginIndex "3452" ;
+    nif:endIndex "3461" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3462_3466> a nif:Word ;
+    nif:anchorOf "ohne" ;
+    nif:beginIndex "3462" ;
+    nif:endIndex "3466" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3467_3474> a nif:Word ;
+    nif:anchorOf "Flussau" ;
+    nif:beginIndex "3467" ;
+    nif:endIndex "3474" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3475_3481> a nif:Word ;
+    nif:anchorOf "Ramsau" ;
+    nif:beginIndex "3475" ;
+    nif:endIndex "3481" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3483_3488> a nif:Word ;
+    nif:anchorOf "nicht" ;
+    nif:beginIndex "3483" ;
+    nif:endIndex "3488" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3489_3493> a nif:Word ;
+    nif:anchorOf "alle" ;
+    nif:beginIndex "3489" ;
+    nif:endIndex "3493" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3494_3497> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "3494" ;
+    nif:endIndex "3497" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3498_3505> a nif:Word ;
+    nif:anchorOf "Flussau" ;
+    nif:beginIndex "3498" ;
+    nif:endIndex "3505" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3508_3515> a nif:Word ;
+    nif:anchorOf "Flussau" ;
+    nif:beginIndex "3508" ;
+    nif:endIndex "3515" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3516_3518> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "3516" ;
+    nif:endIndex "3518" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3519_3524> a nif:Word ;
+    nif:anchorOf "altem" ;
+    nif:beginIndex "3519" ;
+    nif:endIndex "3524" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3525_3535> a nif:Word ;
+    nif:anchorOf "slawischem" ;
+    nif:beginIndex "3525" ;
+    nif:endIndex "3535" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3536_3542> a nif:Word ;
+    nif:anchorOf "Gebiet" ;
+    nif:beginIndex "3536" ;
+    nif:endIndex "3542" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_353_356> a nif:Word ;
+    nif:anchorOf "Ach" ;
+    nif:beginIndex "353" ;
+    nif:endIndex "356" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3543_3549> a nif:Word ;
+    nif:anchorOf "Dessau" ;
+    nif:beginIndex "3543" ;
+    nif:endIndex "3549" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3551_3557> a nif:Word ;
+    nif:anchorOf "Krumau" ;
+    nif:beginIndex "3551" ;
+    nif:endIndex "3557" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3559_3565> a nif:Word ;
+    nif:anchorOf "Roßlau" ;
+    nif:beginIndex "3559" ;
+    nif:endIndex "3565" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3567_3572> a nif:Word ;
+    nif:anchorOf "Siehe" ;
+    nif:beginIndex "3567" ;
+    nif:endIndex "3572" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3573_3577> a nif:Word ;
+    nif:anchorOf "auch" ;
+    nif:beginIndex "3573" ;
+    nif:endIndex "3577" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3582_3592> a nif:Word ;
+    nif:anchorOf "Wiktionary" ;
+    nif:beginIndex "3582" ;
+    nif:endIndex "3592" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_358_362> a nif:Word ;
+    nif:anchorOf "Ache" ;
+    nif:beginIndex "358" ;
+    nif:endIndex "362" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3593_3603> a nif:Word ;
+    nif:anchorOf "Wiktionary" ;
+    nif:beginIndex "3593" ;
+    nif:endIndex "3603" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3605_3608> a nif:Word ;
+    nif:anchorOf "-au" ;
+    nif:beginIndex "3605" ;
+    nif:endIndex "3608" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3609_3610> a nif:Word ;
+    nif:anchorOf "–" ;
+    nif:beginIndex "3609" ;
+    nif:endIndex "3610" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3611_3632> a nif:Word ;
+    nif:anchorOf "Bedeutungserklärungen" ;
+    nif:beginIndex "3611" ;
+    nif:endIndex "3632" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3634_3646> a nif:Word ;
+    nif:anchorOf "Wortherkunft" ;
+    nif:beginIndex "3634" ;
+    nif:endIndex "3646" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3648_3656> a nif:Word ;
+    nif:anchorOf "Synonyme" ;
+    nif:beginIndex "3648" ;
+    nif:endIndex "3656" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_364_371> a nif:Word ;
+    nif:anchorOf "Brigach" ;
+    nif:beginIndex "364" ;
+    nif:endIndex "371" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3658_3671> a nif:Word ;
+    nif:anchorOf "Übersetzungen" ;
+    nif:beginIndex "3658" ;
+    nif:endIndex "3671" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3676_3686> a nif:Word ;
+    nif:anchorOf "Wiktionary" ;
+    nif:beginIndex "3676" ;
+    nif:endIndex "3686" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3687_3697> a nif:Word ;
+    nif:anchorOf "Wiktionary" ;
+    nif:beginIndex "3687" ;
+    nif:endIndex "3697" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3699_3715> a nif:Word ;
+    nif:anchorOf "Kollektivbildung" ;
+    nif:beginIndex "3699" ;
+    nif:endIndex "3715" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3716_3717> a nif:Word ;
+    nif:anchorOf "–" ;
+    nif:beginIndex "3716" ;
+    nif:endIndex "3717" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3718_3739> a nif:Word ;
+    nif:anchorOf "Bedeutungserklärungen" ;
+    nif:beginIndex "3718" ;
+    nif:endIndex "3739" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_373_378> a nif:Word ;
+    nif:anchorOf "Fulda" ;
+    nif:beginIndex "373" ;
+    nif:endIndex "378" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3741_3753> a nif:Word ;
+    nif:anchorOf "Wortherkunft" ;
+    nif:beginIndex "3741" ;
+    nif:endIndex "3753" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3755_3763> a nif:Word ;
+    nif:anchorOf "Synonyme" ;
+    nif:beginIndex "3755" ;
+    nif:endIndex "3763" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_3765_3778> a nif:Word ;
+    nif:anchorOf "Übersetzungen" ;
+    nif:beginIndex "3765" ;
+    nif:endIndex "3778" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_379_383> a nif:Word ;
+    nif:anchorOf "oder" ;
+    nif:beginIndex "379" ;
+    nif:endIndex "383" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_384_391> a nif:Word ;
+    nif:anchorOf "Salzach" ;
+    nif:beginIndex "384" ;
+    nif:endIndex "391" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_393_396> a nif:Word ;
+    nif:anchorOf "Die" ;
+    nif:beginIndex "393" ;
+    nif:endIndex "396" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_397_415> a nif:Word ;
+    nif:anchorOf "Namensbestandteile" ;
+    nif:beginIndex "397" ;
+    nif:endIndex "415" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_416_418> a nif:Word ;
+    nif:anchorOf "Au" ;
+    nif:beginIndex "416" ;
+    nif:endIndex "418" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_419_420> a nif:Word ;
+    nif:anchorOf "e" ;
+    nif:beginIndex "419" ;
+    nif:endIndex "420" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_423_425> a nif:Word ;
+    nif:anchorOf "Äu" ;
+    nif:beginIndex "423" ;
+    nif:endIndex "425" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_426_429> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "426" ;
+    nif:endIndex "429" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_430_432> a nif:Word ;
+    nif:anchorOf "Aa" ;
+    nif:beginIndex "430" ;
+    nif:endIndex "432" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_433_435> a nif:Word ;
+    nif:anchorOf "ch" ;
+    nif:beginIndex "433" ;
+    nif:endIndex "435" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_437_439> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "437" ;
+    nif:endIndex "439" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_440_445> a nif:Word ;
+    nif:anchorOf "Namen" ;
+    nif:beginIndex "440" ;
+    nif:endIndex "445" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_446_458> a nif:Word ;
+    nif:anchorOf "germanischer" ;
+    nif:beginIndex "446" ;
+    nif:endIndex "458" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_459_467> a nif:Word ;
+    nif:anchorOf "Herkunft" ;
+    nif:beginIndex "459" ;
+    nif:endIndex "467" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_468_474> a nif:Word ;
+    nif:anchorOf "können" ;
+    nif:beginIndex "468" ;
+    nif:endIndex "474" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_46_63> a nif:Word ;
+    nif:anchorOf "deutschsprachigen" ;
+    nif:beginIndex "46" ;
+    nif:endIndex "63" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_475_479> a nif:Word ;
+    nif:anchorOf "drei" ;
+    nif:beginIndex "475" ;
+    nif:endIndex "479" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_480_492> a nif:Word ;
+    nif:anchorOf "verschiedene" ;
+    nif:beginIndex "480" ;
+    nif:endIndex "492" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_493_504> a nif:Word ;
+    nif:anchorOf "Bedeutungen" ;
+    nif:beginIndex "493" ;
+    nif:endIndex "504" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_4_7> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "4" ;
+    nif:endIndex "7" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_505_510> a nif:Word ;
+    nif:anchorOf "haben" ;
+    nif:beginIndex "505" ;
+    nif:endIndex "510" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_512_513> a nif:Word ;
+    nif:anchorOf "1" ;
+    nif:beginIndex "512" ;
+    nif:endIndex "513" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_520_523> a nif:Word ;
+    nif:anchorOf "Aue" ;
+    nif:beginIndex "520" ;
+    nif:endIndex "523" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_524_526> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "524" ;
+    nif:endIndex "526" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_527_532> a nif:Word ;
+    nif:anchorOf "Sinne" ;
+    nif:beginIndex "527" ;
+    nif:endIndex "532" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_533_536> a nif:Word ;
+    nif:anchorOf "der" ;
+    nif:beginIndex "533" ;
+    nif:endIndex "536" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_537_545> a nif:Word ;
+    nif:anchorOf "heutigen" ;
+    nif:beginIndex "537" ;
+    nif:endIndex "545" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_546_557> a nif:Word ;
+    nif:anchorOf "allgemeinen" ;
+    nif:beginIndex "546" ;
+    nif:endIndex "557" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_558_567> a nif:Word ;
+    nif:anchorOf "Bedeutung" ;
+    nif:beginIndex "558" ;
+    nif:endIndex "567" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_568_576> a nif:Word ;
+    nif:anchorOf "‚feuchte" ;
+    nif:beginIndex "568" ;
+    nif:endIndex "576" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_577_586> a nif:Word ;
+    nif:anchorOf "Niederung" ;
+    nif:beginIndex "577" ;
+    nif:endIndex "586" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_586_587> a nif:Word ;
+    nif:anchorOf "‘" ;
+    nif:beginIndex "586" ;
+    nif:endIndex "587" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_589_592> a nif:Word ;
+    nif:anchorOf "wie" ;
+    nif:beginIndex "589" ;
+    nif:endIndex "592" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_593_596> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "593" ;
+    nif:endIndex "596" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_597_604> a nif:Word ;
+    nif:anchorOf "Rheinau" ;
+    nif:beginIndex "597" ;
+    nif:endIndex "604" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_606_607> a nif:Word ;
+    nif:anchorOf "2" ;
+    nif:beginIndex "606" ;
+    nif:endIndex "607" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_614_627> a nif:Word ;
+    nif:anchorOf "Fließgewässer" ;
+    nif:beginIndex "614" ;
+    nif:endIndex "627" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_628_631> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "628" ;
+    nif:endIndex "631" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_632_637> a nif:Word ;
+    nif:anchorOf "davon" ;
+    nif:beginIndex "632" ;
+    nif:endIndex "637" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_638_649> a nif:Word ;
+    nif:anchorOf "abgeleitete" ;
+    nif:beginIndex "638" ;
+    nif:endIndex "649" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_64_72> a nif:Word ;
+    nif:anchorOf "Regionen" ;
+    nif:beginIndex "64" ;
+    nif:endIndex "72" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_650_659> a nif:Word ;
+    nif:anchorOf "Ortsnamen" ;
+    nif:beginIndex "650" ;
+    nif:endIndex "659" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_661_663> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "661" ;
+    nif:endIndex "663" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_664_677> a nif:Word ;
+    nif:anchorOf "Niedersachsen" ;
+    nif:beginIndex "664" ;
+    nif:endIndex "677" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_678_681> a nif:Word ;
+    nif:anchorOf "und" ;
+    nif:beginIndex "678" ;
+    nif:endIndex "681" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_682_700> a nif:Word ;
+    nif:anchorOf "Schleswig-Holstein" ;
+    nif:beginIndex "682" ;
+    nif:endIndex "700" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_702_705> a nif:Word ;
+    nif:anchorOf "wie" ;
+    nif:beginIndex "702" ;
+    nif:endIndex "705" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_706_715> a nif:Word ;
+    nif:anchorOf "Schwartau" ;
+    nif:beginIndex "706" ;
+    nif:endIndex "715" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_717_721> a nif:Word ;
+    nif:anchorOf "auch" ;
+    nif:beginIndex "717" ;
+    nif:endIndex "721" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_722_724> a nif:Word ;
+    nif:anchorOf "-a" ;
+    nif:beginIndex "722" ;
+    nif:endIndex "724" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_726_741> a nif:Word ;
+    nif:anchorOf "gleichbedeutend" ;
+    nif:beginIndex "726" ;
+    nif:endIndex "741" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_742_745> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "742" ;
+    nif:endIndex "745" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_746_749> a nif:Word ;
+    nif:anchorOf "dem" ;
+    nif:beginIndex "746" ;
+    nif:endIndex "749" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_750_759> a nif:Word ;
+    nif:anchorOf "dänischen" ;
+    nif:beginIndex "750" ;
+    nif:endIndex "759" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_75_86> a nif:Word ;
+    nif:anchorOf "Bedeutungen" ;
+    nif:beginIndex "75" ;
+    nif:endIndex "86" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_760_762> a nif:Word ;
+    nif:anchorOf "-å" ;
+    nif:beginIndex "760" ;
+    nif:endIndex "762" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_763_778> a nif:Word ;
+    nif:anchorOf "beziehungsweise" ;
+    nif:beginIndex "763" ;
+    nif:endIndex "778" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_779_780> a nif:Word ;
+    nif:anchorOf "Å" ;
+    nif:beginIndex "779" ;
+    nif:endIndex "780" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_782_785> a nif:Word ;
+    nif:anchorOf "Die" ;
+    nif:beginIndex "782" ;
+    nif:endIndex "785" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_786_798> a nif:Word ;
+    nif:anchorOf "westfälische" ;
+    nif:beginIndex "786" ;
+    nif:endIndex "798" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_799_811> a nif:Word ;
+    nif:anchorOf "Entsprechung" ;
+    nif:beginIndex "799" ;
+    nif:endIndex "811" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_812_815> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "812" ;
+    nif:endIndex "815" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_816_818> a nif:Word ;
+    nif:anchorOf "Aa" ;
+    nif:beginIndex "816" ;
+    nif:endIndex "818" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_819_822> a nif:Word ;
+    nif:anchorOf "wie" ;
+    nif:beginIndex "819" ;
+    nif:endIndex "822" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_823_825> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "823" ;
+    nif:endIndex "825" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_826_835> a nif:Word ;
+    nif:anchorOf "Bocholter" ;
+    nif:beginIndex "826" ;
+    nif:endIndex "835" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_836_838> a nif:Word ;
+    nif:anchorOf "Aa" ;
+    nif:beginIndex "836" ;
+    nif:endIndex "838" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_840_843> a nif:Word ;
+    nif:anchorOf "die" ;
+    nif:beginIndex "840" ;
+    nif:endIndex "843" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_844_856> a nif:Word ;
+    nif:anchorOf "oberdeutsche" ;
+    nif:beginIndex "844" ;
+    nif:endIndex "856" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_857_869> a nif:Word ;
+    nif:anchorOf "Entsprechung" ;
+    nif:beginIndex "857" ;
+    nif:endIndex "869" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_870_873> a nif:Word ;
+    nif:anchorOf "ist" ;
+    nif:beginIndex "870" ;
+    nif:endIndex "873" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_874_878> a nif:Word ;
+    nif:anchorOf "-ach" ;
+    nif:beginIndex "874" ;
+    nif:endIndex "878" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_879_883> a nif:Word ;
+    nif:anchorOf "oder" ;
+    nif:beginIndex "879" ;
+    nif:endIndex "883" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_884_888> a nif:Word ;
+    nif:anchorOf "Ache" ;
+    nif:beginIndex "884" ;
+    nif:endIndex "888" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_889_890> a nif:Word ;
+    nif:anchorOf "n" ;
+    nif:beginIndex "889" ;
+    nif:endIndex "890" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_893_894> a nif:Word ;
+    nif:anchorOf "3" ;
+    nif:beginIndex "893" ;
+    nif:endIndex "894" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_89_92> a nif:Word ;
+    nif:anchorOf "Ort" ;
+    nif:beginIndex "89" ;
+    nif:endIndex "92" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_8_12> a nif:Word ;
+    nif:anchorOf "eine" ;
+    nif:beginIndex "8" ;
+    nif:endIndex "12" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_901_910> a nif:Word ;
+    nif:anchorOf "Seeinseln" ;
+    nif:beginIndex "901" ;
+    nif:endIndex "910" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_912_914> a nif:Word ;
+    nif:anchorOf "im" ;
+    nif:beginIndex "912" ;
+    nif:endIndex "914" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_915_928> a nif:Word ;
+    nif:anchorOf "oberdeutschen" ;
+    nif:beginIndex "915" ;
+    nif:endIndex "928" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_929_941> a nif:Word ;
+    nif:anchorOf "Sprachgebiet" ;
+    nif:beginIndex "929" ;
+    nif:endIndex "941" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_93_95> a nif:Word ;
+    nif:anchorOf "am" ;
+    nif:beginIndex "93" ;
+    nif:endIndex "95" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_943_945> a nif:Word ;
+    nif:anchorOf "wo" ;
+    nif:beginIndex "943" ;
+    nif:endIndex "945" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_946_957> a nif:Word ;
+    nif:anchorOf "Flussinseln" ;
+    nif:beginIndex "946" ;
+    nif:endIndex "957" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_958_965> a nif:Word ;
+    nif:anchorOf "zumeist" ;
+    nif:beginIndex "958" ;
+    nif:endIndex "965" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_966_970> a nif:Word ;
+    nif:anchorOf "Werd" ;
+    nif:beginIndex "966" ;
+    nif:endIndex "970" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_96_102> a nif:Word ;
+    nif:anchorOf "Wasser" ;
+    nif:beginIndex "96" ;
+    nif:endIndex "102" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_972_975> a nif:Word ;
+    nif:anchorOf "mit" ;
+    nif:beginIndex "972" ;
+    nif:endIndex "975" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_976_983> a nif:Word ;
+    nif:anchorOf "Rundung" ;
+    nif:beginIndex "976" ;
+    nif:endIndex "983" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_984_990> a nif:Word ;
+    nif:anchorOf "-wörth" ;
+    nif:beginIndex "984" ;
+    nif:endIndex "990" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/-au?dbpv=2016-10&nif=word_offset_992_999> a nif:Word ;
+    nif:anchorOf "genannt" ;
+    nif:beginIndex "992" ;
+    nif:endIndex "999" ;
+    nif:referenceContext <http://dbpedia.org/resource/-au?dbpv=2016-10&nif=context> .
+

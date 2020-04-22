@@ -1,0 +1,1215 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_0_10> a nif:Word ;
+    nif:anchorOf "Andropogon" ;
+    nif:beginIndex "0" ;
+    nif:endIndex "10" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1001_1002> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "1001" ;
+    nif:endIndex "1002" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1003_1012> a nif:Word ;
+    nif:anchorOf "publicado" ;
+    nif:beginIndex "1003" ;
+    nif:endIndex "1012" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1013_1015> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "1013" ;
+    nif:endIndex "1015" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1016_1023> a nif:Word ;
+    nif:anchorOf "Species" ;
+    nif:beginIndex "1016" ;
+    nif:endIndex "1023" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1024_1033> a nif:Word ;
+    nif:anchorOf "Plantarum" ;
+    nif:beginIndex "1024" ;
+    nif:endIndex "1033" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1034_1035> a nif:Word ;
+    nif:anchorOf "2" ;
+    nif:beginIndex "1034" ;
+    nif:endIndex "1035" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1037_1041> a nif:Word ;
+    nif:anchorOf "1045" ;
+    nif:beginIndex "1037" ;
+    nif:endIndex "1041" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_103_109> a nif:Word ;
+    nif:anchorOf "Unidos" ;
+    nif:beginIndex "103" ;
+    nif:endIndex "109" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1043_1047> a nif:Word ;
+    nif:anchorOf "1753" ;
+    nif:beginIndex "1043" ;
+    nif:endIndex "1047" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1049_1051> a nif:Word ;
+    nif:anchorOf "La" ;
+    nif:beginIndex "1049" ;
+    nif:endIndex "1051" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1052_1059> a nif:Word ;
+    nif:anchorOf "especie" ;
+    nif:beginIndex "1052" ;
+    nif:endIndex "1059" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1060_1064> a nif:Word ;
+    nif:anchorOf "tipo" ;
+    nif:beginIndex "1060" ;
+    nif:endIndex "1064" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1065_1067> a nif:Word ;
+    nif:anchorOf "es" ;
+    nif:beginIndex "1065" ;
+    nif:endIndex "1067" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1069_1079> a nif:Word ;
+    nif:anchorOf "Andropogon" ;
+    nif:beginIndex "1069" ;
+    nif:endIndex "1079" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1080_1090> a nif:Word ;
+    nif:anchorOf "distachyos" ;
+    nif:beginIndex "1080" ;
+    nif:endIndex "1090" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1091_1101> a nif:Word ;
+    nif:anchorOf "Etimología" ;
+    nif:beginIndex "1091" ;
+    nif:endIndex "1101" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1102_1104> a nif:Word ;
+    nif:anchorOf "El" ;
+    nif:beginIndex "1102" ;
+    nif:endIndex "1104" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1105_1111> a nif:Word ;
+    nif:anchorOf "nombre" ;
+    nif:beginIndex "1105" ;
+    nif:endIndex "1111" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_110_111> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "110" ;
+    nif:endIndex "111" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1112_1115> a nif:Word ;
+    nif:anchorOf "del" ;
+    nif:beginIndex "1112" ;
+    nif:endIndex "1115" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1116_1122> a nif:Word ;
+    nif:anchorOf "género" ;
+    nif:beginIndex "1116" ;
+    nif:endIndex "1122" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1123_1131> a nif:Word ;
+    nif:anchorOf "proviene" ;
+    nif:beginIndex "1123" ;
+    nif:endIndex "1131" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_112_122> a nif:Word ;
+    nif:anchorOf "Sudamérica" ;
+    nif:beginIndex "112" ;
+    nif:endIndex "122" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1132_1135> a nif:Word ;
+    nif:anchorOf "del" ;
+    nif:beginIndex "1132" ;
+    nif:endIndex "1135" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1136_1142> a nif:Word ;
+    nif:anchorOf "griego" ;
+    nif:beginIndex "1136" ;
+    nif:endIndex "1142" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1143_1147> a nif:Word ;
+    nif:anchorOf "aner" ;
+    nif:beginIndex "1143" ;
+    nif:endIndex "1147" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1148_1160> a nif:Word ;
+    nif:anchorOf "andr-(hombre" ;
+    nif:beginIndex "1148" ;
+    nif:endIndex "1160" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1162_1163> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "1162" ;
+    nif:endIndex "1163" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1164_1169> a nif:Word ;
+    nif:anchorOf "pogon" ;
+    nif:beginIndex "1164" ;
+    nif:endIndex "1169" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1171_1176> a nif:Word ;
+    nif:anchorOf "barba" ;
+    nif:beginIndex "1171" ;
+    nif:endIndex "1176" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1179_1188> a nif:Word ;
+    nif:anchorOf "aludiendo" ;
+    nif:beginIndex "1179" ;
+    nif:endIndex "1188" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1189_1190> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1189" ;
+    nif:endIndex "1190" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1191_1194> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "1191" ;
+    nif:endIndex "1194" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1195_1207> a nif:Word ;
+    nif:anchorOf "vellosidades" ;
+    nif:beginIndex "1195" ;
+    nif:endIndex "1207" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_11_13> a nif:Word ;
+    nif:anchorOf "es" ;
+    nif:beginIndex "11" ;
+    nif:endIndex "13" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1208_1210> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1208" ;
+    nif:endIndex "1210" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1211_1214> a nif:Word ;
+    nif:anchorOf "los" ;
+    nif:beginIndex "1211" ;
+    nif:endIndex "1214" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1215_1224> a nif:Word ;
+    nif:anchorOf "pedicelos" ;
+    nif:beginIndex "1215" ;
+    nif:endIndex "1224" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1225_1227> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "1225" ;
+    nif:endIndex "1227" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1228_1231> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "1228" ;
+    nif:endIndex "1231" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1232_1243> a nif:Word ;
+    nif:anchorOf "espiguillas" ;
+    nif:beginIndex "1232" ;
+    nif:endIndex "1243" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_123_125> a nif:Word ;
+    nif:anchorOf """
+
+""" ;
+    nif:beginIndex "123" ;
+    nif:endIndex "125" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1244_1253> a nif:Word ;
+    nif:anchorOf "estériles" ;
+    nif:beginIndex "1244" ;
+    nif:endIndex "1253" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1254_1264> a nif:Word ;
+    nif:anchorOf "masculinas" ;
+    nif:beginIndex "1254" ;
+    nif:endIndex "1264" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_125_136> a nif:Word ;
+    nif:anchorOf "Descripción" ;
+    nif:beginIndex "125" ;
+    nif:endIndex "136" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1265_1267> a nif:Word ;
+    nif:anchorOf """
+
+""" ;
+    nif:beginIndex "1265" ;
+    nif:endIndex "1267" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1267_1275> a nif:Word ;
+    nif:anchorOf "Especies" ;
+    nif:beginIndex "1267" ;
+    nif:endIndex "1275" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_1275_1276> a nif:Word ;
+    nif:anchorOf """
+""" ;
+    nif:beginIndex "1275" ;
+    nif:endIndex "1276" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_136_137> a nif:Word ;
+    nif:anchorOf """
+""" ;
+    nif:beginIndex "136" ;
+    nif:endIndex "137" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_137_140> a nif:Word ;
+    nif:anchorOf "Son" ;
+    nif:beginIndex "137" ;
+    nif:endIndex "140" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_141_148> a nif:Word ;
+    nif:anchorOf "plantas" ;
+    nif:beginIndex "141" ;
+    nif:endIndex "148" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_149_157> a nif:Word ;
+    nif:anchorOf "perennes" ;
+    nif:beginIndex "149" ;
+    nif:endIndex "157" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_14_16> a nif:Word ;
+    nif:anchorOf "un" ;
+    nif:beginIndex "14" ;
+    nif:endIndex "16" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_159_169> a nif:Word ;
+    nif:anchorOf "cespitosas" ;
+    nif:beginIndex "159" ;
+    nif:endIndex "169" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_171_176> a nif:Word ;
+    nif:anchorOf "Hojas" ;
+    nif:beginIndex "171" ;
+    nif:endIndex "176" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_177_180> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "177" ;
+    nif:endIndex "180" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_17_23> a nif:Word ;
+    nif:anchorOf "género" ;
+    nif:beginIndex "17" ;
+    nif:endIndex "23" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_181_187> a nif:Word ;
+    nif:anchorOf "lígula" ;
+    nif:beginIndex "181" ;
+    nif:endIndex "187" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_188_198> a nif:Word ;
+    nif:anchorOf "membranosa" ;
+    nif:beginIndex "188" ;
+    nif:endIndex "198" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_200_205> a nif:Word ;
+    nif:anchorOf "corta" ;
+    nif:beginIndex "200" ;
+    nif:endIndex "205" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_207_214> a nif:Word ;
+    nif:anchorOf "ciliada" ;
+    nif:beginIndex "207" ;
+    nif:endIndex "214" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_215_217> a nif:Word ;
+    nif:anchorOf "en" ;
+    nif:beginIndex "215" ;
+    nif:endIndex "217" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_218_220> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "218" ;
+    nif:endIndex "220" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_221_225> a nif:Word ;
+    nif:anchorOf "base" ;
+    nif:beginIndex "221" ;
+    nif:endIndex "225" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_227_241> a nif:Word ;
+    nif:anchorOf "Inflorescencia" ;
+    nif:beginIndex "227" ;
+    nif:endIndex "241" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_242_251> a nif:Word ;
+    nif:anchorOf "compuesta" ;
+    nif:beginIndex "242" ;
+    nif:endIndex "251" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_24_26> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "24" ;
+    nif:endIndex "26" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_252_255> a nif:Word ;
+    nif:anchorOf "por" ;
+    nif:beginIndex "252" ;
+    nif:endIndex "255" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_256_257> a nif:Word ;
+    nif:anchorOf "2" ;
+    nif:beginIndex "256" ;
+    nif:endIndex "257" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_258_265> a nif:Word ;
+    nif:anchorOf "racimos" ;
+    nif:beginIndex "258" ;
+    nif:endIndex "265" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_266_279> a nif:Word ;
+    nif:anchorOf "digitadamente" ;
+    nif:beginIndex "266" ;
+    nif:endIndex "279" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_27_34> a nif:Word ;
+    nif:anchorOf "plantas" ;
+    nif:beginIndex "27" ;
+    nif:endIndex "34" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_280_290> a nif:Word ;
+    nif:anchorOf "dispuestos" ;
+    nif:beginIndex "280" ;
+    nif:endIndex "290" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_292_303> a nif:Word ;
+    nif:anchorOf "Espiguillas" ;
+    nif:beginIndex "292" ;
+    nif:endIndex "303" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_304_313> a nif:Word ;
+    nif:anchorOf "geminadas" ;
+    nif:beginIndex "304" ;
+    nif:endIndex "313" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_315_326> a nif:Word ;
+    nif:anchorOf "articuladas" ;
+    nif:beginIndex "315" ;
+    nif:endIndex "326" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_327_330> a nif:Word ;
+    nif:anchorOf "por" ;
+    nif:beginIndex "327" ;
+    nif:endIndex "330" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_331_337> a nif:Word ;
+    nif:anchorOf "debajo" ;
+    nif:beginIndex "331" ;
+    nif:endIndex "337" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_338_340> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "338" ;
+    nif:endIndex "340" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_341_344> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "341" ;
+    nif:endIndex "344" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_345_351> a nif:Word ;
+    nif:anchorOf "glumas" ;
+    nif:beginIndex "345" ;
+    nif:endIndex "351" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_353_364> a nif:Word ;
+    nif:anchorOf "ligeramente" ;
+    nif:beginIndex "353" ;
+    nif:endIndex "364" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_35_37> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "35" ;
+    nif:endIndex "37" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_365_376> a nif:Word ;
+    nif:anchorOf "comprimidas" ;
+    nif:beginIndex "365" ;
+    nif:endIndex "376" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_377_394> a nif:Word ;
+    nif:anchorOf "dorsiventralmente" ;
+    nif:beginIndex "377" ;
+    nif:endIndex "394" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_38_40> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "38" ;
+    nif:endIndex "40" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_396_406> a nif:Word ;
+    nif:anchorOf "desiguales" ;
+    nif:beginIndex "396" ;
+    nif:endIndex "406" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_408_410> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "408" ;
+    nif:endIndex "410" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_411_419> a nif:Word ;
+    nif:anchorOf "inferior" ;
+    nif:beginIndex "411" ;
+    nif:endIndex "419" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_41_48> a nif:Word ;
+    nif:anchorOf "familia" ;
+    nif:beginIndex "41" ;
+    nif:endIndex "48" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_420_422> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "420" ;
+    nif:endIndex "422" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_423_427> a nif:Word ;
+    nif:anchorOf "cada" ;
+    nif:beginIndex "423" ;
+    nif:endIndex "427" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_428_434> a nif:Word ;
+    nif:anchorOf "pareja" ;
+    nif:beginIndex "428" ;
+    nif:endIndex "434" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_435_442> a nif:Word ;
+    nif:anchorOf "sentada" ;
+    nif:beginIndex "435" ;
+    nif:endIndex "442" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_444_447> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "444" ;
+    nif:endIndex "447" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_448_449> a nif:Word ;
+    nif:anchorOf "1" ;
+    nif:beginIndex "448" ;
+    nif:endIndex "449" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_450_454> a nif:Word ;
+    nif:anchorOf "flor" ;
+    nif:beginIndex "450" ;
+    nif:endIndex "454" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_455_463> a nif:Word ;
+    nif:anchorOf "inferior" ;
+    nif:beginIndex "455" ;
+    nif:endIndex "463" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_464_472> a nif:Word ;
+    nif:anchorOf "reducida" ;
+    nif:beginIndex "464" ;
+    nif:endIndex "472" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_473_474> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "473" ;
+    nif:endIndex "474" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_475_477> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "475" ;
+    nif:endIndex "477" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_478_482> a nif:Word ;
+    nif:anchorOf "lema" ;
+    nif:beginIndex "478" ;
+    nif:endIndex "482" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_483_484> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "483" ;
+    nif:endIndex "484" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_485_489> a nif:Word ;
+    nif:anchorOf "otra" ;
+    nif:beginIndex "485" ;
+    nif:endIndex "489" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_490_498> a nif:Word ;
+    nif:anchorOf "superior" ;
+    nif:beginIndex "490" ;
+    nif:endIndex "498" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_499_511> a nif:Word ;
+    nif:anchorOf "hermafrodita" ;
+    nif:beginIndex "499" ;
+    nif:endIndex "511" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_49_51> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "49" ;
+    nif:endIndex "51" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_513_515> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "513" ;
+    nif:endIndex "515" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_516_524> a nif:Word ;
+    nif:anchorOf "superior" ;
+    nif:beginIndex "516" ;
+    nif:endIndex "524" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_525_536> a nif:Word ;
+    nif:anchorOf "pedunculada" ;
+    nif:beginIndex "525" ;
+    nif:endIndex "536" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_52_55> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "52" ;
+    nif:endIndex "55" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_538_541> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "538" ;
+    nif:endIndex "541" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_542_543> a nif:Word ;
+    nif:anchorOf "1" ;
+    nif:beginIndex "542" ;
+    nif:endIndex "543" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_544_548> a nif:Word ;
+    nif:anchorOf "flor" ;
+    nif:beginIndex "544" ;
+    nif:endIndex "548" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_549_557> a nif:Word ;
+    nif:anchorOf "inferior" ;
+    nif:beginIndex "549" ;
+    nif:endIndex "557" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_558_566> a nif:Word ;
+    nif:anchorOf "reducida" ;
+    nif:beginIndex "558" ;
+    nif:endIndex "566" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_567_568> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "567" ;
+    nif:endIndex "568" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_569_571> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "569" ;
+    nif:endIndex "571" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_56_63> a nif:Word ;
+    nif:anchorOf "poáceas" ;
+    nif:beginIndex "56" ;
+    nif:endIndex "63" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_572_576> a nif:Word ;
+    nif:anchorOf "lema" ;
+    nif:beginIndex "572" ;
+    nif:endIndex "576" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_577_578> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "577" ;
+    nif:endIndex "578" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_579_583> a nif:Word ;
+    nif:anchorOf "otra" ;
+    nif:beginIndex "579" ;
+    nif:endIndex "583" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_584_592> a nif:Word ;
+    nif:anchorOf "superior" ;
+    nif:beginIndex "584" ;
+    nif:endIndex "592" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_593_602> a nif:Word ;
+    nif:anchorOf "masculina" ;
+    nif:beginIndex "593" ;
+    nif:endIndex "602" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_604_610> a nif:Word ;
+    nif:anchorOf "Glumas" ;
+    nif:beginIndex "604" ;
+    nif:endIndex "610" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_611_614> a nif:Word ;
+    nif:anchorOf "más" ;
+    nif:beginIndex "611" ;
+    nif:endIndex "614" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_615_621> a nif:Word ;
+    nif:anchorOf "largas" ;
+    nif:beginIndex "615" ;
+    nif:endIndex "621" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_622_625> a nif:Word ;
+    nif:anchorOf "que" ;
+    nif:beginIndex "622" ;
+    nif:endIndex "625" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_626_629> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "626" ;
+    nif:endIndex "629" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_630_636> a nif:Word ;
+    nif:anchorOf "flores" ;
+    nif:beginIndex "630" ;
+    nif:endIndex "636" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_638_640> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "638" ;
+    nif:endIndex "640" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_641_649> a nif:Word ;
+    nif:anchorOf "inferior" ;
+    nif:beginIndex "641" ;
+    nif:endIndex "649" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_650_653> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "650" ;
+    nif:endIndex "653" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_654_655> a nif:Word ;
+    nif:anchorOf "7" ;
+    nif:beginIndex "654" ;
+    nif:endIndex "655" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_656_658> a nif:Word ;
+    nif:anchorOf "11" ;
+    nif:beginIndex "656" ;
+    nif:endIndex "658" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_659_666> a nif:Word ;
+    nif:anchorOf "nervios" ;
+    nif:beginIndex "659" ;
+    nif:endIndex "666" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_65_67> a nif:Word ;
+    nif:anchorOf "Es" ;
+    nif:beginIndex "65" ;
+    nif:endIndex "67" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_667_668> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "667" ;
+    nif:endIndex "668" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_669_670> a nif:Word ;
+    nif:anchorOf "2" ;
+    nif:beginIndex "669" ;
+    nif:endIndex "670" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_671_678> a nif:Word ;
+    nif:anchorOf "quillas" ;
+    nif:beginIndex "671" ;
+    nif:endIndex "678" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_680_682> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "680" ;
+    nif:endIndex "682" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_683_691> a nif:Word ;
+    nif:anchorOf "superior" ;
+    nif:beginIndex "683" ;
+    nif:endIndex "691" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_68_78> a nif:Word ;
+    nif:anchorOf "originario" ;
+    nif:beginIndex "68" ;
+    nif:endIndex "78" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_692_702> a nif:Word ;
+    nif:anchorOf "trinervada" ;
+    nif:beginIndex "692" ;
+    nif:endIndex "702" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_704_708> a nif:Word ;
+    nif:anchorOf "Lema" ;
+    nif:beginIndex "704" ;
+    nif:endIndex "708" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_709_711> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "709" ;
+    nif:endIndex "711" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_712_715> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "712" ;
+    nif:endIndex "715" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_716_722> a nif:Word ;
+    nif:anchorOf "flores" ;
+    nif:beginIndex "716" ;
+    nif:endIndex "722" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_723_736> a nif:Word ;
+    nif:anchorOf "hermafroditas" ;
+    nif:beginIndex "723" ;
+    nif:endIndex "736" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_737_740> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "737" ;
+    nif:endIndex "740" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_741_742> a nif:Word ;
+    nif:anchorOf "1" ;
+    nif:beginIndex "741" ;
+    nif:endIndex "742" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_743_749> a nif:Word ;
+    nif:anchorOf "arista" ;
+    nif:beginIndex "743" ;
+    nif:endIndex "749" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_750_758> a nif:Word ;
+    nif:anchorOf "terminal" ;
+    nif:beginIndex "750" ;
+    nif:endIndex "758" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_759_764> a nif:Word ;
+    nif:anchorOf "larga" ;
+    nif:beginIndex "759" ;
+    nif:endIndex "764" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_765_766> a nif:Word ;
+    nif:anchorOf "y" ;
+    nif:beginIndex "765" ;
+    nif:endIndex "766" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_767_777> a nif:Word ;
+    nif:anchorOf "geniculada" ;
+    nif:beginIndex "767" ;
+    nif:endIndex "777" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_779_781> a nif:Word ;
+    nif:anchorOf "la" ;
+    nif:beginIndex "779" ;
+    nif:endIndex "781" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_782_784> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "782" ;
+    nif:endIndex "784" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_785_788> a nif:Word ;
+    nif:anchorOf "las" ;
+    nif:beginIndex "785" ;
+    nif:endIndex "788" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_789_795> a nif:Word ;
+    nif:anchorOf "flores" ;
+    nif:beginIndex "789" ;
+    nif:endIndex "795" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_796_806> a nif:Word ;
+    nif:anchorOf "masculinas" ;
+    nif:beginIndex "796" ;
+    nif:endIndex "806" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_79_82> a nif:Word ;
+    nif:anchorOf "del" ;
+    nif:beginIndex "79" ;
+    nif:endIndex "82" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_807_810> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "807" ;
+    nif:endIndex "810" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_811_812> a nif:Word ;
+    nif:anchorOf "1" ;
+    nif:beginIndex "811" ;
+    nif:endIndex "812" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_813_819> a nif:Word ;
+    nif:anchorOf "arista" ;
+    nif:beginIndex "813" ;
+    nif:endIndex "819" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_820_828> a nif:Word ;
+    nif:anchorOf "terminal" ;
+    nif:beginIndex "820" ;
+    nif:endIndex "828" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_829_834> a nif:Word ;
+    nif:anchorOf "corta" ;
+    nif:beginIndex "829" ;
+    nif:endIndex "834" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_836_841> a nif:Word ;
+    nif:anchorOf "Pálea" ;
+    nif:beginIndex "836" ;
+    nif:endIndex "841" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_83_87> a nif:Word ;
+    nif:anchorOf "este" ;
+    nif:beginIndex "83" ;
+    nif:endIndex "87" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_842_845> a nif:Word ;
+    nif:anchorOf "muy" ;
+    nif:beginIndex "842" ;
+    nif:endIndex "845" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_846_854> a nif:Word ;
+    nif:anchorOf "reducida" ;
+    nif:beginIndex "846" ;
+    nif:endIndex "854" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_856_865> a nif:Word ;
+    nif:anchorOf "Lodículas" ;
+    nif:beginIndex "856" ;
+    nif:endIndex "865" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_866_873> a nif:Word ;
+    nif:anchorOf "glabras" ;
+    nif:beginIndex "866" ;
+    nif:endIndex "873" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_875_883> a nif:Word ;
+    nif:anchorOf "Androceo" ;
+    nif:beginIndex "875" ;
+    nif:endIndex "883" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_884_887> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "884" ;
+    nif:endIndex "887" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_888_889> a nif:Word ;
+    nif:anchorOf "3" ;
+    nif:beginIndex "888" ;
+    nif:endIndex "889" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_88_90> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "88" ;
+    nif:endIndex "90" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_890_899> a nif:Word ;
+    nif:anchorOf "estambres" ;
+    nif:beginIndex "890" ;
+    nif:endIndex "899" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_901_910> a nif:Word ;
+    nif:anchorOf "Cariopsis" ;
+    nif:beginIndex "901" ;
+    nif:endIndex "910" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_911_914> a nif:Word ;
+    nif:anchorOf "con" ;
+    nif:beginIndex "911" ;
+    nif:endIndex "914" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_915_922> a nif:Word ;
+    nif:anchorOf "embrión" ;
+    nif:beginIndex "915" ;
+    nif:endIndex "922" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_91_94> a nif:Word ;
+    nif:anchorOf "los" ;
+    nif:beginIndex "91" ;
+    nif:endIndex "94" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_923_925> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "923" ;
+    nif:endIndex "925" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_926_928> a nif:Word ;
+    nif:anchorOf "c." ;
+    nif:beginIndex "926" ;
+    nif:endIndex "928" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_929_932> a nif:Word ;
+    nif:anchorOf "2/5" ;
+    nif:beginIndex "929" ;
+    nif:endIndex "932" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_933_935> a nif:Word ;
+    nif:anchorOf "de" ;
+    nif:beginIndex "933" ;
+    nif:endIndex "935" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_936_938> a nif:Word ;
+    nif:anchorOf "su" ;
+    nif:beginIndex "936" ;
+    nif:endIndex "938" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_939_947> a nif:Word ;
+    nif:anchorOf "longitud" ;
+    nif:beginIndex "939" ;
+    nif:endIndex "947" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_948_950> a nif:Word ;
+    nif:anchorOf """
+
+""" ;
+    nif:beginIndex "948" ;
+    nif:endIndex "950" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_950_959> a nif:Word ;
+    nif:anchorOf "Taxonomía" ;
+    nif:beginIndex "950" ;
+    nif:endIndex "959" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_959_960> a nif:Word ;
+    nif:anchorOf """
+""" ;
+    nif:beginIndex "959" ;
+    nif:endIndex "960" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_95_102> a nif:Word ;
+    nif:anchorOf "Estados" ;
+    nif:beginIndex "95" ;
+    nif:endIndex "102" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_960_962> a nif:Word ;
+    nif:anchorOf "El" ;
+    nif:beginIndex "960" ;
+    nif:endIndex "962" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_963_969> a nif:Word ;
+    nif:anchorOf "género" ;
+    nif:beginIndex "963" ;
+    nif:endIndex "969" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_970_973> a nif:Word ;
+    nif:anchorOf "fue" ;
+    nif:beginIndex "970" ;
+    nif:endIndex "973" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_974_982> a nif:Word ;
+    nif:anchorOf "descrito" ;
+    nif:beginIndex "974" ;
+    nif:endIndex "982" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_983_986> a nif:Word ;
+    nif:anchorOf "por" ;
+    nif:beginIndex "983" ;
+    nif:endIndex "986" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_987_993> a nif:Word ;
+    nif:anchorOf "Carlos" ;
+    nif:beginIndex "987" ;
+    nif:endIndex "993" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=word_offset_994_1000> a nif:Word ;
+    nif:anchorOf "Linneo" ;
+    nif:beginIndex "994" ;
+    nif:endIndex "1000" ;
+    nif:referenceContext <http://dbpedia.org/resource/Andropogon?dbpv=2016-10&nif=context> .
+
