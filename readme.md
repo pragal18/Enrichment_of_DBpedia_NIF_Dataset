@@ -40,7 +40,7 @@ chmod +x run.sh
 chmod +x separate_scripts.sh
 ```
  ## STEP 3:
-Run the 'separate_script.sh' with an argument -p specifying the path where **NIF context** file is stored in the system. The result will be saved in 'Files/Input-language_name' directory. 
+Run the 'separate_script.sh' with an argument -p specifying the path where **NIF context** file is stored in the system. The result of "Separation of Wikipedia articles" task will be saved in 'Files/Input-language_name' directory. 
  - Positional argument:  
 &nbsp; &nbsp; -p PATH,  
 &nbsp; &nbsp;  Specify the location to downloaded nif-context file. 
@@ -62,7 +62,7 @@ __Examples__
 ```
 Extracts the article Apocopis in Spanish Language and stores in Files/Inputes folder
 
-Similarly for performing Links NLP task, Run the 'separate_script.sh' again with an argument -p specifying the path where **NIF Text Links** file is stored in the system. The result will be saved in CSV format at 'Files/LinkDataset<language>_with_duplicates.csv'. 
+Similarly for performing Links Enhancement NLP task, Run the 'separate_script.sh' again with an argument -p specifying the path where **NIF Text Links** file is stored in the system. The result of "Surface forms analysis" task will be stored in a CSV file saved at 'Files/LinkDataset-languagename_with_duplicates.csv'. 
 ```sh
 ./separate_scripts.sh -p F:/Master_thesis/nif_text_links_fr.ttl
 ```
@@ -72,7 +72,7 @@ This might contain duplicate records. So just to speed up the NLP task, you shou
 ```sh
 python scripts/preprocessing_scripts/LinkDataset_remove_duplicates.py
 ```
-Duplicates are removed and result is stored at Files/LinkDataset<lang>.csv
+Duplicates are removed and result is stored at Files/LinkDataset-languagename.csv
 
 
 ## STEP 4:
