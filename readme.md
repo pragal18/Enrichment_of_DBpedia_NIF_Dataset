@@ -111,7 +111,7 @@ Specify en, de, fr, es or ja. (Default: en)
 ```
 Performs Sentence splitting on 100 English articles through NLTK
 ```sh
-- ./run.sh -t ALL -s Apollos 
+./run.sh -t ALL -s Apollos 
 ```
 Performs all 4 NLP tasks for the article Apollos
 ```sh
@@ -119,7 +119,7 @@ Performs all 4 NLP tasks for the article Apollos
 ```
 Performs Tokenisation on 100 German articles through TextBlob
 ```sh
-- ./run.sh -t POS -n 10 -l es -e SIO 
+./run.sh -t POS -n 10 -l es -e SIO 
 ```
 Performs Part-of-Speech tagging for 10 Spanish articles through SpacyIO
 ```sh
