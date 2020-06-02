@@ -1,6 +1,6 @@
 # Enrichment of DBpedia NIF Dataset
 
-[![Build Status](https://github.com/pragal18/Enrichment_of_DBpedia_NIF_Dataset/blob/master/readme.md)](https://alfresco.fit.cvut.cz/share/proxy/alfresco/api/node/content/workspace/SpacesStore/9bc256c6-4881-4990-a49f-6ced5f9222ef)
+[![Build Status](https://github.com/pragal18/Enrichment_of_DBpedia_NIF_Dataset/blob/master/readme.md)](https://travis-ci.org/joemccann/dillinger)
 
 Enrichment of DBpedia NIF Dataset is a compilation of Python3 and Shell scripts that enables to perform various Natural Language Processing tasks on wikipedia on normal off-the-shelf hardware (e.g., a quad-core CPU, 8 GB of main memory, and 250 GB hard disk 
 storage). 
