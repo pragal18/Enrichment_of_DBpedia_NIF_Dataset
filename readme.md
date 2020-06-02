@@ -27,7 +27,7 @@ Download the NIF Context file from https://wiki.dbpedia.org/downloads-2016-10 in
  - Japanese (nif_context_ja.ttl). \
 Download the language(s) that is required for you. Extract them after downloading. A minimal version of these files are created and are stored on NIF_Dataset_Minimal_Version at home directory of this project.
  
-Similarly download NIF Text Links file from the https://wiki.dbpedia.org/downloads-2016-10 in TTL format for any of the above mentioned languages. Extract it after downloading. NIF Text Links file is required only if you would like to perform the 'enhancement of links' NLP task. The minimal version is stored at NIF_Dataset_Minimal_Version directory. 
+Similarly download NIF Text Links file from the https://wiki.dbpedia.org/downloads-2016-10 in TTL format for any of the above mentioned languages. Extract it after downloading. NIF Text Links file is required only if you would like to perform the 'enhancement of links' NLP task. The minimal version of these datasets are stored at 'NIF_Dataset_Minimal_Version/' directory. 
 
 
  ## STEP 2:
@@ -40,7 +40,7 @@ chmod +x run.sh
 chmod +x separate_scripts.sh
 ```
  ## STEP 3:
-Run the separate_script.sh with an argument -p specifying the path where **NIF context** file is stored in the system. The result will be saved in Files/Input<language> directory. 
+Run the 'separate_script.sh' with an argument -p specifying the path where **NIF context** file is stored in the system. The result will be saved in 'Files/Input-language_name' directory. 
  - Positional argument:  
 &nbsp; &nbsp; -p PATH,  
 &nbsp; &nbsp;  Specify the location to downloaded nif-context file. 
